@@ -1,0 +1,306 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .logo a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  nav {
+    float: right;
+    margin-top: 8px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  nav a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #f58220;
+  }
+  
+  .hero {
+    background-image: url('https://www.cntravellerme.com/assets/CNT-me_Banner__web_3-2.jpg');
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 200px 0;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #f58220;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e5670b;
+  }
+  
+  .featured-destinations {
+    padding: 80px 0;
+  }
+  
+  .featured-destinations h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .destination-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .destination {
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+  
+  .destination img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .destination h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .destination p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .destination a {
+    display: block;
+    background-color: #f58220;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .destination a:hover {
+    background-color: #e5670b;
+  }
+  
+  /* Conde Nast Style */
+  
+  body {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0;
+    border-bottom: 1px solid #d8d8d8;
+  }
+  
+  .logo {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #333;
+    margin-left: 16px;
+  }
+  
+  .nav-link {
+    color: #666;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 24px;
+  }
+  
+  .nav-link:hover {
+    color: #333;
+  }
+  
+  .hero {
+    height: 1000px;
+    background-image: url("https://www.melbicom.net/files/611/4dd010e128/singapore-4911078_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .hero-title {
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 16px;
+  }
+  
+  .hero-desc {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 24px;
+  }
+  
+  .btn-primary {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #d9272e;
+    text-align: center;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #b3161d;
+  }
+  
+  .featured-destinations {
+    padding: 80px 0;
+    background-color: #f6f6f6;
+  }
+  
+  .destinations-title {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  
+  .destination-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .destination {
+    width: 100%;
+    max-width: 370px;
+    margin-bottom: 40px;
+  }
+  
+  .destination img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .destination-info {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .destination h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .destination p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .destination a {
+    display: block;
+    background-color: #d9272e;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .destination a:hover {
+    background-color: #b3161d;
+  }
+  
+  
+    
