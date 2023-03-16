@@ -105,7 +105,7 @@
   }
   
   .hero h1 {
-    font-size: 48px;
+    font-size: 60px;
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -218,15 +218,15 @@
     padding: 10px;
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
-    font-weight: 700;
+    font-weight: 2500;
     text-transform: uppercase;
     letter-spacing: 0px;
-    color: #333;
+    color: #ffffff;
     margin-left: 16px;
   }
   
   .nav-link {
-    color: #666;
+    color: #ffffff;
     text-decoration: none;
     font-size: 16px;
     font-weight: 400;
@@ -246,7 +246,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
   }
   
   .hero-title {
