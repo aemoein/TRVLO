@@ -18,7 +18,7 @@
     color: #333;
   }
   
-  .container {
+  .container-hero {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
@@ -197,7 +197,7 @@
     background-color: #fff;
   }
   
-  .container {
+  .container-des {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
@@ -267,7 +267,7 @@
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #d9272e;
+    background-color: #e5670b;
     text-align: center;
     text-decoration: none;
     padding: 12px 24px;
@@ -276,7 +276,7 @@
   }
   
   .btn-primary:hover {
-    background-color: #b3161d;
+    background-color: #e5670b;
   }
   
   .featured-destinations {
@@ -330,7 +330,7 @@
   
   .destination a {
     display: block;
-    background-color: #d9272e;
+    background-color: #e5670b;
     color: #fff;
     text-decoration: none;
     font-size: 18px;
@@ -344,6 +344,41 @@
   .destination a:hover {
     background-color: #b3161d;
   }
+
+  .image-menu {
+    display: flex;
+    align-items: center;
+  }
+  
+  .arrow {
+    font-size: 4em;
+    cursor: pointer;
+    color: #e5670b;
+  }
+  
+  .left-arrow {
+    margin-right: 0.2em;
+    margin-left: 0.2em;
+  }
+
+  .right-arrow {
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+  }
+  
+  .image-container {
+    overflow-x: scroll;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    flex-grow: 1;
+    padding: 0 1em;
+  }
+  
+  img {
+    max-width: 90%;
+    height: auto;
+  }  
   
   
     
