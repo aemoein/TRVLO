@@ -10,6 +10,8 @@
     font-weight: 400;
     src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
   }
+
+
   
   body {
     font-family: 'Helvetica Neue', sans-serif;
@@ -32,40 +34,6 @@
     background: transparent;
     color: transparent;
     padding: 0 px;
-/*
-    background-color: #fff;
-    padding: 20px 0;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1); */
-  }
-
-  .menu {
-    display: none;
-  }
-  
-  .menu.active {
-    display: block;
-  }
-  
-  .menu ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .menu li {
-    margin: 10px 0;
-  }
-  
-  .menu a {
-    color: #fff;
-    text-decoration: none;
-  }
-  
-  .logo {
-    font-size: 24px;
-    box-align: left;
-    font-weight: bold;
-    text-transform: uppercase;
   }
   
   .logo a {
@@ -97,11 +65,15 @@
   }
   
   .hero {
-    background-image: url('https://media.cntraveler.com/photos/5eb41692e1082306007a1d87/master/w_1600%2Cc_limit/Antelope-Canyon-GettyImages-162813219.jpg');
-    background-position: center;
+    height: 1000px;
+    background-image: url("https://wallpapercave.com/wp/wp4854969.jpg");
     background-size: cover;
-    color: #fff;
-    padding: 200px 0;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
   }
   
   .hero h1 {
@@ -128,62 +100,6 @@
   }
   
   .btn:hover {
-    background-color: #e5670b;
-  }
-  
-  .featured-destinations {
-    padding: 80px 0;
-  }
-  
-  .featured-destinations h2 {
-    font-size: 36px;
-    font-weight: bold;
-    margin-bottom: 40px;
-    text-align: center;
-  }
-  
-  .destination-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .destination {
-    width: calc(50% - 10px);
-    margin-bottom: 20px;
-  }
-  
-  .destination img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-  }
-  
-  .destination h3 {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .destination p {
-    font-size: 16px;
-    margin-bottom: 20px;
-  }
-  
-  .destination a {
-    display: block;
-    background-color: #f58220;
-    color: #fff;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 10px 20px;
-    border-radius: 4px;
-    transition: background-color 0.2s ease;
-    text-align: center;
-    margin-top: 20px;
-  }
-  
-  .destination a:hover {
     background-color: #e5670b;
   }
   
@@ -219,69 +135,27 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0px;
     color: #ffffff;
     margin-left: 16px;
   }
   
-  .nav-link {
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: 400;
-    margin-left: 24px;
-  }
-  
-  .nav-link:hover {
-    color: #333;
-  }
-  
-  .hero {
-    height: 1000px;
-    background-image: url("https://wallpapercave.com/wp/wp4854969.jpg");
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: #ffffff;
-  }
-  
-  .hero-title {
-    font-size: 50px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-bottom: 16px;
-  }
-  
-  .hero-desc {
-    font-size: 24px;
-    font-weight: 400;
-    margin-bottom: 24px;
-  }
-  
-  .btn-primary {
-    display: inline-block;
-    font-size: 18px;
-    font-weight: 700;
-    color: #fff;
-    background-color: #e5670b;
-    text-align: center;
-    text-decoration: none;
-    padding: 12px 24px;
-    border-radius: 8px;
-    transition: background-color 0.3s ease;
-  }
-  
-  .btn-primary:hover {
-    background-color: #e5670b;
-  }
-  
   .featured-destinations {
     padding: 80px 0;
     background-color: #f6f6f6;
+  }
+
+  .featured-destinations h2 {
+    margin-left: 60px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
   }
   
   .destinations-title {
@@ -297,15 +171,16 @@
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  
+
   .destination {
     width: 100%;
-    max-width: 370px;
+    min-width: 50%;
+    max-width: 50%;
     margin-bottom: 40px;
   }
   
   .destination img {
-    width: 100%;
+    width: 120%;
     height: auto;
     border-radius: 8px;
   }
@@ -345,6 +220,7 @@
     background-color: #b3161d;
   }
 
+  /* Image Slide */
   .image-menu {
     display: flex;
     align-items: center;
@@ -376,9 +252,19 @@
   }
   
   img {
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
-  }  
+  } 
+  
+  .Experience-Nature h2 {
+    margin-left: 60px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
   
   
     
