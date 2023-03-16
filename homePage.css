@@ -4,11 +4,23 @@
     padding: 0;
   }
 
+  /* Import the San Francisco font from Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap);
+
+/* Apply the San Francisco font to your desired elements */
+
   @font-face {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
     src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+  }
+
+  @font-face {
+    font-family: 'sans-serif';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap) format('truetype');
   }
   
   body {
@@ -41,7 +53,7 @@
   
   nav {
     float: right;
-    margin-top: 8px;
+    margin-top: 18px;
   }
   
   nav ul {
@@ -50,12 +62,14 @@
   
   nav li {
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 40px;
   }
   
   nav a {
     color: #333;
     text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
   }
   
   nav a:hover {
@@ -130,8 +144,8 @@
     left: 0;
     height: 100%; /* Set the height of the logo to match the height of the header */
     padding: 10px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
+    font-family: 'San Francisco', sans-serif;
+    font-size: 50px;
     font-weight: 2500;
     box-align: left;
     font-weight: bold;
@@ -159,6 +173,7 @@
   
   .destinations-title {
     font-size: 32px;
+    font-family: 'San Francisco', sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
     text-align: center;
@@ -187,6 +202,7 @@
   
   .destination-info {
     padding: 20px;
+    font-family: 'San Francisco', sans-serif;
     background-color: #fff;
     border-radius: 0 0 8px 8px;
     box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
@@ -253,11 +269,12 @@
   
   .subtitle1 {
     padding: 20px;
-    background-color: #557a95;
-    color: #FF623B;
+    background-color: #e7717d;
+    color: #ffffff;
   }
 
   .subtitle1 h2 {
+    font-family: 'San Francisco', sans-serif;
     margin-left: 40px;
     font-size: 40px;
     font-weight: 2500;
@@ -281,4 +298,44 @@
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0px;
+  }
+
+  .subtitle3 {
+    padding: 10px;
+    background-color: #333;
+  }
+
+  .subtitle3 h2 {
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #ffffff;
+  }
+
+  .subtitle3 h3 {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #afd275;
+  }
+
+  .subtitle3 h4 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #009DC4;
   }
