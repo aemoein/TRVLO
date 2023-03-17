@@ -1,0 +1,517 @@
+/* Global styles */
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Import the San Francisco font from Google Fonts */
+  @import url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap);
+  
+  /* Apply the San Francisco font to your desired elements */
+  
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'sans-serif';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap) format('truetype');
+  }
+  
+  body {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  .container-hero {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    align-items: bottom;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    background: transparent;
+    color: transparent;
+    padding: 0 px;
+  }
+  
+  .logo a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  nav {
+    float: right;
+    margin-top: 18px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 40px;
+  }
+  
+  nav a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  nav a:hover {
+    color: #f58220;
+  }
+  
+  .hero {
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    justify-content: left;
+    align-items: last baseline;
+    text-align: bottom;
+    display: flex;
+    color: #f2f2f2;
+    padding: 50px;
+  }
+  
+  .hero h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+  }
+  
+  .hero p {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #f58220;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    align-items: right;
+  }
+  
+  .btn:hover {
+    background-color: #e5670b;
+  }
+  
+  /* Conde Nast Style */
+  
+  body {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .container-des {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    align-items: top;
+  }
+  
+  header {
+    position: absolute;
+    top: 28px;
+    left: 250px;
+  }
+  
+  .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%; /* Set the height of the logo to match the height of the header */
+    padding: 10px;
+    font-family: 'San Francisco', sans-serif;
+    font-size: 50px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #ffffff;
+    margin-left: 16px;
+  }
+  
+  .featured-destinations h2 {
+    margin-left: 60px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .destinations-title {
+    font-size: 45px;
+    font-family: 'San Francisco', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  
+  .destination-list {
+    padding: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+  .destination {
+    width: 100%;
+    min-width: 50%;
+    max-width: 50%;
+    margin-bottom: 40px;
+    max-height: 100%;
+    padding: 10px;
+  }
+  
+  .destination img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .destination-info {
+    padding: 20px;
+    font-family: 'San Francisco', sans-serif;
+    background-color: #fff;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .destination h3 {
+    font-size: 30px;
+    font-family: 'San Francisco', sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .destination p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .destination a {
+    display: block;
+    background-color: #e5670b;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .destination a:hover {
+    background-color: #b3161d;
+  }
+  
+  /* Image Slide */
+  .image-menu {
+    display: flex;
+    align-items: center;
+  }
+  
+  .arrow {
+    font-size: 4em;
+    cursor: pointer;
+    color: #e5670b;
+  }
+  
+  .left-arrow {
+    margin-right: 0.2em;
+    margin-left: 0.2em;
+  }
+  
+  .right-arrow {
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+  }
+  
+  .image-container {
+    overflow-x: scroll;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    flex-grow: 1;
+    padding: 0 1em;
+  }
+  
+  .subtitle1 {
+    padding: 20px;
+    background-color: #e7717d;
+    color: #ffffff;
+  }
+  
+  .subtitle1 h2 {
+    font-family: 'San Francisco', sans-serif;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle2 {
+    padding: 20px;
+    background-color: #afd275;
+    color: #ffffff;
+  }
+  
+  .subtitle2 h2 {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle2 div {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle3 {
+    padding: 10px;
+    background-color: #333;
+  }
+  
+  .subtitle3 h2 {
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #ffffff;
+  }
+  
+  .subtitle3 h3 {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #afd275;
+  }
+  
+  .subtitle3 h4 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #009DC4;
+  }
+  
+  .search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 12px 20px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    background: transparent;
+    color: transparent;
+    padding: 0 px;
+  }
+
+  
+  body {
+    height: 100%;
+  }
+  
+  body {
+    background-color: #f2f2f2;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  main {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-weight: bold;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    margin-bottom: 1.5rem;
+  }
+  
+  a {
+    color: #0077c2;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .grid {
+    display: grid;
+    gap: 2rem;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card h3 {
+    font-size: 1.25rem;
+    margin: 1rem;
+  }
+  
+  .card p {
+    margin: 1rem;
+  }
+  
+  #header {
+    background-color: #0077c2;
+    color: #fff;
+    padding: 1rem 2rem;
+  }
+  
+  #header h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  #footer {
+    background-color: #eee;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  #footer h3 {
+    margin-bottom: 1rem;
+  }
+  
+  #footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #footer li {
+    margin-bottom: 0.5rem;
+  }
+  
+  @media (min-width: 768px) {
+    .grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
