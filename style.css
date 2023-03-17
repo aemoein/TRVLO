@@ -298,6 +298,16 @@ header {
   letter-spacing: 0px;
 }
 
+.subtitle2 div {
+  margin-left: 40px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+}
+
 .subtitle3 {
   padding: 10px;
   background-color: #333;
