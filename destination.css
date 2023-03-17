@@ -47,7 +47,7 @@ header {
 }
 
 .logo a {
-  color: #333;
+  color: whitesmoke;
   text-decoration: none;
 }
 
@@ -66,7 +66,7 @@ nav li {
 }
 
 nav a {
-  color: #333;
+  color: whitesmoke;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
@@ -78,7 +78,7 @@ nav a:hover {
 
 .hero {
   height: 1000px;
-  background-image: url("https://wallpapercave.com/wp/wp4854969.jpg");
+  background-image: url("https://wallpapercave.com/dwp2x/wp3528296.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
