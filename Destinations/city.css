@@ -506,10 +506,6 @@
     text-decoration: none;
   }
   
-  a:hover {
-    text-decoration: underline;
-  }
-  
   .grid {
     display: grid;
     gap: 2rem;
