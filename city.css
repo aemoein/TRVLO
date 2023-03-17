@@ -32,7 +32,7 @@
   }
   
   body {
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #333;
@@ -55,8 +55,9 @@
   }
   
   .logo a {
-    color: #333;
+    color: #f2f2f2;
     text-decoration: none;
+    font-weight: bold;
   }
   
   nav {
@@ -74,7 +75,7 @@
   }
   
   nav a {
-    color: #333;
+    color: #f2f2f2;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -85,15 +86,14 @@
   }
   
   .hero {
-    height: 600px;
+    height: 700px;
     background-size: cover;
     background-position: center;
     justify-content: left;
     align-items: last baseline;
     text-align: bottom;
     display: flex;
-    color: #f2f2f2;
-    padding: 50px;
+    color: #0077c2;
   }
   
   .hero h1 {
@@ -105,6 +105,20 @@
     justify-content: left;
     align-items: center;
     text-align: left;
+  }
+
+  .hero-contain {
+    background-color: #f2f2f2;
+    width: auto;
+    height: 90px;
+  }
+
+  .hero-contain h1 {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 120px;
+    padding-bottom: 20px;
   }
   
   .hero p {
@@ -128,16 +142,71 @@
     background-color: #e5670b;
   }
   
-  /* Conde Nast Style */
+  /* Body Style */
   
   body {
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #333;
     background-color: #fff;
   }
+
+
+
+  /* The Main New Styles */
+  .info {
+    margin-top: 50px;
+  }
+
+  .info p {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+  }
+
+  .facts{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+  }
+
+  h2{
+    font-family: 'Trebuchet MS', sans-serif;
+    margin-top: 20px ;
+    margin-bottom: 10px ;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0077c2;
+  }
+
+  p{
+    font-family: 'Trebuchet MS', sans-serif;
+  }
+
+  .facts p{
+    margin-left: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+  }
+
+  .facts strong{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+  }
+
+  .climate p{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+  }
+
+  h3 {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+  }
   
+
+
+
+
   .container-des {
     max-width: 1200px;
     margin: 0 auto;
@@ -157,7 +226,6 @@
     left: 0;
     height: 100%; /* Set the height of the logo to match the height of the header */
     padding: 10px;
-    font-family: 'San Francisco', sans-serif;
     font-size: 50px;
     font-weight: 2500;
     box-align: left;
@@ -425,18 +493,7 @@
     font-weight: bold;
   }
   
-  h1 {
-    font-size: 3rem;
-    margin-bottom: 2rem;
-  }
-  
-  h2 {
-    font-size: 2rem;
-    margin-bottom: 1.5rem;
-  }
-  
   h3 {
-    font-size: 1.5rem;
     margin-bottom: 1rem;
   }
   
@@ -472,8 +529,9 @@
   }
   
   .card h3 {
-    font-size: 1.25rem;
+    font-size: 30px;
     margin: 1rem;
+    color: #0077c2;
   }
   
   .card p {
