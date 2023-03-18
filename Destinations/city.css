@@ -55,12 +55,14 @@
   }
   
   .logo a {
+    font-family: 'Trebuchet MS', sans-serif;
     color: #f2f2f2;
     text-decoration: none;
     font-weight: bold;
   }
   
   nav {
+    font-family: 'Trebuchet MS', sans-serif;
     float: right;
     margin-top: 18px;
   }
@@ -75,6 +77,7 @@
   }
   
   nav a {
+    font-family: 'Trebuchet MS', sans-serif;
     color: #f2f2f2;
     text-decoration: none;
     font-weight: bold;
@@ -87,6 +90,7 @@
   
   .hero {
     height: 700px;
+    font-family: 'Trebuchet MS', sans-serif;
     background-size: cover;
     background-position: center;
     justify-content: left;
@@ -97,7 +101,7 @@
   }
   
   .hero h1 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     font-size: 60px;
     font-weight: bold;
     margin-bottom: 10px;
