@@ -24,7 +24,7 @@
 }
 
 body {
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #333;
@@ -77,9 +77,10 @@ nav a:hover {
 }
 
 .hero {
-  height: 1000px;
+  height: 800px;
   background-image: url("https://wallpapercave.com/dwp2x/wp3528296.jpg");
   background-size: cover;
+  font-family: 'Trebuchet MS', sans-serif;
   background-position: center;
   display: flex;
   justify-content: center;
@@ -89,22 +90,24 @@ nav a:hover {
 }
 
 .hero h1 {
-  font-size: 60px;
+  font-size: 90px;
   font-weight: bold;
-  text-transform: uppercase;
+  font-family: 'Trebuchet MS', sans-serif;
   margin-bottom: 20px;
 }
 
 .hero p {
   font-size: 24px;
+  font-family: 'Trebuchet MS', sans-serif;
   margin-bottom: 40px;
 }
 
 .btn {
   display: inline-block;
-  background-color: #f58220;
+  background-color: #0077c2;
   color: #ffffff;
   text-decoration: none;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 18px;
   padding: 10px 20px;
   border-radius: 4px;
@@ -112,13 +115,13 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #e5670b;
+  background-color: #005388;
 }
 
 /* Conde Nast Style */
 
 body {
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #333;
@@ -126,7 +129,7 @@ body {
 }
 
 .container-des {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 20px;
   align-items: top;
@@ -144,7 +147,7 @@ header {
   left: 0;
   height: 100%; /* Set the height of the logo to match the height of the header */
   padding: 10px;
-  font-family: 'San Francisco', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 50px;
   font-weight: 2500;
   box-align: left;
@@ -167,7 +170,7 @@ header {
 
 .destinations-title {
   font-size: 45px;
-  font-family: 'San Francisco', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
   text-align: center;
@@ -201,7 +204,7 @@ header {
 
 .destination-info {
   padding: 20px;
-  font-family: 'San Francisco', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   background-color: #fff;
   border-radius: 0 0 8px 8px;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
@@ -209,7 +212,7 @@ header {
 
 .destination h3 {
   font-size: 30px;
-  font-family: 'San Francisco', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-weight: bold;
   margin-bottom: 10px;
 }
@@ -221,7 +224,7 @@ header {
 
 .destination a {
   display: block;
-  background-color: #e5670b;
+  background-color: #0077c2;
   color: #fff;
   text-decoration: none;
   font-size: 18px;
@@ -233,7 +236,7 @@ header {
 }
 
 .destination a:hover {
-  background-color: #b3161d;
+  background-color: #005388;
 }
 
 /* Image Slide */
@@ -269,12 +272,12 @@ header {
 
 .subtitle1 {
   padding: 20px;
-  background-color: #e7717d;
+  background-color: #0077c2;
   color: #ffffff;
 }
 
 .subtitle1 h2 {
-  font-family: 'San Francisco', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   margin-left: 40px;
   font-size: 40px;
   font-weight: 2500;
@@ -285,26 +288,29 @@ header {
 }
 
 .subtitle2 {
+  display: flex;
   padding: 20px;
-  background-color: #afd275;
+  background-color: #0077c2;
   color: #ffffff;
 }
 
 .subtitle2 h2 {
   margin-left: 40px;
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 2500;
   box-align: left;
   font-weight: bold;
-  text-transform: uppercase;
   letter-spacing: 0px;
+  width: 600px;
 }
 
 .subtitle2 div {
-  margin-left: 40px;
+  margin-left: 50px;
+  margin-top: 10px;
   font-size: 40px;
   font-weight: 2500;
-  box-align: left;
+  box-align: right;
+  justify-content: right;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0px;
@@ -335,7 +341,7 @@ header {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0px;
-  color: #afd275;
+  color: #0077c2;
 }
 
 .subtitle3 h4 {
@@ -352,7 +358,8 @@ header {
 
 .search-container {
   display: flex;
-  justify-content: center;
+  align-items: right;
+  justify-content: right;
   margin-bottom: 20px;
 }
 
@@ -367,7 +374,7 @@ input[type="text"] {
 }
 
 button {
-  background-color: #4CAF50;
+  background-color: #005388;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -376,5 +383,5 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #005388;
 }
