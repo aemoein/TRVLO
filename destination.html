@@ -1,441 +1,693 @@
+<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <title>Travelio</title>
-  <link rel="stylesheet" href="destination.css">
+  <link rel="stylesheet" href="destinationsNew.css">
   <script src="destination.js"></script>
 </head>
 
-<section class="hero">
-<div class="logo">
-  <a href="homePage.html">Travelio</a>
-</div>
-
-<header>
-  <div class="container">
-  <nav>
-      <ul>
-      <li><a href="destination.html">DESTINATIONS</a></li>
-      <li><a href="#">POPULAR</a></li>
-      <li><a href="#">EVENTS</a></li>
-      <li><a href="#">CATEGORIES</a></li>
-      <li><a href="#">CHALLENGES</a></li>
-      </ul>
-  </nav>
-  </div>
-</header>
-
-<div class="container">
-  <h1 class = "hero-title">Experience the World</h1>
-  <p class = "hero-desc">Discover new places and create unforgettable memories.</p>
-  <a href="destination.html" class="btn">Explore Destinations</a>
-</div>
-</section>
-
-<section class="subtitle2">
-  <h2>Featured Destinations</h2>
-
-  <div class="search-container">
-    <input type="text" placeholder="Search for a city" id="search-bar">
-      <button onclick="searchCities()">Search</button>
+<body>
+  <section class="hero">
+    <div class="logo">
+      <a href="homePage.html">Travelio</a>
     </div>
-</section>
 
-<div class="destination-list">
-  <div class="destination">
-    <img src="https://wallpaperaccess.com/full/551783.jpg" alt="Los Angeles">
-    <h3>Los Angeles</h3>
-    <p>Explore the diverse neighborhoods, museums, and famous beaches of the entertainment capital of the world.</p>
-    <a href="Destinations/United States/LosAngeles.html">Learn More</a>
-  </div>
+    <header>
+      <div class="container">
+      <nav>
+          <ul>
+          <li><a href="destination.html">DESTINATIONS</a></li>
+          <li><a href="#">POPULAR</a></li>
+          <li><a href="#">EVENTS</a></li>
+          <li><a href="#">CATEGORIES</a></li>
+          <li><a href="#">CHALLENGES</a></li>
+          </ul>
+      </nav>
+      </div>
+    </header>
 
-  <div class="destination">
-    <img src="https://images.hdqwalls.com/download/eiffel-tower-paris-4k-wide-1920x1200.jpg" alt="Paris">
-    <h3>Paris, France</h3>
-    <p>Paris is a city of romance and culture, with its iconic landmarks, world-class museums, and delicious cuisine.</p>
-    <a href="Destinations/France/Paris.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://cdn.wallpapersafari.com/66/51/APgn1d.jpg" alt="New York City">
-    <h3>New York City, USA</h3>
-    <p>New York City is a vibrant and dynamic metropolis, known for its skyscrapers, museums, and diversity.</p>
-    <a href="Destinations/United States/NewYork.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://images.hdqwalls.com/download/tokyo-tower-0u-1920x1200.jpg" alt="Tokyo">
-    <h3>Tokyo, Japan</h3>
-    <p>Tokyo is a city of contrasts, with its modern architecture, ancient temples, and vibrant culture.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Japan/Tokyo.html">Learn More</a>
-  </div>
-
-  <div class="destination">
-    <img src="https://rare-gallery.com/uploads/posts/526764-amsterdam.jpg" alt="Amsterdam">
-    <h3>Amsterdam</h3>
-    <p>Experience the beauty of the Dutch capital with its stunning canals, historic architecture, and vibrant nightlife.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Netherlands/Amsterdam.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://rare-gallery.com/uploads/posts/510445-london-computer.jpg" alt="London">
-    <h3>London, UK</h3>
-    <p>London is a city of history and culture, with its iconic landmarks, museums, and vibrant arts scene.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/United Kingdom/London.html">Learn More</a>
-  </div>
-
-  <div class="destination">
-    <img src="https://wallpapercave.com/wp/4CTXSAi.jpg" alt="San Francisco">
-    <h3>San Francisco, USA</h3>
-    <p>San Francisco is a hilly city known for its iconic landmarks, cultural diversity, and vibrant arts scene.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/United States/SanFran.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://cdn.wallpapersafari.com/99/99/7OeHQx.jpg" alt="Seattle">
-    <h3>Seattle, USA</h3>
-    <p>Seattle is a city of innovation and technology, known for its stunning natural beauty and cultural diversity.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/United States/Seattle.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://wallpaper.dog/large/20548174.jpg" alt="Miami">
-    <h3>Miami, USA</h3>
-    <p>Miami is a vibrant and multicultural city known for its beautiful beaches, nightlife, and art scene.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/United States/Miami.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://wallpapercave.com/wp/wp2197451.jpg" alt="Toronto">
-    <h3>Toronto, Canada</h3>
-    <p>Toronto is a cosmopolitan city known for its diverse culture, vibrant nightlife, and iconic landmarks.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Canada/Toronto.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://s1.1zoom.me/b5050/180/Spain_Madrid_Houses_Evening_Street_518020_1920x1200.jpg" alt="Madrid">
-    <h3>Madrid, Spain</h3>
-    <p>Madrid is a city of art and culture, known for its lively atmosphere, stunning architecture, and world-renowned museums.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Spain/Madrid.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://wallpaperaccess.com/full/2043362.jpg" alt="Milan">
-    <h3>Milan, Italy</h3>
-    <p>Milan is a fashion capital known for its luxurious boutiques, stunning architecture, and world-class art collections.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Italy/Milan.html">Learn More</a>
-  </div>    
-
-  <div class="destination">
-    <img src="https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg" alt="Santorini">
-    <h3>Santorini, Greece</h3>
-    <p>Santorini is a breathtaking island with its architecture, stunning sunsets, and romantic atmosphere.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Greece/Santorini.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://besthqwallpapers.com/Uploads/23-11-2018/72265/barcelona-sagrada-familia-basilica-and-expiatory-church-of-the-holy-family-barcelona-city-capital.jpg" alt="Barcelona">
-    <h3>Barcelona, Spain</h3>
-    <p>Barcelona is a city of art and architecture, with its famous landmarks and vibrant street life.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Spain/Barcelona.html">Learn More</a>
-  </div>
-
-  <div class="destination">
-    <img src="https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg" alt="Dubai">
-    <h3>Dubai, UAE</h3>
-    <p>Dubai is a city of luxury, with its towering skyscrapers, high-end shopping, and desert adventures.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Asia/Dubai.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://wallpapercave.com/wp/wp2007525.jpg" alt="Cape Town">
-    <h3>Cape Town, South Africa</h3>
-    <p>Cape Town is a city of natural beauty, with its stunning beaches, mountains, and wildlife.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Africa/CapeTown.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg" alt="Sydney">
-    <h3>Sydney, Australia</h3>
-    <p>Sydney is a city of beaches and landmarks, with its famous Opera House and Harbour Bridge.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Australia/Sydney.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://www.stjamesprimaryhanney.co.uk/wp-content/uploads/2014/09/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg" alt="Rio de Janeiro">
-    <h3>Rio de Janeiro, Brazil</h3>
-    <p>Rio de Janeiro is a city of music and culture, with its famous Carnival and stunning beaches.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Rio.html">Learn More</a>
-  </div>
-  
-  <div class="destination">
-    <img src="https://images6.alphacoders.com/384/384735.jpg" alt="Vancouver">
-    <h3>Vancouver, Canada</h3>
-    <p>Vancouver is a coastal seaport city known for its scenic beauty, natural wonders, and cultural diversity.</p>
-    <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/destinations/Canada/Vancouver.html">Learn More</a>
-  </div>
-
-    <div class="destination">
-      <img src="https://rare-gallery.com/uploads/posts/11652-full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd__full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd.jpg" alt="Porto, Portugal">
-      <h3>Porto, Portugal</h3>
-      <p>Enjoy the vibrant culture, historic architecture, and delicious cuisine of Portugal's arts and culture capital.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Porto.html">Learn More</a>
+    <div class="container">
+      <h1 class = "hero-title">Experience the World</h1>
+      <p class = "hero-desc">Discover new places and create unforgettable memories.</p>
+      <a href="destination.html" class="btn">Explore Destinations</a>
     </div>
-  
-    <div class="destination">
-        <img src="https://wallpaperaccess.com/full/129471.jpg" alt="Rome">
-        <h3>Rome, Italy</h3>
-        <p>Rome is a historic and cultural city, known for its ancient ruins, art, and food.</p>
-        <a href="x">Learn More</a>
-    </div>
+  </section>
+
+  <section class="subtitle2">
+    <h2>Featured Destinations</h2>
+
+    <div class="search-container">
+      <input type="text" placeholder="Search for a city" id="search-bar">
+        <button onclick="searchCities()">Search</button>
+      </div>
+  </section>
+
+  <section class="cards">
+    <article class="card card--1">
+      <div class="card__info-hover">
+          <svg class="card__like"  viewBox="0 0 24 24">
+              <path fill="#000000" d="M12.1,18.55L12,18.65L11.89,18.55C7.14,14.24 4,11.39 4,8.5C4,6.5 5.5,5 7.5,5C9.04,5 10.54,6 11.07,7.36H12.93C13.46,6 14.96,5 16.5,5C18.5,5 20,6.5 20,8.5C20,11.39 16.86,14.24 12.1,18.55M16.5,3C14.76,3 13.09,3.81 12,5.08C10.91,3.81 9.24,3 7.5,3C4.42,3 2,5.41 2,8.5C2,12.27 5.4,15.36 10.55,20.03L12,21.35L13.45,20.03C18.6,15.36 22,12.27 22,8.5C22,5.41 19.58,3 16.5,3Z" />
+          </svg>
+      </div>
+
+      <div class="card__img" style="background-image: url('https://images.hdqwalls.com/download/statue-of-liberty-t6-5120x2880.jpg')"></div>
+          <a href="#" class="card_link">
+              <div class="card__img--hover" style="background-image: url('https://images.hdqwalls.com/download/statue-of-liberty-t6-5120x2880.jpg')"></div>
+          </a>
+          <div class="card__info">
+
+          <span class="card__category"> North America</span>
+              <h3 class="card__title">United States</h3>
+          <span class="card__by">by <a href="#" class="card__author" title="author">Celeste Mills</a></span>
+      </div>
+    </article>
+
+    <article class="card card--1">
+      <div class="card__info-hover">
+          <svg class="card__like"  viewBox="0 0 24 24">
+              <path fill="#000000" d="M12.1,18.55L12,18.65L11.89,18.55C7.14,14.24 4,11.39 4,8.5C4,6.5 5.5,5 7.5,5C9.04,5 10.54,6 11.07,7.36H12.93C13.46,6 14.96,5 16.5,5C18.5,5 20,6.5 20,8.5C20,11.39 16.86,14.24 12.1,18.55M16.5,3C14.76,3 13.09,3.81 12,5.08C10.91,3.81 9.24,3 7.5,3C4.42,3 2,5.41 2,8.5C2,12.27 5.4,15.36 10.55,20.03L12,21.35L13.45,20.03C18.6,15.36 22,12.27 22,8.5C22,5.41 19.58,3 16.5,3Z" />
+          </svg>
+      </div>
+
+      <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/551783.jpg')"></div>
+          <a href="Destinations/United States/LosAngeles.html" class="card_link">
+              <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/551783.jpg')"></div>
+          </a>
+          <div class="card__info">
+
+          <span class="card__category"> United States</span>
+              <h3 class="card__title">Los Angeles</h3>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://images.hdqwalls.com/download/eiffel-tower-paris-4k-wide-1920x1200.jpg')"></div>
+      <a href="Destinations/France/Paris.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://images.hdqwalls.com/download/eiffel-tower-paris-4k-wide-1920x1200.jpg')"></div>
+      </a>
+      <div class="card__info">
+        <span class="card__category">France</span>
+        <h3 class="card__title">Paris, France</h3>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://cdn.wallpapersafari.com/66/51/APgn1d.jpg')"></div>
+      <a href="Destinations/United States/NewYork.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://cdn.wallpapersafari.com/66/51/APgn1d.jpg')"></div>
+      </a>
+      <div class="card__info">
+        <span class="card__category">United States</span>
+        <h3 class="card__title">New York City, USA</h3>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://images.hdqwalls.com/download/tokyo-tower-0u-1920x1200.jpg')"></div>
+      <a href="Destinations/Japan/Tokyo.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://images.hdqwalls.com/download/tokyo-tower-0u-1920x1200.jpg')"></div>
+      </a>
+      <div class="card__info">
+        <span class="card__category">Japan</span>
+        <h3 class="card__title">Tokyo, Japan</h3>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://rare-gallery.com/uploads/posts/526764-amsterdam.jpg')"></div>
+        <a href="Destinations/Netherlands/Amsterdam.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://rare-gallery.com/uploads/posts/526764-amsterdam.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">Netherlands</span>
+          <h3 class="card__title">Amsterdam</h3>
+        </div>
+    </article>
     
-    <div class="destination">
-        <img src="https://s1.1zoom.me/b5050/451/Florence_Italy_Cathedral_Houses_Santa_Maria_del_604918_1920x1200.jpg" alt="Florence">
-        <h3>Florence, Italy</h3>
-        <p>Florence is a Renaissance city, known for its art, architecture, and cuisine.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://rare-gallery.com/uploads/posts/510445-london-computer.jpg')"></div>
+        <a href="Destinations/United Kingdom/London.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://rare-gallery.com/uploads/posts/510445-london-computer.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">United Kingdom</span>
+          <h3 class="card__title">London</h3>
+        </div>
+    </article>
     
-    <div class="destination">
-        <img src="https://wallpaperfx.com/view_image/copenhagen-1920x1200-wallpaper-9028.jpg" alt="Copenhagen">
-        <h3>Copenhagen, Denmark</h3>
-        <p>Copenhagen is a charming city, known for its canals, parks, and Scandinavian design.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://wallpapercave.com/wp/4CTXSAi.jpg')"></div>
+        <a href="Destinations/United States/SanFran.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://wallpapercave.com/wp/4CTXSAi.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">United States</span>
+          <h3 class="card__title">San Francisco</h3>
+        </div>
+    </article>
     
-    <div class="destination">
-        <img src="https://c4.wallpaperflare.com/wallpaper/691/715/742/1920x1200-px-islam-istanbul-mosque-mosques-sultan-ahmed-mosque-turkey-animals-bears-hd-art-wallpaper-preview.jpg" alt="Istanbul">
-        <h3>Istanbul, Turkey</h3>
-        <p>Istanbul is a city that straddles Europe and Asia, known for its rich history and culture.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://cdn.wallpapersafari.com/99/99/7OeHQx.jpg')"></div>
+        <a href="Destinations/United States/Seattle.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://cdn.wallpapersafari.com/99/99/7OeHQx.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">United States</span>
+          <h3 class="card__title">Seattle</h3>
+        </div>
+    </article>  
     
-    <div class="destination">
-        <img src="https://wallpaperaccess.com/full/245672.jpg" alt="Prague">
-        <h3>Prague, Czech Republic</h3>
-        <p>Prague is a picturesque city, known for its architecture, music, and beer.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://wallpaper.dog/large/20548174.jpg')"></div>
+        <a href="Destinations/United States/Miami.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://wallpaper.dog/large/20548174.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">United States</span>
+          <h3 class="card__title">Miami, USA</h3>
+        </div>
+    </article>
     
-    <div class="destination">
-        <img src="https://images7.alphacoders.com/900/thumb-1920-900579.jpg" alt="Stockholm">
-        <h3>Stockholm, Sweden</h3>
-        <p>Stockholm is a city built on islands, known for its beauty, design, and innovation.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://wallpapercave.com/wp/wp2197451.jpg')"></div>
+        <a href="Destinations/Canada/Toronto.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://wallpapercave.com/wp/wp2197451.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">Canada</span>
+          <h3 class="card__title">Toronto, Canada</h3>
+        </div>
+    </article>
     
-    <div class="destination">
-        <img src="https://rare-gallery.com/uploads/posts/521521-venice.jpg" alt="Venice">
-        <h3>Venice, Italy</h3>
-        <p>Venice is a unique city built on water, known for its art, architecture, and romance.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/180/Spain_Madrid_Houses_Evening_Street_518020_1920x1200.jpg')"></div>
+        <a href="Destinations/Spain/Madrid.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/180/Spain_Madrid_Houses_Evening_Street_518020_1920x1200.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">Spain</span>
+          <h3 class="card__title">Madrid, Spain</h3>
+        </div>
+    </article>
     
-    <div class="destination">
-        <img src="https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg" alt="Lisbon">
-        <h3>Lisbon, Portugal</h3>
-        <p>Lisbon is a colorful and vibrant city, known for its history, food, and music.</p>
-        <a href="x">Learn More</a>
-    </div>
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/2043362.jpg')"></div>
+        <a href="Destinations/Italy/Milan.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/2043362.jpg')"></div>
+        </a>
+        <div class="card__info">
+          <span class="card__category">Italy</span>
+          <h3 class="card__title">Milan, Italy</h3>
+        </div>
+    </article>
+
+    <article class="card">
+      <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg')"></div>
+      <a href="Destinations/Greece/Santorini.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg')"></div>
+      </a>
+      <div class="card__info">
+          <span class="card__category">Greece</span>
+          <h3 class="card__title">Santorini, Greece</h3>
+      </div>
+  </article>
+
+  <article class="card">
+      <div class="card__img" style="background-image: url('https://besthqwallpapers.com/Uploads/23-11-2018/72265/barcelona-sagrada-familia-basilica-and-expiatory-church-of-the-holy-family-barcelona-city-capital.jpg')"></div>
+      <a href="Destinations/Spain/Barcelona.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://besthqwallpapers.com/Uploads/23-11-2018/72265/barcelona-sagrada-familia-basilica-and-expiatory-church-of-the-holy-family-barcelona-city-capital.jpg')"></div>
+      </a>
+      <div class="card__info">
+          <span class="card__category">Spain</span>
+          <h3 class="card__title">Barcelona, Spain</h3>
+      </div>
+  </article>
+
+  <article class="card">
+      <div class="card__img" style="background-image: url('https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg')"></div>
+      <a href="Destinations/Asia/Dubai.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg')"></div>
+      </a>
+      <div class="card__info">
+          <span class="card__category">Asia</span>
+          <h3 class="card__title">Dubai, UAE</h3>
+      </div>
+  </article>
+
+  <article class="card">
+      <div class="card__img" style="background-image: url('https://wallpapercave.com/wp/wp2007525.jpg')"></div>
+      <a href="Destinations/Africa/CapeTown.html" class="card_link">
+          <div class="card__img--hover" style="background-image: url('https://wallpapercave.com/wp/wp2007525.jpg')"></div>
+      </a>
+      <div class="card__info">
+          <span class="card__category">Africa</span>
+          <h3 class="card__title">Cape Town, South Africa</h3>
+      </div>
+  </article>
     
-    <div class="destination">
-        <img src="https://cdn.wallpapersafari.com/20/57/vnawpO.jpg" alt="Athens">
-        <h3>Athens, Greece</h3>
-        <p>Athens is a city with a rich history, known for its ancient ruins, culture, and food.</p>
-        <a href="x">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg')"></div>
+    <a href="Destinations/Australia/Sydney.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Australia</span>
+      <h3 class="card__title">Sydney, Australia</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://s2.best-wallpaper.net/wallpaper/1920x1200/1611/City-view-houses-street-clouds-Munich-Germany_1920x1200.jpg" alt="Munich">
-      <h3>Munich, Germany</h3>
-      <p>Munich is known for its stunning architecture, vibrant culture, and delicious beer.</p>
-      <a href="x">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://www.stjamesprimaryhanney.co.uk/wp-content/uploads/2014/09/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg')"></div>
+    <a href="Destinations/Rio.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://www.stjamesprimaryhanney.co.uk/wp-content/uploads/2014/09/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Brazil</span>
+      <h3 class="card__title">Rio de Janeiro, Brazil</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://images5.alphacoders.com/427/427231.jpg" alt="Seville">
-      <h3>Seville, Spain</h3>
-      <p>Seville is a charming city with a rich history and culture, known for its flamenco music and dance.</p>
-      <a href="x">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://images6.alphacoders.com/384/384735.jpg')"></div>
+    <a href="Destinations/Canada/Vancouver.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://images6.alphacoders.com/384/384735.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Canada</span>
+      <h3 class="card__title">Vancouver, Canada</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://s1.1zoom.me/b5050/98/Norway_Houses_Mountains_Oslo_Roof_From_above_564839_1920x1200.jpg" alt="Oslo">
-      <h3>Oslo, Norway</h3>
-      <p>Oslo is a modern city with a stunning natural setting, known for its museums and outdoor activities.</p>
-      <a href="x">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://rare-gallery.com/uploads/posts/11652-full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd__full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd.jpg')"></div>
+    <a href="Destinations/Porto.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://rare-gallery.com/uploads/posts/11652-full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd__full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Portugal</span>
+      <h3 class="card__title">Porto, Portugal</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://images.wallpapersden.com/image/download/dubrovnik-croatia_bG5lamyUmZqaraWkpJRmbmdlrWZnZWU.jpg" alt="Dubrovnik">
-      <h3>Dubrovnik, Croatia</h3>
-      <p>Dubrovnik is a historic city with a beautiful old town, known for its beaches and stunning views.</p>
-      <a href="x">Learn More</a>
+  <div class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/129471.jpg')"></div>
+    <a href="Destinations/Italy/Rome.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/129471.jpg')"></div>
+    </a>
+    <div class="card__info">
+        <span class="card__category">Italy</span>
+        <h3 class="card__title">Rome</h3>
     </div>
+  </div>
 
-    <div class="destination">
-      <img src="https://s1.1zoom.me/big7/475/Switzerland_Zurich_Houses_Evening_Rivers_Bridges_581997_1920x1200.jpg" alt="Zurich">
-      <h3>Zurich, Switzerland</h3>
-      <p>Zurich is a cosmopolitan city with a picturesque old town, known for its banking and finance industry.</p>
-      <a href="x">Learn More</a>
+  <div class="card">
+    <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/451/Florence_Italy_Cathedral_Houses_Santa_Maria_del_604918_1920x1200.jpg')"></div>
+    <a href="Destinations/Italy/Florence.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/451/Florence_Italy_Cathedral_Houses_Santa_Maria_del_604918_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+        <span class="card__category">Italy</span>
+        <h3 class="card__title">Florence</h3>
     </div>
+  </div>
 
-    <div class="destination">
-      <img src="https://wallpaperaccess.com/full/2036265.jpg" alt="Geneva">
-      <h3>Geneva, Switzerland</h3>
-      <p>Geneva is a global hub for diplomacy and finance, known for its beautiful lakeside setting and international organizations.</p>
-      <a href="x">Learn More</a>
+  <div class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperfx.com/view_image/copenhagen-1920x1200-wallpaper-9028.jpg')"></div>
+    <a href="/Destinations/Europe/Copenhagen.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://wallpaperfx.com/view_image/copenhagen-1920x1200-wallpaper-9028.jpg')"></div>
+    </a>
+    <div class="card__info">
+        <span class="card__category">Denmark</span>
+        <h3 class="card__title">Copenhagen</h3>
     </div>
+  </div>
 
-    <div class="destination">
-      <img src="https://wallpapercave.com/wp/wp10158285.png" alt="Annecy">
-      <h3>Annecy, France</h3>
-      <p>Annecy is a charming town in the French Alps, known for its beautiful lake and canals.</p>
-      <a href="x">Learn More</a>
+  <div class="card">
+    <div class="card__img" style="background-image: url('https://c4.wallpaperflare.com/wallpaper/691/715/742/1920x1200-px-islam-istanbul-mosque-mosques-sultan-ahmed-mosque-turkey-animals-bears-hd-art-wallpaper-preview.jpg')"></div>
+    <a href="/Destinations/Europe/Istanbul.html" class="card_link">
+        <div class="card__img--hover" style="background-image: url('https://c4.wallpaperflare.com/wallpaper/691/715/742/1920x1200-px-islam-istanbul-mosque-mosques-sultan-ahmed-mosque-turkey-animals-bears-hd-art-wallpaper-preview.jpg')"></div>
+    </a>
+    <div class="card__info">
+        <span class="card__category">Turkey</span>
+        <h3 class="card__title">Istanbul</h3>
     </div>
+  </div>
+      
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/245672.jpg')"></div>
+    <a href="/Destinations/Europe/prague.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/245672.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Czech Republic</span>
+      <h3 class="card__title">Prague</h3>
+    </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://s2.best-wallpaper.net/wallpaper/1920x1200/2210/Monaco-yachts-boats-mountain-harbour_1920x1200.jpg" alt="Monaco">
-      <h3>Monaco</h3>
-      <p>Monaco is a tiny principality on the French Riviera, known for its luxury lifestyle and Formula One Grand Prix.</p>
-      <a href="x">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://images7.alphacoders.com/900/thumb-1920-900579.jpg')"></div>
+    <a href="/Destinations/Europe/Stockholm.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://images7.alphacoders.com/900/thumb-1920-900579.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Sweden</span>
+      <h3 class="card__title">Stockholm</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://wallpaperaccess.com/full/681290.jpg" alt="Cannes">
-      <h3>Cannes, France</h3>
-      <p>Cannes is a glamorous city on the French Riviera, known for its film festival and luxury shopping.</p>
-      <a href="x">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://rare-gallery.com/uploads/posts/521521-venice.jpg')"></div>
+    <a href="/Destinations/Italy/Venice.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://rare-gallery.com/uploads/posts/521521-venice.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Italy</span>
+      <h3 class="card__title">Venice</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://wallpapercave.com/wp/wp4088749.jpg" alt="Maldives">
-      <h3>Maldives</h3>
-      <p>Relax on the white-sand beaches, swim in crystal-clear waters, and discover the magical world of Maldives.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Asia/Maldives.html">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg')"></div>
+    <a href="/Destinations/Portugal/lisbon.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Portugal</span>
+      <h3 class="card__title">Lisbon</h3>
     </div>
+  </article>
+      
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://cdn.wallpapersafari.com/20/57/vnawpO.jpg')"></div>
+    <a href="/Destinations/Greece/Athens.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://cdn.wallpapersafari.com/20/57/vnawpO.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Greece</span>
+      <h3 class="card__title">Athens</h3>
+    </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://wallpaperaccess.com/full/373638.jpg" alt="Bali">
-      <h3>Bali, Indonesia</h3>
-      <p>Bali is a beautiful island paradise known for its stunning beaches, lush rice terraces, and rich culture.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Asia/bali.html">Learn More</a>
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://s2.best-wallpaper.net/wallpaper/1920x1200/1611/City-view-houses-street-clouds-Munich-Germany_1920x1200.jpg')"></div>
+    <a href="/Destinations/Germany/Munich.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s2.best-wallpaper.net/wallpaper/1920x1200/1611/City-view-houses-street-clouds-Munich-Germany_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Germany</span>
+      <h3 class="card__title">Munich</h3>
     </div>
-    
-    <div class="destination">
-      <img src="https://www.letsphuket.com/wp-content/uploads/phuket1.jpg" alt="Phuket">
-      <h3>Phuket, Thailand</h3>
-      <p>Phuket is a tropical paradise known for its beautiful beaches, crystal-clear waters, and vibrant nightlife.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Asia/Phuket.html">Learn More</a>
-    </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://www.10wallpaper.com/wallpaper/1920x1200/1108/Cairo_Egypt-Mohammed_Ali_Mosque_wallpaper_1920x1200.jpg" alt="Cairo, Egypt">
-      <h3>Cairo, Egypt</h3>
-      <p>A city that blends ancient history with modernity, known for its iconic pyramids, mosques, and bazaars.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Africa/cairo.html">Learn More</a>
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://images5.alphacoders.com/427/427231.jpg')"></div>
+    <a href="/Destinations/Spain/Sevielle.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://images5.alphacoders.com/427/427231.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Spain</span>
+      <h3 class="card__title">Seville</h3>
     </div>
-    
-    <div class="destination">
-      <img src="https://wallpaper.dog/large/967735.jpg" alt="Kyoto, Japan">
-      <h3>Kyoto, Japan</h3>
-      <p>Kyoto is a city of traditional culture and architecture, with its numerous temples, gardens, and geisha districts.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Japan/kyoto.html">Learn More</a>
-    </div>
-    
-    <div class="destination">
-      <img src="https://images8.alphacoders.com/510/thumb-1920-510444.jpg" alt="Montreal, Canada">
-      <h3>Montreal, Canada</h3>
-      <p>Montreal is rich with cultural heritage, and is known for its world-class dining, and historic architecture.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Canada/Montreal.html">Learn More</a>
-    </div>
-    
-    <div class="destination">
-      <img src="https://s2.best-wallpaper.net/wallpaper/1920x1200/1708/Austria-Hofburg-Vienna-monument-people-night_1920x1200.jpg" alt="Vienna, Austria">
-      <h3>Vienna, Austria</h3>
-      <p>Vienna is a city of art and music, with its stunning baroque architecture, museums, and coffeehouse culture.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Vienna.html">Learn More</a>
-    </div>
-    
-    <div class="destination">
-      <img src="https://abdesert.com/wp-content/uploads/2021/03/9f519e5ed23af4c209dc5a2dbb3440c7.jpg" alt="Marrakech, Morocco">
-      <h3>Marrakech, Morocco</h3>
-      <p>Marrakech is a vibrant city with a rich heritage, and is known for its souks, gardens, and historic mosques.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Marrakech.html">Learn More</a>
-    </div>    
+  </article>
 
-    <div class="destination">
-      <img src="https://images6.alphacoders.com/369/thumb-1920-369567.jpg" alt="Berlin">
-      <h3>Berlin, Germany</h3>
-      <p>Berlin is a city with a fascinating history, cutting-edge art and culture, a lively nightlife and unique diversity.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Germany/berlin.html">Learn More</a>
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/98/Norway_Houses_Mountains_Oslo_Roof_From_above_564839_1920x1200.jpg')"></div>
+    <a href="/Destinations/Europe/Oslo.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/98/Norway_Houses_Mountains_Oslo_Roof_From_above_564839_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Norway</span>
+      <h3 class="card__title">Oslo</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://wallpaperaccess.com/full/1099442.jpg" alt="Machu Picchu, Peru">
-      <h3>Machu Picchu, Peru</h3>
-      <p>Step back in history and explore the ancient Incan ruins and breathtaking mountain views of Machu Picchu.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/MachuPicchu.html">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://images.wallpapersden.com/image/download/dubrovnik-croatia_bG5lamyUmZqaraWkpJRmbmdlrWZnZWU.jpg')"></div>
+    <a href="/Destinations/Europe/Dubrovnik.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://images.wallpapersden.com/image/download/dubrovnik-croatia_bG5lamyUmZqaraWkpJRmbmdlrWZnZWU.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Croatia</span>
+      <h3 class="card__title">Dubrovnik</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://s1.1zoom.me/b5050/719/Switzerland_Mountains_Lake_Brienzer_See_Alps_597630_1920x1200.jpg" alt="Switzerland">
-      <h3>Switzerland</h3>
-      <p>Switzerland is a land of breathtaking natural beauty, snow-capped mountains, and charming villages.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Switzerland/switzerland.html">Learn More</a>
-    </div>      
-    
-    <div class="destination">
-      <img src="https://wallpaperaccess.com/full/733979.jpg" alt="Iceland">
-      <h3>Iceland</h3>
-      <p>Iceland is a land of fire and ice, with otherworldly landscapes, glaciers, geysers, and volcanic activity.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/iceland.html">Learn More</a>
-    </div>            
-
-    <div class="destination">
-      <img src="https://rare-gallery.com/uploads/posts/1121722-landscape-white-nature-sand-desert-clear-sky-dune-monument-material-wing-atmosphere-of-earth.jpg" alt="Nambia">
-      <h3>Nambia</h3>
-      <p>Namibia offers stunning natural beauty and unique cultural experiences, making it a must-visit destination.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Africa/Namibia.html">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://s1.1zoom.me/big7/475/Switzerland_Zurich_Houses_Evening_Rivers_Bridges_581997_1920x1200.jpg')"></div>
+    <a href="/Destinations/Switzerland/Zurich.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/big7/475/Switzerland_Zurich_Houses_Evening_Rivers_Bridges_581997_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Switzerland</span>
+      <h3 class="card__title">Zurich</h3>
     </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://www.wallpaperup.com/uploads/wallpapers/2015/06/12/720351/ec0ab0ff31703ca1b30084f446741747.jpg" alt="Norway">
-      <h3>Norway</h3>
-      <p>Norway is a land of rugged fjords, towering mountains, and glaciers, with stunning scenery and vibrant cities.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Norway.html">Learn More</a>
-    </div>            
-
-    <div class="destination">
-      <img src="https://wallpaperaccess.com/full/1609678.jpg" alt="Lake Louise, Alberta, Canada" >
-      <h3>Lake Louise, Alberta</h3>
-      <p>Known for its stunning turquoise color, Lake Louise is a glacial lake in Banff National Park, Alberta, Canada.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Canada/lakeLouiseAL.html">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/2036265.jpg')"></div>
+    <a href="/Destinations/Switzerland/Geneva.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/2036265.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Switzerland</span>
+      <h3 class="card__title">Geneva</h3>
     </div>
-    
-    <div class="destination">
-      <img src="https://media.cntraveler.com/photos/5e8511e41185400008f5b3fe/master/w_2580%2Cc_limit/new-zealand-happiest-countries-GettyImages-452517269.jpg" alt="Fiordland National Park, New Zealand">
-      <h3>Fiordland, New Zealand</h3>
-      <p>Home to breathtaking fjords, Fiordland National Park is a must-see destination in New Zealand's South.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Australia/FiordlandNZ.html">Learn More</a>
-    </div>
+  </article>
 
-    <div class="destination">
-      <img src="https://www.10wallpaper.com/wallpaper/1920x1200/1604/Sunset_time_rocks_western_australia-Nature_scenery_HD_Wallpaper_1920x1200.jpg" alt="Australia">
-      <h3>Australia</h3>
-      <p>Australia the land of diverse landscapes, from the iconic red rocks lush rainforests and pristine beaches.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/Australia/Australia.html">Learn More</a>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpapercave.com/wp/wp10158285.png')"></div>
+    <a href="/Destinations/France/Annecy.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpapercave.com/wp/wp10158285.png')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">France</span>
+      <h3 class="card__title">Annecy</h3>
     </div>
-    
-    <div class="destination">
-      <img src="https://wallpapercave.com/wp/wp1815136.jpg" alt="Scotland">
-      <h3>Scotland</h3>
-      <p>Scotland is a land of rugged landscapes, misty lochs, and ancient castles steeped in history and legend.</p>
-      <a href="file:///Users/ahmedelsayed/Documents/GitHub/JSEXP-TRAVEL-APP/Destinations/United Kingdom/Scotland.html">Learn More</a>
-    </div>  
-</div>
+  </article>
 
-<section class="subtitle3">
-  <h2>TRAVELIO</h2>
-  <h3>DISCOVER THE SHADES</h3> 
-  <h4>OF THE WORLD</h4>
-</section>
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://s2.best-wallpaper.net/wallpaper/1920x1200/2210/Monaco-yachts-boats-mountain-harbour_1920x1200.jpg')"></div>
+    <a href="/Destinations/Europe/Monaco.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s2.best-wallpaper.net/wallpaper/1920x1200/2210/Monaco-yachts-boats-mountain-harbour_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Monaco</span>
+      <h3 class="card__title">Monaco</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/681290.jpg')"></div>
+    <a href="/Destinations/France/Cannes.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/681290.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">France</span>
+      <h3 class="card__title">Cannes</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpapercave.com/wp/wp4088749.jpg')"></div>
+    <a href="Destinations/Asia/Maldives.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpapercave.com/wp/wp4088749.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Maldives</span>
+      <h3 class="card__title">Maldives</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/373638.jpg')"></div>
+    <a href="Destinations/Asia/bali.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/373638.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Indonesia</span>
+      <h3 class="card__title">Bali</h3>
+    </div>
+  </article>
+      
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://www.letsphuket.com/wp-content/uploads/phuket1.jpg')"></div>
+    <a href="Destinations/Asia/Phuket.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://www.letsphuket.com/wp-content/uploads/phuket1.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Thailand</span>
+      <h3 class="card__title">Phuket</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://www.10wallpaper.com/wallpaper/1920x1200/1108/Cairo_Egypt-Mohammed_Ali_Mosque_wallpaper_1920x1200.jpg')"></div>
+    <a href="Destinations/Africa/cairo.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://www.10wallpaper.com/wallpaper/1920x1200/1108/Cairo_Egypt-Mohammed_Ali_Mosque_wallpaper_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Egypt</span>
+      <h3 class="card__title">Cairo</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpaper.dog/large/967735.jpg')"></div>
+    <a href="Destinations/Japan/kyoto.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaper.dog/large/967735.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Japan</span>
+      <h3 class="card__title">Kyoto</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://images8.alphacoders.com/510/thumb-1920-510444.jpg')"></div>
+    <a href="Destinations/Canada/Montreal.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://images8.alphacoders.com/510/thumb-1920-510444.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Canada</span>
+      <h3 class="card__title">Montreal</h3>
+    </div>
+  </article>
+      
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg')"></div>
+    <a href="/Destinations/Portugal/lisbon.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Portugal</span>
+      <h3 class="card__title">Lisbon</h3>
+    </div>
+  </article>
+
+  <div class="destination" style="display: inline-block; margin: 20px;">
+    <div class="card__img" style="background-image: url('https://s2.best-wallpaper.net/wallpaper/1920x1200/1708/Austria-Hofburg-Vienna-monument-people-night_1920x1200.jpg'); height: 300px; width: 400px;"></div>
+    <div class="card__info">
+      <span class="card__category">Austria</span>
+      <h3 class="card__title">Vienna</h3>
+    </div>
+  </div>
+
+  <div class="destination" style="display: inline-block; margin: 20px;">
+    <div class="card__img" style="background-image: url('https://abdesert.com/wp-content/uploads/2021/03/9f519e5ed23af4c209dc5a2dbb3440c7.jpg'); height: 300px; width: 400px;"></div>
+    <div class="card__info">
+      <span class="card__category">Morocco</span>
+      <h3 class="card__title">Marrakech</h3>
+    </div>
+  </div>
+
+  <div class="destination" style="display: inline-block; margin: 20px;">
+    <div class="card__img" style="background-image: url('https://images6.alphacoders.com/369/thumb-1920-369567.jpg'); height: 300px; width: 400px;"></div>
+    <div class="card__info">
+      <span class="card__category">Germany</span>
+      <h3 class="card__title">Berlin</h3>
+    </div>
+  </div>
+
+  <div class="destination" style="display: inline-block; margin: 20px;">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/1099442.jpg'); height: 300px; width: 400px;"></div>
+    <div class="card__info">
+      <span class="card__category">Peru</span>
+      <h3 class="card__title">Machu Picchu</h3>
+    </div>
+  </div>
+
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://s1.1zoom.me/b5050/719/Switzerland_Mountains_Lake_Brienzer_See_Alps_597630_1920x1200.jpg')"></div>
+    <a href="Destinations/Switzerland/switzerland.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://s1.1zoom.me/b5050/719/Switzerland_Mountains_Lake_Brienzer_See_Alps_597630_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Switzerland</span>
+      <h3 class="card__title">Switzerland</h3>
+    </div>
+  </article>
+
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/733979.jpg')"></div>
+    <a href="Destinations/Europe/iceland.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/733979.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Iceland</span>
+      <h3 class="card__title">Iceland</h3>
+    </div>
+  </article>
+
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://rare-gallery.com/uploads/posts/1121722-landscape-white-nature-sand-desert-clear-sky-dune-monument-material-wing-atmosphere-of-earth.jpg')"></div>
+    <a href="Destinations/Africa/Namibia.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://rare-gallery.com/uploads/posts/1121722-landscape-white-nature-sand-desert-clear-sky-dune-monument-material-wing-atmosphere-of-earth.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Namibia</span>
+      <h3 class="card__title">Namibia</h3>
+    </div>
+  </article>
+
+  <article class="card destination">
+    <div class="card__img" style="background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2015/06/12/720351/ec0ab0ff31703ca1b30084f446741747.jpg')"></div>
+    <a href="Destinations/Europe/Norway.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2015/06/12/720351/ec0ab0ff31703ca1b30084f446741747.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Norway</span>
+      <h3 class="card__title">Norway</h3>
+    </div>
+  </article>     
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpaperaccess.com/full/1609678.jpg')"></div>
+    <a href="Destinations/Canada/lakeLouiseAL.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpaperaccess.com/full/1609678.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Canada</span>
+      <h3 class="card__title">Lake Louise, Alberta</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://media.cntraveler.com/photos/5e8511e41185400008f5b3fe/master/w_2580%2Cc_limit/new-zealand-happiest-countries-GettyImages-452517269.jpg')"></div>
+    <a href="Destinations/Australia/FiordlandNZ.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://media.cntraveler.com/photos/5e8511e41185400008f5b3fe/master/w_2580%2Cc_limit/new-zealand-happiest-countries-GettyImages-452517269.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">New Zealand</span>
+      <h3 class="card__title">Fiordland</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://www.10wallpaper.com/wallpaper/1920x1200/1604/Sunset_time_rocks_western_australia-Nature_scenery_HD_Wallpaper_1920x1200.jpg')"></div>
+    <a href="Destinations/Australia/Australia.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://www.10wallpaper.com/wallpaper/1920x1200/1604/Sunset_time_rocks_western_australia-Nature_scenery_HD_Wallpaper_1920x1200.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">Australia</span>
+      <h3 class="card__title">Australia</h3>
+    </div>
+  </article>
+
+  <article class="card">
+    <div class="card__img" style="background-image: url('https://wallpapercave.com/wp/wp1815136.jpg')"></div>
+    <a href="Destinations/United Kingdom/Scotland.html" class="card_link">
+      <div class="card__img--hover" style="background-image: url('https://wallpapercave.com/wp/wp1815136.jpg')"></div>
+    </a>
+    <div class="card__info">
+      <span class="card__category">United Kingdom</span>
+      <h3 class="card__title">Scotland</h3>
+    </div>
+  </article>
+  </section>
+
+  <section class="subtitle3">
+    <h2>TRAVELIO</h2>
+    <h3>DISCOVER THE SHADES</h3> 
+    <h4>OF THE WORLD</h4>
+  </section>
+</body>

@@ -1,0 +1,415 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+*{
+  box-sizing: border-box;
+}
+
+body, html {
+   font-family: 'Roboto Slab', serif;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+body {
+  background-color: #D2DBDD;
+  display: flex;
+  display: -webkit-flex;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.container-hero {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  align-items: top;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  background: transparent;
+  color: transparent;
+  padding: 0 px;
+}
+
+.logo a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+nav {
+  float: right;
+  margin-top: 18px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+nav a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #f58220;
+}
+
+.hero {
+  height: 800px;
+  background-image: url("https://wallpapercave.com/dwp2x/wp3528296.jpg");
+  background-size: cover;
+  font-family: 'Trebuchet MS', sans-serif;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero h1 {
+  font-size: 90px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 24px;
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-bottom: 40px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #0077c2;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #005388;
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+}
+
+.container-des {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+  align-items: top;
+}
+
+header {
+  position: absolute;
+  top: 28px;
+  left: 250px;
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%; /* Set the height of the logo to match the height of the header */
+  padding: 10px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #ffffff;
+  margin-left: 16px;
+}
+
+.cards {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.card {
+    margin: 2%;
+    transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: #fff;
+    width: 29.3%;
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
+}
+
+/*
+.card {
+    margin-right: 25px;
+    transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: #fff;
+    width: 33.3%;
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
+}*/
+
+.card--2 .card__img, .card--2 .card__img--hover {
+    background-image: url('https://images.pexels.com/photos/307008/pexels-photo-307008.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+}
+
+.card__like {
+    width: 18px;
+}
+
+.card__clock {
+    width: 15px;
+  vertical-align: middle;
+    fill: #AD7D52;
+}
+.card__time {
+    font-size: 12px;
+    color: #AD7D52;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.card__clock-info {
+    float: right;
+}
+
+.card__img {
+    visibility: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 235px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.card__info-hover {
+    position: absolute;
+    padding: 16px;
+    width: 100%;
+    opacity: 0;
+    top: 0;
+}
+
+.card__img--hover {
+  transition: 0.2s all ease-out;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+  position: absolute;
+    height: 235px;
+  border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+top: 0;
+  
+}
+
+.card:hover {
+  box-shadow: 0px 30px 18px -8px rgba(0, 0, 0,0.1);
+    transform: scale(1.10, 1.10);
+}
+
+.card__info {
+    z-index: 2;
+    background-color: #fff;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 16px 24px 24px 24px;
+}
+
+.card__category {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #868686;
+}
+
+.card__title {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.card__by {
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.card__author {
+    font-weight: 600;
+    text-decoration: none;
+    color: #AD7D52;
+}
+
+.card:hover .card__img--hover {
+    height: 100%;
+    opacity: 0.3;
+}
+
+.card:hover .card__info {
+    background-color: transparent;
+    position: relative;
+}
+
+.card:hover .card__info-hover {
+    opacity: 1;
+}
+
+.subtitle1 {
+    padding: 20px;
+    background-color: #0077c2;
+    color: #ffffff;
+  }
+  
+  .subtitle1 h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle2 {
+    display: flex;
+    padding: 20px;
+    background-color: #0077c2;
+    color: #ffffff;
+  }
+  
+  .subtitle2 h2 {
+    margin-left: 40px;
+    font-size: 48px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    letter-spacing: 0px;
+    width: 600px;
+  }
+  
+  .subtitle2 div {
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: right;
+    justify-content: right;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle3 {
+    padding: 10px;
+    background-color: #333;
+  }
+  
+  .subtitle3 h2 {
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #ffffff;
+  }
+  
+  .subtitle3 h3 {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #0077c2;
+  }
+  
+  .subtitle3 h4 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #009DC4;
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 12px 20px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #005388;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005388;
+  }
