@@ -17,19 +17,6 @@
   
   /* Apply the San Francisco font to your desired elements */
   
-  @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
-  }
-  
-  @font-face {
-    font-family: 'sans-serif';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap) format('truetype');
-  }
   
   body {
     font-family: 'Trebuchet MS', sans-serif;
@@ -40,32 +27,33 @@
   }
   
   .container-hero {
-    max-width: 90%; /* changed from px to percentage */
+    max-width: 100%; /* changed from px to percentage */
     margin: 0 auto;
-    padding: 0 2rem; /* changed from px to rem */
+    padding: 0 10px; /* changed from px to rem */
     align-items: flex-end; /* changed from bottom to flex-end */
+    font-family: 'Trebuchet MS', sans-serif;
   }
   
   header {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start; /* changed from top to flex-start */
+    align-items: top;
     background: transparent;
     color: transparent;
-    padding: 0;
+    padding: 0 px;
+    font-family: 'Trebuchet MS', sans-serif;
   }
   
   .logo a {
-    font-family: 'Trebuchet MS', sans-serif;
-    color: #f2f2f2;
+    color: whitesmoke;
     text-decoration: none;
-    font-weight: bold;
+    font-family: 'Trebuchet MS', sans-serif;
   }
   
   nav {
-    font-family: 'Trebuchet MS', sans-serif;
     float: right;
-    margin-top: 1.1em;
+    margin-top: 18px;
+    font-family: 'Trebuchet MS', sans-serif;
   }
   
   nav ul {
@@ -74,24 +62,23 @@
   
   nav li {
     display: inline-block;
-    margin-left: 3vw; /* changed from px to vw */
+    margin-left: 40px;
   }
   
   nav a {
-    font-family: 'Trebuchet MS', sans-serif;
-    color: #f2f2f2;
+    color: whitesmoke;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
-    font-size: 1.2rem; /* added font-size in rem */
+    font-family: 'Trebuchet MS', sans-serif;
   }
   
   nav a:hover {
     color: #f58220;
-  }  
+  }
   
   .hero {
-    height: 70vh;
+    height: 700px;
     font-family: 'Trebuchet MS', sans-serif;
     background-size: cover;
     background-position: center;
@@ -107,8 +94,8 @@
   .hero h1 {
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    margin-bottom: 1.43%;
-    margin-right: 5.71%;
+    margin-bottom: 10px;
+    margin-right: 40px;
     justify-content: left;
     align-items: center;
     text-align: left;
@@ -117,7 +104,7 @@
   .hero-contain {
     background-color: #f2f2f2;
     width: auto;
-    height: 5rem;
+    height: 80px;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -127,189 +114,194 @@
   .hero-contain h1 {
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    margin-left: 0.25em;
-    margin-right: 0.25em;
-    font-size: 7rem;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 100px;
     padding-bottom: 0.2em;
     white-space: nowrap;
   }  
   
   .hero p {
-    font-size: 1.5rem;
-    margin-bottom: 2.86%;
+    font-size: 24px;
+    margin-bottom: 20px;
   }
   
   /* Body Style */
   
   body {
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 100%; /* equivalent to 16px */
+    font-size: 16px;
     line-height: 1.5;
     color: #333;
     background-color: #fff;
   }
-  
+
   /* The Main New Styles */
   .info {
-    margin-top: 5%;
+    margin-top: 50px;
   }
-  
+
   .info p {
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 2.5vw;
+    font-size: 25px;
   }
-  
+
   .facts{
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 2.5vw;
+    font-size: 25px;
   }
-  
+
   h2{
     font-family: 'Trebuchet MS', sans-serif;
-    margin-top: 2%;
-    margin-bottom: 1%;
-    font-size: 4vw;
+    margin-top: 20px ;
+    margin-bottom: 10px ;
+    font-size: 40px;
     font-weight: bold;
     color: #0077c2;
   }
-  
+
   p{
     font-family: 'Trebuchet MS', sans-serif;
   }
-  
+
   .facts p{
-    margin-left: 2%;
+    margin-left: 20px;
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 2.5vw;
+    font-size: 25px;
   }
-  
+
   .facts strong{
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 2.5vw;
+    font-size: 25px;
   }
-  
+
   .climate p{
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 2.5vw;
+    font-size: 25px;
   }
-  
+
   h3 {
     font-family: 'Trebuchet MS', sans-serif;
-    font-size: 5vw;
+    font-size: 50px;
   }
-  
+
   .container-des {
-    max-width: 80%; /* equivalent to 960px */
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1.67%; /* equivalent to 20px */
+    padding: 0 20px;
     align-items: top;
   }
   
   header {
     position: absolute;
-    top: 2.33%; /* equivalent to 28px */
-    left: 13rem; /* equivalent to 250px */
-  }  
+    top: 28px;
+    left: 250px;
+  }
   
   .logo {
     position: absolute;
     top: 0;
     left: 0;
-    height: 100%; /* Set the height of the logo to match the height of the header /
-    padding: 1%;
-    font-size: 3.125vw; / equivalent to 50px for a viewport width of 1600px */
+    height: 100%; /* Set the height of the logo to match the height of the header */
+    padding: 10px;
+    font-size: 50px;
     font-weight: 2500;
-    font-size: 3rem;
     box-align: left;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0px;
     color: #ffffff;
-    margin-left: 1%;
-    }
-    
-    .subtitle1 {
-      padding: 2%;
-      background-color: #e7717d;
-      color: #ffffff;
-    }
-    
-    .subtitle1 h2 {
-      font-family: 'San Francisco', sans-serif;
-      margin-left: 2.5%;
-      font-size: 2.5vw; /* equivalent to 40px for a viewport width of 1600px */
-      font-weight: 2500;
-      box-align: left;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0px;
-    }
-    
-    .subtitle2 {
-      padding: 2%;
-      background-color: #afd275;
-      color: #ffffff;
-    }
-    
-    .subtitle2 h2 {
-      margin-left: 2.5%;
-      font-size: 2.5vw; /* equivalent to 40px for a viewport width of 1600px */
-      font-weight: 2500;
-      box-align: left;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0px;
-    }
-    
-    .subtitle2 div {
-    margin-left: 2.5%;
-    font-size: 2.5vw; /* equivalent to 40px for a viewport width of 1600px */
+    margin-left: 16px;
+  }
+  
+  .subtitle1 {
+    padding: 20px;
+    background-color: #e7717d;
+    color: #ffffff;
+  }
+  
+  .subtitle1 h2 {
+    font-family: 'San Francisco', sans-serif;
+    margin-left: 40px;
+    font-size: 40px;
     font-weight: 2500;
     box-align: left;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0px;
-    }
+  }
   
-    .subtitle3 {
-      padding: 1%;
-      background-color: #333;
-    }
-    
-    .subtitle3 h2 {
-      margin-left: 2.5%;
-      margin-top: 2%;
-      font-size: 3em;
-      font-weight: 2500;
-      box-align: left;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0px;
-      color: #ffffff;
-    }
-    
-    .subtitle3 h3 {
-      margin-left: 2.5%;
-      font-size: 3em;
-      font-weight: 2500;
-      box-align: left;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0px;
-      color: #afd275;
-    }
-    
-    .subtitle3 h4 {
-      margin-left: 2.5%;
-      margin-bottom: 2%;
-      font-size: 3em;
-      font-weight: 2500;
-      box-align: left;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0px;
-      color: #009DC4;
-    }
+  .subtitle2 {
+    padding: 20px;
+    background-color: #afd275;
+    color: #ffffff;
+  }
+  
+  .subtitle2 h2 {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle2 div {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  
+  .subtitle3 {
+    padding: 10px;
+    background-color: #333;
+  }
+  
+  .subtitle3 h2 {
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #ffffff;
+  }
+  
+  .subtitle3 h3 {
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #afd275;
+  }
+  
+  .subtitle3 h4 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 2500;
+    box-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #009DC4;
+  }
+  
+  .search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
       
       .search-container {
       display: flex;
