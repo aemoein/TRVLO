@@ -124,8 +124,8 @@ body {
 
 header {
   position: absolute;
-  top: 28px;
-  left: 250px;
+  top: 14px;
+  left: 200px;
 }
 
 .logo {
@@ -312,31 +312,18 @@ top: 0;
   
   .subtitle2 {
     display: flex;
-    padding: 20px;
+    padding: 10px;
     background-color: #0077c2;
     color: #ffffff;
   }
   
   .subtitle2 h2 {
-    margin-left: 40px;
-    font-size: 48px;
+    font-size: 40px;
     font-weight: 2500;
     box-align: left;
     font-weight: bold;
     letter-spacing: 0px;
-    width: 600px;
-  }
-  
-  .subtitle2 div {
-    margin-left: 50px;
-    margin-top: 10px;
-    font-size: 40px;
-    font-weight: 2500;
-    box-align: right;
-    justify-content: right;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 0px;
+    margin-left: 15px;
   }
   
   .subtitle3 {
@@ -356,7 +343,8 @@ top: 0;
     color: #ffffff;
   }
   
-  .subtitle3 h3 {
+  .subtitle3 h3 
+  {
     margin-left: 40px;
     font-size: 40px;
     font-weight: 2500;
@@ -411,7 +399,8 @@ top: 0;
 
   .search-container {
     float: right;
-    margin-right: 2rem;
+    margin-right: 10px;
+    margin-top: 40px;
     position: absolute;
     right: 0;
 }
