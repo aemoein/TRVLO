@@ -408,3 +408,18 @@ top: 0;
   button:hover {
     background-color: #005388;
   }
+
+  .search-container {
+    float: right;
+    margin-right: 2rem;
+    position: absolute;
+    right: 0;
+}
+
+.search-container input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
+
