@@ -1,0 +1,402 @@
+{
+    "card": [    
+        {
+        "name": "United States",
+        "category": "North America",
+        "image": "https://www.pixelstalk.net/wp-content/uploads/2016/07/1280x800-Desktop-Wallpapers.jpg",
+        "link": "Destinations/United States/UnitedStates.html"
+        },
+        
+        {
+        "name": "Los Angeles",
+        "category": "United States",
+        "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
+        "link": "Destinations/United States/LosAngeles.html"
+        },
+        
+        {
+        "name": "Paris, France",
+        "category": "France",
+        "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
+        "link": "Destinations/France/Paris.html"
+        },
+        
+        {
+        "name": "New York City, USA",
+        "category": "United States",
+        "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
+        "link": "Destinations/United States/NewYork.html"
+        },
+        
+        {
+        "name": "Tokyo, Japan",
+        "category": "Japan",
+        "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
+        "link": "Destinations/Japan/Tokyo.html"
+        },
+        
+        {
+        "name": "Amsterdam",
+        "category": "Netherlands",
+        "image": "https://wallpaper.dog/large/10873881.jpg",
+        "link": "Destinations/Netherlands/Amsterdam.html"
+        },
+        
+        {
+        "name": "London, UK",
+        "category": "United Kingdom",
+        "image": "https://rare-gallery.com/uploads/posts/510445-london-computer.jpg",
+        "link": "Destinations/United Kingdom/London.html"
+        },
+
+        {
+        "name": "San Francisco",
+        "category": "United States",
+        "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
+        "link": "Destinations/United States/SanFran.html"
+        },
+          
+        {
+            "name": "Seattle",
+            "category": "United States",
+            "image": "https://cdn.wallpapersafari.com/60/45/P26Ff8.jpg",
+            "link": "Destinations/United States/Seattle.html"
+        },
+
+        {
+            "name": "Miami, USA",
+            "category": "United States",
+            "image": "https://wallpaper.dog/large/20548174.jpg",
+            "link": "Destinations/United States/Miami.html"
+        },
+
+        {
+            "name": "Toronto, Canada",
+            "category": "Canada",
+            "image": "https://wallpapercave.com/wp/wp2197451.jpg",
+            "link": "Destinations/Canada/Toronto.html"
+        },
+
+        {
+            "name": "Madrid, Spain",
+            "category": "Spain",
+            "image": "https://c4.wallpaperflare.com/wallpaper/487/323/753/man-made-madrid-building-city-wallpaper-preview.jpg",
+            "link": "Destinations/Spain/Madrid.html"
+        },
+
+        {
+            "name": "Milan, Italy",
+            "category": "Italy",
+            "image": "https://wallpaperaccess.com/full/2043362.jpg",
+            "link": "Destinations/Italy/Milan.html"
+        },
+
+        {
+            "name": "Santorini, Greece",
+            "category": "Greece",
+            "image": "https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg",
+            "link": "Destinations/Greece/Santorini.html"
+        },
+
+        {
+            "name": "Barcelona, Spain",
+            "category": "Spain",
+            "image": "https://wallpaperaccess.com/full/1127205.jpg",
+            "link": "Destinations/Spain/Barcelona.html"
+        },
+        
+        {
+            "name": "Dubai, UAE",
+            "category": "Asia",
+            "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg",
+            "link": "Destinations/Asia/Dubai.html"
+        },
+
+        {
+            "name": "Cape Town, South Africa",
+            "category": "Africa",
+            "image": "https://wallpapercave.com/wp/wp2007525.jpg",
+            "link": "Destinations/Africa/CapeTown.html"
+        },
+
+        {
+            "name": "Sydney, Australia",
+            "category": "Australia",
+            "image": "https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg",
+            "link": "Destinations/Australia/Sydney.html"
+        },
+
+        {
+            "name": "Rio de Janeiro, Brazil",
+            "category": "Brazil",
+            "image": "https://www.stjamesprimaryhanney.co.uk/wp-content/uploads/2014/09/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg",
+            "link": "Destinations/Rio.html"
+        },
+
+        {
+            "name": "Vancouver, Canada",
+            "category": "Canada",
+            "image": "https://images6.alphacoders.com/384/384735.jpg",
+            "link": "Destinations/Canada/Vancouver.html"
+        },
+
+        {
+            "name": "Porto, Portugal",
+            "category": "Portugal",
+            "image": "https://rare-gallery.com/uploads/posts/11652-full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd__full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd.jpg",
+            "link": "Destinations/Porto.html"
+        },
+        
+        {
+            "name": "Rome",
+            "category": "Italy",
+            "image": "https://wallpaperaccess.com/full/129471.jpg",
+            "link": "Destinations/Italy/Rome.html"
+        },
+        
+        {
+            "name": "Florence",
+            "category": "Italy",
+            "image": "https://s1.1zoom.me/b5050/451/Florence_Italy_Cathedral_Houses_Santa_Maria_del_604918_1920x1200.jpg",
+            "link": "Destinations/Italy/Florence.html"
+        },
+        
+        {
+            "name": "Copenhagen",
+            "category": "Denmark",
+            "image": "https://images.wallpaperscraft.com/image/single/houses_buildings_city_211699_1280x800.jpg",
+            "link": "/Destinations/Europe/Copenhagen.html"
+        },
+        
+        {
+            "name": "Istanbul",
+            "category": "Turkey",
+            "image": "https://c4.wallpaperflare.com/wallpaper/691/715/742/1920x1200-px-islam-istanbul-mosque-mosques-sultan-ahmed-mosque-turkey-animals-bears-hd-art-wallpaper-preview.jpg",
+            "link": "/Destinations/Europe/Istanbul.html"
+        },
+        
+        {
+            "name": "Prague",
+            "category": "Czech Republic",
+            "image": "https://wallpaperaccess.com/full/245672.jpg",
+            "link": "/Destinations/Europe/prague.html"
+        },
+
+        {
+            "name": "Stockholm",
+            "category": "Sweden",
+            "image": "https://images7.alphacoders.com/900/thumb-1920-900579.jpg",
+            "link": "/Destinations/Europe/Stockholm.html"
+        },
+        {
+            "name": "Venice",
+            "category": "Italy",
+            "image": "https://rare-gallery.com/uploads/posts/521521-venice.jpg",
+            "link": "/Destinations/Italy/Venice.html"
+        },
+        {
+            "name": "Lisbon",
+            "category": "Portugal",
+            "image": "https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg",
+            "link": "/Destinations/Portugal/lisbon.html"
+        },
+        {
+            "name": "Athens",
+            "category": "Greece",
+            "image": "https://cdn.wallpapersafari.com/20/57/vnawpO.jpg",
+            "link": "/Destinations/Greece/Athens.html"
+        },
+        {
+            "name": "Munich",
+            "category": "Germany",
+            "image": "https://wallpaperfx.com/view_image/munich-bavaria-1280x800-wallpaper-16472.jpg",
+            "link": "/Destinations/Germany/Munich.html"
+        },
+        {
+            "name": "Seville",
+            "category": "Spain",
+            "image": "https://images5.alphacoders.com/427/427231.jpg",
+            "link": "/Destinations/Spain/Sevielle.html"
+        },
+        {
+            "name": "Oslo",
+            "category": "Norway",
+            "image": "https://s1.1zoom.me/b5050/98/Norway_Houses_Mountains_Oslo_Roof_From_above_564839_1920x1200.jpg",
+            "link": "/Destinations/Europe/Oslo.html"
+        },
+        
+        {
+            "name": "Dubrovnik",
+            "category": "Croatia",
+            "image": "https://www.terra-balka.com/en/wp-content/uploads/adobestock-16639355-dubrovnik-1280x800.jpeg",
+            "link": "/Destinations/Europe/Dubrovnik.html"
+        },
+
+        {
+            "name": "Zurich",
+            "category": "Switzerland",
+            "image": "https://s1.1zoom.me/big7/475/Switzerland_Zurich_Houses_Evening_Rivers_Bridges_581997_1920x1200.jpg",
+            "link": "/Destinations/Switzerland/Zurich.html"
+        },
+
+        {
+            "name": "Geneva",
+            "category": "Switzerland",
+            "image": "https://wallpaperaccess.com/full/2036265.jpg",
+            "link": "/Destinations/Switzerland/Geneva.html"
+        },
+
+        {
+            "name": "Annecy",
+            "category": "France",
+            "image": "https://wallpapercave.com/wp/wp10158285.png",
+            "link": "/Destinations/France/Annecy.html"
+        },
+
+        {
+            "name": "Monaco",
+            "category": "Monaco",
+            "image": "https://vistapointe.net/images/monaco-4.jpg",
+            "link": "/Destinations/Europe/Monaco.html"
+        },
+
+        {
+            "name": "Cannes",
+            "category": "France",
+            "image": "https://wallpaperaccess.com/full/681290.jpg",
+            "link": "/Destinations/France/Cannes.html"
+        },
+
+        {
+            "name": "Maldives",
+            "category": "Maldives",
+            "image": "https://wallpapercave.com/wp/wp4088749.jpg",
+            "link": "Destinations/Asia/Maldives.html"
+        },
+
+        {   "name": "Bali",
+            "category": "Indonesia",
+            "image": "https://wallpaperaccess.com/full/373638.jpg",    
+            "link": "Destinations/Asia/bali.html"  
+        },  
+        
+        {    
+            "name": "Phuket",    
+            "category": "Thailand",    
+            "image": "https://www.letsphuket.com/wp-content/uploads/phuket1.jpg",    
+            "link": "Destinations/Asia/Phuket.html"  
+        },
+
+        {    
+            "name": "Cairo",    
+            "category": "Egypt",    
+            "image": "https://www.10wallpaper.com/wallpaper/1920x1200/1108/Cairo_Egypt-Mohammed_Ali_Mosque_wallpaper_1920x1200.jpg",    
+            "link": "Destinations/Africa/cairo.html"  
+        },  
+        
+        {    
+            "name": "Kyoto",    
+            "category": "Japan",    
+            "image": "https://wallpaper.dog/large/967735.jpg",    
+            "link": "Destinations/Japan/kyoto.html"  
+        },  
+        
+        {    
+            "name": "Montreal",    
+            "category": "Canada",    
+            "image": "https://images8.alphacoders.com/510/thumb-1920-510444.jpg",    
+            "link": "Destinations/Canada/Montreal.html"  
+        },  
+        
+        {    
+            "name": "Lisbon",    
+            "category": "Portugal",    
+            "image": "https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg",    
+            "link": "/Destinations/Portugal/lisbon.html"  
+        },
+        
+        {
+            "name": "Vienna",
+            "category": "Austria",
+            "image": "https://i.guim.co.uk/img/media/44907381ba02489d60c01ed449fbbef4f82c9bd4/0_579_8688_5213/master/8688.jpg?width=1200&quality=85&auto=format&fit=max&s=5d57831bfe1d69bb81a6057cbb2ce009",
+            "link": "/Destinations/Europe/Vienna.html"
+        },
+
+        {
+            "name": "Marrakech",
+            "category": "Morocco",
+            "image": "https://abdesert.com/wp-content/uploads/2021/03/9f519e5ed23af4c209dc5a2dbb3440c7.jpg",
+            "link": "/Destinations/Africa/Marrakech.html"
+        },
+
+        {
+            "name": "Berlin",
+            "category": "Germany",
+            "image": "https://images6.alphacoders.com/369/thumb-1920-369567.jpg",
+            "link": "/Destinations/Germany/berlin.html"
+        },
+
+        {
+            "name": "Machu Picchu",
+            "category": "Peru",
+            "image": "https://wallpaperaccess.com/full/1099442.jpg",
+            "link": "/Destinations/MachuPicchu.html"
+        },
+
+        {
+            "name": "Switzerland",
+            "category": "Switzerland",
+            "image": "https://s1.1zoom.me/b5050/719/Switzerland_Mountains_Lake_Brienzer_See_Alps_597630_1920x1200.jpg",
+            "link": "Destinations/Switzerland/switzerland.html"
+        },
+
+        {
+            "name": "Iceland",
+            "category": "Iceland",
+            "image": "https://wallpaperaccess.com/full/733979.jpg",
+            "link": "Destinations/Europe/iceland.html"
+        },
+          
+        {
+            "name": "Namibia",
+            "category": "Africa",
+            "image": "https://rare-gallery.com/uploads/posts/1121722-landscape-white-nature-sand-desert-clear-sky-dune-monument-material-wing-atmosphere-of-earth.jpg",
+            "link": "Destinations/Africa/Namibia.html"
+        },
+        
+        {
+            "name": "Norway",
+            "category": "Europe",
+            "image": "https://www.wallpaperup.com/uploads/wallpapers/2015/06/12/720351/ec0ab0ff31703ca1b30084f446741747.jpg",
+            "link": "Destinations/Europe/Norway.html"
+        },
+        
+        {
+            "name": "Lake Louise, Alberta",
+            "category": "Canada",
+            "image": "https://wallpaperaccess.com/full/1609678.jpg",
+            "link": "Destinations/Canada/lakeLouiseAL.html"
+        },
+        
+        {
+            "name": "Fiordland",
+            "category": "New Zealand",
+            "image": "https://media.cntraveler.com/photos/5e8511e41185400008f5b3fe/master/w_2580%2Cc_limit/new-zealand-happiest-countries-GettyImages-452517269.jpg",
+            "link": "Destinations/Australia/FiordlandNZ.html"
+        },
+        
+        {
+            "name": "Australia",
+            "category": "Australia",
+            "image": "https://www.10wallpaper.com/wallpaper/1920x1200/1604/Sunset_time_rocks_western_australia-Nature_scenery_HD_Wallpaper_1920x1200.jpg",
+            "link": "Destinations/Australia/Australia.html"
+        },
+        
+        {
+            "name": "Scotland",
+            "category": "United Kingdom",
+            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "link": "Destinations/United Kingdom/Scotland.html"
+        }
+    ]
+}

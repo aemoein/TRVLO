@@ -23,5 +23,6 @@ window.onload=function(){
         behavior: "smooth"
       });
     });
+
     }
     

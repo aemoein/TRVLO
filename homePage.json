@@ -1,0 +1,32 @@
+[
+    {
+      "imgUrl": "https://rare-gallery.com/uploads/posts/510445-london-computer.jpg",
+      "category": "United Kingdom",
+      "title": "London",
+      "link": "Destinations/United Kingdom/London.html"
+    },
+    {
+      "imgUrl": "https://cdn.pixabay.com/photo/2019/03/06/00/30/japan-4032336_960_720.jpg",
+      "category": "Japan",
+      "imgWidth": 960,
+      "imgHeight": 720,
+      "title": "Tokyo",
+      "link": "Destinations/Japan/Tokyo.html"
+    },
+    {
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/05/29/17/12/rome-2359198_960_720.jpg",
+      "category": "Italy",
+      "imgWidth": 960,
+      "imgHeight": 720,
+      "title": "Rome",
+      "link": "Destinations/Italy/Rome.html"
+    },
+    {
+    "imgUrl": "https://cdn.pixabay.com/photo/2015/05/15/14/49/dubai-768825_960_720.jpg",
+    "category": "United Arab Emirates",
+    "imgWidth": 960,
+    "imgHeight": 720,
+    "title": "Dubai",
+    "link": "Destinations/United Arab Emirates/Dubai.html"
+    }
+    ]
