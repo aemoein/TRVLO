@@ -1,5 +1,5 @@
 /* Global styles */
-* {
+  *{
     box-sizing: border-box;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -379,6 +379,11 @@
   }
   
   .grid {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .attractions_grid {
     display: grid;
     gap: 2rem;
   }
