@@ -209,7 +209,7 @@
         {
             "name": "Munich",
             "category": "Germany",
-            "image": "https://wallpaperfx.com/view_image/munich-bavaria-1280x800-wallpaper-16472.jpg",
+            "image": "https://s2.best-wallpaper.net/wallpaper/1280x800/1611/City-view-houses-street-clouds-Munich-Germany_1280x800.jpg",
             "link": "/Destinations/Germany/Munich.html"
         },
         {
@@ -397,6 +397,223 @@
             "category": "United Kingdom",
             "image": "https://wallpapercave.com/wp/wp1815136.jpg",
             "link": "Destinations/United Kingdom/Scotland.html"
+        },
+
+        {
+            "name": "Singapore",
+            "category": "Singapore",
+            "image": "https://cdn1.matadornetwork.com/blogs/1/2019/06/The-Supertrees-At-Gardens-By-The-Bay-In-Singapore.jpg",
+            "link": "Destinations/Asia/Singapore.html"
+        },
+
+        {
+            "name": "Doha",
+            "category": "Qatar",
+            "image": "https://www.arabianbusiness.com/cloud/2021/09/15/QYhp5KVD-dohaqatar_1-4.jpg",
+            "link": "Destinations/Middle East/Doha.html"
+        },
+
+        {
+            "name": "Seoul",
+            "category": "South Korea",
+            "image": "https://cdn.wallpapersafari.com/21/23/cJKkwh.jpg",
+            "link": "Destinations/Asia/Seoul.html"
+        },
+
+        {
+            "name": "Bangkok",
+            "category": "Thailand",
+            "image": "https://images.wallpaperscraft.com/image/single/night_city_palace_city_lights_122501_1280x800.jpg",
+            "link": "Destinations/Asia/Bangkok.html"
+        },
+
+        {
+            "name": "Hong Kong",
+            "category": "Hong Kong",
+            "image": "https://images.hdqwalls.com/download/hong-kong-city-view-buildings-light-night-im-1280x800.jpg",
+            "link": "Destinations/Asia/Hong Kong.html"
+        },
+
+        {
+            "name": "Macau",
+            "category": "Macau",
+            "image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/macau/banyan-tree-macau-pool.jpg",
+            "link": "Destinations/Asia/Macau.html"
+        },
+
+        {
+            "name": "Shanghai",
+            "category": "China",
+            "image": "https://images.wallpapersden.com/image/download/shanghai-city-china_bGVta26UmZqaraWkpJRmZ21lrW1lZQ.jpg",
+            "link": "Destinations/Asia/Shanghai.html"
+        },
+
+        {
+            "name": "Beijing",
+            "category": "China",
+            "image": "https://s2.best-wallpaper.net/wallpaper/1280x800/2203/Gate-city-trees-night-lights-Beijing-China_1280x800.jpg",
+            "link": "Destinations/Asia/Beijing.html"
+        },
+
+        {
+            "name": "Osaka",
+            "category": "Japan",
+            "image": "https://wallpaperaccess.com/full/40319.jpg",
+            "link": "Destinations/Asia/Osaka.html"
+        },
+
+        {
+            "name": "Busan",
+            "category": "South Korea",
+            "image": "https://w0.peakpx.com/wallpaper/632/605/HD-wallpaper-busan-landscape-city-view-nighttime-travel.jpg",
+            "link": "Destinations/Asia/Busan.html"
+        },
+
+        {
+            "name": "Shenzhen",
+            "category": "China",
+            "image": "https://wallpapercave.com/wp/wp2487878.jpg",
+            "link": "Destinations/China/Shenzhen.html"
+        },
+            
+        {
+            "name": "Beirut",
+            "category": "Lebanon",
+            "image": "https://wallpapercave.com/wp/wp7987101.jpg",
+            "link": "Destinations/Lebanon/Beirut.html"
+        },
+            
+        {
+            "name": "Jeddah",
+            "category": "Saudi Arabia",
+            "image": "https://wallpapercave.com/wp/wp3885464.jpg",
+            "link": "Destinations/Saudi Arabia/Jeddah.html"
+        },
+            
+        {
+            "name": "Luxor",
+            "category": "Egypt",
+            "image": "https://wallpapercave.com/wp/wp2697887.jpg",
+            "link": "Destinations/Egypt/Luxor.html"
+        },
+            
+        {
+            "name": "Sharm El Sheikh",
+            "category": "Egypt",
+            "image": "https://wallpapercave.com/wp/wp2130352.jpg",
+            "link": "Destinations/Egypt/Sharm El Sheikh.html"
+        },
+            
+        {
+            "name": "Alexandria",
+            "category": "Egypt",
+            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "link": "Destinations/Egypt/Alexandria.html"
+        },
+            
+        {
+            "name": "Chicago",
+            "category": "United States",
+            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "link": "Destinations/United States/Chicago.html"
+        },
+            
+        {
+            "name": "Washington D.C.",
+            "category": "United States",
+            "image": "https://wallpapercave.com/wp/wp7986241.jpg",
+            "link": "Destinations/United States/Washington D.C..html"
+        },
+            
+        {
+            "name": "Quebec City",
+            "category": "Canada",
+            "image": "https://wallpapercave.com/wp/wp2527598.jpg",
+            "link": "Destinations/Canada/Quebec City.html"
+        },
+            
+        {
+            "name": "Boston",
+            "category": "United States",
+            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "link": "Destinations/United States/Boston.html"
+        },
+            
+        {
+            "name": "Cancun",
+            "category": "Mexico",
+            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "link": "Destinations/Mexico/Cancun.html"
+        },
+            
+        {
+            "name": "Delhi",
+            "category": "India",
+            "image": "https://wallpapercave.com/wp/wp2845276.jpg",
+            "link": "Destinations/India/Delhi.html"
+        },
+            
+        {
+            "name": "Abu Dhabi",
+            "category": "United Arab Emirates",
+            "image": "https://wallpapercave.com/wp/wp2369383.jpg",
+            "link": "Destinations/United Arab Emirates/Abu Dhabi.html"
+        },
+            
+        {
+            "name": "Santiago",
+            "category": "Chile",
+            "image": "https://wallpapercave.com/wp/wp6064861.jpg",
+            "link": "Destinations/Chile/Santiago.html"
+        },
+
+        {
+            "name": "Mexico City",
+            "category": "Mexico",
+            "image": "https://wallpapercave.com/wp/wp1815065.jpg",
+            "link": "Destinations/Mexico/Mexico_City.html"
+        },
+            
+        {
+            "name": "Havana",
+            "category": "Cuba",
+            "image": "https://wallpapercave.com/wp/wp6330554.jpg",
+            "link": "Destinations/Cuba/Havana.html"
+        },
+            
+        {
+            "name": "Colorado Springs",
+            "category": "United States",
+            "image": "https://wallpapercave.com/wp/wp5964479.jpg",
+            "link": "Destinations/United States/Colorado_Springs.html"
+        },
+            
+        {
+            "name": "San Diego",
+            "category": "United States",
+            "image": "https://wallpapercave.com/wp/wp1995665.jpg",
+            "link": "Destinations/United States/San_Diego.html"
+        },
+            
+        {
+            "name": "Edinburgh",
+            "category": "Scotland",
+            "image": "https://wallpapercave.com/wp/wp1837567.jpg",
+            "link": "Destinations/Scotland/Edinburgh.html"
+        },
+            
+        {
+            "name": "Glasgow",
+            "category": "Scotland",
+            "image": "https://wallpapercave.com/wp/wp1837629.jpg",
+            "link": "Destinations/Scotland/Glasgow.html"
+        },
+            
+        {
+            "name": "Manchester",
+            "category": "United Kingdom",
+            "image": "https://wallpapercave.com/wp/wp1815135.jpg",
+            "link": "Destinations/United Kingdom/Manchester.html"
         }
     ]
 }

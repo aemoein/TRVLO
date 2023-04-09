@@ -222,15 +222,15 @@ header {
 
 .card__img--hover {
   transition: 0.2s all ease-out;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
   position: absolute;
-    height: 235px;
+  height: 235px;
   border-top-left-radius: 12px;
-border-top-right-radius: 12px;
-top: 0;
+  border-top-right-radius: 12px;
+  top: 0;
   
 }
 
@@ -297,6 +297,7 @@ top: 0;
     padding: 20px;
     background-color: #0077c2;
     color: #ffffff;
+    align-items: center;
   }
   
   .subtitle1 h2 {
@@ -311,7 +312,7 @@ top: 0;
   }
   
   .subtitle2 {
-    display: flex;
+    display: block;
     padding: 10px;
     background-color: #0077c2;
     color: #ffffff;
@@ -323,7 +324,23 @@ top: 0;
     box-align: left;
     font-weight: bold;
     letter-spacing: 0px;
-    margin-left: 15px;
+    margin-left: 20px;
+    width: 450px;
+  }
+
+  .subtitle2 search-form {
+    float: right;
+    margin-right: 10px;
+    margin-top: 40px;
+    position: absolute;
+    right: 0;
+    width: 400px;
+  }
+
+  .subtitle2 form {
+    right: 0;
+    width: 400;
+    margin-left: 20px;
   }
   
   .subtitle3 {
@@ -367,13 +384,6 @@ top: 0;
     color: #009DC4;
   }
   
-  .search-container {
-    display: flex;
-    align-items: right;
-    justify-content: right;
-    margin-bottom: 20px;
-  }
-  
   input[type="text"] {
     width: 300px;
     padding: 12px 20px;
@@ -397,13 +407,13 @@ top: 0;
     background-color: #005388;
   }
 
-  .search-container {
-    float: right;
-    margin-right: 10px;
-    margin-top: 40px;
-    position: absolute;
+  .search-form input {
     right: 0;
-}
+  }
+
+  .search-form button {
+    right: 0;
+  }
 
 .search-container input[type=text] {
     padding: 10px;
@@ -411,4 +421,5 @@ top: 0;
     border: none;
     border-bottom: 2px solid #ccc;
 }
+
 
