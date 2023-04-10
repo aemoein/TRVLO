@@ -2,39 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Vancouver Travel Guide</title>
+    <title id="head_title"></title>
     <link rel="stylesheet" href="../city.css">
     <script src="../city.js"></script>
   </head>
 
-    <section class="hero" id="hero">
-        <style>
-            #hero {
-              background-image: url('https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg');
-            }
-            </style>
-        <div class = "logo">
-            <a href="../../index.html">Travelio</a>
-        </div>
-        
-        <header>
-        <div class = "container">
-        <nav>
-            <ul>
-            <li><a href=" ../../destination.html">DESTINATIONS</a></li>
-            <li><a href="#">POPULAR</a></li>
-            <li><a href="#">EVENTS</a></li>
-            <li><a href="#">CATEGORIES</a></li>
-            <li><a href="#">CHALLENGES</a></li>
-            </ul>
-        </nav>
-        </div>
-        </header>
-        
-        <div class = "hero-contain">
-            <h1 class = "hero-title" >Vancouver</h1>
-        </div>
-    </section>
+    <section class="hero" id="hero"></section>
 
   <body>
     <main>
@@ -62,10 +35,6 @@
 
         <script>
             loadJSON("Destinations/Canada/Vancouver");
-            JSON_attractions("Destinations/Canada/Vancouver");
-            JSON_foods("Destinations/Canada/Vancouver");
-            JSON_hotels("Destinations/Canada/Vancouver");
-            JSON_transport("Destinations/Canada/Vancouver");
         </script>
 
     </main>

@@ -1,22 +1,45 @@
 {
+  "hero":
+  {
+    "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
+    "title": "Vancouver"
+  },
+
   "about": 
   {
-    "info": {
-      "text": "Vancouver is a vibrant and diverse city located on the west coast of Canada. Known for its stunning natural beauty, Vancouver is surrounded by mountains, forests, and beaches, offering endless opportunities for outdoor activities. The city is also home to a thriving arts and culture scene, with world-class museums, galleries, and theaters. Visitors can explore the city's diverse neighborhoods, each with its own unique character and charm, or enjoy the delicious cuisine that Vancouver is famous for. Whether you're looking for adventure, relaxation, or a little bit of both, Vancouver has something to offer everyone."
-    },
-    "facts": {
-      "title": "Quick Facts",
-      "text": "<strong>Population:</strong> 647,540<br><strong>Province:</strong> British Columbia<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Language:</strong> English, French<br><strong>Currency:</strong> Canadian dollar (CAD)"
-    },
-    "climate": {
-      "title": "Climate",
-      "text": "Vancouver has a mild, temperate climate with moderate rainfall throughout the year. Average temperatures range from 2°C (36°F) in winter to 19°C (66°F) in summer, with plenty of sunshine and opportunities for outdoor activities year-round. Remember to pack layers for changing weather conditions."
-    }
+    "name": "Vancouver",
+    "info_text": "Vancouver is a vibrant and diverse city located on the west coast of Canada. Known for its stunning natural beauty, Vancouver is surrounded by mountains, forests, and beaches, offering endless opportunities for outdoor activities. The city is also home to a thriving arts and culture scene, with world-class museums, galleries, and theaters. Visitors can explore the city's diverse neighborhoods, each with its own unique character and charm, or enjoy the delicious cuisine that Vancouver is famous for. Whether you're looking for adventure, relaxation, or a little bit of both, Vancouver has something to offer everyone.",
+    "facts_text": "<strong>Population:</strong> 647,540<br><strong>Province:</strong> British Columbia<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Language:</strong> English, French<br><strong>Currency:</strong> Canadian dollar (CAD)",
+    "climate_text": "Vancouver has a mild, temperate climate with moderate rainfall throughout the year. Average temperatures range from 2°C (36°F) in winter to 19°C (66°F) in summer, with plenty of sunshine and opportunities for outdoor activities year-round. Remember to pack layers for changing weather conditions."
   },
 
   "attractions":
   {
     "attractions_card" : [
+      {
+        "img": "https://www.tripsavvy.com/thmb/f3ZxYSV6ywYNvTfIvE4o6w2FFoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-934870338-5b115c3beb97de0036471c4f.jpg",
+        "alt": "Canada Place",
+        "title": "Canada Place",
+        "description": "Canada Place is a landmark building on Vancouver's waterfront that houses a convention center, a hotel, and the Vancouver Cruise Ship Terminal. Visitors can enjoy various activities at Canada Place, including the FlyOver Canada experience, the Vancouver Lookout, and outdoor exhibits such as The Canadian Trail."
+      },
+      {
+        "img": "https://curiocity.com/wp-content/uploads/2021/03/gastown1.jpg",
+        "alt": "Gastown",
+        "title": "Gastown",
+        "description": "Gastown is a historic neighborhood in Vancouver that's known for its Victorian architecture, cobblestone streets, and trendy restaurants, bars, and shops. Visitors can explore the neighborhood's many attractions, including the famous steam clock, the Gastown Museum, and the many art galleries and boutiques."
+      },
+      {
+        "img": "https://visit.ubc.ca/wp-content/uploads/2019/03/profile_museum_of_anthropology_moa-770x482_4x.jpg",
+        "alt": "Museum of Anthropology",
+        "title": "Museum of Anthropology",
+        "description": "The Museum of Anthropology at the University of British Columbia is a world-renowned museum that houses an extensive collection of First Nations art and artifacts. Visitors can explore the museum's many exhibits, including the Haida and Kwakwaka'wakw collections, and learn about the rich cultural heritage of Canada's Indigenous peoples."
+      },
+      {
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c3/2b/7e/jing-tower.jpg?w=1200&h=1200&s=1",
+        "alt": "Dr. Sun Yat-Sen Classical Chinese Garden",
+        "title": "Dr. Sun Yat-Sen Classical Chinese Garden",
+        "description": "The Dr. Sun Yat-Sen Classical Chinese Garden is a tranquil oasis in the heart of Vancouver's Chinatown. Visitors can explore the garden's many features, including its ponds, rock formations, and pavilions, and learn about the principles of classical Chinese garden design. The garden also hosts many cultural events and performances throughout the year."
+      },
       {
         "img": "https://www.moon.com/wp-content/uploads/2019/01/Vancouver_StanleyParkSeawall_jamesvancouver-iStock-520298306.jpg?fit=1024%2C768",
         "alt": "Stanley Park",
@@ -54,17 +77,23 @@
         "description": "Vancouver is known for its fresh seafood and sushi is a popular choice for locals and visitors alike. Some top spots to try include Miku, Tojo's, and Sushi Bar Maumi."
       },
       {
-        "img": "https://eventective-media.azureedge.net/3080318_lg.jpg",
-        "alt": "Craft Beer",
-        "title": "Craft Beer",
-        "description": "Vancouver is also home to a thriving craft beer scene, with a variety of local breweries and taprooms. Some popular options include Brassneck Brewery, Main Street Brewing, and Strange Fellows Brewing."
+        "img": "https://api.vip.foodnetwork.ca/wp-content/uploads/2022/02/best-seafood-4-holy-crab.jpeg",
+        "alt": "Seafood",
+        "title": "Seafood",
+        "description": "As a coastal city, Vancouver is famous for its fresh and delicious seafood. Some of the top seafood restaurants in Vancouver include Blue Water Cafe, The Fish Counter, and The Sandbar Seafood Restaurant."
       },
       {
         "img": "https://images.dailyhive.com/20221020111336/poutinarama.jpg",
         "alt": "Poutine",
         "title": "Poutine",
         "description": "This quintessential Canadian dish consists of French fries, cheese curds, and gravy. Some top spots to try include Fritz European Fry House, La Belle Patate, and Smoke's Poutinerie."
-      }
+      },
+      {
+        "img": "https://www.straight.com/files/v3/styles/gs_standard/public/images/18/01/dim-sum-c.-dine-out-vancouver-festival.jpg?itok=1PbibtBD",
+        "alt": "Dim Sum",
+        "title": "Dim Sum",
+        "description": "Vancouver's Chinese community has a long history in the city and dim sum is a popular brunch option in many Chinese restaurants. Some of the top dim sum spots in Vancouver include Kirin, Dynasty Seafood Restaurant, and Sun Sui Wah Seafood Restaurant."
+      }      
     ]
   },
 
@@ -77,20 +106,24 @@
         "title": "Fairmont Pacific Rim",
         "description": "This luxurious hotel is located in the heart of downtown Vancouver and offers stunning views of the harbour and mountains. Amenities include a rooftop pool, spa, and multiple dining options."
       },
-
       {
         "img": "https://media.cntraveler.com/photos/61eb8c899580ae68b5219081/16:9/w_2560,c_limit/LodenHotel-Vancouver-Canada.jpg",
         "alt": "Loden Hotel",
         "title": "Loden Hotel",
         "description": "This boutique hotel is situated in the trendy Yaletown neighbourhood and offers stylish rooms and suites with high-end amenities. Guests can also enjoy the on-site fitness centre and spa."
       },
-
       {
-        "img": "https://cf.bstatic.com/xdata/images/hotel/max500/80280257.jpg?k=01f9131b0c69bae3931769c8cf9004bbe32141034e49ffaa1ec3f98bf1220d34&o=&hp=1",
-        "alt": "The Burrard",
-        "title": "The Burrard",
-        "description": "This retro-style hotel is located in the vibrant neighbourhood of downtown Vancouver and offers quirky rooms with mid-century modern decor. Amenities include a courtyard and bike rentals."
-      }
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/40/1a/62/main-lobby.jpg?w=700&h=-1&s=1",
+        "alt": "Shangri-La Hotel Vancouver",
+        "title": "Shangri-La Hotel Vancouver",
+        "description": "A luxury hotel located in the heart of Vancouver's financial district, known for its sleek and modern design and impeccable service. Guests can enjoy luxurious accommodations, fine dining at MARKET by Jean-Georges, and access to the hotel's CHI, The Spa."
+      },
+      {
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/33/02/53/rosewood-suite-terrace.jpg?w=700&h=-1&s=1",
+        "alt": "Rosewood Hotel Georgia",
+        "title": "Rosewood Hotel Georgia",
+        "description": "A historic hotel that combines classic elegance with modern amenities, located in the center of downtown Vancouver. Guests can enjoy luxurious accommodations, fine dining at Hawksworth Restaurant, and personalized service from the hotel's dedicated staff."
+      }      
     ]
   },
 
@@ -114,7 +147,14 @@
         "alt": "Ferry",
         "title": "Ferry",
         "description": "For those looking to explore the surrounding areas, ferries are available from Vancouver to destinations like Victoria, the Gulf Islands, and the Sunshine Coast. Reservations are recommended, especially during peak season."
+      },
+      {
+        "img": "https://www.pacificcarrentals.com/wp-content/uploads/2019/08/Pacific-Car-Rentals-800x432.jpg",
+        "alt": "Car Rental in Vancouver",
+        "title": "Car Rental",
+        "description": "If you prefer to have your own transportation in Vancouver, you can rent a car from one of the many car rental companies in the city. Some popular car rental companies in Vancouver include Hertz, Enterprise, and Avis. However, parking in the city can be challenging and expensive, so be sure to check parking options before driving."
       }
+      
     ]
   }
 

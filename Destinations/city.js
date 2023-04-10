@@ -2,25 +2,67 @@ function loadJSON(filename) {
   fetch(`/${filename}.json`)
     .then(response => response.json())
     .then(data => {
+      const title = document.getElementById("head_title");
+
+      title.innerHTML = `
+      ${data.hero.title} Travel Guide
+      `;
+
+      const hero = document.getElementById("hero");
+
+      hero.innerHTML = `
+        <style>
+          #hero {
+            background-image: url('${data.hero.img}');
+          }
+        </style>
+        <div class = "logo">
+            <a href="../../index.html">Travelio</a>
+        </div>
+        
+        <header>
+        <div class = "container">
+        <nav>
+            <ul>
+            <li><a href=" ../../destination.html">DESTINATIONS</a></li>
+            <li><a href="#">POPULAR</a></li>
+            <li><a href="#">EVENTS</a></li>
+            <li><a href="#">CATEGORIES</a></li>
+            <li><a href="#">CHALLENGES</a></li>
+            </ul>
+        </nav>
+        </div>
+        </header>
+        
+        <div class = "hero-contain">
+            <h1 class = "hero-title" >${data.hero.title}</h1>
+        </div>
+      `;
+
       const about = document.getElementById("about");
 
       about.innerHTML = `
         <div class="info">
-          <p>${data.about.info.text}</p>
+          <p>${data.about.info_text}</p>
         </div>
 
         <div class="facts">
-          <h2>${data.about.facts.title}</h2>
-          <p>${data.about.facts.text}</p> 
+          <h2>Quick Facts</h2>
+          <p>${data.about.facts_text}</p> 
         </div>
 
         <div class="climate">
-          <h2>${data.about.climate.title}</h2>
-          <p>${data.about.climate.text}</p>
+          <h2>Climate</h2>
+          <p>${data.about.climate_text}</p>
         </div>
       `;
     })
     .catch(error => console.error(error));
+
+    JSON_attractions(filename);
+    JSON_foods(filename);
+    JSON_hotels(filename);
+    JSON_transport(filename);
 } 
 
 function JSON_attractions(filename) {
