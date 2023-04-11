@@ -1,32 +1,209 @@
-[
+{
+  "nature": [
+
     {
-      "imgUrl": "https://rare-gallery.com/uploads/posts/510445-london-computer.jpg",
-      "category": "United Kingdom",
-      "title": "London",
-      "link": "Destinations/United Kingdom/London.html"
+        "name": "Switzerland",
+        "category": "Switzerland",
+        "description": "Switzerland's breathtaking natural beauty, charming cities and towns, and commitment to sustainability and quality of life make it the ideal destination for those seeking a refreshing and culturally enriching getaway.",
+        "image": "HomePage_Photos/Switzerland.jpg",
+        "link": "Destinations/Switzerland/switzerland.html"
     },
+
     {
-      "imgUrl": "https://cdn.pixabay.com/photo/2019/03/06/00/30/japan-4032336_960_720.jpg",
-      "category": "Japan",
-      "imgWidth": 960,
-      "imgHeight": 720,
-      "title": "Tokyo",
-      "link": "Destinations/Japan/Tokyo.html"
+        "name": "Iceland",
+        "category": "Iceland",
+        "description": "With its stunningly rugged landscapes, dramatic waterfalls, bubbling hot springs, and the elusive Northern Lights, Iceland is a land of otherworldly beauty and adventure that offers visitors a chance to explore nature in its rawest form.",
+        "image": "HomePage_Photos/iceland.jpg",
+        "link": "Destinations/Europe/iceland.html"
     },
+      
     {
-      "imgUrl": "https://cdn.pixabay.com/photo/2017/05/29/17/12/rome-2359198_960_720.jpg",
-      "category": "Italy",
-      "imgWidth": 960,
-      "imgHeight": 720,
-      "title": "Rome",
-      "link": "Destinations/Italy/Rome.html"
+        "name": "Namibia",
+        "category": "Africa",
+        "description": "Embark on an unforgettable journey to Namibia, where you can marvel at the vast red sand dunes of Sossusvlei, encounter diverse wildlife in Etosha National Park, and connect with the ancient Himba tribe.",
+        "image": "HomePage_Photos/Namibia.jpg",
+        "link": "Destinations/Africa/Namibia.html"
     },
+    
     {
-    "imgUrl": "https://cdn.pixabay.com/photo/2015/05/15/14/49/dubai-768825_960_720.jpg",
-    "category": "United Arab Emirates",
-    "imgWidth": 960,
-    "imgHeight": 720,
-    "title": "Dubai",
-    "link": "Destinations/United Arab Emirates/Dubai.html"
+        "name": "Norway",
+        "category": "Europe",
+        "description": "With its majestic fjords, picturesque towns, world-renowned seafood, and commitment to sustainability and quality of life, Norway is a must-visit destination for travelers seeking a peaceful escape from the hustle of modern life.",
+        "image": "HomePage_Photos/Norway.jpg",
+        "link": "Destinations/Europe/Norway.html"
+    },
+    
+    {
+        "name": "Lake Louise",
+        "category": "Canada",
+        "description": "Discover the natural beauty of Lake Louise in Alberta, Canada, where you can hike in the stunning Rocky Mountains, canoe on the turquoise glacial lake, and experience the charming mountain town of Banff, making it an essential visit",
+        "image": "HomePage_Photos/lake_louise.jpg",
+        "link": "Destinations/Canada/lakeLouiseAL.html"
+    },
+    
+    {
+        "name": "Fiordland",
+        "category": "New Zealand",
+        "description": "Fiordland in New Zealand's South Island boasts stunning natural beauty with dramatic fiords, cascading waterfalls, rainforests, and diverse wildlife, making it a must-visit for a peaceful and awe-inspiring escape into nature.",
+        "image": "HomePage_Photos/fiordland.jpg",
+        "link": "Destinations/Australia/FiordlandNZ.html"
+    },
+    
+    {
+        "name": "Australia",
+        "category": "Australia",
+        "description": "Australia's diverse landscapes, vibrant cities, world-class beaches, unique wildlife, trilling sense of adventure and laid-back lifestyle make it a must-visit destination for adventure-seekers and relaxation-seekers alike.",    
+        "image": "HomePage_Photos/Australia.jpg",
+        "link": "Destinations/Australia/Australia.html"
+    },
+    
+    {
+        "name": "Scotland",
+        "category": "United Kingdom",
+        "description": "With its rich history, stunning landscapes, vibrant cities, traditional cuisine, and friendly locals, Scotland is a destination that offers a unique and authentic travel experience that is sure to captivate and delight visitors of all ages and interests.",
+        "image": "HomePage_Photos/scotland.jpg",
+        "link": "Destinations/United Kingdom/Scotland.html"
+    },
+
+    {
+        "name": "Scotland",
+        "category": "United Kingdom",
+        "description": "Explore the rugged landscape, historic castles, and charming cities of Scotland, a land of deep traditions and rich culture.",
+        "image": "HomePage_Photos/scotland.jpg",
+        "link": "Destinations/United Kingdom/Scotland.html"
     }
-    ]
+
+  ],
+
+  "popular": [
+    {
+        "name": "Los Angeles",
+        "category": "United States",
+        "description": "Discover the endless possibilities of the City of Angels with a visit to Los Angeles, where you can soak up the sun on LA's popular beaches, explore the diverse cultures and cuisines, and immerse yourself in the world-class entertainment scene.",
+        "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
+        "link": "Destinations/United States/LosAngeles.html"
+    },
+      
+    {
+        "name": "Paris",
+        "category": "France",
+        "description": "Experience the romance and allure of the City of Love with a visit to Paris, where you can bask in the glow of the Eiffel Tower, indulge in the world-renowned French cuisine, and immerse yourself in the rich art and culture of this beautiful city.",
+        "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
+        "link": "Destinations/France/Paris.html"
+    },
+      
+    {
+        "name": "New York City",
+        "category": "United States",
+        "description": "Discover the excitement and energy of the Big Apple with a visit to New York City, where you can explore the iconic landmarks, savor the diverse cuisine, and experience the vibrant arts and entertainment scene of this bustling metropolis.",
+        "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
+        "link": "Destinations/United States/NewYork.html"
+    },
+    
+    {
+        "name": "Tokyo",
+        "category": "Japan",
+        "description": "Embark on an unforgettable journey to the Land of the Rising Sun with a visit to Tokyo, where you can marvel at the futuristic architecture, savor the delicious cuisine, and immerse yourself in the blend of ancient and modern Japanese culture.",
+        "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
+        "link": "Destinations/Japan/Tokyo.html"
+    },
+    
+    {
+        "name": "Amsterdam",
+        "category": "Netherlands",
+        "description": "Experience the charm and beauty of Amsterdam, where you can stroll along the picturesque canals enjoying the architecture, visit the world-renowned museums, and indulge in the delicious Dutch cuisine and nightlife.",
+        "image": "https://wallpaper.dog/large/10873881.jpg",
+        "link": "Destinations/Netherlands/Amsterdam.html"
+    },
+
+    {
+        "name": "Barcelona",
+        "category": "Spain",
+        "image": "https://wallpaperaccess.com/full/1127205.jpg",
+        "link": "Destinations/Spain/Barcelona.html",
+        "description": "Discover the vibrant city of Barcelona, where you can marvel at the iconic architecture of Antoni Gaudí, experience the lively nightlife, enjoy some of the best beaches on earth, and savor the delectable Catalan cuisine."
+    },
+    
+    {
+        "name": "London",
+        "category": "United Kingdom",
+        "description": "Experience the timeless elegance and rich history of London, where you can visit the iconic landmarks, enjoy the vibrant cultural scene, and sample the delicious pub grub and afternoon tea that the city has to offer.",
+        "image": "https://rare-gallery.com/uploads/posts/510445-london-computer.jpg",
+        "link": "Destinations/United Kingdom/London.html"
+    },
+    
+    {
+        "name": "San Francisco",
+        "category": "United States",
+        "description": "Experience the bohemian charm and stunning natural beauty of San Francisco, where you can stroll along the iconic Golden Gate Bridge, explore the eclectic neighborhoods, and indulge in the world-class cuisine and wine of the Bay Area.",
+        "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
+        "link": "Destinations/United States/SanFran.html"
+    },
+        
+    {
+        "name": "Seattle",
+        "category": "United States",
+        "description": "Discover the Emerald City of Seattle, where you can marvel at the futuristic Space Needle, enjoy the increadible natural beauty, explore the vibrant Pike Place Market, and indulge in the delicious seafood and coffee that the city is famous for.",
+        "image": "https://cdn.wallpapersafari.com/60/45/P26Ff8.jpg",      
+        "link": "Destinations/United States/Seattle.html"
+    },
+
+    {
+        "name": "Miami",
+        "category": "United States",
+        "description": "With its breathtakingly beautiful beaches, vibrant cultural scene, world-class dining options, and endless opportunities for outdoor adventures, Miami is a must-visit destination that promises to dazzle and delight visitors of all ages",
+        "image": "https://wallpaper.dog/large/20548174.jpg",
+        "link": "Destinations/United States/Miami.html"
+    },
+
+    {
+        "name": "Toronto",
+        "category": "Canada",
+        "image": "https://wallpapercave.com/wp/wp2197451.jpg",
+        "link": "Destinations/Canada/Toronto.html",
+        "description": "From its iconic CN Tower and bustling city streets to its multicultural neighborhoods, and world-renowned museums and galleries, Toronto offers something for everyone, making it a must-visit destination for travelers"
+    },
+    
+    {
+        "name": "Madrid",
+        "category": "Spain",
+        "image": "https://c4.wallpaperflare.com/wallpaper/487/323/753/man-made-madrid-building-city-wallpaper-preview.jpg",
+        "link": "Destinations/Spain/Madrid.html",
+        "description": "Experience the lively Spanish capital of Madrid, where you can immerse yourself in the rich history and culture, admire the stunning architecture, experience the vibrant nightlife, and indulge in the world-renowned cuisine."
+    },
+
+    {
+        "name": "Milan",
+        "category": "Italy",
+        "image": "https://wallpaperaccess.com/full/2043362.jpg",
+        "link": "Destinations/Italy/Milan.html",
+        "description": "Milan's rich history, stunning architecture, world-famous fashion scene, vibrant and lively streets, and delicious cuisine make it a must-visit destination for travelers seeking a sophisticated and culturally enriching experience."
+    },
+
+    {
+        "name": "Santorini",
+        "category": "Greece",
+        "image": "https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg",
+        "link": "Destinations/Greece/Santorini.html",
+        "description": "Experience the picturesque Greek island of Santorini, where you can admire the breathtaking views of the caldera, soak up the Mediterranean sun on the black and red sand beaches, and indulge in the delicious Greek cuisine."
+    },
+    
+    {
+        "name": "Dubai",
+        "category": "Asia",
+        "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg",
+        "link": "Destinations/Asia/Dubai.html",
+        "description": "Dubai is a city of superlatives, boasting the world's tallest building, largest mall, luxurious hotels, and vibrant nightlife, making it a glamorous and cosmopolitan destination for travelers seeking an unforgettable experience." 
+    } ,   
+
+    {
+        "name": "Dubai",
+        "category": "Asia",
+        "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg",
+        "link": "Destinations/Asia/Dubai.html",
+        "description": "Experience the glamorous city of Dubai, where you can marvel at the iconic Burj Khalifa, indulge in the luxurious shopping and entertainment scene, and savor the delicious Middle Eastern cuisine." 
+    }    
+  ]
+
+
+}
