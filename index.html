@@ -10,33 +10,32 @@
   <body>
     <main>
       <section class="hero">
+        <div class="parallax-bg"></div>
 
-        <div class="logo">
-            <a href="index.html">Travelio</a>
-        </div>
-       
-          <header>
-            <nav>
-              <ul>
-                <li><a href="destination.html">Destinations</a></li>
-                <li><a href="#">Popular</a></li>
-                <li><a href="#">Events</a></li>
-                <li><a href="#">Categories</a></li>
-                <li><a href="#">Challenges</a></li>
-              </ul>
-            </nav>
-          </header>
+        <div class="content">
+          <div class="logo">
+              <a href="index.html">Travelio</a>
+          </div>
+        
+            <header>
+              <nav>
+                <ul>
+                  <li><a href="destination.html">Destinations</a></li>
+                  <li><a href="#">Popular</a></li>
+                  <li><a href="#">Events</a></li>
+                  <li><a href="#">Categories</a></li>
+                  <li><a href="#">Challenges</a></li>
+                </ul>
+              </nav>
+            </header>
 
-          
-
-        <div class="container-hero">
-          <h1 class="hero-title">Experience the World</h1>
-          <p class="hero-desc">Discover new places and create unforgettable memories.</p>
-          <a href="https://www.lonelyplanet.com/places" class="btn">Explore Destinations</a>
+          <div class="container-hero">
+            <img src="HomePage_Photos/hero.png" alt="User Image">
+          </div>
         </div>
       </section>
 
-      <section class="subtitle2">
+      <section class="subtitle2" id="uchoice">
         <h1>Editors' Choice</h1>
 
         <div class="cards-section">
@@ -45,8 +44,8 @@
           <section class="cards" id="popular"></section>
         </div>
 
-        <section class="subtitle2">
-          <div>
+        <section class="subtitle2" id="swiper">
+          <div class="buttonPage">
             <button id="prev2">&lt;</button>
             <span id="pageNumbers"></span>
             <button id="next2"> &gt;</button>
@@ -54,7 +53,57 @@
         </section>
       </section>
 
-      <section class="subtitle2">
+      <section class="ux-container">
+        <section class="subtitle2">
+          <h1>User Experiences</h1>
+        </section>
+      
+        <section class="ux">
+          <h1>Hear What the Users Say About TRAVELIO</h1>
+          <section class="uxcards">
+            <section class="user-review">
+              <div class="user-info">
+                <div class="imageuser">
+                  <img src="https://img.freepik.com/free-photo/portrait-african-american-man_23-2149072214.jpg" alt="User Image">
+                </div>
+                <h2 class="user-name">Daniel Johnson</h2>
+                <p class="user-location">Paris, France</p>
+              </div>
+              <div class="user-review-text">
+                <p>This website is amazing! I was able to find the perfect hotel in Paris for my trip. The user interface is easy to use and the search filters were very helpful.</p>
+              </div>
+            </section>
+  
+            <div class="user-review">
+              <div class="user-info">
+                <div class="imageuser">
+                  <img src="https://img.freepik.com/free-photo/portrait-attractive-thoughtful-girl-smiling-looking-left-white_1258-19127.jpg?w=1380&t=st=1681244640~exp=1681245240~hmac=f1c22468f39e8acad2755357cf6d17f683bae2b48bd63212aada515752a4cf3f" alt="User Image">
+                </div>
+                <h2 class="user-name">Sarah Johnson</h2>
+                <p class="user-location">Barcelona, Spain</p>
+              </div>
+              <div class="user-review-text">
+                <p>I had a great experience using this website to book my hotel in Barcelona. The website was easy to navigate and I was able to find a great deal.</p>
+              </div>
+            </div>
+        
+            <div class="user-review">
+              <div class="user-info">
+                <div class="imageuser">
+                  <img src="https://media.istockphoto.com/id/1014263926/photo/young-mixed-race-woman-in-coffee-shop-looking-to-camera.jpg?s=612x612&w=0&k=20&c=50czvC-zhvCF9wcmw74M_Wtrz7CaW-eC2ToTJNWRZds=" alt="User Image">
+                </div>
+                <h2 class="user-name">Ana Hernandez</h2>
+                <p class="user-location">New York City, USA</p>
+              </div>
+              <div class="user-review-text">
+                <p>This website was a lifesaver for my last-minute trip to New York City. I was able to find a great hotel and the customer service was excellent.</p>
+              </div>
+            </div>
+          </section>
+        </section>  
+      </section>      
+
+      <section class="subtitle2" id="expNature">
         <h1>Experience Nature</h1>
 
         <div class="cards-section">
@@ -63,8 +112,8 @@
           <section class="cards" id="nature"></section>
         </div>
 
-        <section class="subtitle2">
-          <div>
+        <section class="subtitle2" id="swiper">
+          <div class="buttonPage">
             <button id="prev">&lt;</button>
             <span id="pageNumbers"></span>
             <button id="next"> &gt;</button>
@@ -72,11 +121,10 @@
         </section>
 
       <section class="subtitle3">
-        <h2>TRAVELIO</h2>
-        <h3>DISCOVER THE SHADES</h3> 
+        <h5>TRAVELIO</h5>
+        <h6>DISCOVER THE SHADES</h6> 
         <h4>OF THE WORLD</h4>
       </section>
-
     </main>
   </body>
 </html>

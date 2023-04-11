@@ -80,7 +80,7 @@
         "name": "Los Angeles",
         "category": "United States",
         "description": "Discover the endless possibilities of the City of Angels with a visit to Los Angeles, where you can soak up the sun on LA's popular beaches, explore the diverse cultures and cuisines, and immerse yourself in the world-class entertainment scene.",
-        "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
+        "image": "HomePage_Photos/LosAngeles.jpg",
         "link": "Destinations/United States/LosAngeles.html"
     },
       
@@ -88,7 +88,7 @@
         "name": "Paris",
         "category": "France",
         "description": "Experience the romance and allure of the City of Love with a visit to Paris, where you can bask in the glow of the Eiffel Tower, indulge in the world-renowned French cuisine, and immerse yourself in the rich art and culture of this beautiful city.",
-        "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
+        "image": "HomePage_Photos/Paris.jpg",
         "link": "Destinations/France/Paris.html"
     },
       
@@ -96,7 +96,7 @@
         "name": "New York City",
         "category": "United States",
         "description": "Discover the excitement and energy of the Big Apple with a visit to New York City, where you can explore the iconic landmarks, savor the diverse cuisine, and experience the vibrant arts and entertainment scene of this bustling metropolis.",
-        "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
+        "image": "HomePage_Photos/NewYork.jpg",
         "link": "Destinations/United States/NewYork.html"
     },
     
@@ -104,7 +104,7 @@
         "name": "Tokyo",
         "category": "Japan",
         "description": "Embark on an unforgettable journey to the Land of the Rising Sun with a visit to Tokyo, where you can marvel at the futuristic architecture, savor the delicious cuisine, and immerse yourself in the blend of ancient and modern Japanese culture.",
-        "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
+        "image": "HomePage_Photos/Tokyo.jpg",
         "link": "Destinations/Japan/Tokyo.html"
     },
     
@@ -112,14 +112,14 @@
         "name": "Amsterdam",
         "category": "Netherlands",
         "description": "Experience the charm and beauty of Amsterdam, where you can stroll along the picturesque canals enjoying the architecture, visit the world-renowned museums, and indulge in the delicious Dutch cuisine and nightlife.",
-        "image": "https://wallpaper.dog/large/10873881.jpg",
+        "image": "HomePage_Photos/Amsterdam.jpg",
         "link": "Destinations/Netherlands/Amsterdam.html"
     },
 
     {
         "name": "Barcelona",
         "category": "Spain",
-        "image": "https://wallpaperaccess.com/full/1127205.jpg",
+        "image": "HomePage_Photos/Barcelona.jpg",
         "link": "Destinations/Spain/Barcelona.html",
         "description": "Discover the vibrant city of Barcelona, where you can marvel at the iconic architecture of Antoni Gaudí, experience the lively nightlife, enjoy some of the best beaches on earth, and savor the delectable Catalan cuisine."
     },
@@ -128,7 +128,7 @@
         "name": "London",
         "category": "United Kingdom",
         "description": "Experience the timeless elegance and rich history of London, where you can visit the iconic landmarks, enjoy the vibrant cultural scene, and sample the delicious pub grub and afternoon tea that the city has to offer.",
-        "image": "https://rare-gallery.com/uploads/posts/510445-london-computer.jpg",
+        "image": "HomePage_Photos/London.jpg",
         "link": "Destinations/United Kingdom/London.html"
     },
     
@@ -136,7 +136,7 @@
         "name": "San Francisco",
         "category": "United States",
         "description": "Experience the bohemian charm and stunning natural beauty of San Francisco, where you can stroll along the iconic Golden Gate Bridge, explore the eclectic neighborhoods, and indulge in the world-class cuisine and wine of the Bay Area.",
-        "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
+        "image": "HomePage_Photos/SanFrancisco.jpg",
         "link": "Destinations/United States/SanFran.html"
     },
         
@@ -144,7 +144,7 @@
         "name": "Seattle",
         "category": "United States",
         "description": "Discover the Emerald City of Seattle, where you can marvel at the futuristic Space Needle, enjoy the increadible natural beauty, explore the vibrant Pike Place Market, and indulge in the delicious seafood and coffee that the city is famous for.",
-        "image": "https://cdn.wallpapersafari.com/60/45/P26Ff8.jpg",      
+        "image": "HomePage_Photos/Seattle.jpg",      
         "link": "Destinations/United States/Seattle.html"
     },
 
@@ -152,14 +152,14 @@
         "name": "Miami",
         "category": "United States",
         "description": "With its breathtakingly beautiful beaches, vibrant cultural scene, world-class dining options, and endless opportunities for outdoor adventures, Miami is a must-visit destination that promises to dazzle and delight visitors of all ages",
-        "image": "https://wallpaper.dog/large/20548174.jpg",
+        "image": "HomePage_Photos/Miami.jpg",
         "link": "Destinations/United States/Miami.html"
     },
 
     {
         "name": "Toronto",
         "category": "Canada",
-        "image": "https://wallpapercave.com/wp/wp2197451.jpg",
+        "image": "HomePage_Photos/Toronto.jpg",
         "link": "Destinations/Canada/Toronto.html",
         "description": "From its iconic CN Tower and bustling city streets to its multicultural neighborhoods, and world-renowned museums and galleries, Toronto offers something for everyone, making it a must-visit destination for travelers"
     },
@@ -167,7 +167,7 @@
     {
         "name": "Madrid",
         "category": "Spain",
-        "image": "https://c4.wallpaperflare.com/wallpaper/487/323/753/man-made-madrid-building-city-wallpaper-preview.jpg",
+        "image": "HomePage_Photos/Madrid.jpg",
         "link": "Destinations/Spain/Madrid.html",
         "description": "Experience the lively Spanish capital of Madrid, where you can immerse yourself in the rich history and culture, admire the stunning architecture, experience the vibrant nightlife, and indulge in the world-renowned cuisine."
     },
@@ -175,7 +175,7 @@
     {
         "name": "Milan",
         "category": "Italy",
-        "image": "https://wallpaperaccess.com/full/2043362.jpg",
+        "image": "HomePage_Photos/Milan.jpg",
         "link": "Destinations/Italy/Milan.html",
         "description": "Milan's rich history, stunning architecture, world-famous fashion scene, vibrant and lively streets, and delicious cuisine make it a must-visit destination for travelers seeking a sophisticated and culturally enriching experience."
     },
@@ -183,7 +183,7 @@
     {
         "name": "Santorini",
         "category": "Greece",
-        "image": "https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg",
+        "image": "HomePage_Photos/Santorini.jpg",
         "link": "Destinations/Greece/Santorini.html",
         "description": "Experience the picturesque Greek island of Santorini, where you can admire the breathtaking views of the caldera, soak up the Mediterranean sun on the black and red sand beaches, and indulge in the delicious Greek cuisine."
     },
@@ -191,7 +191,7 @@
     {
         "name": "Dubai",
         "category": "Asia",
-        "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg",
+        "image": "HomePage_Photos/Dubai.jpg",
         "link": "Destinations/Asia/Dubai.html",
         "description": "Dubai is a city of superlatives, boasting the world's tallest building, largest mall, luxurious hotels, and vibrant nightlife, making it a glamorous and cosmopolitan destination for travelers seeking an unforgettable experience." 
     } ,   
