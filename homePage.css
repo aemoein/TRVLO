@@ -90,7 +90,7 @@ nav a:hover {
   left: 0;
   width: 100%;
   height: 75%;
-  background-image: url('/HomePage_Photos/expbg.jpg');
+  background-image: url('HomePage_Photos/expbg.jpg');
   background-size: cover;
   background-position: center;
   transform: translateZ(0);
