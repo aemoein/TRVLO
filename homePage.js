@@ -11,7 +11,7 @@ window.onload=function(){
   /////////DISPLAY DATA///////////
   ////////////////////////////////
 
-  fetch('HomePage.json')
+  fetch('homePage.json')
   .then(response => response.json())
   .then(data => {
     // Create an array of cities
@@ -88,7 +88,7 @@ window.onload=function(){
   /////////DISPLAY POPULAR DATA///////////
       ////////////////////////////////
 
-  fetch('HomePage.json')
+  fetch('homePage.json')
   .then(response => response.json())
   .then(data => {
     // Create an array of cities
