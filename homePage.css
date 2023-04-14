@@ -30,11 +30,11 @@ body {
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #ffffff;
+  color: #161617;
 }
 
 main {
-  color: #ffffff;
+  color: #161617;
 }
 
 header {
@@ -409,7 +409,7 @@ header {
   .subtitle2 {
     display: block;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #161617;
     color: #ffffff;
   }
 
@@ -470,7 +470,7 @@ header {
     color: transparent;
     background-image: linear-gradient(180deg,#c6deff,#0077c2);
     -webkit-background-clip:border-box;
-    color: #ffffff;
+    color: #161617;
     will-change: transform;
     overflow: hidden;
     text-decoration: none;
@@ -516,7 +516,7 @@ header {
     color: transparent;
     background-image: linear-gradient(180deg,#c6deff,#0077c2);
     -webkit-background-clip:border-box;
-    color: #ffffff;
+    color: #161617;
     will-change: transform;
     overflow: hidden;
     text-decoration: none;
@@ -668,7 +668,7 @@ header {
 }
 
 .ux-container{
-  background-color: #ffffff;
+  background-color: #161617;
   padding: 5px;
 }
 
@@ -756,7 +756,7 @@ header {
     color: transparent;
     background-image: linear-gradient(180deg,#c6deff,#0077c2);
     -webkit-background-clip:border-box;
-    color: #ffffff;
+    color: #161617;
     will-change: transform;
     overflow: hidden;
     text-decoration: none;
