@@ -37,12 +37,9 @@ window.onload=function(){
       // Clear the previous list of cities
       const cityList = document.getElementById('nature');
       cityList.innerHTML = '';
-    
-      const text = document.getElementById("textsec2");
-      text.innerHTML = '';
-    
+
       // Calculate the ending index
-      const endIndex = Math.min(startIndex + 1, nature.length);
+      const endIndex = Math.min(startIndex + 2, nature.length);
     
       // Display the next city
       for (let i = startIndex; i < endIndex; i++) {
@@ -50,16 +47,11 @@ window.onload=function(){
         const listItem = document.createElement('section');
         listItem.classList.add('card');
     
-        text.innerHTML = `
-          <h2>${city.name}</h2>
-          <h3>${city.description}</h3>
-          <a href="${city.link}" class="citybtn">Explore ${city.name}</a>
-        `;
-    
         listItem.innerHTML = `
           <div class="card__img" style="background-image: url('${city.image}')"></div>
+
           <a href="${city.link}" class="card_link">
-            <div class="card__img--hover" style="background-image: url('${city.image}')"></div>
+            <div class="card__img--hover" style="background-image: url('${city.image}')"> <h2>${city.name}</h2> </div>
           </a>
         `;
         //listItem.textContent = city.name;
@@ -122,12 +114,9 @@ window.onload=function(){
       // Clear the previous list of cities
       const cityList = document.getElementById('popular');
       cityList.innerHTML = '';
-    
-      const text = document.getElementById("textsec");
-      text.innerHTML = '';
-    
+
       // Calculate the ending index
-      const endIndex = Math.min(startIndex + 1, popular.length);
+      const endIndex = Math.min(startIndex + 2, popular.length);
     
       // Display the next city
       for (let i = startIndex; i < endIndex; i++) {
@@ -135,16 +124,11 @@ window.onload=function(){
         const listItem = document.createElement('section');
         listItem.classList.add('card');
     
-        text.innerHTML = `
-          <h2>${city.name}</h2>
-          <h3>${city.description}</h3>
-          <a href="${city.link}" class="citybtn">Explore ${city.name}</a>
-        `;
-    
         listItem.innerHTML = `
           <div class="card__img" style="background-image: url('${city.image}')"></div>
+
           <a href="${city.link}" class="card_link">
-            <div class="card__img--hover" style="background-image: url('${city.image}')"></div>
+            <div class="card__img--hover" style="background-image: url('${city.image}')"> <h2>${city.name}</h2> </div>
           </a>
         `;
         //listItem.textContent = city.name;
