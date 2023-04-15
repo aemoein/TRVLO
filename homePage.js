@@ -51,7 +51,7 @@ window.onload=function(){
           <div class="card__img" style="background-image: url('${city.image}')"></div>
 
           <a href="${city.link}" class="card_link">
-            <div class="card__img--hover" style="background-image: url('${city.image}')"> <h2>${city.name}</h2> </div>
+            <div class="card__img--hover" style="background-image: url('${city.image}')"> <h4>${city.name}</h4> </div>
           </a>
         `;
         //listItem.textContent = city.name;
@@ -128,7 +128,7 @@ window.onload=function(){
           <div class="card__img" style="background-image: url('${city.image}')"></div>
 
           <a href="${city.link}" class="card_link">
-            <div class="card__img--hover" style="background-image: url('${city.image}')"> <h2>${city.name}</h2> </div>
+            <div class="card__img--hover" style="background-image: url('${city.image}')"> <h4>${city.name}</h4> </div>
           </a>
         `;
         //listItem.textContent = city.name;
