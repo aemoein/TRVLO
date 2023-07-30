@@ -1,59 +1,66 @@
 {
     "card": [    
         {
-        "name": "United States",
-        "category": "North America",
-        "image": "https://www.pixelstalk.net/wp-content/uploads/2016/07/1280x800-Desktop-Wallpapers.jpg",
-        "link": "Destinations/United States/UnitedStates.html"
+            "name": "United States",
+            "category": "North America",
+            "image": "https://www.pixelstalk.net/wp-content/uploads/2016/07/1280x800-Desktop-Wallpapers.jpg",
+            "link": "Destinations/United States/UnitedStates.html"
         },
         
         {
-        "name": "Los Angeles",
-        "category": "United States",
-        "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
-        "link": "Destinations/United States/LosAngeles.html"
+            "name": "Los Angeles",
+            "category": "United States",
+            "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
+            "link": "Destinations/United States/LosAngeles.html"
         },
         
         {
-        "name": "Paris, France",
-        "category": "France",
-        "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
-        "link": "Destinations/France/Paris.html"
+            "name": "Paris, France",
+            "category": "France",
+            "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
+            "link": "Destinations/France/Paris.html"
         },
         
         {
-        "name": "New York City, USA",
-        "category": "United States",
-        "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
-        "link": "Destinations/United States/NewYork.html"
+            "name": "New York City, USA",
+            "category": "United States",
+            "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
+            "link": "Destinations/United States/NewYork.html"
         },
         
         {
-        "name": "Tokyo, Japan",
-        "category": "Japan",
-        "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
-        "link": "Destinations/Japan/Tokyo.html"
-        },
-        
-        {
-        "name": "Amsterdam",
-        "category": "Netherlands",
-        "image": "https://wallpaper.dog/large/10873881.jpg",
-        "link": "Destinations/Netherlands/Amsterdam.html"
-        },
-        
-        {
-        "name": "London, UK",
-        "category": "United Kingdom",
-        "image": "https://rare-gallery.com/uploads/posts/510445-london-computer.jpg",
-        "link": "Destinations/United Kingdom/London.html"
+            "name": "Tokyo, Japan",
+            "category": "Japan",
+            "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
+            "link": "Destinations/Japan/Tokyo.html"
         },
 
         {
-        "name": "San Francisco",
-        "category": "United States",
-        "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
-        "link": "Destinations/United States/SanFran.html"
+            "name": "Sibiu, Romania",
+            "category": "Romania",
+            "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg",
+            "link": "Destinations/Europe/Sibiu.html"
+        },
+        
+        {
+            "name": "Amsterdam",
+            "category": "Netherlands",
+            "image": "https://wallpaper.dog/large/10873881.jpg",
+            "link": "Destinations/Netherlands/Amsterdam.html"
+        },
+        
+        {
+            "name": "London, UK",
+            "category": "United Kingdom",
+            "image": "https://media.cntraveller.com/photos/63f37018ea053d878b345cb2/3:2/w_3870,h_2580,c_limit/London-GettyImages-585295947.jpeg",
+            "link": "Destinations/United Kingdom/London.html"
+        },
+
+        {
+            "name": "San Francisco",
+            "category": "United States",
+            "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
+            "link": "Destinations/United States/SanFran.html"
         },
           
         {
@@ -129,21 +136,21 @@
         {
             "name": "Rio de Janeiro, Brazil",
             "category": "Brazil",
-            "image": "https://www.stjamesprimaryhanney.co.uk/wp-content/uploads/2014/09/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg",
+            "image": "https://media.timeout.com/images/105482246/image.jpg",
             "link": "Destinations/Rio.html"
         },
 
         {
             "name": "Vancouver, Canada",
             "category": "Canada",
-            "image": "https://images6.alphacoders.com/384/384735.jpg",
+            "image": "https://lp-cms-production.imgix.net/2021-04/GettyRF_1124659884.jpg",
             "link": "Destinations/Canada/Vancouver.html"
         },
 
         {
             "name": "Porto, Portugal",
             "category": "Portugal",
-            "image": "https://rare-gallery.com/uploads/posts/11652-full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd__full-hd-1080p-nature-wallpapers-desktop-backgrounds-hd.jpg",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1662473667.jpg",
             "link": "Destinations/Porto.html"
         },
         
@@ -191,7 +198,7 @@
         {
             "name": "Venice",
             "category": "Italy",
-            "image": "https://rare-gallery.com/uploads/posts/521521-venice.jpg",
+            "image": "https://cdn.britannica.com/62/153462-050-3D4F41AF/Grand-Canal-Venice.jpg",
             "link": "/Destinations/Italy/Venice.html"
         },
         {
@@ -209,7 +216,7 @@
         {
             "name": "Munich",
             "category": "Germany",
-            "image": "https://s2.best-wallpaper.net/wallpaper/1280x800/1611/City-view-houses-street-clouds-Munich-Germany_1280x800.jpg",
+            "image": "https://res.cloudinary.com/odysseytraveller/image/fetch/f_auto,q_auto,dpr_auto,r_4,w_765,h_535.5,c_limit/https://cdn.odysseytraveller.com/app/uploads/2020/02/Old-Town-Hall-at-Marienplatz-Square-Munich-Germany-GettyImages-1173484118.jpg",
             "link": "/Destinations/Germany/Munich.html"
         },
         {
@@ -283,7 +290,7 @@
         {    
             "name": "Phuket",    
             "category": "Thailand",    
-            "image": "https://www.letsphuket.com/wp-content/uploads/phuket1.jpg",    
+            "image": "https://www.travelandleisure.com/thmb/RQ3JmT8V2y2fhwr7NY0cgUumcCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phuket-thailand-karst-formation-phuket0327-92bd3ce9266148dba74cba5e36c711e2.jpg",    
             "link": "Destinations/Asia/Phuket.html"  
         },
 
@@ -360,7 +367,7 @@
         {
             "name": "Namibia",
             "category": "Africa",
-            "image": "https://rare-gallery.com/uploads/posts/1121722-landscape-white-nature-sand-desert-clear-sky-dune-monument-material-wing-atmosphere-of-earth.jpg",
+            "image": "https://www.state.gov/wp-content/uploads/2018/11/Namibia-e1555939331801-2500x1406.jpg",
             "link": "Destinations/Africa/Namibia.html"
         },
         
@@ -437,98 +444,98 @@
         {
             "name": "Macau",
             "category": "Macau",
-            "image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/macau/banyan-tree-macau-pool.jpg",
+            "image": "https://media.timeout.com/images/105242480/image.jpg",
             "link": "Destinations/Asia/Macau.html"
         },
 
         {
             "name": "Shanghai",
             "category": "China",
-            "image": "https://images.wallpapersden.com/image/download/shanghai-city-china_bGVta26UmZqaraWkpJRmZ21lrW1lZQ.jpg",
+            "image": "https://cms.finnair.com/resource/blob/674956/26d19039cd2f8e32bc5f605240398408/shanghai-main-data.jpg",
             "link": "Destinations/Asia/Shanghai.html"
         },
 
         {
             "name": "Beijing",
             "category": "China",
-            "image": "https://s2.best-wallpaper.net/wallpaper/1280x800/2203/Gate-city-trees-night-lights-Beijing-China_1280x800.jpg",
+            "image": "https://cdn.britannica.com/03/198203-050-138BB1C3/entrance-Gate-of-Divine-Might-Beijing-Forbidden.jpg",
             "link": "Destinations/Asia/Beijing.html"
         },
 
         {
             "name": "Osaka",
             "category": "Japan",
-            "image": "https://wallpaperaccess.com/full/40319.jpg",
+            "image": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2023/02/iStock-Eloi_Omella-osaka-tower.jpg",
             "link": "Destinations/Asia/Osaka.html"
         },
 
         {
             "name": "Busan",
             "category": "South Korea",
-            "image": "https://w0.peakpx.com/wallpaper/632/605/HD-wallpaper-busan-landscape-city-view-nighttime-travel.jpg",
+            "image": "https://www.tripsavvy.com/thmb/ZXU7C0Mjya5smqb4D3qFAyNSX5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gamcheon-culture-village--busan--south-korea-1149825040-2bc1e16a08c14ee9add5aae5f0e8e9b9.jpg",
             "link": "Destinations/Asia/Busan.html"
         },
 
         {
             "name": "Shenzhen",
             "category": "China",
-            "image": "https://wallpapercave.com/wp/wp2487878.jpg",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2022/11/25/cc2c234a-e237-42fd-8fe1-e8d71d3da714_c655b331.jpg?itok=r_b9gQ-z&v=1669347545",
             "link": "Destinations/China/Shenzhen.html"
         },
             
         {
             "name": "Beirut",
             "category": "Lebanon",
-            "image": "https://wallpapercave.com/wp/wp7987101.jpg",
+            "image": "https://static.euronews.com/articles/stories/07/03/78/74/1440x810_cmsv2_31e075c9-00c3-595c-a40a-fbbc0af8d492-7037874.jpg",
             "link": "Destinations/Lebanon/Beirut.html"
         },
             
         {
             "name": "Jeddah",
             "category": "Saudi Arabia",
-            "image": "https://wallpapercave.com/wp/wp3885464.jpg",
+            "image": "https://www.ft.com/partnercontent/images/ministry-of-tourism/jeddah/hero.jpg",
             "link": "Destinations/Saudi Arabia/Jeddah.html"
         },
             
         {
             "name": "Luxor",
             "category": "Egypt",
-            "image": "https://wallpapercave.com/wp/wp2697887.jpg",
+            "image": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/49581/file-manager/luxor-travel-guide,-information-about-luxor,-egypt.jpg",
             "link": "Destinations/Egypt/Luxor.html"
         },
             
         {
             "name": "Sharm El Sheikh",
             "category": "Egypt",
-            "image": "https://wallpapercave.com/wp/wp2130352.jpg",
+            "image": "https://www.whereandwhen.net/site/images/illustration/charm-el-cheikh_715.jpg",
             "link": "Destinations/Egypt/Sharm El Sheikh.html"
         },
             
         {
             "name": "Alexandria",
             "category": "Egypt",
-            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "image": "https://egyptianstreets.com/wp-content/uploads/2022/05/montaza-palace.jpeg",
             "link": "Destinations/Egypt/Alexandria.html"
         },
             
         {
             "name": "Chicago",
             "category": "United States",
-            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "image": "https://cdn.choosechicago.com/uploads/2022/06/wygyk-agnostic-A.Alexander_5cloudgateMay13-scaled.jpg",
             "link": "Destinations/United States/Chicago.html"
         },
             
         {
             "name": "Washington D.C.",
             "category": "United States",
-            "image": "https://wallpapercave.com/wp/wp7986241.jpg",
+            "image": "https://www.rd.com/wp-content/uploads/2018/11/10-Best-and-Worst-Countries-for-Saving-Money-3.jpg",
             "link": "Destinations/United States/Washington D.C..html"
         },
             
         {
             "name": "Quebec City",
             "category": "Canada",
-            "image": "https://wallpapercave.com/wp/wp2527598.jpg",
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/23/2b/0f.jpg",
             "link": "Destinations/Canada/Quebec City.html"
         },
             
