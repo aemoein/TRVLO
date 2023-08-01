@@ -8,7 +8,7 @@
         },
         
         {
-            "name": "Los Angeles",
+            "name": "Los Angeles, CA",
             "category": "United States",
             "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
             "link": "Destinations/United States/LosAngeles.html"
@@ -22,21 +22,21 @@
         },
         
         {
-            "name": "New York City, USA",
+            "name": "New York, NY",
             "category": "United States",
             "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
             "link": "Destinations/United States/NewYork.html"
         },
         
         {
-            "name": "Tokyo, Japan",
+            "name": "Tokyo",
             "category": "Japan",
             "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
             "link": "Destinations/Japan/Tokyo.html"
         },
 
         {
-            "name": "Sibiu, Romania",
+            "name": "Sibiu",
             "category": "Romania",
             "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg",
             "link": "Destinations/Europe/Sibiu.html"
@@ -50,105 +50,112 @@
         },
         
         {
-            "name": "London, UK",
+            "name": "London",
             "category": "United Kingdom",
             "image": "https://media.cntraveller.com/photos/63f37018ea053d878b345cb2/3:2/w_3870,h_2580,c_limit/London-GettyImages-585295947.jpeg",
             "link": "Destinations/United Kingdom/London.html"
         },
 
         {
-            "name": "San Francisco",
+            "name": "San Francisco, CA",
             "category": "United States",
             "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
             "link": "Destinations/United States/SanFran.html"
         },
           
         {
-            "name": "Seattle",
+            "name": "Seattle, WA",
             "category": "United States",
             "image": "https://cdn.wallpapersafari.com/60/45/P26Ff8.jpg",
             "link": "Destinations/United States/Seattle.html"
         },
 
         {
-            "name": "Miami, USA",
+            "name": "Miami, FL",
             "category": "United States",
             "image": "https://wallpaper.dog/large/20548174.jpg",
             "link": "Destinations/United States/Miami.html"
         },
 
         {
-            "name": "Toronto, Canada",
+            "name": "Toronto",
             "category": "Canada",
             "image": "https://wallpapercave.com/wp/wp2197451.jpg",
             "link": "Destinations/Canada/Toronto.html"
         },
 
         {
-            "name": "Madrid, Spain",
+            "name": "Madrid",
             "category": "Spain",
             "image": "https://c4.wallpaperflare.com/wallpaper/487/323/753/man-made-madrid-building-city-wallpaper-preview.jpg",
             "link": "Destinations/Spain/Madrid.html"
         },
 
         {
-            "name": "Milan, Italy",
+            "name": "Milan",
             "category": "Italy",
             "image": "https://wallpaperaccess.com/full/2043362.jpg",
             "link": "Destinations/Italy/Milan.html"
         },
 
         {
-            "name": "Santorini, Greece",
+            "name": "Santorini",
             "category": "Greece",
             "image": "https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg",
             "link": "Destinations/Greece/Santorini.html"
         },
 
         {
-            "name": "Barcelona, Spain",
+            "name": "Barcelona",
             "category": "Spain",
             "image": "https://wallpaperaccess.com/full/1127205.jpg",
             "link": "Destinations/Spain/Barcelona.html"
         },
+
+        {
+            "name": "Carmel-by-the-Sea, CA",
+            "category": "United States",
+            "image": "https://www.tripsavvy.com/thmb/O_BzxNJr1xhZiZ71FdennjyKxaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8549534973_7c85e41215_o-56ba916c3df78c0b136b4b2c.jpg",
+            "link": "Destinations/United States/Carmel.html"
+        },
         
         {
-            "name": "Dubai, UAE",
-            "category": "Asia",
+            "name": "Dubai",
+            "category": "UAE",
             "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg",
             "link": "Destinations/Asia/Dubai.html"
         },
 
         {
-            "name": "Cape Town, South Africa",
-            "category": "Africa",
+            "name": "Cape Town",
+            "category": "South Africa",
             "image": "https://wallpapercave.com/wp/wp2007525.jpg",
             "link": "Destinations/Africa/CapeTown.html"
         },
 
         {
-            "name": "Sydney, Australia",
+            "name": "Sydney",
             "category": "Australia",
             "image": "https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg",
             "link": "Destinations/Australia/Sydney.html"
         },
 
         {
-            "name": "Rio de Janeiro, Brazil",
+            "name": "Rio de Janeiro",
             "category": "Brazil",
             "image": "https://media.timeout.com/images/105482246/image.jpg",
             "link": "Destinations/Rio.html"
         },
 
         {
-            "name": "Vancouver, Canada",
+            "name": "Vancouver",
             "category": "Canada",
             "image": "https://lp-cms-production.imgix.net/2021-04/GettyRF_1124659884.jpg",
             "link": "Destinations/Canada/Vancouver.html"
         },
 
         {
-            "name": "Porto, Portugal",
+            "name": "Porto",
             "category": "Portugal",
             "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1662473667.jpg",
             "link": "Destinations/Porto.html"
@@ -256,7 +263,7 @@
         {
             "name": "Annecy",
             "category": "France",
-            "image": "https://wallpapercave.com/wp/wp10158285.png",
+            "image": "https://cdn.getyourguide.com/img/tour/5b10ffee7c68d.jpeg/146.jpg",
             "link": "/Destinations/France/Annecy.html"
         },
 
@@ -297,7 +304,7 @@
         {    
             "name": "Cairo",    
             "category": "Egypt",    
-            "image": "https://www.10wallpaper.com/wallpaper/1920x1200/1108/Cairo_Egypt-Mohammed_Ali_Mosque_wallpaper_1920x1200.jpg",    
+            "image": "https://lp-cms-production.imgix.net/features/2018/12/cairo-nile-egypt-b0aaae77d4d9.jpg?auto=format&q=75&w=1920",    
             "link": "Destinations/Africa/cairo.html"  
         },  
         
@@ -519,7 +526,7 @@
         },
             
         {
-            "name": "Chicago",
+            "name": "Chicago, IL",
             "category": "United States",
             "image": "https://cdn.choosechicago.com/uploads/2022/06/wygyk-agnostic-A.Alexander_5cloudgateMay13-scaled.jpg",
             "link": "Destinations/United States/Chicago.html"
@@ -542,84 +549,84 @@
         {
             "name": "Boston",
             "category": "United States",
-            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "image": "https://www.civitatis.com/blog/wp-content/uploads/2023/01/panoramica-boston-estados-unidos.jpg",
             "link": "Destinations/United States/Boston.html"
         },
             
         {
             "name": "Cancun",
             "category": "Mexico",
-            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
+            "image": "https://bookaweb.s3.eu-central-1.amazonaws.com/media/29889/cancun.jpg",
             "link": "Destinations/Mexico/Cancun.html"
         },
             
         {
             "name": "Delhi",
             "category": "India",
-            "image": "https://wallpapercave.com/wp/wp2845276.jpg",
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/c5/e8/5c.jpg",
             "link": "Destinations/India/Delhi.html"
         },
             
         {
             "name": "Abu Dhabi",
             "category": "United Arab Emirates",
-            "image": "https://wallpapercave.com/wp/wp2369383.jpg",
+            "image": "https://content.r9cdn.net/rimg/dimg/a8/85/bbf8aa0b-city-9457-164d6a9147e.jpg?width=1366&height=768&xhint=2731&yhint=1539&crop=true",
             "link": "Destinations/United Arab Emirates/Abu Dhabi.html"
         },
             
         {
             "name": "Santiago",
             "category": "Chile",
-            "image": "https://wallpapercave.com/wp/wp6064861.jpg",
+            "image": "https://storage.googleapis.com/chile-travel-newsite-static-content/2021/08/santiago-portada-1.jpg",
             "link": "Destinations/Chile/Santiago.html"
         },
 
         {
             "name": "Mexico City",
             "category": "Mexico",
-            "image": "https://wallpapercave.com/wp/wp1815065.jpg",
+            "image": "https://i.insider.com/6453ede1b4a8cd00187acb37?width=700",
             "link": "Destinations/Mexico/Mexico_City.html"
         },
             
         {
             "name": "Havana",
             "category": "Cuba",
-            "image": "https://wallpapercave.com/wp/wp6330554.jpg",
+            "image": "https://content.r9cdn.net/rimg/dimg/a3/1d/05f2b4a1-city-11020-1700c4dba73.jpg?crop=true&width=1020&height=498",
             "link": "Destinations/Cuba/Havana.html"
         },
             
         {
             "name": "Colorado Springs",
             "category": "United States",
-            "image": "https://wallpapercave.com/wp/wp5964479.jpg",
+            "image": "https://a.cdn-hotels.com/gdcs/production95/d1063/680a4905-9d25-47c5-815b-30f14c279062.jpg",
             "link": "Destinations/United States/Colorado_Springs.html"
         },
             
         {
             "name": "San Diego",
             "category": "United States",
-            "image": "https://wallpapercave.com/wp/wp1995665.jpg",
+            "image": "https://a.cdn-hotels.com/gdcs/production72/d278/15f87a8d-c829-45bb-bec6-708a333de504.jpg",
             "link": "Destinations/United States/San_Diego.html"
         },
             
         {
             "name": "Edinburgh",
             "category": "Scotland",
-            "image": "https://wallpapercave.com/wp/wp1837567.jpg",
+            "image": "https://ewh.org.uk/wp-content/uploads/2023/05/The-Royal-Mile.png",
             "link": "Destinations/Scotland/Edinburgh.html"
         },
             
         {
             "name": "Glasgow",
             "category": "Scotland",
-            "image": "https://wallpapercave.com/wp/wp1837629.jpg",
+            "image": "https://media.timeout.com/images/105400989/750/422/image.jpg",
             "link": "Destinations/Scotland/Glasgow.html"
         },
             
         {
             "name": "Manchester",
             "category": "United Kingdom",
-            "image": "https://wallpapercave.com/wp/wp1815135.jpg",
+            "image": "https://www.mmu.ac.uk/sites/default/files/2020-06/Castlefield.jpg",
             "link": "Destinations/United Kingdom/Manchester.html"
         }
     ]

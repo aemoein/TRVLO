@@ -28,9 +28,9 @@
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.5;
-  color: #FFFDFA;
+  background-color: #fff;
 }
 
 main {
@@ -46,21 +46,6 @@ header {
   padding: 0 px;
 }
 
-.logo a {
-  color: whitesmoke;
-  text-decoration: none;
-  
-}
-
-.logo {
-  font-size: 24px; /* Adjust the font size as desired */
-}
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -73,6 +58,8 @@ body {
   padding: 15px 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease; /* Add a smooth transition effect */
+  z-index: 999;
+  height: 70px;
 }
 
 .navbar ul {
@@ -83,20 +70,26 @@ body {
 
 .navbar li {
   display: inline;
-  margin-right: 30px;
+  margin-right: 25px;
 }
 
 .navbar a {
   text-decoration: none;
   color: #fff;
-  font-weight: normal;
-  
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* Add a class to make the navbar translucent when scrolling down */
 .navbar.translucent {
   background-color: rgba(255, 255, 255, 0.7);
   backdrop-filter: blur(5px);
+  
+}
+
+.navbar.translucent a {
+  color: #0077C2;
 }
 
 .hero {
@@ -184,18 +177,10 @@ body {
   background-color: #005388;
 }
 
-body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #333;
-  background-color: #fff;
-}
-
 .container-des {
   max-width: 800px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 18px;
   align-items: top;
 }
 
@@ -208,9 +193,8 @@ header {
 .logo {
   top: 0;
   left: 0;
-  height: 100%; 
   padding: 5px;
-  font-family: 'SF Pro Display',SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 40px;
   box-align: left;
   font-weight: lighter;
