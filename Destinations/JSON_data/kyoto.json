@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Kyoto"
+  },
+  "about": {
+    "name": "Kyoto",
+    "info_text": "Kyoto, often referred to as the 'City of Ten Thousand Shrines,' is a city in Japan known for its rich history, traditional culture, and stunning temples. As the former imperial capital of Japan, Kyoto is a place where ancient traditions are beautifully preserved. Visitors can explore well-preserved historic districts, participate in tea ceremonies, and admire the elegance of geisha culture. Kyoto is a serene and enchanting city that offers a glimpse into Japan's past.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.46 million<br><strong>Prefecture:</strong> Kyoto Prefecture<br><strong>Time Zone:</strong> Japan Standard Time (UTC+09:00)<br><strong>Language:</strong> Japanese<br><strong>Currency:</strong> Japanese Yen (JPY)",
+    "climate_text": "Kyoto experiences a humid subtropical climate with hot, humid summers and cool, dry winters. The city is particularly beautiful during the cherry blossom season in spring and the colorful foliage of autumn."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Kinkaku-ji (Golden Pavilion)",
+        "title": "Kinkaku-ji (Golden Pavilion)",
+        "description": "Kinkaku-ji, or the Golden Pavilion, is a Zen Buddhist temple covered in gold leaf, set in beautiful gardens with a reflective pond."
+      },
+      {
+        "img": "x",
+        "alt": "Fushimi Inari Taisha",
+        "title": "Fushimi Inari Taisha",
+        "description": "Fushimi Inari Taisha is a famous Shinto shrine known for its thousands of vermillion torii gates, creating a mesmerizing tunnel-like path."
+      },
+      {
+        "img": "x",
+        "alt": "Gion District",
+        "title": "Gion District",
+        "description": "Gion is Kyoto's historic geisha district, where visitors can spot geisha and maiko (apprentice geisha) in traditional attire."
+      },
+      {
+        "img": "x",
+        "alt": "Arashiyama Bamboo Grove",
+        "title": "Arashiyama Bamboo Grove",
+        "description": "Arashiyama Bamboo Grove is a picturesque bamboo forest, creating a tranquil and otherworldly atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Kiyomizu-dera Temple",
+        "title": "Kiyomizu-dera Temple",
+        "description": "Kiyomizu-dera is an iconic Buddhist temple known for its wooden stage that offers panoramic views of Kyoto and cherry blossoms in spring."
+      },
+      {
+        "img": "x",
+        "alt": "Kyoto Imperial Palace",
+        "title": "Kyoto Imperial Palace",
+        "description": "Kyoto Imperial Palace is the former residence of the Imperial family and features beautiful gardens and historic structures."
+      },
+      {
+        "img": "x",
+        "alt": "Nijo Castle",
+        "title": "Nijo Castle",
+        "description": "Nijo Castle is a UNESCO World Heritage site, known for its ornate interiors and 'nightingale floors' that chirp when walked upon."
+      },
+      {
+        "img": "x",
+        "alt": "Philosopher's Path",
+        "title": "Philosopher's Path",
+        "description": "Philosopher's Path is a picturesque walk along a canal lined with hundreds of cherry trees, making it a prime spot for hanami (flower viewing)."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Kaiseki",
+        "title": "Kaiseki",
+        "description": "Kaiseki is a traditional multi-course Japanese meal that emphasizes seasonal and local ingredients, artfully presented."
+      },
+      {
+        "img": "x",
+        "alt": "Sushi",
+        "title": "Sushi",
+        "description": "Kyoto offers delectable sushi with fresh, high-quality seafood. Many sushi restaurants focus on traditional preparation and flavors."
+      },
+      {
+        "img": "x",
+        "alt": "Matcha Tea",
+        "title": "Matcha Tea",
+        "description": "Kyoto is renowned for its matcha (green tea). Visitors can enjoy matcha in various forms, from tea ceremonies to matcha-flavored sweets."
+      },
+      {
+        "img": "x",
+        "alt": "Yudofu",
+        "title": "Yudofu",
+        "description": "Yudofu is a simple and delicious Kyoto specialty, featuring soft tofu served in a savory soy-based broth."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Ritz-Carlton Kyoto",
+        "title": "The Ritz-Carlton Kyoto",
+        "description": "The Ritz-Carlton Kyoto is a luxurious hotel with a prime location along the Kamogawa River, offering elegant rooms and exquisite dining options."
+      },
+      {
+        "img": "x",
+        "alt": "Hyatt Regency Kyoto",
+        "title": "Hyatt Regency Kyoto",
+        "description": "Hyatt Regency Kyoto is a sophisticated hotel that combines modern comfort with traditional Japanese aesthetics in the Higashiyama district."
+      },
+      {
+        "img": "x",
+        "alt": "Gion Hatanaka Ryokan",
+        "title": "Gion Hatanaka Ryokan",
+        "description": "Gion Hatanaka Ryokan is a traditional Japanese inn with tatami mat rooms, offering an authentic ryokan experience in the Gion geisha district."
+      },
+      {
+        "img": "x",
+        "alt": "The Westin Miyako Kyoto",
+        "title": "The Westin Miyako Kyoto",
+        "description": "The Westin Miyako Kyoto is set in a scenic location on the eastern hills of Kyoto, providing a peaceful retreat with modern amenities."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "JR Kyoto Station",
+        "title": "JR Kyoto Station",
+        "description": "JR Kyoto Station is a major transportation hub with shinkansen (bullet train) access and a wide range of facilities and services."
+      },
+      {
+        "img": "x",
+        "alt": "City Bus and Subway",
+        "title": "City Bus and Subway",
+        "description": "Kyoto's city bus and subway network is a convenient way to explore the city, with various passes available for tourists."
+      },
+      {
+        "img": "x",
+        "alt": "Bicycles",
+        "title": "Bicycles",
+        "description": "Bicycles are a popular means of transportation in Kyoto, offering an eco-friendly and enjoyable way to see the city's sights."
+      },
+      {
+        "img": "x",
+        "alt": "Taxi",
+        "title": "Taxi",
+        "description": "Taxis are readily available in Kyoto and offer a comfortable and convenient way to reach specific destinations."
+      },
+      {
+        "img": "x",
+        "alt": "Kansai International Airport",
+        "title": "Kansai International Airport",
+        "description": "Kansai International Airport is the main gateway to Kyoto and the Kansai region, serving domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Itami Airport",
+        "title": "Itami Airport",
+        "description": "Itami Airport, also known as Osaka International Airport, provides domestic flights and is accessible from Kyoto."
+      }
+    ]
+  }
+}
+

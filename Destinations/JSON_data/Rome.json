@@ -1,0 +1,173 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Rome"
+    },
+    "about": {
+      "name": "Rome",
+      "info_text": "Rome, the capital of Italy, is a city with an unparalleled history that spans over 2,500 years. It's often referred to as the 'Eternal City' due to its enduring influence on art, culture, and politics. Rome is famous for its ancient ruins, stunning architecture, and world-class art. Visitors can explore iconic landmarks like the Colosseum, Roman Forum, and Vatican City, while also indulging in delicious Italian cuisine. With its rich heritage and contemporary vibrancy, Rome is a city that captivates travelers from around the globe.",
+      "facts_text": "<strong>Population:</strong> Approximately 2,873,494<br><strong>Region:</strong> Lazio<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Italian<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Rome has a Mediterranean climate with hot, dry summers and mild, wet winters. Spring and autumn are the best times to visit when the weather is pleasant and the city is less crowded."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Colosseum",
+          "title": "Colosseum",
+          "description": "The Colosseum is an ancient Roman amphitheater known for its grandeur and history. It once hosted gladiator contests and is an iconic symbol of Rome."
+        },
+        {
+          "img": "x",
+          "alt": "Roman Forum",
+          "title": "Roman Forum",
+          "description": "The Roman Forum is a historic plaza that was the center of Roman public life. It's filled with well-preserved ancient structures and temples."
+        },
+        {
+          "img": "x",
+          "alt": "Vatican City",
+          "title": "Vatican City",
+          "description": "Vatican City is an independent city-state within Rome and is home to St. Peter's Basilica, the Vatican Museums, and the Sistine Chapel."
+        },
+        {
+          "img": "x",
+          "alt": "Trevi Fountain",
+          "title": "Trevi Fountain",
+          "description": "The Trevi Fountain is a Baroque masterpiece and a popular spot for tossing a coin to ensure your return to Rome."
+        },
+        {
+          "img": "x",
+          "alt": "Pantheon",
+          "title": "Pantheon",
+          "description": "The Pantheon is a Roman temple known for its impressive dome and is now a church. It's a marvel of ancient architecture."
+        },
+        {
+          "img": "x",
+          "alt": "Spanish Steps",
+          "title": "Spanish Steps",
+          "description": "The Spanish Steps is a monumental staircase of 135 steps, with the Trinità dei Monti church at the top. It's a popular meeting point."
+        },
+        {
+          "img": "x",
+          "alt": "Piazza Navona",
+          "title": "Piazza Navona",
+          "description": "Piazza Navona is a beautiful square known for its Baroque fountains, vibrant street life, and outdoor cafes."
+        },
+        {
+          "img": "x",
+          "alt": "Castel Sant'Angelo",
+          "title": "Castel Sant'Angelo",
+          "description": "Castel Sant'Angelo is a towering fortress that has served various roles throughout history, including as a papal residence and prison."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Pizza",
+          "title": "Pizza",
+          "description": "Rome offers a variety of pizza styles, from the classic Margherita to Roman-style pizza with a thin, crispy crust."
+        },
+        {
+          "img": "x",
+          "alt": "Pasta Carbonara",
+          "title": "Pasta Carbonara",
+          "description": "Pasta Carbonara is a Roman specialty made with eggs, Pecorino cheese, pancetta, and black pepper. It's a flavorful pasta dish."
+        },
+        {
+          "img": "x",
+          "alt": "Gelato",
+          "title": "Gelato",
+          "description": "Indulge in authentic Italian gelato in Rome. It comes in a wide range of flavors and is a delightful treat."
+        },
+        {
+          "img": "x",
+          "alt": "Supplì",
+          "title": "Supplì",
+          "description": "Supplì are deep-fried rice balls with a surprise center, often filled with mozzarella. They make for a tasty Roman street food snack."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Hassler",
+          "title": "Hotel Hassler",
+          "description": "A luxurious hotel overlooking the Spanish Steps, known for its elegant rooms, rooftop restaurant, and panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "The St. Regis Rome",
+          "title": "The St. Regis Rome",
+          "description": "A prestigious hotel near the Trevi Fountain, offering opulent accommodations and personalized service."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Eden",
+          "title": "Hotel Eden",
+          "description": "A stylish hotel with a rooftop bar and restaurant, boasting beautiful views of Rome's historic center."
+        },
+        {
+          "img": "x",
+          "alt": "Palazzo Manfredi",
+          "title": "Palazzo Manfredi",
+          "description": "A boutique hotel with a view of the Colosseum, offering luxury rooms and gourmet dining."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Public Transit",
+          "title": "Public Transit",
+          "description": "Rome has an extensive public transit system, including buses and trams, making it easy to get around the city."
+        },
+        {
+          "img": "x",
+          "alt": "Metro",
+          "title": "Metro",
+          "description": "The Rome Metro is a convenient way to navigate the city, with lines connecting key attractions and neighborhoods."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Rome and can be useful for reaching specific destinations, especially at night."
+        },
+        {
+          "img": "x",
+          "alt": "Walking",
+          "title": "Walking",
+          "description": "Exploring Rome on foot is one of the best ways to soak in the city's historic glamour."
+        },
+        {
+          "img": "x",
+          "alt": "Cycling",
+          "title": "Cycling",
+          "description": "Cycling is a leisurely way to explore Rome, and there are bike rental services available for those who want to pedal through the city's historic streets."
+        },
+        {
+          "img": "x",
+          "alt": "Train Stations",
+          "title": "Train Stations",
+          "description": "Rome is a major railway hub with several train stations, making it easy to travel to other Italian cities and beyond."
+        },
+        {
+          "img": "x",
+          "alt": "Fiumicino Airport",
+          "title": "Fiumicino Airport",
+          "description": "Leonardo da Vinci-Fiumicino Airport, also known as Fiumicino Airport, is Rome's main international airport, serving travelers from around the world."
+        },
+        {
+          "img": "x",
+          "alt": "Ciampino Airport",
+          "title": "Ciampino Airport",
+          "description": "Rome Ciampino Airport is a secondary airport handling domestic and European flights, providing additional travel options."
+        }
+      ]
+    }
+  }  
+  

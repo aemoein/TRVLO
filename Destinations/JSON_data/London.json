@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "London"
+  },
+  "about": {
+    "name": "London",
+    "info_text": "London, the capital of the United Kingdom, is a dynamic and diverse metropolis known for its rich history, iconic landmarks, and cultural vibrancy. Situated on the River Thames, the city is a global hub for finance, fashion, and the arts. Visitors can explore historic sites like the Tower of London, Buckingham Palace, and Westminster Abbey. London is also famous for its world-class museums, theaters, and vibrant neighborhoods. With a diverse culinary scene and an array of international influences, it's a city that offers something for everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 8.8 million<br><strong>Region:</strong> Greater London<br><strong>Time Zone:</strong> Greenwich Mean Time (UTC+00:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> British Pound (GBP)",
+    "climate_text": "London has a temperate maritime climate with mild temperatures and moderate rainfall throughout the year. Summers are generally warm, and winters are cool with occasional snowfall."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Tower Bridge",
+        "title": "Tower Bridge",
+        "description": "Tower Bridge is an iconic bascule and suspension bridge known for its striking architecture and the glass-floored walkway with views of the River Thames."
+      },
+      {
+        "img": "x",
+        "alt": "Buckingham Palace",
+        "title": "Buckingham Palace",
+        "description": "Buckingham Palace is the official residence of the British monarch and a must-visit landmark, especially during the Changing of the Guard ceremony."
+      },
+      {
+        "img": "x",
+        "alt": "British Museum",
+        "title": "British Museum",
+        "description": "The British Museum is home to a vast collection of art and artifacts from around the world, including the Rosetta Stone and the Elgin Marbles."
+      },
+      {
+        "img": "x",
+        "alt": "Westminster Abbey",
+        "title": "Westminster Abbey",
+        "description": "Westminster Abbey is a historic Gothic church where many British monarchs have been crowned, and it also serves as a mausoleum for notable figures."
+      },
+      {
+        "img": "x",
+        "alt": "The Shard",
+        "title": "The Shard",
+        "description": "The Shard is London's tallest skyscraper, offering panoramic views of the city from its observation deck, as well as dining and entertainment options."
+      },
+      {
+        "img": "x",
+        "alt": "Tate Modern",
+        "title": "Tate Modern",
+        "description": "Tate Modern is a contemporary art museum housed in a former power station, featuring an impressive collection of modern and contemporary art."
+      },
+      {
+        "img": "x",
+        "alt": "Notting Hill",
+        "title": "Notting Hill",
+        "description": "Notting Hill is a trendy and colorful neighborhood famous for the Portobello Road Market, vibrant houses, and the Notting Hill Carnival."
+      },
+      {
+        "img": "x",
+        "alt": "Theatre District",
+        "title": "Theatre District",
+        "description": "London's Theatre District, including the West End, is renowned for its world-class theaters and performances, making it a hub for the arts and entertainment."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Fish and Chips",
+        "title": "Fish and Chips",
+        "description": "Fish and chips is a classic British dish featuring battered and fried fish served with thick-cut potatoes and often accompanied by mushy peas and tartar sauce."
+      },
+      {
+        "img": "x",
+        "alt": "Full English Breakfast",
+        "title": "Full English Breakfast",
+        "description": "The Full English Breakfast is a hearty morning meal that typically includes eggs, bacon, sausages, baked beans, mushrooms, tomatoes, and toast."
+      },
+      {
+        "img": "x",
+        "alt": "Afternoon Tea",
+        "title": "Afternoon Tea",
+        "description": "Afternoon tea is a quintessential British tradition, featuring a selection of teas, finger sandwiches, scones with clotted cream and jam, and assorted pastries."
+      },
+      {
+        "img": "x",
+        "alt": "Curry",
+        "title": "Curry",
+        "description": "London is known for its diverse culinary scene, and you can savor excellent Indian and South Asian curries in various restaurants around the city."
+      },
+      {
+        "img": "x",
+        "alt": "Pies and Pastries",
+        "title": "Pies and Pastries",
+        "description": "British pies and pastries, including steak and kidney pie, chicken pie, and Cornish pasties, are comfort foods enjoyed in London."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Ritz London",
+        "title": "The Ritz London",
+        "description": "The Ritz London is an iconic luxury hotel renowned for its opulent decor, afternoon tea, and world-class service in the heart of Mayfair."
+      },
+      {
+        "img": "x",
+        "alt": "The Savoy",
+        "title": "The Savoy",
+        "description": "The Savoy is a historic and elegant hotel located on the Strand, offering luxurious accommodations, fine dining, and the famous American Bar."
+      },
+      {
+        "img": "x",
+        "alt": "Shangri-La Hotel, At The Shard",
+        "title": "Shangri-La Hotel, At The Shard",
+        "description": "Shangri-La Hotel, At The Shard, is a luxury hotel situated within the iconic Shard skyscraper, providing breathtaking views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "The Langham, London",
+        "title": "The Langham, London",
+        "description": "The Langham, London, is a stylish and sophisticated hotel near Regent's Park, offering classic luxury and modern amenities."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Heathrow Airport",
+        "title": "Heathrow Airport",
+        "description": "Heathrow Airport is one of the busiest international airports, connecting London to destinations worldwide."
+      },
+      {
+        "img": "x",
+        "alt": "London Underground",
+        "title": "London Underground",
+        "description": "The London Underground, also known as the Tube, is an extensive and efficient subway system that provides easy access to various parts of the city."
+      },
+      {
+        "img": "x",
+        "alt": "London Buses",
+        "title": "London Buses",
+        "description": "London's red double-decker buses are a familiar sight and offer a convenient way to travel around the city, with an extensive bus network."
+      },
+      {
+        "img": "x",
+        "alt": "Black Cabs",
+        "title": "Black Cabs",
+        "description": "London's black cabs, or Hackney carriages, are iconic and reliable taxis that can be hailed on the street or found at designated taxi ranks."
+      },
+      {
+        "img": "x",
+        "alt": "Bike Rentals",
+        "title": "Bike Rentals",
+        "description": "London promotes cycling, and you can rent bikes to explore the city's streets and dedicated cycling paths."
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Madrid"
+  },
+  "about": {
+    "name": "Madrid",
+    "info_text": "Madrid, the capital of Spain, is a vibrant and lively city known for its rich history, cultural heritage, and contemporary flair. It's a place where tradition and modernity coexist seamlessly. Visitors can explore iconic landmarks such as the Royal Palace and the Prado Museum, stroll through the historic Plaza Mayor, and enjoy the world-famous Spanish cuisine. Madrid's art, music, and nightlife scenes make it a dynamic and exciting destination.",
+    "facts_text": "<strong>Population:</strong> Approximately 3.3 million<br><strong>Region:</strong> Community of Madrid<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Spanish<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Madrid has a Mediterranean climate with hot summers and cold winters. It enjoys plenty of sunshine throughout the year, making it an ideal destination for outdoor activities and exploration."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Royal Palace of Madrid",
+        "title": "Royal Palace of Madrid",
+        "description": "The Royal Palace is the official residence of the Spanish Royal Family and a stunning architectural masterpiece with opulent rooms and beautiful gardens."
+      },
+      {
+        "img": "x",
+        "alt": "Prado Museum",
+        "title": "Prado Museum",
+        "description": "The Prado Museum is one of the world's most renowned art museums, home to a vast collection of European art, including works by Goya, Velázquez, and El Greco."
+      },
+      {
+        "img": "x",
+        "alt": "Plaza Mayor",
+        "title": "Plaza Mayor",
+        "description": "Plaza Mayor is a historic central square surrounded by elegant buildings, restaurants, and lively street performances."
+      },
+      {
+        "img": "x",
+        "alt": "Retiro Park",
+        "title": "Retiro Park",
+        "description": "El Retiro Park is a vast and beautiful green space in the heart of the city, offering a serene escape with boating, gardens, and sculptures."
+      },
+      {
+        "img": "x",
+        "alt": "Puerta del Sol",
+        "title": "Puerta del Sol",
+        "description": "Puerta del Sol is a bustling square and a symbol of Madrid, known for its iconic clock and a starting point for Spain's road network."
+      },
+      {
+        "img": "x",
+        "alt": "Thyssen-Bornemisza Museum",
+        "title": "Thyssen-Bornemisza Museum",
+        "description": "The Thyssen-Bornemisza Museum houses a remarkable collection of art, including Impressionist, Expressionist, and modern works."
+      },
+      {
+        "img": "x",
+        "alt": "Temple of Debod",
+        "title": "Temple of Debod",
+        "description": "The Temple of Debod is an ancient Egyptian temple relocated to Madrid, offering a unique cultural attraction and views of the city at sunset."
+      },
+      {
+        "img": "x",
+        "alt": "Mercado de San Miguel",
+        "title": "Mercado de San Miguel",
+        "description": "Mercado de San Miguel is a vibrant food market offering a taste of Spanish cuisine, including tapas, seafood, and regional delights."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Paella",
+        "title": "Paella",
+        "description": "Paella is a traditional Spanish dish, often associated with Valencia, featuring saffron-infused rice, vegetables, and a choice of seafood, meat, or vegetables."
+      },
+      {
+        "img": "x",
+        "alt": "Tapas",
+        "title": "Tapas",
+        "description": "Tapas are a beloved Spanish tradition, offering a variety of small dishes, such as olives, ham, croquettes, and more, perfect for sharing."
+      },
+      {
+        "img": "x",
+        "alt": "Churros con Chocolate",
+        "title": "Churros con Chocolate",
+        "description": "Churros con Chocolate are a popular Spanish breakfast or snack, consisting of fried dough served with a rich, thick chocolate dipping sauce."
+      },
+      {
+        "img": "x",
+        "alt": "Jamon Ibérico",
+        "title": "Jamon Ibérico",
+        "description": "Jamon Ibérico is a premium Spanish cured ham, known for its exceptional flavor and quality, often enjoyed as a delicacy."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Westin Palace",
+        "title": "The Westin Palace",
+        "description": "The Westin Palace offers luxurious accommodations in the heart of Madrid, with elegant rooms, fine dining, and a central location near major attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Ritz Madrid",
+        "title": "Hotel Ritz Madrid",
+        "description": "Hotel Ritz Madrid, now known as Mandarin Oriental Ritz, Madrid, is a historic and opulent hotel with classic charm and modern amenities."
+      },
+      {
+        "img": "x",
+        "alt": "NH Collection Madrid Palacio de Tepa",
+        "title": "NH Collection Madrid Palacio de Tepa",
+        "description": "NH Collection Madrid Palacio de Tepa is a boutique hotel housed in an 18th-century palace, offering stylish rooms and a central location."
+      },
+      {
+        "img": "x",
+        "alt": "ME Madrid Reina Victoria",
+        "title": "ME Madrid Reina Victoria",
+        "description": "ME Madrid Reina Victoria is a contemporary and stylish hotel in the heart of Madrid, known for its rooftop bar and city views."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Adolfo Suárez Madrid-Barajas Airport",
+        "title": "Adolfo Suárez Madrid-Barajas Airport",
+        "description": "Adolfo Suárez Madrid-Barajas Airport is the main international airport serving Madrid, providing a gateway to the city and surrounding regions."
+      },
+      {
+        "img": "x",
+        "alt": "Madrid Metro",
+        "title": "Madrid Metro",
+        "description": "The Madrid Metro is a comprehensive and efficient subway system, making it easy to access different parts of the city and its attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Cercanías Madrid",
+        "title": "Cercanías Madrid",
+        "description": "Cercanías Madrid is a commuter rail network that connects the city with nearby suburbs and towns, offering a convenient way to explore the region."
+      },
+      {
+        "img": "x",
+        "alt": "Madrid Buses",
+        "title": "Madrid Buses",
+        "description": "Madrid's extensive bus network covers the city and provides an additional means of public transportation for getting around."
+      },
+      {
+        "img": "x",
+        "alt": "Atocha Train Station",
+        "title": "Atocha Train Station",
+        "description": "Atocha Train Station is a major railway hub in Madrid, offering both domestic and international train services."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis in Madrid",
+        "title": "Taxis in Madrid",
+        "description": "Taxis in Madrid are readily available and offer a convenient mode of transportation, especially for reaching specific destinations."
+      }
+    ]
+  }
+}

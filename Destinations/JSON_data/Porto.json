@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Porto"
+  },
+  "about": {
+    "name": "Porto",
+    "info_text": "Porto, often called Oporto, is a picturesque city in Portugal known for its historic charm, rich cultural heritage, and world-famous port wine. Located along the Douro River, Porto is famous for its colorful buildings, medieval old town, and stunning bridges. Visitors can explore the Ribeira district, visit wine cellars, and enjoy the vibrant cafe culture. Porto offers a unique blend of old-world character and modern vitality, making it a captivating destination for travelers.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.7 million (Greater Porto Area)<br><strong>Region:</strong> Norte Region<br><strong>Time Zone:</strong> Western European Time (UTC+00:00)<br><strong>Language:</strong> Portuguese<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Porto experiences a Mediterranean climate with mild, wet winters and warm, dry summers. It is known for its pleasant weather and sunny days, making it an ideal destination year-round."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Ribeira District",
+        "title": "Ribeira District",
+        "description": "The Ribeira district is Porto's historic heart, with narrow streets, colorful buildings, and waterfront cafes overlooking the Douro River."
+      },
+      {
+        "img": "x",
+        "alt": "Livraria Lello",
+        "title": "Livaria Lello",
+        "description": "Livaria Lello is a stunning bookshop with intricate architecture and is said to have inspired the Harry Potter series."
+      },
+      {
+        "img": "x",
+        "alt": "Douro River Cruises",
+        "title": "Douro River Cruises",
+        "description": "Douro River cruises offer a scenic way to explore the Douro Valley's vineyards, charming villages, and terraced hills."
+      },
+      {
+        "img": "x",
+        "alt": "Clérigos Tower",
+        "title": "Clérigos Tower",
+        "description": "The Clérigos Tower is an iconic landmark in Porto, offering panoramic views of the city from its bell tower."
+      },
+      {
+        "img": "x",
+        "alt": "Serralves Foundation",
+        "title": "Serralves Foundation",
+        "description": "Serralves Foundation is a cultural institution with contemporary art exhibitions, beautiful gardens, and a pink art deco villa."
+      },
+      {
+        "img": "x",
+        "alt": "Palácio da Bolsa",
+        "title": "Palácio da Bolsa",
+        "description": "Palácio da Bolsa is a neoclassical building with ornate rooms, including the stunning Arabian Hall."
+      },
+      {
+        "img": "x",
+        "alt": "Clerics Church",
+        "title": "Clerics Church",
+        "description": "Clerics Church is a baroque masterpiece known for its exquisite interior and ornate woodwork."
+      },
+      {
+        "img": "x",
+        "alt": "Port Wine Cellars",
+        "title": "Port Wine Cellars",
+        "description": "Porto is famous for its port wine; visit the cellars in Vila Nova de Gaia to learn about the wine-making process and enjoy tastings."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Francesinha",
+        "title": "Francesinha",
+        "description": "Francesinha is a hearty Portuguese sandwich made with layers of cured meats, covered in cheese, and smothered in a spicy sauce."
+      },
+      {
+        "img": "x",
+        "alt": "Bacalhau à Gomes de Sá",
+        "title": "Bacalhau à Gomes de Sá",
+        "description": "Bacalhau à Gomes de Sá is a classic Portuguese codfish dish, featuring salted cod with potatoes, onions, and eggs."
+      },
+      {
+        "img": "x",
+        "alt": "Pastéis de Nata",
+        "title": "Pastéis de Nata",
+        "description": "Pastéis de Nata are traditional Portuguese custard tarts with flaky pastry, enjoyed with coffee or as a dessert."
+      },
+      {
+        "img": "x",
+        "alt": "Francesinha",
+        "title": "Francesinha",
+        "description": "Francesinha is a hearty Portuguese sandwich made with layers of cured meats, covered in cheese, and smothered in a spicy sauce."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Yeatman",
+        "title": "The Yeatman",
+        "description": "The Yeatman is a luxurious wine-themed hotel in Vila Nova de Gaia, offering stunning views of Porto, wine cellars, and a Michelin-starred restaurant."
+      },
+      {
+        "img": "x",
+        "alt": "Pestana Palácio do Freixo",
+        "title": "Pestana Palácio do Freixo",
+        "description": "Pestana Palácio do Freixo is a historic palace hotel with riverside views and a beautiful baroque architecture."
+      },
+      {
+        "img": "x",
+        "alt": "InterContinental Porto - Palácio das Cardosas",
+        "title": "InterContinental Porto - Palácio das Cardosas",
+        "description": "InterContinental Porto - Palácio das Cardosas is a luxury hotel located in the heart of Porto, offering elegant rooms and a historic setting."
+      },
+      {
+        "img": "x",
+        "alt": "Torel Avantgarde",
+        "title": "Torel Avantgarde",
+        "description": "Torel Avantgarde is a boutique hotel with unique design, stunning city views, and a tranquil atmosphere."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Francisco Sá Carneiro Airport",
+        "title": "Francisco Sá Carneiro Airport",
+        "description": "Francisco Sá Carneiro Airport is the main international airport serving Porto, offering various transportation options to the city center."
+      },
+      {
+        "img": "x",
+        "alt": "Trams and Buses",
+        "title": "Trams and Buses",
+        "description": "Porto's tram and bus network provides convenient public transportation, connecting different parts of the city, including historic tram lines."
+      },
+      {
+        "img": "x",
+        "alt": "Porto Metro",
+        "title": "Porto Metro",
+        "description": "Porto Metro is a modern and efficient way to navigate the city, serving various neighborhoods and attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Dom Luís I Bridge",
+        "title": "Dom Luís I Bridge",
+        "description": "The iconic Dom Luís I Bridge is both a pedestrian bridge and a double-deck iron bridge that spans the Douro River, connecting Porto and Vila Nova de Gaia."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis in Porto",
+        "title": "Taxis in Porto",
+        "description": "Taxis in Porto are readily available and offer a convenient way to travel around the city, especially for reaching specific destinations."
+      },
+      {
+        "img": "x",
+        "alt": "Ferries on the Douro River",
+        "title": "Ferries on the Douro River",
+        "description": "Ferries on the Douro River provide a scenic means of exploring both Porto and Vila Nova de Gaia, offering beautiful river views."
+      }
+    ]
+  }
+}

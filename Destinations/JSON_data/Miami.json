@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Miami"
+  },
+  "about": {
+    "name": "Miami",
+    "info_text": "Miami, a vibrant city located on the southeastern coast of Florida, is known for its diverse culture, beautiful beaches, and lively nightlife. With a tropical climate, Miami offers a range of outdoor activities, including water sports, art deco architecture, and a culinary scene influenced by Latin and Caribbean flavors. The city is a popular destination for tourists seeking sun, fun, and a unique blend of cultures.",
+    "facts_text": "<strong>Population:</strong> Approximately 454,000 (city), 6.2 million (metro)<br><strong>State:</strong> Florida<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Languages:</strong> English, Spanish<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Miami enjoys a tropical monsoon climate with a marked drier season in the winter. Summers are hot and humid, while winters are warm and dry, making it a year-round destination for visitors."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "South Beach",
+        "title": "South Beach",
+        "description": "South Beach is known for its iconic pastel-hued art deco buildings, beautiful sandy shores, and vibrant beachfront scene."
+      },
+      {
+        "img": "x",
+        "alt": "Art Deco Historic District",
+        "title": "Art Deco Historic District",
+        "description": "The Art Deco Historic District in Miami Beach features a concentration of art deco architecture, neon signs, and a lively atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Wynwood Walls",
+        "title": "Wynwood Walls",
+        "description": "Wynwood Walls is an open-air street art museum with vibrant murals and graffiti, showcasing the work of local and international artists."
+      },
+      {
+        "img": "x",
+        "alt": "Little Havana",
+        "title": "Little Havana",
+        "description": "Little Havana is a cultural neighborhood known for its Cuban influence, offering authentic cuisine, music, and art."
+      },
+      {
+        "img": "x",
+        "alt": "Vizcaya Museum and Gardens",
+        "title": "Vizcaya Museum and Gardens",
+        "description": "Vizcaya is a historic Italian Renaissance-style villa and garden, providing a glimpse into Miami's past."
+      },
+      {
+        "img": "x",
+        "alt": "Everglades National Park",
+        "title": "Everglades National Park",
+        "description": "Everglades National Park is a unique natural wonder, home to diverse wildlife and ecosystems, including airboat tours for visitors."
+      },
+      {
+        "img": "x",
+        "alt": "Jungle Island",
+        "title": "Jungle Island",
+        "description": "Jungle Island is an interactive zoological park where visitors can encounter exotic animals and enjoy shows and adventures."
+      },
+      {
+        "img": "x",
+        "alt": "Bayside Marketplace",
+        "title": "Bayside Marketplace",
+        "description": "Bayside Marketplace is a waterfront shopping and entertainment complex, offering dining, shopping, and live music."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Cuban Cuisine",
+        "title": "Cuban Cuisine",
+        "description": "Miami is renowned for its Cuban cuisine, with dishes like Cuban sandwiches, empanadas, and the classic Cuban coffee."
+      },
+      {
+        "img": "x",
+        "alt": "Seafood",
+        "title": "Seafood",
+        "description": "Fresh seafood is a staple in Miami, with restaurants offering a variety of dishes like ceviche, stone crab claws, and grilled fish."
+      },
+      {
+        "img": "x",
+        "alt": "Latin American Flavors",
+        "title": "Latin American Flavors",
+        "description": "Miami's culinary scene is influenced by Latin American flavors, with options from countries like Colombia, Argentina, and Venezuela."
+      },
+      {
+        "img": "x",
+        "alt": "Fruit Stands",
+        "title": "Fruit Stands",
+        "description": "Tropical fruits are abundant in Miami, and visitors can enjoy fresh fruit from roadside stands and local markets."
+      },
+      {
+        "img": "x",
+        "alt": "Cuban Coffee",
+        "title": "Cuban Coffee",
+        "description": "Cuban coffee, including the strong and sweet café cubano, is a popular beverage in Miami's coffee shops."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Fontainebleau Miami Beach",
+        "title": "Fontainebleau Miami Beach",
+        "description": "The Fontainebleau is a luxurious oceanfront hotel with elegant rooms, multiple pools, a spa, and a vibrant nightlife scene."
+      },
+      {
+        "img": "x",
+        "alt": "The Biltmore Hotel",
+        "title": "The Biltmore Hotel",
+        "description": "The Biltmore is a historic luxury hotel in Coral Gables, featuring a championship golf course, a spa, and opulent accommodations."
+      },
+      {
+        "img": "x",
+        "alt": "The Ritz-Carlton Key Biscayne",
+        "title": "The Ritz-Carlton Key Biscayne",
+        "description": "The Ritz-Carlton Key Biscayne offers a tranquil escape with beautiful beachfront views and upscale amenities."
+      },
+      {
+        "img": "x",
+        "alt": "Kimpton EPIC Hotel",
+        "title": "Kimpton EPIC Hotel",
+        "description": "The Kimpton EPIC Hotel in downtown Miami offers modern and stylish accommodations with a rooftop"
+      },
+      {
+        "img": "x",
+        "alt": "Loews Miami Beach Hotel",
+        "title": "Loews Miami Beach Hotel",
+        "description": "Loews Miami Beach Hotel is a beachfront resort with ocean-view rooms, a spa, multiple restaurants, and easy access to South Beach."
+      },
+      {
+        "img": "x",
+        "alt": "Mandarin Oriental, Miami",
+        "title": "Mandarin Oriental, Miami",
+        "description": "The Mandarin Oriental in Miami offers a luxurious waterfront experience with elegant rooms, a spa, and stunning views of Biscayne Bay."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Miami International Airport",
+        "title": "Miami International Airport",
+        "description": "Miami International Airport (MIA) is the primary airport serving Miami and the surrounding areas, connecting to domestic and international destinations."
+      },
+      {
+        "img": "x",
+        "alt": "Metrorail",
+        "title": "Metrorail",
+        "description": "Miami's Metrorail provides a rapid transit system that connects the city and nearby neighborhoods, including the downtown area."
+      },
+      {
+        "img": "x",
+        "alt": "Metromover",
+        "title": "Metromover",
+        "description": "The Metromover is a free people mover system that operates in downtown Miami, offering convenient transportation to key locations."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis and Ridesharing",
+        "title": "Taxis and Ridesharing",
+        "description": "Taxis, Uber, and Lyft services are readily available for convenient transportation within Miami and its metropolitan area."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rental agencies are easily accessible in Miami, providing flexibility for exploring the city and nearby attractions at your own pace."
+      }
+    ]
+  }
+}

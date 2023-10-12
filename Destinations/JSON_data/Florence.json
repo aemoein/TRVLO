@@ -1,0 +1,155 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Florence"
+    },
+    "about": {
+      "name": "Florence",
+      "info_text": "Florence, the capital of Italy's Tuscany region, is a city renowned for its rich history, art, and culture. It's often referred to as the 'Cradle of the Renaissance' due to its significant contributions to art, literature, and science during this period. Florence is home to world-famous museums, historic architecture, and picturesque streets that transport visitors to another era. With its enchanting landscapes, delicious cuisine, and iconic landmarks, Florence is a must-visit destination for art and history enthusiasts alike.",
+      "facts_text": "<strong>Population:</strong> Approximately 382,258<br><strong>Region:</strong> Tuscany<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Italian<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Florence experiences a Mediterranean climate with hot, dry summers and mild, wet winters. Summer temperatures can exceed 30°C (86°F), while winter temperatures rarely drop below 10°C (50°F). Spring and fall are pleasant times to visit, with milder weather and fewer crowds."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Florence Cathedral (Duomo)",
+          "title": "Florence Cathedral (Duomo)",
+          "description": "The Florence Cathedral, with its iconic dome designed by Brunelleschi, is a masterpiece of Renaissance architecture. Visitors can climb the dome for panoramic views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Uffizi Gallery",
+          "title": "Uffizi Gallery",
+          "description": "The Uffizi Gallery is one of the most important art museums in the world, housing an incredible collection of Renaissance masterpieces, including works by Botticelli, Michelangelo, and Leonardo da Vinci."
+        },
+        {
+          "img": "x",
+          "alt": "Ponte Vecchio",
+          "title": "Ponte Vecchio",
+          "description": "This historic bridge over the Arno River is known for its shops, particularly jewelry stores. It offers beautiful views and a charming atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Piazza della Signoria",
+          "title": "Piazza della Signoria",
+          "description": "This bustling square is surrounded by historic buildings, including the Palazzo Vecchio. It's a hub of art, politics, and culture in Florence."
+        },
+        {
+          "img": "x",
+          "alt": "Galleria dell'Accademia",
+          "title": "Galleria dell'Accademia",
+          "description": "The Galleria dell'Accademia is famous for housing Michelangelo's 'David.' It's a must-visit for art enthusiasts."
+        },
+        {
+          "img": "x",
+          "alt": "Boboli Gardens",
+          "title": "Boboli Gardens",
+          "description": "These historic gardens behind the Pitti Palace offer a peaceful escape with sculptures, fountains, and panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "Basilica of Santa Croce",
+          "title": "Basilica of Santa Croce",
+          "description": "This Franciscan church is the burial place of many notable Italians, including Michelangelo, Galileo, and Machiavelli."
+        },
+        {
+          "img": "x",
+          "alt": "Palazzo Pitti",
+          "title": "Palazzo Pitti",
+          "description": "The Palazzo Pitti is a grand palace that houses several museums and galleries, including the Palatine Gallery and the Silver Museum."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Florentine Steak",
+          "title": "Florentine Steak",
+          "description": "Florentine steak is a thick, T-bone steak grilled to perfection and seasoned with olive oil and local herbs. It's a carnivore's delight."
+        },
+        {
+          "img": "x",
+          "alt": "Pappardelle al Cinghiale",
+          "title": "Pappardelle al Cinghiale",
+          "description": "This Tuscan pasta dish features wide, ribbon-like noodles served with a rich wild boar ragu, a local specialty."
+        },
+        {
+          "img": "x",
+          "alt": "Gelato",
+          "title": "Gelato",
+          "description": "Indulge in authentic Italian gelato in Florence. It comes in a variety of flavors and is the perfect treat on a warm day."
+        },
+        {
+          "img": "x",
+          "alt": "Ribollita",
+          "title": "Ribollita",
+          "description": "Ribollita is a hearty Tuscan soup made with bread, beans, and vegetables, simmered to perfection and often served with a drizzle of olive oil."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Savoy",
+          "title": "Hotel Savoy",
+          "description": "A luxurious hotel located in the heart of Florence, offering elegant rooms, fine dining, and impeccable service."
+        },
+        {
+          "img": "x",
+          "alt": "Belmond Villa San Michele",
+          "title": "Belmond Villa San Michele",
+          "description": "Nestled in a former monastery, this 5-star hotel offers breathtaking views of Florence and top-notch amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Lungarno",
+          "title": "Hotel Lungarno",
+          "description": "Situated along the Arno River, this boutique hotel is known for its stunning river views and art-inspired décor."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Firenze",
+          "title": "Four Seasons Hotel Firenze",
+          "description": "This historic hotel is set in a former palace and offers opulent accommodations, lush gardens, and a spa."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Public Transit",
+          "title": "Public Transit",
+          "description": "Florence has an efficient public transit system, including buses and trams, making it easy to navigate the city."
+        },
+        {
+          "img": "x",
+          "alt": "Walking",
+          "title": "Walking",
+          "description": "Florence's compact city center is best explored on foot. Walking allows you to fully appreciate its historic charm."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Florence and can be a convenient way to get around, especially for longer journeys."
+        },
+        {
+          "img": "x",
+          "alt": "Cycling",
+          "title": "Cycling",
+          "description": "Cycling is a popular and eco-friendly way to explore Florence. You can rent bicycles from various providers."
+        },
+        {
+          "img": "x",
+          "alt": "Train",
+          "title": "Train",
+          "description": "Florence is well-connected by train to other Italian cities, making it easy to explore the beautiful Tuscan region or take day trips to nearby destinations."
+        }
+      ]
+    }
+  }  
+  

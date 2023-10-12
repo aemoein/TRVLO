@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Rio de Janeiro"
+    },
+    "about": {
+      "name": "Rio de Janeiro",
+      "info_text": "Rio de Janeiro, often simply referred to as Rio, is a vibrant and picturesque city located on the southeastern coast of Brazil. It is known for its stunning natural beauty, iconic landmarks, and lively culture. With its famous Copacabana and Ipanema beaches, lush rainforests, and vibrant Carnival celebrations, Rio de Janeiro offers a diverse range of experiences for visitors. The city is a blend of modernity and tradition, with a rich history and a warm and welcoming atmosphere.",
+      "facts_text": "<strong>Population:</strong> Approximately 6.7 million<br><strong>State:</strong> Rio de Janeiro<br><strong>Time Zone:</strong> Brasília Time (UTC-03:00)<br><strong>Language:</strong> Portuguese<br><strong>Currency:</strong> Brazilian Real (BRL)",
+      "climate_text": "Rio de Janeiro has a tropical climate, with hot and humid summers and mild winters. The city is known for its beautiful sunny days, making it a popular destination year-round."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Christ the Redeemer",
+          "title": "Christ the Redeemer",
+          "description": "The Christ the Redeemer statue is one of the New Seven Wonders of the World and an iconic symbol of Rio de Janeiro. It offers breathtaking panoramic views of the city from the Corcovado mountain."
+        },
+        {
+          "img": "x",
+          "alt": "Copacabana Beach",
+          "title": "Copacabana Beach",
+          "description": "Copacabana Beach is a world-famous stretch of golden sand, known for its lively atmosphere, beachside kiosks, and beautiful promenade."
+        },
+        {
+          "img": "x",
+          "alt": "Sugarloaf Mountain",
+          "title": "Sugarloaf Mountain",
+          "description": "The Sugarloaf Mountain (Pão de Açúcar) is a granite peak that offers stunning views of Rio, Guanabara Bay, and the surrounding landscapes. It's accessible by a cable car."
+        },
+        {
+          "img": "x",
+          "alt": "Ipanema Beach",
+          "title": "Ipanema Beach",
+          "description": "Ipanema Beach is another famous Rio de Janeiro beach known for its beautiful shoreline, excellent surf, and vibrant culture."
+        },
+        {
+          "img": "x",
+          "alt": "Tijuca National Park",
+          "title": "Tijuca National Park",
+          "description": "Tijuca National Park is a lush rainforest within the city, offering hiking trails, waterfalls, and a refreshing escape from the urban hustle."
+        },
+        {
+          "img": "x",
+          "alt": "Sambadrome Marquês de Sapucaí",
+          "title": "Sambadrome Marquês de Sapucaí",
+          "description": "The Sambadrome is the epicenter of Rio's Carnival celebrations, where samba schools parade in dazzling costumes and electrifying music performances take place."
+        },
+        {
+          "img": "x",
+          "alt": "Lapa Arches",
+          "title": "Lapa Arches",
+          "description": "The Lapa Arches are a historic aqueduct that now functions as a bridge for trams. They are a popular architectural landmark and part of the city's vibrant nightlife scene."
+        },
+        {
+          "img": "x",
+          "alt": "Selarón Steps",
+          "title": "Selarón Steps",
+          "description": "The Selarón Steps are a mosaic staircase created by artist Jorge Selarón, featuring thousands of colorful tiles from around the world."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Feijoada",
+          "title": "Feijoada",
+          "description": "Feijoada is a traditional Brazilian dish made with black beans and a variety of pork, often served with rice, collard greens, and orange slices."
+        },
+        {
+          "img": "x",
+          "alt": "Açaí Bowl",
+          "title": "Açaí Bowl",
+          "description": "Açaí bowls are a popular and refreshing snack in Rio, made from frozen açaí berries and topped with granola, fruits, and honey."
+        },
+        {
+          "img": "x",
+          "alt": "Coxinha",
+          "title": "Coxinha",
+          "description": "Coxinha is a savory Brazilian snack, usually filled with shredded chicken and cream cheese, then deep-fried to a crispy perfection."
+        },
+        {
+          "img": "x",
+          "alt": "Pão de Queijo",
+          "title": "Pão de Queijo",
+          "description": "Pão de queijo, or cheese bread, is a delightful Brazilian treat made with cassava flour and cheese, creating a soft and cheesy snack."
+        },
+        {
+          "img": "x",
+          "alt": "Caipirinha",
+          "title": "Caipirinha",
+          "description": "The Caipirinha is Brazil's national cocktail, made with cachaça (sugar cane spirit), lime, sugar, and ice, creating a refreshing and tangy drink."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Belmond Copacabana Palace",
+          "title": "Belmond Copacabana Palace",
+          "description": "The Belmond Copacabana Palace is a luxurious and historic hotel overlooking Copacabana Beach, offering elegant rooms and world-class service."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Fasano Rio de Janeiro",
+          "title": "Hotel Fasano Rio de Janeiro",
+          "description": "Hotel Fasano is a boutique hotel with modern design and a prime location in Ipanema, known for its rooftop pool and fine dining."
+        },
+        {
+          "img": "x",
+          "alt": "Miramar Hotel by Windsor",
+          "title": "Miramar Hotel by Windsor",
+          "description": "The Miramar Hotel offers a beachfront location in Copacabana, contemporary rooms, and panoramic views of the ocean and city."
+        },
+        {
+          "img": "x",
+          "alt": "Hilton Rio de Janeiro Copacabana",
+          "title": "Hilton Rio de Janeiro Copacabana",
+          "description": "The Hilton in Copacabana provides comfortable accommodations and stunning beachfront views, perfect for a relaxing stay."
+        },
+        {
+          "img": "x",
+          "alt": "Grand Hyatt Rio de Janeiro",
+          "title": "Grand Hyatt Rio de Janeiro",
+          "description": "The Grand Hyatt offers a luxurious beachfront experience in Barra da Tijuca, featuring spacious rooms, a spa, and a variety of dining options."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Rio Metro",
+          "title": "Rio Metro",
+          "description": "The Rio Metro is a convenient way to travel within the city, with stations connecting various neighborhoods and attractions."
+        },
+        {
+          "img": "x",
+          "alt": "BRT (Bus Rapid Transit)",
+          "title": "BRT (Bus Rapid Transit)",
+          "description": "The BRT system offers bus transportation with dedicated lanes, providing a quick way to reach different parts of Rio de Janeiro."
+        },
+        {
+          "img": "x",
+          "alt": "Taxi Services",
+          "title": "Taxi Services",
+          "description": "Taxis are readily available in Rio de Janeiro and can be hailed on the street or booked through ride-sharing apps."
+        },
+        {
+          "img": "x",
+          "alt": "Galeão Airport",
+          "title": "Galeão Airport",
+          "description": "Galeão Antonio Carlos Jobim International Airport (GIG) is the main international airport serving Rio de Janeiro, offering both domestic and international flights."
+        }
+      ]
+    }
+  }  

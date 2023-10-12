@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Athens"
+  },
+  "about": {
+    "name": "Athens",
+    "info_text": "Athens is the historic capital of Greece, known for its rich heritage and ancient landmarks. The city is the birthplace of democracy, philosophy, and theater, making it a hub for history and culture. Visitors can explore iconic sites such as the Acropolis, Parthenon, and the National Archaeological Museum. With a Mediterranean climate, Athens offers pleasant weather for most of the year, making it an ideal destination for both history enthusiasts and sun-seekers.",
+    "facts_text": "<strong>Population:</strong> Approximately 664,046<br><strong>Region:</strong> Attica<br><strong>Time Zone:</strong> Eastern European Time (UTC+02:00)<br><strong>Language:</strong> Greek<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Athens has a Mediterranean climate with hot, dry summers and mild, wet winters. Summer temperatures can exceed 30°C (86°F), while winter temperatures rarely drop below 10°C (50°F). Rainfall is highest in the winter months, and visitors can expect plenty of sunshine in the summer."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Acropolis",
+        "title": "Acropolis",
+        "description": "The Acropolis is a UNESCO World Heritage Site and a symbol of ancient Greece. It features the iconic Parthenon, along with other historical structures, and offers panoramic views of Athens."
+      },
+      {
+        "img": "x",
+        "alt": "Plaka",
+        "title": "Plaka",
+        "description": "Plaka is a charming, historic neighborhood nestled at the foot of the Acropolis. Visitors can explore its narrow streets, enjoy traditional Greek cuisine, and shop for souvenirs."
+      },
+      {
+        "img": "x",
+        "alt": "National Archaeological Museum",
+        "title": "National Archaeological Museum",
+        "description": "This museum houses a vast collection of ancient artifacts, sculptures, and art. It's a must-visit for those interested in Greek history and archaeology."
+      },
+      {
+        "img": "x",
+        "alt": "Monastiraki",
+        "title": "Monastiraki",
+        "description": "Monastiraki is a lively area with a flea market, vibrant street life, and stunning views of the Acropolis. It's a great place to experience Athens' bustling atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Odeon of Herodes Atticus",
+        "title": "Odeon of Herodes Atticus",
+        "description": "This ancient amphitheater hosts cultural events, including concerts and performances, set against the backdrop of the Acropolis."
+      },
+      {
+        "img": "x",
+        "alt": "National Garden of Athens",
+        "title": "National Garden of Athens",
+        "description": "A green oasis in the heart of the city, this park offers a serene escape with walking paths, ponds, and a small zoo."
+      },
+      {
+        "img": "x",
+        "alt": "Benaki Museum",
+        "title": "Benaki Museum",
+        "description": "The Benaki Museum showcases a diverse collection of Greek art and historical items, offering insights into the nation's cultural evolution."
+      },
+      {
+        "img": "x",
+        "alt": "Temple of Olympian Zeus",
+        "title": "Temple of Olympian Zeus",
+        "description": "This colossal ancient temple is dedicated to Zeus and is one of the city's most significant historical sites."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Moussaka",
+        "title": "Moussaka",
+        "description": "Moussaka is a traditional Greek dish made with layers of eggplant, minced meat, and béchamel sauce. It's a delightful comfort food."
+      },
+      {
+        "img": "x",
+        "alt": "Souvlaki",
+        "title": "Souvlaki",
+        "description": "Souvlaki is a popular Greek fast food consisting of small pieces of grilled meat, usually served with pita bread and toppings."
+      },
+      {
+        "img": "x",
+        "alt": "Greek Salad",
+        "title": "Greek Salad",
+        "description": "A refreshing salad made with tomatoes, cucumbers, olives, feta cheese, and Greek dressing. It's a staple of Greek cuisine."
+      },
+      {
+        "img": "x",
+        "alt": "Baklava",
+        "title": "Baklava",
+        "description": "Baklava is a sweet dessert made of layers of filo pastry, nuts, and honey. It's a delicious way to end a meal."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hotel Grande Bretagne",
+        "title": "Hotel Grande Bretagne",
+        "description": "A luxurious hotel in the heart of Athens with stunning views of the Acropolis. It offers upscale amenities, fine dining, and a rooftop pool."
+      },
+      {
+        "img": "x",
+        "alt": "Electra Palace Athens",
+        "title": "Electra Palace Athens",
+        "description": "A centrally located hotel with comfortable rooms, a rooftop restaurant, and a swimming pool overlooking the city."
+      },
+      {
+        "img": "x",
+        "alt": "AthensWas Design Hotel",
+        "title": "AthensWas Design Hotel",
+        "description": "A modern boutique hotel near the Acropolis, offering contemporary design, a rooftop bar, and excellent service."
+      },
+      {
+        "img": "x",
+        "alt": "The Margi",
+        "title": "The Margi",
+        "description": "A stylish seaside hotel in the Athens Riviera, featuring a pool, spa, and access to the beach."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Metro",
+        "title": "Metro",
+        "description": "Athens' metro system provides efficient transportation around the city, including stops at key attractions and neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Buses and Trams",
+        "title": "Buses and Trams",
+        "description": "Buses and trams are convenient for reaching various parts of Athens, offering a cost-effective way to get around."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis",
+        "title": "Taxis",
+        "description": "Taxis are readily available in Athens and can be flagged down or booked in advance for convenient transportation."
+      }
+      ]
+    }
+  }
+  

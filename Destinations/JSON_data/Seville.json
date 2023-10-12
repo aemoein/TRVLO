@@ -1,0 +1,167 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Seville"
+    },
+    "about": {
+      "name": "Seville",
+      "info_text": "Seville, located in the Andalusia region of Spain, is a city steeped in history, culture, and vibrant traditions. It's known for its magnificent architecture, including the stunning Alcázar palace and the Gothic Seville Cathedral. Visitors can wander through charming neighborhoods, enjoy the lively atmosphere of tapas bars, and experience the passion of flamenco. Seville's sunny climate and rich heritage make it a captivating destination.",
+      "facts_text": "<strong>Population:</strong> Approximately 700,000<br><strong>Region:</strong> Andalusia<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Spanish<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Seville has a Mediterranean climate with hot, dry summers and mild, wet winters. It is known for its scorching summers, with plenty of sunshine throughout the year."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Seville Cathedral",
+          "title": "Seville Cathedral",
+          "description": "Seville Cathedral is one of the largest Gothic cathedrals in the world, known for its intricate architecture and the Giralda Tower with panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "Real Alcázar of Seville",
+          "title": "Real Alcázar of Seville",
+          "description": "The Alcázar is a stunning royal palace complex with beautiful Mudejar and Renaissance architecture, lush gardens, and historic rooms."
+        },
+        {
+          "img": "x",
+          "alt": "Plaza de España",
+          "title": "Plaza de España",
+          "description": "Plaza de España is a remarkable square with a semicircular building, bridges, and ceramic-tiled alcoves representing different provinces of Spain."
+        },
+        {
+          "img": "x",
+          "alt": "Metropol Parasol",
+          "title": "Metropol Parasol",
+          "description": "Metropol Parasol, also known as the 'Mushrooms of Seville,' is a modern wooden structure providing shade, panoramic views, and a market."
+        },
+        {
+          "img": "x",
+          "alt": "Barrio Santa Cruz",
+          "title": "Barrio Santa Cruz",
+          "description": "Barrio Santa Cruz is the historic Jewish quarter of Seville, featuring narrow streets, charming squares, and traditional Andalusian architecture."
+        },
+        {
+          "img": "x",
+          "alt": "Flamenco Shows",
+          "title": "Flamenco Shows",
+          "description": "Seville is the heart of flamenco, and visitors can enjoy passionate and soul-stirring flamenco performances at various venues."
+        },
+        {
+          "img": "x",
+          "alt": "Triana District",
+          "title": "Triana District",
+          "description": "Triana is a vibrant district on the west bank of the Guadalquivir River, known for its ceramics, tapas bars, and lively ambience."
+        },
+        {
+          "img": "x",
+          "alt": "Torre del Oro",
+          "title": "Torre del Oro",
+          "description": "The Torre del Oro is a historic watchtower by the river, offering exhibits on the maritime history of Seville."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Tapas",
+          "title": "Tapas",
+          "description": "Seville is renowned for its tapas culture, with bars and restaurants serving an array of small dishes that accompany drinks."
+        },
+        {
+          "img": "x",
+          "alt": "Gazpacho",
+          "title": "Gazpacho",
+          "description": "Gazpacho is a refreshing Andalusian cold tomato soup, perfect for cooling off during hot summers."
+        },
+        {
+          "img": "x",
+          "alt": "Paella",
+          "title": "Paella",
+          "description": "While paella is more associated with Valencia, you can still savor this iconic Spanish dish in Seville."
+        },
+        {
+            "img": "x",
+            "alt": "Churros con Chocolate",
+            "title": "Churros con Chocolate",
+            "description": "Churros con Chocolate is a favorite Spanish treat, with fried dough served with thick, rich, and luscious chocolate sauce. The crispy churros pair perfectly with the sweet and velvety chocolate, making it a beloved indulgence in Spain and around the world."
+        },          
+        {
+            "img": "x",
+            "alt": "Flan",
+            "title": "Flan",
+            "description": "Flan is a delightful Spanish dessert, a caramel custard that provides a sweet and creamy ending to your meal."
+        }
+      ]
+    },
+      "hotels": {
+        "hotels_card": [
+          {
+            "img": "x",
+            "alt": "Hotel Alfonso XIII",
+            "title": "Hotel Alfonso XIII",
+            "description": "Hotel Alfonso XIII is a historic and luxurious hotel with a central location, offering grand accommodations and impeccable service."
+          },
+          {
+            "img": "x",
+            "alt": "EME Catedral Hotel",
+            "title": "EME Catedral Hotel",
+            "description": "EME Catedral Hotel is a boutique hotel in the heart of Seville, known for its rooftop bar and views of the cathedral."
+          },
+          {
+            "img": "x",
+            "alt": "Las Casas de la Judería",
+            "title": "Las Casas de la Judería",
+            "description": "Las Casas de la Judería is a charming hotel located in the historic Jewish quarter, offering a unique and traditional stay."
+          },
+          {
+            "img": "x",
+            "alt": "Hotel Mercer Sevilla",
+            "title": "Hotel Mercer Sevilla",
+            "description": "Hotel Mercer Sevilla is a boutique hotel with a blend of modern design and historic architecture, providing a comfortable retreat."
+          }
+        ]
+      },
+      "transport": {
+        "transport_card": [
+          {
+            "img": "x",
+            "alt": "Seville Airport",
+            "title": "Seville Airport",
+            "description": "Seville Airport is the main international gateway to the city, serving both domestic and international flights."
+          },
+          {
+            "img": "x",
+            "alt": "Seville Metro",
+            "title": "Seville Metro",
+            "description": "Seville Metro is a convenient way to access various parts of the city, including popular attractions and neighborhoods."
+          },
+          {
+            "img": "x",
+            "alt": "Public Buses",
+            "title": "Public Buses",
+            "description": "Seville's public bus network provides accessible transportation, making it easy to explore the city and its surroundings."
+          },
+          {
+            "img": "x",
+            "alt": "Trams in Seville",
+            "title": "Trams in Seville",
+            "description": "Seville has a modern tram system that offers an additional mode of public transportation for visitors and residents."
+          },
+          {
+            "img": "x",
+            "alt": "Taxis in Seville",
+            "title": "Taxis in Seville",
+            "description": "Taxis are readily available in Seville and are a convenient way to travel around the city, especially for reaching specific destinations."
+          },
+          {
+            "img": "x",
+            "alt": "Bike Rentals",
+            "title": "Bike Rentals",
+            "description": "Seville offers bike rental services, allowing you to explore the city on two wheels and enjoy its bike-friendly infrastructure."
+          }
+        ]
+      }
+    }
+  

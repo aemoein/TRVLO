@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Boston"
+  },
+  "about": {
+    "name": "Boston",
+    "info_text": "Boston, the capital of Massachusetts, is a historic and culturally rich city located on the east coast of the United States. Known for its pivotal role in American history, Boston is home to iconic landmarks such as the Freedom Trail, the Paul Revere House, and Fenway Park. The city's diverse neighborhoods offer a blend of old-world charm and modern living. With a thriving academic and healthcare scene, Boston is a hub for education, innovation, and medical research. Visitors can explore the city's museums, dine on New England seafood, and enjoy its scenic waterfront.",
+    "facts_text": "<strong>Population:</strong> Approximately 692,000<br><strong>State:</strong> Massachusetts<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Boston experiences a humid continental climate with four distinct seasons. Winters are cold with snowfall, and summers are warm and humid, making it an ideal destination for both winter sports and outdoor activities in warmer months."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Freedom Trail",
+        "title": "Freedom Trail",
+        "description": "The Freedom Trail is a 2.5-mile-long historic trail that takes visitors on a journey through 16 significant sites related to the American Revolution."
+      },
+      {
+        "img": "x",
+        "alt": "Fenway Park",
+        "title": "Fenway Park",
+        "description": "Fenway Park is the oldest Major League Baseball stadium and home to the Boston Red Sox. Baseball enthusiasts can catch a game at this iconic venue."
+      },
+      {
+        "img": "x",
+        "alt": "Quincy Market",
+        "title": "Quincy Market",
+        "description": "Quincy Market is a historic market building with a vibrant food hall and unique shops. It's a popular spot for dining and shopping in downtown Boston."
+      },
+      {
+        "img": "x",
+        "alt": "Harvard University",
+        "title": "Harvard University",
+        "description": "Harvard University, located in nearby Cambridge, is one of the world's most prestigious Ivy League institutions. Visitors can explore the campus and its museums."
+      },
+      {
+        "img": "x",
+        "alt": "New England Aquarium",
+        "title": "New England Aquarium",
+        "description": "The New England Aquarium is home to a variety of marine life, including penguins, sea turtles, and a large IMAX theater for educational experiences."
+      },
+      {
+        "img": "x",
+        "alt": "Boston Common",
+        "title": "Boston Common",
+        "description": "Boston Common is the oldest city park in the United States, offering a green oasis for relaxation, picnics, and recreational activities."
+      },
+      {
+        "img": "x",
+        "alt": "Museum of Fine Arts",
+        "title": "Museum of Fine Arts",
+        "description": "The Museum of Fine Arts, Boston is one of the most comprehensive art museums in the world, featuring a vast collection of artworks from various cultures."
+      },
+      {
+        "img": "x",
+        "alt": "Isabella Stewart Gardner Museum",
+        "title": "Isabella Stewart Gardner Museum",
+        "description": "The Isabella Stewart Gardner Museum showcases a remarkable collection of art and is known for its distinctive Venetian-style architecture and beautiful courtyard."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "New England Clam Chowder",
+        "title": "New England Clam Chowder",
+        "description": "New England Clam Chowder is a creamy soup made with clams, potatoes, onions, and bacon, often served in a bread bowl at local seafood restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Lobster Roll",
+        "title": "Lobster Roll",
+        "description": "The Lobster Roll is a classic New England dish featuring chunks of fresh lobster meat in a buttered and toasted bun, often served with mayonnaise or butter."
+      },
+      {
+        "img": "x",
+        "alt": "Boston Baked Beans",
+        "title": "Boston Baked Beans",
+        "description": "Boston Baked Beans are a traditional New England dish made with navy beans, molasses, and salt pork, slow-cooked to perfection."
+      },
+      {
+        "img": "x",
+        "alt": "Clam Bake",
+        "title": "Clam Bake",
+        "description": "Clam Bakes are a coastal tradition, featuring a feast of clams, lobster, corn on the cob, and potatoes, all cooked together in a pit."
+      },
+      {
+        "img": "x",
+        "alt": "Irish Pub Fare",
+        "title": "Irish Pub Fare",
+        "description": "Boston has a strong Irish heritage, and you can enjoy Irish pub classics like Shepherd's Pie and Fish and Chips at local Irish pubs."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Fairmont Copley Plaza",
+        "title": "The Fairmont Copley Plaza",
+        "description": "The Fairmont Copley Plaza is a historic luxury hotel in the Back Bay neighborhood, known for its grand architecture and luxurious accommodations."
+      },
+      {
+        "img": "x",
+        "alt": "The Liberty Hotel",
+        "title": "The Liberty Hotel",
+        "description": "The Liberty Hotel is a unique and stylish hotel set in a former jailhouse. It offers modern amenities and a vibrant atmosphere in the Beacon Hill area."
+      },
+      {
+        "img": "x",
+        "alt": "The Langham, Boston",
+        "title": "The Langham, Boston",
+        "description": "The Langham, Boston is an elegant hotel with a blend of classic and modern design, situated in the Financial District, offering upscale accommodations and dining."
+      },
+      {
+        "img": "x",
+        "alt": "The Bostonian Boston",
+        "title": "The Bostonian Boston",
+        "description": "The Bostonian Boston is a boutique hotel located near Faneuil Hall, offering comfortable rooms and a prime location for exploring the city."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Logan International Airport",
+        "title": "Logan International Airport",
+        "description": "Logan International Airport is Boston's primary airport, serving domestic and international flights and providing convenient access to the city."
+      },
+      {
+        "img": "x",
+        "alt": "MBTA Subway",
+        "title": "MBTA Subway",
+        "description": "The Massachusetts Bay Transportation Authority (MBTA) operates the subway system, known as the 'T,' which offers efficient public transportation throughout the city."
+      },
+      {
+        "img": "x",
+        "alt": "Boston Buses",
+        "title": "Boston Buses",
+        "description": "The MBTA also operates a bus network that complements the subway system, providing extensive coverage within Boston and its suburbs."
+      },
+      {
+        "img": "x",
+        "alt": "Commuter Rail",
+        "title": "Commuter Rail",
+        "description": "The MBTA Commuter Rail offers train services connecting Boston to various suburban areas and neighboring cities."
+      },
+      {
+        "img": "x",
+        "alt": "Water Transportation",
+        "title": "Water Transportation",
+        "description": "Boston Harbor offers water transportation options, including water taxis and ferries to nearby islands and waterfront destinations."
+      }
+    ]
+  }
+}

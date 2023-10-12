@@ -1,0 +1,162 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Zurich"
+    },
+    "about": {
+      "name": "Zurich",
+      "info_text": "Zurich, the largest city in Switzerland, is a vibrant and cosmopolitan destination known for its picturesque old town, world-class museums, and a bustling urban scene. Situated on the shores of Lake Zurich and surrounded by the Swiss Alps, the city offers a perfect blend of nature and culture. Zurich is also a global financial hub and boasts a rich culinary scene with a variety of international and Swiss cuisine. Visitors can explore historic sites, enjoy shopping along the Bahnhofstrasse, and experience the city's thriving arts and nightlife.",
+      "facts_text": "<strong>Population:</strong> Approximately 430,000<br><strong>Canton:</strong> Zurich<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Official Languages:</strong> German<br><strong>Currency:</strong> Swiss Franc (CHF)",
+      "climate_text": "Zurich experiences a temperate maritime climate with four distinct seasons. Summers are mild, and winters are cold with occasional snowfall. The city enjoys a good amount of sunshine throughout the year."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Old Town (Altstadt)",
+          "title": "Old Town (Altstadt)",
+          "description": "Zurich's historic Old Town is a charming area with medieval buildings, cobblestone streets, and iconic landmarks like Grossmünster and Fraumünster."
+        },
+        {
+          "img": "x",
+          "alt": "Lake Zurich",
+          "title": "Lake Zurich",
+          "description": "Lake Zurich is a picturesque lake where you can enjoy boat rides, swim, or simply relax by the waterfront while taking in the stunning views."
+        },
+        {
+          "img": "x",
+          "alt": "Swiss National Museum",
+          "title": "Swiss National Museum",
+          "description": "The Swiss National Museum houses a diverse collection showcasing Switzerland's cultural history, including art, artifacts, and historical exhibits."
+        },
+        {
+          "img": "x",
+          "alt": "Zurich Zoo",
+          "title": "Zurich Zoo",
+          "description": "Zurich Zoo is a family-friendly attraction featuring a wide range of animals from around the world and offering educational experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Bahnhofstrasse",
+          "title": "Bahnhofstrasse",
+          "description": "Bahnhofstrasse is one of the world's most exclusive shopping streets, lined with luxury boutiques, department stores, and cafes."
+        },
+        {
+          "img": "x",
+          "alt": "Kunsthaus Zurich",
+          "title": "Kunsthaus Zurich",
+          "description": "Kunsthaus Zurich is a renowned art museum featuring a vast collection of European and Swiss art, including works by famous artists."
+        },
+        {
+          "img": "x",
+          "alt": "Uetliberg Mountain",
+          "title": "Uetliberg Mountain",
+          "description": "Uetliberg Mountain offers hiking trails and panoramic views of Zurich and the Alps, making it a popular destination for outdoor enthusiasts."
+        },
+        {
+          "img": "x",
+          "alt": "Swiss Alps Excursions",
+          "title": "Swiss Alps Excursions",
+          "description": "Zurich serves as a gateway to the Swiss Alps, and you can embark on various excursions to explore the stunning mountain landscapes."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Fondue",
+          "title": "Fondue",
+          "description": "Fondue is a classic Swiss dish where you dip pieces of bread into melted cheese, often accompanied by wine and traditional condiments."
+        },
+        {
+          "img": "x",
+          "alt": "Zürcher Geschnetzeltes",
+          "title": "Zürcher Geschnetzeltes",
+          "description": "Zürcher Geschnetzeltes is a Zurich specialty featuring sliced veal in a creamy white wine and mushroom sauce, typically served with Rösti."
+        },
+        {
+          "img": "x",
+          "alt": "Rösti",
+          "title": "Rösti",
+          "description": "Rösti is a Swiss potato dish, similar to hash browns, and is often served as a side or breakfast item in Zurich."
+        },
+        {
+          "img": "x",
+          "alt": "Zurich-style Saffron Risotto",
+          "title": "Zurich-style Saffron Risotto",
+          "description": "Zurich-style Saffron Risotto is a creamy and aromatic dish made with saffron-infused rice, often served with Swiss cheese and white wine."
+        },
+        {
+          "img": "x",
+          "alt": "Swiss Chocolate",
+          "title": "Swiss Chocolate",
+          "description": "Zurich offers a delectable array of Swiss chocolate, and you can explore chocolate shops and indulge in the finest Swiss confections."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Baur au Lac",
+          "title": "Baur au Lac",
+          "description": "Baur au Lac is a luxurious hotel overlooking Lake Zurich, known for its elegance, world-class service, and beautiful gardens."
+        },
+        {
+          "img": "x",
+          "alt": "The Dolder Grand",
+          "title": "The Dolder Grand",
+          "description": "The Dolder Grand is a five-star hotel offering a blend of historic charm and modern amenities, along with stunning views of the city and Alps."
+        },
+        {
+            "img": "x",
+            "alt": "Storchen Zürich",
+            "title": "Storchen Zürich",
+            "description": "Storchen Zürich is a boutique hotel located in the heart of Zurich's old town, offering a unique and charming stay with views of the river."
+          },
+          {
+            "img": "x",
+            "alt": "Hotel Schweizerhof Zurich",
+            "title": "Hotel Schweizerhof Zurich",
+            "description": "Hotel Schweizerhof Zurich is a stylish and modern hotel with comfortable accommodations, a restaurant, and a convenient central location."
+          }
+        ]
+      },
+      "transport": {
+        "transport_card": [
+          {
+            "img": "x",
+            "alt": "Zurich Airport",
+            "title": "Zurich Airport",
+            "description": "Zurich Airport is the largest international airport in Switzerland, providing access to the city for travelers from around the world."
+          },
+          {
+            "img": "x",
+            "alt": "Zurich Public Transport",
+            "title": "Zurich Public Transport",
+            "description": "Zurich boasts an efficient public transport system, including trams, buses, and trains, making it easy to get around the city and its surroundings."
+          },
+          {
+            "img": "x",
+            "alt": "Zurich Main Train Station",
+            "title": "Zurich Main Train Station",
+            "description": "Zurich's main train station, Zurich Hauptbahnhof, is a major transportation hub connecting the city with other Swiss destinations and European cities."
+          },
+          {
+            "img": "x",
+            "alt": "Taxis in Zurich",
+            "title": "Taxis in Zurich",
+            "description": "Taxis are readily available in Zurich and provide a convenient way to travel within the city and reach specific locations."
+          },
+          {
+            "img": "x",
+            "alt": "Bike Rentals",
+            "title": "Bike Rentals",
+            "description": "Zurich promotes cycling, and you can rent bikes to explore the city and its beautiful lakeside and riverside paths."
+          }
+        ]
+      }
+    }
+    
+  

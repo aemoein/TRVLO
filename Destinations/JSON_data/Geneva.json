@@ -1,0 +1,166 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Geneva"
+    },
+    "about": {
+      "name": "Geneva",
+      "info_text": "Geneva, often referred to as the 'Capital of Peace,' is a picturesque city located in Switzerland. It is renowned for its international organizations, including the United Nations and the Red Cross. The city is situated on the shores of Lake Geneva and is surrounded by the stunning Alps. Visitors can explore its rich history, cultural heritage, and enjoy outdoor activities in the nearby Jura Mountains. Geneva is also famous for its high-quality watches, chocolate, and delicious Swiss cuisine.",
+      "facts_text": "<strong>Population:</strong> Approximately 200,000<br><strong>Canton:</strong> Geneva<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Official Languages:</strong> French, German, Italian, Romansh<br><strong>Currency:</strong> Swiss Franc (CHF)",
+      "climate_text": "Geneva experiences a temperate climate with four distinct seasons. Summers are warm, and winters are cold with occasional snowfall. The city enjoys plenty of sunshine, making it an ideal destination year-round."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Jet d'Eau",
+          "title": "Jet d'Eau",
+          "description": "The Jet d'Eau is one of Geneva's most iconic landmarks, a massive water fountain on Lake Geneva's shores that reaches a height of 140 meters."
+        },
+        {
+          "img": "x",
+          "alt": "Old Town (Vieille Ville)",
+          "title": "Old Town (Vieille Ville)",
+          "description": "Geneva's Old Town is a charming area with cobblestone streets, historic buildings, St. Pierre Cathedral, and the Reformation Wall."
+        },
+        {
+          "img": "x",
+          "alt": "Palais des Nations",
+          "title": "Palais des Nations",
+          "description": "The Palais des Nations is the European headquarters of the United Nations and offers guided tours that provide insight into international diplomacy."
+        },
+        {
+          "img": "x",
+          "alt": "Museum of Art and History",
+          "title": "Museum of Art and History",
+          "description": "The Museum of Art and History boasts an impressive collection of art, archaeology, and applied arts, including works from various cultures."
+        },
+        {
+          "img": "x",
+          "alt": "Parc des Bastions",
+          "title": "Parc des Bastions",
+          "description": "Parc des Bastions is a lovely park featuring a giant chessboard, the Reformation Wall, and a serene atmosphere for picnics and relaxation."
+        },
+        {
+          "img": "x",
+          "alt": "Maison Tavel",
+          "title": "Maison Tavel",
+          "description": "Maison Tavel is the oldest house in Geneva and now houses a museum that tells the city's history through exhibits and multimedia presentations."
+        },
+        {
+          "img": "x",
+          "alt": "Patek Philippe Museum",
+          "title": "Patek Philippe Museum",
+          "description": "The Patek Philippe Museum showcases an extraordinary collection of timepieces, including historic watches and intricate horological exhibits."
+        },
+        {
+          "img": "x",
+          "alt": "Jardin Anglais",
+          "title": "Jardin Anglais",
+          "description": "Jardin Anglais is a picturesque garden on the shore of Lake Geneva, known for its floral clock and beautiful views of the lake and mountains."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Swiss Fondue",
+          "title": "Swiss Fondue",
+          "description": "Swiss fondue is a beloved dish in Geneva, with melted cheese served with bread, potatoes, and sometimes even a touch of white wine or kirsch."
+        },
+        {
+          "img": "x",
+          "alt": "Rösti",
+          "title": "Rösti",
+          "description": "Rösti is a Swiss potato dish, often compared to hash browns, and is a delicious accompaniment to various main courses."
+        },
+        {
+          "img": "x",
+          "alt": "Chocolate",
+          "title": "Chocolate",
+          "description": "Switzerland is famous for its chocolate, and Geneva offers a wide selection of high-quality Swiss chocolate for indulgence."
+        },
+        {
+            "img": "x",
+            "alt": "Lake Geneva Perch",
+            "title": "Lake Geneva Perch",
+            "description": "Lake Geneva perch is a local specialty, and you can savor it at lakeside restaurants in various preparations."
+          },
+          {
+            "img": "x",
+            "alt": "Raclette",
+            "title": "Raclette",
+            "description": "Raclette is another Swiss cheese delight, typically served melted and scraped onto a plate of potatoes and accompaniments."
+          },
+          {
+            "img": "x",
+            "alt": "Gruyères Cheese",
+            "title": "Gruyères Cheese",
+            "description": "Gruyères cheese, known for its creamy and nutty flavor, is a Swiss favorite and can be enjoyed in Geneva."
+          }
+        ]
+      },
+      "hotels": {
+        "hotels_card": [
+          {
+            "img": "x",
+            "alt": "Hotel d'Angleterre",
+            "title": "Hotel d'Angleterre",
+            "description": "Hotel d'Angleterre is a luxurious lakeside hotel offering elegant rooms, a gourmet restaurant, and stunning views of Lake Geneva."
+          },
+          {
+            "img": "x",
+            "alt": "Four Seasons Hotel des Bergues Geneva",
+            "title": "Four Seasons Hotel des Bergues Geneva",
+            "description": "The Four Seasons Hotel des Bergues Geneva is a prestigious hotel with historic charm, modern amenities, and a prime location."
+          },
+          {
+            "img": "x",
+            "alt": "Hotel President Wilson, a Luxury Collection Hotel",
+            "title": "Hotel President Wilson, a Luxury Collection Hotel",
+            "description": "Hotel President Wilson is a luxury hotel known for its opulent accommodations, gourmet dining, and its iconic Royal Penthouse Suite."
+          },
+          {
+            "img": "x",
+            "alt": "Hotel Tiffany",
+            "title": "Hotel Tiffany",
+            "description": "Hotel Tiffany is a boutique hotel in the heart of Geneva, offering stylish rooms and a warm and welcoming atmosphere."
+          }
+        ]
+      },
+      "transport": {
+        "transport_card": [
+          {
+            "img": "x",
+            "alt": "Geneva Airport",
+            "title": "Geneva Airport",
+            "description": "Geneva Airport is the main international gateway to the city, serving both domestic and international flights."
+          },
+          {
+            "img": "x",
+            "alt": "Geneva Public Transport",
+            "title": "Geneva Public Transport",
+            "description": "Geneva offers an efficient public transport system, including trams, buses, and boats, for easy access to different parts of the city."
+          },
+          {
+            "img": "x",
+            "alt": "Train Services",
+            "title": "Train Services",
+            "description": "Geneva's train station connects the city with other Swiss cities and offers convenient rail transportation within the country."
+          },
+          {
+            "img": "x",
+            "alt": "Taxis in Geneva",
+            "title": "Taxis in Geneva",
+            "description": "Taxis in Geneva are readily available and provide a convenient way to travel around the city, especially for reaching specific destinations."
+          },
+          {
+            "img": "x",
+            "alt": "Bike Rentals",
+            "title": "Bike Rentals",
+            "description": "Geneva promotes cycling, and you can rent bikes to explore the city and its beautiful lakeside pathways."
+          }
+        ]
+      }
+    }

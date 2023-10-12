@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Las Vegas"
+  },
+  "about": {
+    "name": "Las Vegas",
+    "info_text": "Las Vegas, often referred to as the 'Entertainment Capital of the World,' is a vibrant city located in the Mojave Desert of Nevada, USA. Known for its world-famous casinos, extravagant hotels, and dazzling nightlife, Las Vegas is a destination for those seeking excitement and entertainment. Beyond the iconic Las Vegas Strip, the city offers a wide range of activities, from shopping and dining to outdoor adventures and cultural experiences.",
+    "facts_text": "<strong>Population:</strong> Approximately 650,000<br><strong>State:</strong> Nevada<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Las Vegas experiences a desert climate with hot summers and mild winters. Summers are extremely hot with temperatures often exceeding 100°F (37°C), while winters are mild and comfortable for outdoor activities."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Las Vegas Strip",
+        "title": "Las Vegas Strip",
+        "description": "The Las Vegas Strip is a world-renowned boulevard known for its iconic resorts, hotels, and casinos. It's a hub of entertainment, fine dining, and nightlife."
+      },
+      {
+        "img": "x",
+        "alt": "Bellagio Fountains",
+        "title": "Bellagio Fountains",
+        "description": "The Bellagio Fountains are a mesmerizing water show in front of the Bellagio Hotel, featuring choreographed water jets that dance to music and lights."
+      },
+      {
+        "img": "x",
+        "alt": "Fremont Street Experience",
+        "title": "Fremont Street Experience",
+        "description": "Fremont Street is known for its dazzling light canopy, live entertainment, and a vibrant atmosphere that includes street performers and outdoor concerts."
+      },
+      {
+        "img": "x",
+        "alt": "Red Rock Canyon National Conservation Area",
+        "title": "Red Rock Canyon National Conservation Area",
+        "description": "Red Rock Canyon is a stunning natural attraction offering hiking, rock climbing, and scenic drives amidst unique red rock formations."
+      },
+      {
+        "img": "x",
+        "alt": "Hoover Dam",
+        "title": "Hoover Dam",
+        "description": "The Hoover Dam is a marvel of modern engineering, providing tours and a glimpse into the history of this massive concrete arch-gravity dam."
+      },
+      {
+        "img": "x",
+        "alt": "Neon Boneyard",
+        "title": "Neon Boneyard",
+        "description": "The Neon Boneyard is a museum of vintage neon signs, offering a nostalgic look at Las Vegas's history through its iconic signage."
+      },
+      {
+        "img": "x",
+        "alt": "High Roller",
+        "title": "High Roller",
+        "description": "The High Roller is a giant observation wheel offering breathtaking views of the Las Vegas Strip and the surrounding desert landscape."
+      },
+      {
+        "img": "x",
+        "alt": "The Mob Museum",
+        "title": "The Mob Museum",
+        "description": "The Mob Museum delves into the history of organized crime in America and features interactive exhibits and artifacts."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Buffets",
+        "title": "Buffets",
+        "description": "Las Vegas is famous for its all-you-can-eat buffets, offering a wide range of cuisines and culinary delights."
+      },
+      {
+        "img": "x",
+        "alt": "Steakhouses",
+        "title": "Steakhouses",
+        "description": "Las Vegas boasts numerous high-end steakhouses known for their prime cuts and fine dining experiences."
+      },
+      {
+        "img": "x",
+        "alt": "International Cuisine",
+        "title": "International Cuisine",
+        "description": "The city offers a diverse culinary scene, with international cuisine options from around the world."
+      },
+      {
+        "img": "x",
+        "alt": "Food Trucks",
+        "title": "Food Trucks",
+        "description": "Food trucks in Las Vegas serve a variety of delicious street food, from tacos to gourmet burgers."
+      },
+      {
+        "img": "x",
+        "alt": "Casino Restaurants",
+        "title": "Casino Restaurants",
+        "description": "Many casinos have upscale restaurants run by renowned chefs, providing an exquisite dining experience."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Venetian Resort",
+        "title": "The Venetian Resort",
+        "description": "The Venetian is a luxurious resort known for its Venetian-inspired architecture, spacious suites, and a replica of Venice's Grand Canal."
+      },
+      {
+        "img": "x",
+        "alt": "MGM Grand Hotel and Casino",
+        "title": "MGM Grand Hotel and Casino",
+        "description": "The MGM Grand is one of the largest hotels in the world, featuring a casino, entertainment, and numerous dining options, including celebrity chef restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Wynn Las Vegas",
+        "title": "Wynn Las Vegas",
+        "description": "Wynn Las Vegas is a luxury resort known for its elegant accommodations, fine dining, and a beautiful golf course."
+      },
+      {
+        "img": "x",
+        "alt": "Caesars Palace",
+        "title": "Caesars Palace",
+        "description": "Caesars Palace is an iconic hotel and casino with a Roman-inspired theme, offering world-class entertainment and dining."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "McCarran International Airport",
+        "title": "McCarran International Airport",
+        "description": "McCarran International Airport is the primary airport serving Las Vegas, providing domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Las Vegas Monorail",
+        "title": "Las Vegas Monorail",
+        "description": "The Las Vegas Monorail offers a convenient and efficient way to travel along the Las Vegas Strip, with stops at major resorts and attractions."
+      },
+      {
+        "img": "x",
+        "alt": "RTC Transit",
+        "title": "RTC Transit",
+        "description": "RTC Transit operates public bus services in Las Vegas, connecting the Strip to downtown and other parts of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis and Ridesharing",
+        "title": "Taxis and Ridesharing",
+        "description": "Taxis and ridesharing services like Uber and Lyft are readily available for convenient transportation within the city."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rental agencies are accessible, allowing visitors to explore the Las Vegas area and nearby attractions at their own pace."
+      }
+    ]
+  }
+}

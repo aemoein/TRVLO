@@ -73,7 +73,7 @@ window.onload=function(){
         listItem.classList.add('card');
         listItem.innerHTML = `
           <div class="card__img" style="background-image: url('${city.image}')"></div>
-          <a href="${city.link}?cityName=${city.name}" class="card_link">
+          <a href="Destinations/city.html?cityName=${city.name}" class="card_link">
             <div class="card__img--hover" style="background-image: url('${city.image}')"></div>
           </a>
           <div class="card__info">
@@ -156,7 +156,7 @@ window.onload=function(){
         listItem.classList.add('card');
         listItem.innerHTML = `
         <div class="card__img" style="background-image: url('${city.image}')"></div>
-        <a href="${city.link}" class="card_link">
+        <a href="Destinations/city.html?cityName=${city.name}" class="card_link">
           <div class="card__img--hover" style="background-image: url('${city.image}')"></div>
         </a>
         <div class="card__info">

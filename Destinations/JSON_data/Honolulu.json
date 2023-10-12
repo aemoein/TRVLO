@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Honolulu"
+  },
+  "about": {
+    "name": "Honolulu",
+    "info_text": "Honolulu is the vibrant capital city of Hawaii, located on the island of Oahu. It's known for its stunning beaches, warm tropical climate, and a rich blend of cultures. Visitors can experience the beauty of Waikiki Beach, explore the history of Pearl Harbor, and embrace the spirit of aloha throughout the city. With its lush landscapes and a mix of modernity and tradition, Honolulu offers a paradise for those seeking relaxation, adventure, and cultural exploration.",
+    "facts_text": "<strong>Population:</strong> Approximately 340,000<br><strong>State:</strong> Hawaii<br><strong>Time Zone:</strong> Hawaii-Aleutian Time Zone (UTC-10:00)<br><strong>Languages:</strong> English, Hawaiian<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Honolulu enjoys a tropical climate with warm temperatures year-round. The city experiences a dry season from April to October and a wetter season from November to March, but showers are usually brief, making it a great destination any time of the year."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Waikiki Beach",
+        "title": "Waikiki Beach",
+        "description": "Waikiki Beach is one of the world's most famous beaches, offering soft sands, clear waters, and plenty of opportunities for swimming, surfing, and relaxation."
+      },
+      {
+        "img": "x",
+        "alt": "Pearl Harbor",
+        "title": "Pearl Harbor",
+        "description": "Pearl Harbor is a historic site that includes the USS Arizona Memorial, USS Missouri, and the Pearl Harbor Aviation Museum, allowing visitors to learn about the events of World War II."
+      },
+      {
+        "img": "x",
+        "alt": "Diamond Head State Monument",
+        "title": "Diamond Head State Monument",
+        "description": "Diamond Head is an iconic volcanic crater that offers a hiking trail with panoramic views of Honolulu and the Pacific Ocean from its summit."
+      },
+      {
+        "img": "x",
+        "alt": "Hanauma Bay Nature Preserve",
+        "title": "Hanauma Bay Nature Preserve",
+        "description": "Hanauma Bay is a marine ecosystem and popular snorkeling spot, where visitors can encounter a variety of colorful fish and coral reefs."
+      },
+      {
+        "img": "x",
+        "alt": "Iolani Palace",
+        "title": "Iolani Palace",
+        "description": "Iolani Palace is the only royal palace in the United States and offers guided tours that delve into Hawaii's royal history."
+      },
+      {
+        "img": "x",
+        "alt": "Bishop Museum",
+        "title": "Bishop Museum",
+        "description": "The Bishop Museum is a center for Hawaiian culture and history, featuring exhibitions, artifacts, and educational programs."
+      },
+      {
+        "img": "x",
+        "alt": "Manoa Falls",
+        "title": "Manoa Falls",
+        "description": "Manoa Falls is a picturesque waterfall nestled in a lush rainforest, accessible by a scenic hiking trail."
+      },
+      {
+        "img": "x",
+        "alt": "Chinatown",
+        "title": "Chinatown",
+        "description": "Chinatown in Honolulu is a bustling neighborhood with a rich cultural heritage, offering markets, eateries, and cultural events."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Poke",
+        "title": "Poke",
+        "description": "Poke is a beloved Hawaiian dish made with cubed raw fish, typically ahi (tuna), marinated in various seasonings and served as a salad or over rice."
+      },
+      {
+        "img": "x",
+        "alt": "Kalua Pig",
+        "title": "Kalua Pig",
+        "description": "Kalua Pig is a traditional Hawaiian dish made by slow-cooking a whole pig in an underground oven, resulting in tender and smoky-flavored pork."
+      },
+      {
+        "img": "x",
+        "alt": "Shave Ice",
+        "title": "Shave Ice",
+        "description": "Shave Ice is a popular treat in Hawaii, featuring finely shaved ice with a variety of colorful syrups and toppings, perfect for cooling down on a hot day."
+      },
+      {
+        "img": "x",
+        "alt": "Lau Lau",
+        "title": "Lau Lau",
+        "description": "Lau Lau is a traditional Hawaiian dish made by wrapping pork and fish in taro leaves and slow-steaming until tender and flavorful."
+      },
+      {
+        "img": "x",
+        "alt": "Mai Tai",
+        "title": "Mai Tai",
+        "description": "The Mai Tai is a classic tropical cocktail with a mix of rum, lime juice, orgeat syrup, and orange liqueur, served in a tiki glass."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Waikiki Beachcomber by Outrigger",
+        "title": "Waikiki Beachcomber by Outrigger",
+        "description": "Waikiki Beachcomber by Outrigger is a contemporary hotel located in the heart of Waikiki, offering comfortable accommodations and convenient access to the beach."
+      },
+      {
+        "img": "x",
+        "alt": "The Royal Hawaiian, a Luxury Collection Resort",
+        "title": "The Royal Hawaiian, a Luxury Collection Resort",
+        "description": "The Royal Hawaiian is a historic luxury resort in Waikiki, known as the 'Pink Palace of the Pacific.' It offers elegant accommodations, beachfront access, and a world-class spa."
+      },
+      {
+        "img": "x",
+        "alt": "Hilton Hawaiian Village Waikiki Beach Resort",
+        "title": "Hilton Hawaiian Village Waikiki Beach Resort",
+        "description": "Hilton Hawaiian Village is a sprawling resort complex with multiple towers, lagoons, and activities, providing a tropical oasis in Waikiki."
+      },
+      {
+        "img": "x",
+        "alt": "Alohilani Resort Waikiki Beach",
+        "title": "Alohilani Resort Waikiki Beach",
+        "description": "Alohilani Resort is a modern and stylish hotel offering oceanfront rooms and a rooftop pool deck with panoramic views of Waikiki Beach."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Daniel K. Inouye International Airport",
+        "title": "Daniel K. Inouye International Airport",
+        "description": "Daniel K. Inouye International Airport is the main airport serving Honolulu and provides connections to various destinations, both domestic and international."
+      },
+      {
+        "img": "x",
+        "alt": "TheBus",
+        "title": "TheBus",
+        "description": "TheBus is Honolulu's public transportation system, offering bus services that cover the entire island of Oahu, including popular tourist areas."
+      },
+      {
+        "img": "x",
+        "alt": "Rental Cars",
+        "title": "Rental Cars",
+        "description": "Rental car agencies are available at the airport and throughout Honolulu, providing flexibility for exploring Oahu at your own pace."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis and Ridesharing",
+        "title": "Taxis and Ridesharing",
+        "description": "Taxis and ridesharing services like Uber and Lyft are readily available for convenient transportation within the city."
+      },
+      {
+        "img": "x",
+        "alt": "Biking",
+        "title": "Biking",
+        "description": "Biking is a great way to explore Honolulu, with bike lanes and rental options available for a leisurely ride along the coast or through scenic parks."
+      }
+    ]
+  }
+}

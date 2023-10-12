@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "New York City"
+  },
+  "about": {
+    "name": "New York City",
+    "info_text": "New York City, often referred to as the 'Big Apple,' is a bustling and diverse metropolis located in the state of New York. It's one of the most iconic cities in the world, known for its towering skyscrapers, cultural diversity, and endless opportunities for entertainment. From the bright lights of Times Square to the tranquility of Central Park, NYC offers an unparalleled urban experience.",
+    "facts_text": "<strong>Population:</strong> Over 8 million<br><strong>State:</strong> New York<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Languages:</strong> English, Spanish, Chinese, and many more<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "New York City experiences all four seasons, with hot summers and cold winters. It's a city that comes to life with holiday decorations in the winter and offers outdoor events in the summer."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Times Square",
+        "title": "Times Square",
+        "description": "Times Square is a world-famous commercial and entertainment hub, known for its iconic billboards, theaters, and the annual New Year's Eve ball drop."
+      },
+      {
+        "img": "x",
+        "alt": "Central Park",
+        "title": "Central Park",
+        "description": "Central Park is a vast urban oasis in the heart of Manhattan, offering green spaces, walking paths, lakes, and numerous recreational activities."
+      },
+      {
+        "img": "x",
+        "alt": "Statue of Liberty",
+        "title": "Statue of Liberty",
+        "description": "The Statue of Liberty is a symbol of freedom and democracy, located on Liberty Island, accessible by ferry tours from Battery Park."
+      },
+      {
+        "img": "x",
+        "alt": "Empire State Building",
+        "title": "Empire State Building",
+        "description": "The Empire State Building is an iconic skyscraper, with an observation deck offering panoramic views of the city's skyline."
+      },
+      {
+        "img": "x",
+        "alt": "Broadway Theaters",
+        "title": "Broadway Theaters",
+        "description": "Broadway is the epicenter of live theater and musical performances, featuring world-renowned productions in historic venues."
+      },
+      {
+        "img": "x",
+        "alt": "Metropolitan Museum of Art",
+        "title": "Metropolitan Museum of Art",
+        "description": "The Met is one of the largest art museums in the world, housing an extensive collection of art and cultural artifacts."
+      },
+      {
+        "img": "x",
+        "alt": "Museum of Modern Art (MoMA)",
+        "title": "Museum of Modern Art (MoMA)",
+        "description": "MoMA is a renowned museum dedicated to modern and contemporary art, showcasing works by famous artists."
+      },
+      {
+        "img": "x",
+        "alt": "One World Trade Center",
+        "title": "One World Trade Center",
+        "description": "One World Trade Center, also known as Freedom Tower, stands as a symbol of resilience and offers a moving 9/11 Memorial Museum."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "New York-style Pizza",
+        "title": "New York-style Pizza",
+        "description": "New York-style pizza is characterized by its thin and foldable crust, often served by the slice and topped with various ingredients."
+      },
+      {
+        "img": "x",
+        "alt": "Bagels",
+        "title": "Bagels",
+        "description": "New York's bagels are famous for their chewy texture and are best enjoyed with cream cheese, lox, or various spreads."
+      },
+      {
+        "img": "x",
+        "alt": "Hot Dogs",
+        "title": "Hot Dogs",
+        "description": "NYC street vendors are known for serving classic hot dogs, often topped with mustard, sauerkraut, onions, and more."
+      },
+      {
+        "img": "x",
+        "alt": "New York Cheesecake",
+        "title": "New York Cheesecake",
+        "description": "New York cheesecake is a rich and creamy dessert, with a thick cream cheese filling on a graham cracker crust."
+      },
+      {
+        "img": "x",
+        "alt": "Deli Sandwiches",
+        "title": "Deli Sandwiches",
+        "description": "New York delis serve up hearty sandwiches with generous layers of meats, cheeses, and condiments."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Plaza Hotel",
+        "title": "The Plaza Hotel",
+        "description": "The Plaza Hotel is a historic and luxurious landmark, offering opulent rooms, fine dining, and Central Park views."
+      },
+      {
+        "img": "x",
+        "alt": "Waldorf Astoria New York",
+        "title": "Waldorf Astoria New York",
+        "description": "The Waldorf Astoria is an iconic hotel known for its grandeur, featuring elegant accommodations and world-class amenities."
+      },
+      {
+        "img": "x",
+        "alt": "The Ritz-Carlton New York, Central Park",
+        "title": "The Ritz-Carlton New York, Central Park",
+        "description": "The Ritz-Carlton offers a refined experience with a prime location overlooking Central Park and impeccable service."
+      },
+      {
+        "img": "x",
+        "alt": "Four Seasons Hotel New York Downtown",
+        "title": "Four Seasons Hotel New York Downtown",
+        "description": "The Four Seasons in downtown Manhattan provides modern luxury, with stylish rooms and dining options."
+      },
+      {
+        "img": "x",
+        "alt": "The Langham, New York, Fifth Avenue",
+        "title": "The Langham, New York, Fifth Avenue",
+        "description": "The Langham is a sophisticated hotel with elegant rooms and a convenient Midtown location."
+      },
+      {
+        "img": "x",
+        "alt": "The Standard, High Line",
+        "title": "The Standard, High Line",
+        "description": "The Standard offers a modern and trendy atmosphere, with unique design and stunning views of the High Line and the Hudson River."
+      },
+      {
+        "img": "x",
+        "alt": "The NoMad Hotel",
+        "title": "The NoMad Hotel",
+        "description": "The NoMad Hotel combines luxury and creativity, featuring boutique accommodations and renowned dining experiences."
+      },
+      {
+        "img": "x",
+        "alt": "The Peninsula New York",
+        "title": "The Peninsula New York",
+        "description": "The Peninsula New York is a classic and elegant hotel, offering lavish rooms, a spa, and fine dining."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "John F. Kennedy International Airport",
+        "title": "John F. Kennedy International Airport",
+        "description": "JFK Airport is one of the major airports serving New York City, providing international and domestic flight connections."
+      },
+      {
+        "img": "x",
+        "alt": "LaGuardia Airport",
+        "title": "LaGuardia Airport",
+        "description": "LaGuardia Airport offers domestic flights and is conveniently located in Queens, providing access to the city."
+      },
+      {
+        "img": "x",
+        "alt": "Subway System",
+        "title": "Subway System",
+        "description": "New York City's extensive subway system is a fast and affordable way to navigate the city's boroughs and neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Yellow Taxis",
+        "title": "Yellow Taxis",
+        "description": "The iconic yellow taxis of NYC are readily available and offer convenient transportation around the city."
+      },
+      {
+        "img": "x",
+        "alt": "Buses",
+        "title": "Buses",
+        "description": "NYC buses provide additional transportation options for reaching various destinations within the city."
+      },
+      {
+        "img": "x",
+        "alt": "Citi Bike",
+        "title": "Citi Bike",
+        "description": "Citi Bike is a bike-sharing program that allows you to explore New York City on two wheels, with stations throughout the city."
+      },
+      {
+        "img": "x",
+        "alt": "Ferries",
+        "title": "Ferries",
+        "description": "Ferry services connect Manhattan to nearby destinations, including Staten Island and Liberty Island, home to the Statue of Liberty."
+      },
+      {
+        "img": "x",
+        "alt": "Grand Central Terminal",
+        "title": "Grand Central Terminal",
+        "description": "Grand Central Terminal is a historic transportation hub, serving as a major train station and architectural masterpiece."
+      }
+    ]
+  }
+}

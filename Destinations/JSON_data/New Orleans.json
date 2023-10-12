@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "New Orleans"
+  },
+  "about": {
+    "name": "New Orleans",
+    "info_text": "New Orleans, often referred to as the 'Big Easy,' is a unique and lively city located in Louisiana. Known for its rich cultural heritage, jazz music, delicious cuisine, and vibrant festivals, New Orleans offers a one-of-a-kind experience. From the historic French Quarter with its charming architecture to the annual Mardi Gras celebrations, the city is a melting pot of culture and a hub for music and art.",
+    "facts_text": "<strong>Population:</strong> Approximately 390,000<br><strong>State:</strong> Louisiana<br><strong>Time Zone:</strong> Central Time Zone (UTC-06:00)<br><strong>Languages:</strong> English, French, Creole<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "New Orleans has a humid subtropical climate with hot and humid summers and mild winters. It's an excellent destination for experiencing live music and savoring delicious Creole and Cajun cuisine."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "French Quarter",
+        "title": "French Quarter",
+        "description": "The French Quarter is the historic heart of New Orleans, known for its iconic architecture, lively streets, and famous sites like Jackson Square and Bourbon Street."
+      },
+      {
+        "img": "x",
+        "alt": "Garden District",
+        "title": "Garden District",
+        "description": "The Garden District features beautiful mansions, oak-lined streets, and is a prime location for exploring New Orleans' charming residential neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Mardi Gras",
+        "title": "Mardi Gras",
+        "description": "Mardi Gras is an annual festival known for its elaborate parades, vibrant costumes, and lively celebrations. It's a must-experience event in New Orleans."
+      },
+      {
+        "img": "x",
+        "alt": "Jackson Square",
+        "title": "Jackson Square",
+        "description": "Jackson Square is a historic park in the French Quarter, surrounded by notable landmarks such as St. Louis Cathedral and the Cabildo."
+      },
+      {
+        "img": "x",
+        "alt": "National WWII Museum",
+        "title": "National WWII Museum",
+        "description": "The National WWII Museum is a world-class institution dedicated to the history of World War II, featuring interactive exhibits and artifacts."
+      },
+      {
+        "img": "x",
+        "alt": "Frenchmen Street",
+        "title": "Frenchmen Street",
+        "description": "Frenchmen Street is renowned for its live music venues, jazz clubs, and a vibrant nightlife scene, making it a favorite spot for music lovers."
+      },
+      {
+        "img": "x",
+        "alt": "St. Louis Cemetery",
+        "title": "St. Louis Cemetery",
+        "description": "St. Louis Cemetery No. 1 is a historic above-ground cemetery, known for its unique graves and crypts."
+      },
+      {
+        "img": "x",
+        "alt": "Steamboat Natchez",
+        "title": "Steamboat Natchez",
+        "description": "The Steamboat Natchez offers Mississippi River cruises with live jazz music, providing a scenic and musical journey."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Gumbo",
+        "title": "Gumbo",
+        "description": "Gumbo is a hearty and flavorful Creole stew made with a variety of ingredients, including meat or seafood, served with rice."
+      },
+      {
+        "img": "x",
+        "alt": "Jambalaya",
+        "title": "Jambalaya",
+        "description": "Jambalaya is a spicy and aromatic rice dish with a mix of meats, vegetables, and Creole seasonings, a true New Orleans classic."
+      },
+      {
+        "img": "x",
+        "alt": "Beignets",
+        "title": "Beignets",
+        "description": "Beignets are square-shaped donuts covered in powdered sugar, best enjoyed with a café au lait, and are a signature New Orleans treat."
+      },
+      {
+        "img": "x",
+        "alt": "Crawfish Boil",
+        "title": "Crawfish Boil",
+        "description": "Crawfish boils are festive gatherings featuring seasoned crawfish, corn, and potatoes, a beloved Louisiana tradition."
+      },
+      {
+        "img": "x",
+        "alt": "Po' Boys",
+        "title": "Po' Boys",
+        "description": "Po' Boys are sandwiches filled with a variety of fried or grilled ingredients, often served on French bread with distinctive dressings."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Roosevelt New Orleans",
+        "title": "The Roosevelt New Orleans",
+        "description": "The Roosevelt New Orleans is a historic luxury hotel with elegant accommodations, a rooftop bar, and fine dining."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Monteleone",
+        "title": "Hotel Monteleone",
+        "description": "Hotel Monteleone is a family-owned hotel in the French Quarter, known for its literary heritage and the famous Carousel Bar."
+      },
+      {
+        "img": "x",
+        "alt": "Omni Royal Orleans",
+        "title": "Omni Royal Orleans",
+        "description": "Omni Royal Orleans offers classic elegance, a heated rooftop pool, and is located in the heart of the French Quarter."
+      },
+      {
+        "img": "x",
+        "alt": "Ace Hotel New Orleans",
+        "title": "Ace Hotel New Orleans",
+        "description": "Ace Hotel New Orleans is a trendy and artistic boutique hotel in the Warehouse District with a rooftop pool and live music events."
+      },
+      {
+        "img": "x",
+        "alt": "The Troubadour Hotel",
+        "title": "The Troubadour Hotel",
+        "description": "The Troubadour Hotel combines modern style with a vibrant atmosphere, offering comfortable rooms and a rooftop bar."
+      },
+      {
+        "img": "x",
+        "alt": "The Old No. 77 Hotel & Chandlery",
+        "title": "The Old No. 77 Hotel & Chandlery",
+        "description": "The Old No. 77 Hotel is an artsy boutique hotel with exposed brick walls and a unique, creative ambiance."
+      },
+      {
+        "img": "x",
+        "alt": "The Pontchartrain Hotel",
+        "title": "The Pontchartrain Hotel",
+        "description": "The Pontchartrain Hotel features a mix of vintage and modern design, offering comfortable accommodations, a rooftop bar, and scenic views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Henry Howard Hotel",
+        "title": "Henry Howard Hotel",
+        "description": "The Henry Howard Hotel is a historic boutique hotel in the Garden District, known for its elegant decor and charming atmosphere."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Louis Armstrong New Orleans International Airport",
+        "title": "Louis Armstrong New Orleans International Airport",
+        "description": "Louis Armstrong New Orleans International Airport (MSY) is the major airport serving the city, offering both domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Streetcars",
+        "title": "Streetcars",
+        "description": "New Orleans' iconic streetcars provide a historic and scenic way to explore the city, with lines running through various neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Buses and Trolleys",
+        "title": "Buses and Trolleys",
+        "description": "Public buses and trolleys operated by the Regional Transit Authority (RTA) offer convenient transportation options within New Orleans."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis and Ridesharing",
+        "title": "Taxis and Ridesharing",
+        "description": "Taxis, Uber, and Lyft services are readily available for getting around the city and to nearby attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Riverboats",
+        "title": "Riverboats",
+        "description": "Riverboats like the Steamboat Natchez offer scenic cruises along the Mississippi River, providing a unique perspective of the city."
+      }
+    ]
+  }
+}

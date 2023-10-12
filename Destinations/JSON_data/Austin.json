@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Austin"
+  },
+  "about": {
+    "name": "Austin",
+    "info_text": "Austin, the capital of Texas, is a vibrant and culturally rich city known for its live music scene, outdoor activities, and unique local culture. Located in the heart of the Texas Hill Country, Austin offers a blend of natural beauty and urban excitement. The city is famous for its music festivals, including SXSW, and features a thriving food scene with diverse cuisine. Visitors can explore the Texas State Capitol, take a dip in Barton Springs, or enjoy the nightlife on Sixth Street. With a warm climate and a friendly atmosphere, Austin is a city that embraces creativity and diversity.",
+    "facts_text": "<strong>Population:</strong> Approximately 950,000<br><strong>State:</strong> Texas<br><strong>Time Zone:</strong> Central Time Zone (UTC-06:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Austin has a semi-arid climate with hot summers and mild winters. The city enjoys plenty of sunshine, making it an excellent destination for outdoor activities."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "The Texas State Capitol",
+        "title": "The Texas State Capitol",
+        "description": "The Texas State Capitol is an impressive building and a significant historic site. Visitors can take guided tours and explore the beautiful grounds."
+      },
+      {
+        "img": "x",
+        "alt": "Barton Springs Pool",
+        "title": "Barton Springs Pool",
+        "description": "Barton Springs Pool is a natural spring-fed swimming pool in Zilker Park, offering a refreshing escape from the Texas heat."
+      },
+      {
+        "img": "x",
+        "alt": "South Congress Avenue",
+        "title": "South Congress Avenue",
+        "description": "South Congress Avenue is a lively street with an eclectic mix of shops, restaurants, and live music venues. It's a great place to soak up Austin's culture."
+      },
+      {
+        "img": "x",
+        "alt": "Sixth Street Entertainment District",
+        "title": "Sixth Street Entertainment District",
+        "description": "The Sixth Street Entertainment District is famous for its nightlife, with a wide range of bars, clubs, and live music venues."
+      },
+      {
+        "img": "x",
+        "alt": "Lady Bird Lake",
+        "title": "Lady Bird Lake",
+        "description": "Lady Bird Lake is a scenic reservoir in the heart of Austin, offering opportunities for kayaking, paddleboarding, and hiking along the Ann and Roy Butler Hike-and-Bike Trail."
+      },
+      {
+        "img": "x",
+        "alt": "The Blanton Museum of Art",
+        "title": "The Blanton Museum of Art",
+        "description": "The Blanton Museum of Art is the largest art museum in Austin, showcasing a diverse collection of art from different time periods and regions."
+      },
+      {
+        "img": "x",
+        "alt": "Mount Bonnell",
+        "title": "Mount Bonnell",
+        "description": "Mount Bonnell offers breathtaking views of the city and the Colorado River. It's a popular spot for hikers and photographers."
+      },
+      {
+        "img": "x",
+        "alt": "Live Music Venues",
+        "title": "Live Music Venues",
+        "description": "Austin is known as the 'Live Music Capital of the World.' Visitors can enjoy live performances at various music venues, from intimate clubs to large outdoor stages."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Barbecue",
+        "title": "Barbecue",
+        "description": "Austin is renowned for its barbecue, with options like brisket, ribs, and sausage. Franklin Barbecue and Micklethwait Craft Meats are local favorites."
+      },
+      {
+        "img": "x",
+        "alt": "Tex-Mex",
+        "title": "Tex-Mex",
+        "description": "Tex-Mex cuisine is a must-try, featuring dishes like tacos, enchiladas, and queso. Try local spots such as Matt's El Rancho and Chuy's."
+      },
+      {
+        "img": "x",
+        "alt": "Food Trucks",
+        "title": "Food Trucks",
+        "description": "Austin has a thriving food truck scene, offering a wide range of international cuisines, gourmet donuts, and more."
+      },
+      {
+        "img": "x",
+        "alt": "Breakfast Tacos",
+        "title": "Breakfast Tacos",
+        "description": "Breakfast tacos are a morning staple in Austin. Don't miss out on delicious options from local taco trucks and restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Craft Beer",
+        "title": "Craft Beer",
+        "description": "Austin has a booming craft beer scene. Visit breweries and brewpubs to taste a variety of locally brewed beers."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Driskill",
+        "title": "The Driskill",
+        "description": "The Driskill is a historic hotel in the heart of downtown Austin, known for its elegant decor and Texas hospitality."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Saint Cecilia",
+        "title": "Hotel Saint Cecilia",
+        "description": "Hotel Saint Cecilia is a luxury boutique hotel with a rock 'n' roll vibe, offering uniquely designed rooms and a secluded atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "The LINE Austin",
+        "title": "The LINE Austin",
+        "description": "The LINE Austin is a modern and stylish hotel located on the shores of Lady Bird Lake, featuring scenic views and vibrant spaces."
+      },
+      {
+        "img": "x",
+        "alt": "Four Seasons Hotel Austin",
+        "title": "Four Seasons Hotel Austin",
+        "description": "The Four Seasons Hotel Austin offers luxury accommodations on the banks of Lady Bird Lake, providing a tranquil and upscale stay."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Austin-Bergstrom International Airport",
+        "title": "Austin-Bergstrom International Airport",
+        "description": "Austin-Bergstrom International Airport is the primary airport serving Austin and provides connections to domestic and international destinations."
+      },
+      {
+        "img": "x",
+        "alt": "Capital Metro",
+        "title": "Capital Metro",
+        "description": "Capital Metro is Austin's public transportation system, offering bus and commuter rail services for getting around the city."
+      },
+      {
+        "img": "x",
+        "alt": "Ridesharing Services",
+        "title": "Ridesharing Services",
+        "description": "Ridesharing services like Uber and Lyft are widely available in Austin, providing convenient transportation options."
+      },
+      {
+        "img": "x",
+        "alt": "Biking",
+        "title": "Biking",
+        "description": "Austin is a bike-friendly city, and you can explore its neighborhoods and trails by renting a bike or using bike-sharing services."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rental agencies are located at the airport and throughout the city, offering flexibility for travelers who want to explore the surrounding areas."
+      }
+    ]
+  }
+}

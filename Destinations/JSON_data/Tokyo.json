@@ -1,0 +1,163 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Tokyo"
+    },
+    "about": {
+      "name": "Tokyo",
+      "info_text": "Tokyo, the bustling capital of Japan, is a vibrant metropolis where modernity and tradition coexist. Known for its cutting-edge technology, lively street scenes, and historic temples, Tokyo offers an unforgettable experience. Visitors can explore trendy neighborhoods like Shibuya and Harajuku, dine on world-class cuisine, and immerse themselves in the rich culture and history of Japan. Tokyo is a city of endless possibilities, where the past meets the future.",
+      "facts_text": "<strong>Population:</strong> Approximately 14 million<br><strong>Prefecture:</strong> Tokyo Metropolis<br><strong>Time Zone:</strong> Japan Standard Time (UTC+09:00)<br><strong>Language:</strong> Japanese<br><strong>Currency:</strong> Japanese Yen (JPY)",
+      "climate_text": "Tokyo has a humid subtropical climate with distinct seasons. Summers are warm and humid, while winters are cool and dry. Spring is famous for cherry blossoms, and autumn offers pleasant temperatures."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Senso-ji Temple",
+          "title": "Senso-ji Temple",
+          "description": "Senso-ji is Tokyo's oldest temple and a popular destination in Asakusa, known for its iconic Thunder Gate and shopping street."
+        },
+        {
+          "img": "x",
+          "alt": "Shibuya Crossing",
+          "title": "Shibuya Crossing",
+          "description": "Shibuya Crossing is one of the busiest pedestrian intersections globally, creating a mesmerizing spectacle when the lights change."
+        },
+        {
+          "img": "x",
+          "alt": "Tokyo Skytree",
+          "title": "Tokyo Skytree",
+          "description": "Tokyo Skytree is an iconic tower that provides breathtaking panoramic views of the city and is a symbol of modern Tokyo."
+        },
+        {
+          "img": "x",
+          "alt": "Meiji Shrine",
+          "title": "Meiji Shrine",
+          "description": "Meiji Shrine is a serene Shinto shrine located in the heart of Tokyo, offering a peaceful escape from the urban hustle and bustle."
+        },
+        {
+          "img": "x",
+          "alt": "Ueno Park",
+          "title": "Ueno Park",
+          "description": "Ueno Park is a spacious public park with museums, a zoo, and cherry blossoms in spring, making it a favorite spot for both locals and tourists."
+        },
+        {
+          "img": "x",
+          "alt": "Odaiba",
+          "title": "Odaiba",
+          "description": "Odaiba is a futuristic entertainment and shopping district located on a man-made island in Tokyo Bay, featuring unique architecture and attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Ginza Shopping District",
+          "title": "Ginza Shopping District",
+          "description": "Ginza is Tokyo's upscale shopping district, known for luxury boutiques, department stores, and art galleries."
+        },
+        {
+          "img": "x",
+          "alt": "Akihabara",
+          "title": "Akihabara",
+          "description": "Akihabara is the hub of Japanese pop culture, electronics, and anime, making it a paradise for enthusiasts and gamers."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Sushi",
+          "title": "Sushi",
+          "description": "Tokyo offers world-class sushi, with numerous Michelin-starred sushi restaurants where you can savor the freshest fish and expert craftsmanship."
+        },
+        {
+          "img": "x",
+          "alt": "Ramen",
+          "title": "Ramen",
+          "description": "Ramen shops are abundant in Tokyo, serving a variety of flavors and styles, from rich tonkotsu to savory shoyu ramen."
+        },
+        {
+          "img": "x",
+          "alt": "Tempura",
+          "title": "Tempura",
+          "description": "Tempura is a delightful Japanese dish of lightly battered and deep-fried seafood and vegetables, with restaurants known for their artful preparation."
+        },
+        {
+          "img": "x",
+          "alt": "Yakitori",
+          "title": "Yakitori",
+          "description": "Yakitori restaurants serve skewered and grilled chicken, a popular dish enjoyed with drinks in izakayas."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Park Hyatt Tokyo",
+          "title": "Park Hyatt Tokyo",
+          "description": "Park Hyatt Tokyo is an iconic luxury hotel featured in the film 'Lost in Translation,' known for its panoramic views and exceptional service."
+        },
+        {
+          "img": "x",
+          "alt": "Aman Tokyo",
+          "title": "Aman Tokyo",
+          "description": "Aman Tokyo is a tranquil oasis in the heart of the city, offering spacious and beautifully designed rooms, traditional Japanese baths, and stunning city views."
+        },
+        {
+          "img": "x",
+          "alt": "Mandarin Oriental, Tokyo",
+          "title": "Mandarin Oriental, Tokyo",
+          "description": "Mandarin Oriental, Tokyo is a five-star hotel located in the Nihonbashi business district, featuring luxurious accommodations and gourmet dining options."
+        },
+        {
+          "img": "x",
+          "alt": "The Peninsula Tokyo",
+          "title": "The Peninsula Tokyo",
+          "description": "The Peninsula Tokyo is a grand hotel offering opulent rooms, a rooftop bar with panoramic views, and easy access to Tokyo's top attractions."
+        }
+        ]
+      },
+        "transport": {
+        "transport_card": [
+        {
+          "img": "x",
+          "alt": "Tokyo Metro",
+          "title": "Tokyo Metro",
+          "description": "The Tokyo Metro is an extensive subway system that provides efficient transportation throughout the city, with multiple lines serving different areas."
+        },
+        {
+          "img": "x",
+          "alt": "JR Yamanote Line",
+          "title": "JR Yamanote Line",
+          "description": "The JR Yamanote Line is a circular train line that connects major neighborhoods in Tokyo, making it a convenient way to get around the city."
+        },
+        {
+          "img": "x",
+          "alt": "Tokyo Taxis",
+          "title": "Tokyo Taxis",
+          "description": "Taxis in Tokyo are safe and reliable, with professional drivers and well-maintained vehicles, although they can be relatively expensive."
+        },
+        {
+          "img": "x",
+          "alt": "Toei Buses",
+          "title": "Toei Buses",
+          "description": "Toei Buses provide bus services within Tokyo, offering an alternative mode of transportation to explore the city's neighborhoods."
+        },
+        {
+          "img": "x",
+          "alt": "Narita International Airport",
+          "title": "Narita International Airport",
+          "description": "Narita International Airport is one of Tokyo's major airports, serving international flights and offering various transportation options to the city center."
+        },
+        {
+          "img": "x",
+          "alt": "Haneda Airport",
+          "title": "Haneda Airport",
+          "description": "Haneda Airport is Tokyo's primary domestic airport and handles some international flights, providing easy access to the city center."
+        }
+      ]
+    }
+}
+
+
+  

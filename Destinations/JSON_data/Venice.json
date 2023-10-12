@@ -1,0 +1,161 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Venice"
+    },
+    "about": {
+      "name": "Venice",
+      "info_text": "Venice, often called the 'Floating City,' is a unique and enchanting destination in northeastern Italy. Known for its intricate network of canals, historic architecture, and artistic heritage, Venice is a place like no other. Visitors can explore charming alleyways, take romantic gondola rides, and visit world-famous attractions like St. Mark's Basilica and the Doge's Palace. With its timeless beauty and cultural richness, Venice is a destination that captures the hearts of all who visit.",
+      "facts_text": "<strong>Population:</strong> Approximately 260,000<br><strong>Region:</strong> Veneto<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Italian<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Venice experiences a humid subtropical climate with warm summers and cool winters. The city is prone to periodic flooding, known as 'aqua alta,' particularly in the autumn and winter months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "St. Mark's Basilica",
+          "title": "St. Mark's Basilica",
+          "description": "St. Mark's Basilica is a magnificent cathedral known for its Byzantine architecture, stunning mosaics, and iconic campanile."
+        },
+        {
+          "img": "x",
+          "alt": "Doge's Palace",
+          "title": "Doge's Palace",
+          "description": "The Doge's Palace is a Gothic masterpiece that once served as the residence of the Venetian Doge and is now a museum filled with historic art and artifacts."
+        },
+        {
+          "img": "x",
+          "alt": "Rialto Bridge",
+          "title": "Rialto Bridge",
+          "description": "The Rialto Bridge is one of Venice's most famous bridges, known for its arches, shops, and stunning views of the Grand Canal."
+        },
+        {
+          "img": "x",
+          "alt": "Grand Canal",
+          "title": "Grand Canal",
+          "description": "The Grand Canal is the main waterway in Venice, lined with elegant palaces, and it's a popular route for vaporetto rides."
+        },
+        {
+          "img": "x",
+          "alt": "Piazza San Marco",
+          "title": "Piazza San Marco",
+          "description": "Piazza San Marco, or St. Mark's Square, is the heart of Venice, surrounded by historic buildings and often filled with pigeons and live music."
+        },
+        {
+          "img": "x",
+          "alt": "Murano Island",
+          "title": "Murano Island",
+          "description": "Murano Island is famous for its glass-blowing tradition. Visitors can watch glass artisans at work and explore the island's colorful streets."
+        },
+        {
+          "img": "x",
+          "alt": "Burano Island",
+          "title": "Burano Island",
+          "description": "Burano Island is known for its vibrant, multicolored houses and lace-making tradition. It's a picturesque and charming destination."
+        },
+        {
+          "img": "x",
+          "alt": "Gondola Rides",
+          "title": "Gondola Rides",
+          "description": "Venice is synonymous with gondola rides, and they offer a romantic and leisurely way to explore the city's canals."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Squid Ink Pasta",
+          "title": "Squid Ink Pasta",
+          "description": "Squid ink pasta, or 'spaghetti al nero di seppia,' is a Venetian specialty known for its unique flavor and deep black color."
+        },
+        {
+          "img": "x",
+          "alt": "Cicchetti",
+          "title": "Cicchetti",
+          "description": "Cicchetti are small, flavorful snacks typically served in Venetian bacari (wine bars). They are a delightful part of Venetian culinary culture."
+        },
+        {
+          "img": "x",
+          "alt": "Seafood Risotto",
+          "title": "Seafood Risotto",
+          "description": "Seafood risotto is a popular dish in Venice, made with the freshest catch from the Adriatic Sea, creating a delectable combination of flavors."
+        },
+        {
+          "img": "x",
+          "alt": "Tiramisu",
+          "title": "Tiramisu",
+          "description": "Tiramisu is a beloved Italian dessert that originated in the Veneto region. It consists of layers of coffee-soaked ladyfingers and mascarpone cheese."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Danieli",
+          "title": "Hotel Danieli",
+          "description": "Hotel Danieli is a historic luxury hotel located just steps from St. Mark's Basilica, offering opulent accommodations and panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "Gritti Palace",
+          "title": "Gritti Palace",
+          "description": "Gritti Palace is a beautiful hotel set in a Venetian palazzo overlooking the Grand Canal, known for its elegant rooms and waterfront terrace."
+        },
+        {
+          "img": "x",
+          "alt": "Ca' Sagredo Hotel",
+          "title": "Ca' Sagredo Hotel",
+          "description": "Ca' Sagredo Hotel is a stunning, centuries-old palace turned into a boutique hotel, offering a unique and authentic Venetian experience."
+        },
+        {
+          "img": "x",
+          "alt": "Belmond Hotel Cipriani",
+          "title": "Belmond Hotel Cipriani",
+          "description": "Belmond Hotel Cipriani is a luxurious retreat on Giudecca Island, known for its lush gardens, swimming pool, and stunning lagoon views."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Vaporetto",
+          "title": "Vaporetto",
+          "description": "Vaporetto is Venice's public waterbus system, providing a convenient way to navigate the city's canals and islands."
+        },
+        {
+          "img": "x",
+          "alt": "Gondolas",
+          "title": "Gondolas",
+          "description": "Gondolas are traditional rowing boats that offer a leisurely and romantic mode of transportation along Venice's waterways."
+        },
+        {
+          "img": "x",
+          "alt": "Water Taxis",
+          "title": "Water Taxis",
+          "description": "Water taxis are a faster and more private way to get around Venice, with direct transfers to various locations."
+        },
+        {
+          "img": "x",
+          "alt": "Traghetto",
+          "title": "Traghetto",
+          "description": "Traghetti are gondola ferries used to cross the Grand Canal at certain points and are a practical and unique way to move around."
+        },
+        {
+          "img": "x",
+          "alt": "Marco Polo Airport",
+          "title": "Marco Polo Airport",
+          "description": "Marco Polo Airport is the main international gateway to Venice, serving a range of domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Treviso Airport",
+          "title": "Treviso Airport",
+          "description": "Treviso Airport is another airport serving Venice, particularly used by low-cost airlines offering European connections."
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Amsterdam"
+  },
+  "about": {
+    "name": "Amsterdam",
+    "info_text": "Amsterdam, the capital of the Netherlands, is a city known for its picturesque canals, historic architecture, and vibrant culture. With a rich maritime history, Amsterdam is a city of art, innovation, and free spirit. Visitors can explore the iconic canal ring, visit world-class museums like the Rijksmuseum and Van Gogh Museum, and enjoy the charming neighborhoods. Amsterdam is a city that offers a blend of history, modernity, and creativity.",
+    "facts_text": "<strong>Population:</strong> Approximately 871,000<br><strong>Province:</strong> North Holland<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Dutch, English<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Amsterdam experiences a temperate maritime climate with mild summers and cool winters. The city is known for its changeable weather, so it's a good idea to be prepared for various conditions."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Anne Frank House",
+        "title": "Anne Frank House",
+        "description": "The Anne Frank House is a historic site where Anne Frank and her family hid from the Nazis during World War II. It now serves as a museum and educational center."
+      },
+      {
+        "img": "x",
+        "alt": "Rijksmuseum",
+        "title": "Rijksmuseum",
+        "description": "The Rijksmuseum is the national museum of the Netherlands, housing an extensive collection of Dutch Golden Age paintings and art from various periods."
+      },
+      {
+        "img": "x",
+        "alt": "Van Gogh Museum",
+        "title": "Van Gogh Museum",
+        "description": "The Van Gogh Museum is dedicated to the life and works of the famous Dutch painter Vincent van Gogh, featuring a vast collection of his masterpieces."
+      },
+      {
+        "img": "x",
+        "alt": "Canal Cruises",
+        "title": "Canal Cruises",
+        "description": "Amsterdam's canal cruises offer a unique way to explore the city, with various options including guided tours and dinner cruises."
+      },
+      {
+        "img": "x",
+        "alt": "Vondelpark",
+        "title": "Vondelpark",
+        "description": "Vondelpark is a beautiful urban park in the heart of Amsterdam, perfect for picnics, leisurely strolls, and outdoor activities."
+      },
+      {
+        "img": "x",
+        "alt": "Red Light District",
+        "title": "Red Light District",
+        "description": "The Red Light District is a historic and controversial area known for its red-lit windows and vibrant nightlife."
+      },
+      {
+        "img": "x",
+        "alt": "Dam Square",
+        "title": "Dam Square",
+        "description": "Dam Square is a bustling city square featuring the Royal Palace, the National Monument, and various shops and cafes."
+      },
+      {
+        "img": "x",
+        "alt": "A'dam Lookout",
+        "title": "A'dam Lookout",
+        "description": "A'dam Lookout offers panoramic views of Amsterdam from an observation deck with a thrilling swing called 'Over The Edge.'"
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Dutch Pancakes",
+        "title": "Dutch Pancakes",
+        "description": "Dutch pancakes, known as pannenkoeken, come in sweet and savory varieties and are a popular choice for locals and visitors."
+      },
+      {
+        "img": "x",
+        "alt": "Herring",
+        "title": "Herring",
+        "description": "Raw herring, typically served with onions and pickles, is a traditional Dutch snack and a must-try for seafood enthusiasts."
+      },
+      {
+        "img": "x",
+        "alt": "Bitterballen",
+        "title": "Bitterballen",
+        "description": "Bitterballen are Dutch meat-based snacks, often served with mustard, and are a common accompaniment to drinks at local pubs."
+      },
+      {
+        "img": "x",
+        "alt": "Stroopwafels",
+        "title": "Stroopwafels",
+        "description": "Stroopwafels are thin waffle-like cookies with a caramel-like syrup filling, enjoyed as a sweet treat."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Amsterdam Marriott Hotel",
+        "title": "Amsterdam Marriott Hotel",
+        "description": "Amsterdam Marriott Hotel offers comfortable accommodations near Leidseplein, with modern amenities and scenic city views."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Pulitzer",
+        "title": "Hotel Pulitzer",
+        "description": "Hotel Pulitzer is a charming hotel composed of historic canal houses, providing a unique and elegant stay along the canals."
+      },
+      {
+        "img": "x",
+        "alt": "Waldorf Astoria Amsterdam",
+        "title": "Waldorf Astoria Amsterdam",
+        "description": "Waldorf Astoria Amsterdam is a luxurious hotel set in a grand canal-side building, offering lavish rooms and fine dining experiences."
+      },
+      {
+        "img": "x",
+        "alt": "The College Hotel",
+        "title": "The College Hotel",
+        "description": "The College Hotel is a boutique hotel housed in a former school building, featuring stylish rooms and a tranquil garden."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Amsterdam Airport Schiphol",
+        "title": "Amsterdam Airport Schiphol",
+        "description": "Amsterdam Airport Schiphol is the main international airport serving Amsterdam, providing a range of transportation options to the city center."
+      },
+      {
+        "img": "x",
+        "alt": "Amsterdam Trams",
+        "title": "Amsterdam Trams",
+        "description": "Amsterdam's tram system is a convenient way to explore the city, with multiple tram lines covering various neighborhoods and attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Metro",
+        "title": "Metro",
+        "description": "Amsterdam's metro system connects different parts of the city and is an efficient mode of public transportation."
+      },
+      {
+        "img": "x",
+        "alt": "Bicycles",
+        "title": "Bicycles",
+        "description": "Bicycles are a popular and convenient way to get around Amsterdam, with dedicated bike lanes and rental services available for exploring the city at a leisurely pace."
+      },
+      {
+        "img": "x",
+        "alt": "Amsterdam Canal Boats",
+        "title": "Amsterdam Canal Boats",
+        "description": "Canal boats and water taxis provide unique transportation on Amsterdam's canals, allowing you to see the city from a different perspective."
+      },
+      {
+        "img": "x",
+        "alt": "Amsterdam Central Station",
+        "title": "Amsterdam Central Station",
+        "description": "Amsterdam Central Station is the city's central transportation hub, serving trains, trams, buses, and ferries."
+      }
+    ]
+  }
+}

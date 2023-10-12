@@ -1,0 +1,170 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Milan"
+    },
+    "about": {
+      "name": "Milan",
+      "info_text": "Milan, the capital of Italy's Lombardy region, is a global hub for fashion, design, finance, and culture. Known for its modern skyscrapers, historic architecture, and vibrant arts scene, Milan offers a blend of contemporary and classical elements. Visitors can explore iconic landmarks, such as the Milan Cathedral and Leonardo da Vinci's 'The Last Supper,' and indulge in world-class shopping and dining. With its cosmopolitan atmosphere, Milan is a dynamic and stylish destination for travelers from around the world.",
+      "facts_text": "<strong>Population:</strong> Approximately 1,352,000<br><strong>Region:</strong> Lombardy<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Italian<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Milan experiences a humid subtropical climate with hot, humid summers and cold, foggy winters. Spring and autumn are pleasant times to visit, with milder temperatures and fewer extremes."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Milan Cathedral",
+          "title": "Milan Cathedral",
+          "description": "The Milan Cathedral (Duomo di Milano) is a magnificent Gothic cathedral known for its intricate facade and stunning interior. Visitors can climb to the rooftop for panoramic views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "The Last Supper",
+          "title": "The Last Supper",
+          "description": "Leonardo da Vinci's masterpiece, 'The Last Supper,' is located in the Convent of Santa Maria delle Grazie and is a significant work of art in Milan."
+        },
+        {
+          "img": "x",
+          "alt": "Galleria Vittorio Emanuele II",
+          "title": "Galleria Vittorio Emanuele II",
+          "description": "This historic shopping arcade, with its ornate architecture, houses high-end boutiques, cafes, and restaurants. It's a popular spot for shopping and people-watching."
+        },
+        {
+          "img": "x",
+          "alt": "Sforza Castle",
+          "title": "Sforza Castle",
+          "description": "The Sforza Castle is a grand fortress housing museums, art collections, and beautiful courtyards. It's a symbol of Milan's history and power."
+        },
+        {
+          "img": "x",
+          "alt": "Pinacoteca di Brera",
+          "title": "Pinacoteca di Brera",
+          "description": "This prestigious art gallery features an impressive collection of Italian paintings, including works by Caravaggio, Raphael, and Titian."
+        },
+        {
+          "img": "x",
+          "alt": "Navigli District",
+          "title": "Navigli District",
+          "description": "The Navigli district is known for its picturesque canals, lively bars, and vibrant nightlife. It's a great place for an evening stroll or aperitivo."
+        },
+        {
+          "img": "x",
+          "alt": "Leonardo da Vinci National Museum of Science and Technology",
+          "title": "Leonardo da Vinci National Museum of Science and Technology",
+          "description": "This museum is dedicated to the life and work of Leonardo da Vinci, showcasing his inventions, models, and scientific contributions."
+        },
+        {
+          "img": "x",
+          "alt": "Teatro alla Scala",
+          "title": "Teatro alla Scala",
+          "description": "One of the world's most famous opera houses, Teatro alla Scala hosts renowned performances and is a cultural landmark in Milan."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Risotto alla Milanese",
+          "title": "Risotto alla Milanese",
+          "description": "Risotto alla Milanese is a creamy saffron risotto, known for its rich and aromatic flavor. It's a classic Milanese dish."
+        },
+        {
+          "img": "x",
+          "alt": "Cotoletta alla Milanese",
+          "title": "Cotoletta alla Milanese",
+          "description": "Cotoletta alla Milanese is a breaded and fried veal cutlet, often served with a wedge of lemon. It's a Milanese specialty."
+        },
+        {
+          "img": "x",
+          "alt": "Panettone",
+          "title": "Panettone",
+          "description": "Panettone is a traditional Milanese Christmas cake, filled with candied fruits and raisins. It's a festive treat."
+        },
+        {
+          "img": "x",
+          "alt": "Milanese Pizza",
+          "title": "Milanese Pizza",
+          "description": "Milanese pizza is known for its thin crust and creative toppings. Try a slice at one of the city's pizzerias."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Principe di Savoia",
+          "title": "Hotel Principe di Savoia",
+          "description": "A luxurious hotel in the heart of Milan, offering elegant rooms, fine dining, and a rooftop spa with panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "Bulgari Hotel Milano",
+          "title": "Bulgari Hotel Milano",
+          "description": "A sophisticated hotel in a former 18th-century palace, known for its elegant rooms, beautiful garden, and Michelin-starred restaurant."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Milan",
+          "title": "Four Seasons Hotel Milan",
+          "description": "This stylish hotel is located in a converted 15th-century convent, offering luxurious accommodations, a spa, and a tranquil courtyard."
+        },
+        {
+          "img": "x",
+          "alt": "Mandarin Oriental, Milan",
+          "title": "Mandarin Oriental, Milan",
+          "description": "A contemporary hotel with a chic design, it's well-regarded for its comfortable rooms, gourmet dining, and spa services."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Metro",
+          "title": "Metro",
+          "description": "Milan's metro system provides efficient transportation around the city, with multiple lines connecting key areas."
+        },
+        {
+          "img": "x",
+          "alt": "Trams and Buses",
+          "title": "Trams and Buses",
+          "description": "Trams and buses offer additional options for getting around Milan, providing access to various neighborhoods and Landmarks."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Milan and can be a convenient mode of transportation, especially for reaching specific destinations."
+        },
+        {
+          "img": "x",
+          "alt": "Cycling",
+          "title": "Cycling",
+          "description": "Cycling is a popular way to explore Milan, with bike lanes and rental services available throughout the city."
+        },
+        {
+          "img": "x",
+          "alt": "High-Speed Rail",
+          "title": "High-Speed Rail",
+          "description": "Milan is a major transportation hub with high-speed train connections to other Italian cities and international destinations, including Paris and Zurich."
+        },
+        {
+          "img": "x",
+          "alt": "Milan Linate Airport",
+          "title": "Milan Linate Airport",
+          "description": "Milan Linate Airport is one of the city's main airports, offering domestic and European flights for travelers."
+        },
+        {
+          "img": "x",
+          "alt": "Milan Malpensa Airport",
+          "title": "Milan Malpensa Airport",
+          "description": "Milan Malpensa Airport is another major airport serving the Milan metropolitan area, offering both domestic and international flights."
+        }
+      ]
+    }
+  }
+  
+        
+
+  

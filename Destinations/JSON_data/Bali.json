@@ -1,100 +1,160 @@
 {
-    "hero": {
-      "img": "X",
-      "title": "Bali"
-    },
-    "about": {
-      "name": "Bali",
-      "info_text": "Bali is a beautiful island located in Indonesia, known for its pristine beaches, crystal-clear waters, and stunning landscapes. It is a popular destination for travelers seeking a tropical paradise with a unique culture and vibrant nightlife. Visitors to Bali can explore ancient temples, hike through lush jungles, surf world-renowned waves, or simply relax on the beach. Bali's warm climate and friendly locals make it an ideal destination for any traveler.",
-      "facts_text": "<strong>Population:</strong> 4.3 million<br><strong>Language:</strong> Indonesian, Balinese<br><strong>Currency:</strong> Indonesian Rupiah (IDR)<br><strong>Time Zone:</strong> UTC+08:00<br><strong>International Dialing Code:</strong> +62",
-      "climate_text": "Bali has a tropical climate with warm temperatures year-round. The rainy season lasts from October to March, with the most rain falling in December and January. The dry season is from April to September, with lower humidity and less rainfall. The best time to visit Bali is during the dry season, when the weather is sunny and the beaches are perfect for swimming and water activities."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "X",
-          "alt": "Ubud Monkey Forest",
-          "title": "Ubud Monkey Forest",
-          "description": "A nature reserve and temple complex in Ubud that's home to hundreds of macaques. Visitors can stroll through lush greenery and marvel at the intricate stone carvings and architecture of the temples."
-        },
-        {
-          "img": "X",
-          "alt": "Tegalalang Rice Terraces",
-          "title": "Tegalalang Rice Terraces",
-          "description": "A UNESCO World Heritage Site located north of Ubud, known for its stunning terraced rice paddies that offer sweeping views of the lush green landscape. Visitors can take a leisurely hike or bike ride through the area and soak up the natural beauty."
-        },
-        {
-          "img": "X",
-          "alt": "Tanah Lot Temple",
-          "title": "Tanah Lot Temple",
-          "description": "A Hindu temple situated on a rocky outcrop in the sea, offering panoramic views of the coastline and spectacular sunsets. Visitors can explore the temple grounds and enjoy the peaceful atmosphere."
-        },
-        {
-          "img": "X",
-          "alt": "Uluwatu Temple",
-          "title": "Uluwatu Temple",
-          "description": "A Balinese sea temple located atop a cliff, offering breathtaking views of the Indian Ocean. Visitors can watch traditional dance performances and explore the surrounding area."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "X",
-          "alt": "Nasi Goreng",
-          "title": "Nasi Goreng",
-          "description": "Nasi Goreng is a traditional Indonesian fried rice dish that is a staple in Bali. Some of the best places to try Nasi Goreng in Bali are Warung Nasi Ayam Bu Oki, Warung Taman Bambu, and Warung Mak Beng."
-        },
-        {
-          "img": "X",
-          "alt": "Satay",
-          "title": "Satay",
-          "description": "Satay is a popular Indonesian street food that consists of grilled meat on skewers. Bali has many great places to try satay, such as Warung Babi Guling Pak Malen, Warung Rindu, and Warung Eny."
-        },
-        {
-          "img": "X",
-          "alt": "Bintang Beer",
-          "title": "Bintang Beer",
-          "description": "Bintang Beer is Bali's most popular local beer, and it's the perfect drink to enjoy on a hot day. You can find Bintang Beer at most bars and restaurants throughout the island."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "X",
-          "alt": "X",
-          "title": "Hotel Name",
-          "description": "Description of the hotel and its amenities."
-        },
-        {
-          "img": "X",
-          "alt": "X",
-          "title": "Hotel Name",
-          "description": "Description of the hotel and its amenities."
-        },
-        {
-          "img": "X",
-          "alt": "X",
-          "title": "Hotel Name",
-          "description": "Description of the hotel and its amenities."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "X",
-          "alt": "Scooter",
-          "title": "Scooter",
-          "description": "Scooters are the most popular way to get around Bali. You can rent them for a low price, and they're a convenient way to explore the island at your own pace."
-        },
-        {
-          "img": "X",
-          "alt": "Bluebird Taxi",
-          "title": "Bluebird Taxi",
-          "description": "Bluebird is a reliable taxi service that operates throughout Bali. You can easily hail a Bluebird taxi on the street or use their mobile app to book a ride."
-        }
-      ]
-    }
-  }         
+  "hero": {
+    "img": "x",
+    "title": "Bali"
+  },
+  "about": {
+    "name": "Bali",
+    "info_text": "Bali, often referred to as the 'Island of the Gods,' is a tropical paradise located in Indonesia. It is renowned for its stunning landscapes, lush rice terraces, pristine beaches, and vibrant culture. Bali offers a perfect blend of natural beauty, spiritual experiences, and a wide range of activities. Whether you're looking to relax on beautiful beaches, explore ancient temples, or enjoy water sports, Bali has something for everyone. The island's warm hospitality and unique Balinese traditions make it a must-visit destination for travelers.",
+    "facts_text": "<strong>Population:</strong> Approximately 4.3 million<br><strong>Province:</strong> Bali<br><strong>Time Zone:</strong> Central Indonesia Time (WITA, UTC+08:00)<br><strong>Language:</strong> Balinese, Indonesian, English<br><strong>Currency:</strong> Indonesian Rupiah (IDR)",
+    "climate_text": "Bali has a tropical climate with a wet season from November to March and a dry season from April to October. The average year-round temperature ranges from 26°C (79°F) to 30°C (86°F)."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Uluwatu Temple",
+        "title": "Uluwatu Temple",
+        "description": "Uluwatu Temple is a sea temple perched on a clifftop, offering breathtaking sunset views and traditional Kecak dance performances."
+      },
+      {
+        "img": "x",
+        "alt": "Ubud Monkey Forest",
+        "title": "Ubud Monkey Forest",
+        "description": "The Ubud Monkey Forest is a sanctuary for long-tailed macaques and a lush jungle area, located in the heart of Ubud."
+      },
+      {
+        "img": "x",
+        "alt": "Tegallalang Rice Terraces",
+        "title": "Tegallalang Rice Terraces",
+        "description": "The Tegallalang Rice Terraces are famous for their intricate and beautiful rice paddies, offering a stunning backdrop for photos and walks."
+      },
+      {
+        "img": "x",
+        "alt": "Tanah Lot Temple",
+        "title": "Tanah Lot Temple",
+        "description": "Tanah Lot Temple is a coastal temple set on a rock formation, providing picturesque sunset views and a glimpse into Balinese spirituality."
+      },
+      {
+        "img": "x",
+        "alt": "Kuta Beach",
+        "title": "Kuta Beach",
+        "description": "Kuta Beach is a popular destination for surfing, sunbathing, and vibrant nightlife, making it one of Bali's most well-known beaches."
+      },
+      {
+        "img": "x",
+        "alt": "Water Palace Tirta Gangga",
+        "title": "Water Palace Tirta Gangga",
+        "description": "Tirta Gangga is a former royal palace with stunning water gardens and fountains, creating a serene and picturesque environment."
+      },
+      {
+        "img": "x",
+        "alt": "Mount Batur",
+        "title": "Mount Batur",
+        "description": "Mount Batur is an active volcano, and hiking to its summit for sunrise is a popular adventure for trekkers and nature enthusiasts."
+      },
+      {
+        "img": "x",
+        "alt": "Bali Safari and Marine Park",
+        "title": "Bali Safari and Marine Park",
+        "description": "The Bali Safari and Marine Park offers a chance to get up close with wildlife in a conservation setting, including safaris and animal shows."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Nasi Goreng",
+        "title": "Nasi Goreng",
+        "description": "Nasi Goreng is a flavorful Indonesian fried rice dish, often served with a fried egg on top and a variety of accompaniments."
+      },
+      {
+        "img": "x",
+        "alt": "Mie Goreng",
+        "title": "Mie Goreng",
+        "description": "Mie Goreng is a stir-fried noodle dish with a delicious mix of vegetables, meat, and Indonesian spices."
+      },
+      {
+        "img": "x",
+        "alt": "Nasi Campur",
+        "title": "Nasi Campur",
+        "description": "Nasi Campur is a Balinese dish that combines a variety of flavors, featuring a scoop of rice surrounded by small portions of vegetables, peanuts, and meats."
+      },
+      {
+        "img": "x",
+        "alt": "Sate",
+        "title": "Sate",
+        "description": "Sate, or satay, is a popular Indonesian dish consisting of skewered and grilled meat, served with a flavorful peanut sauce."
+      },
+      {
+        "img": "x",
+        "alt": "Balinese Coffee",
+        "title": "Balinese Coffee",
+        "description": "Balinese coffee is known for its rich flavor and can be enjoyed at local cafes, often accompanied by stunning views."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "AYANA Resort and Spa Bali",
+        "title": "AYANA Resort and Spa Bali",
+        "description": "AYANA is a luxury resort with a clifftop location in Jimbaran, offering beautiful ocean views and world-class facilities."
+      },
+      {
+        "img": "x",
+        "alt": "Four Seasons Resort Bali at Sayan",
+        "title": "Four Seasons Resort Bali at Sayan",
+        "description": "The Four Seasons in Sayan offers a serene rainforest retreat with luxurious villas, river views, and a renowned spa."
+      },
+      {
+        "img": "x",
+        "alt": "COMO Uma Ubud",
+        "title": "COMO Uma Ubud",
+        "description": "COMO Uma Ubud is a boutique hotel in Ubud known for its tranquil setting, wellness programs, and Balinese design."
+      },
+      {
+        "img": "x",
+        "alt": "W Bali - Seminyak",
+        "title": "W Bali - Seminyak",
+        "description": "W Bali is a stylish beachfront resort in Seminyak, offering a vibrant atmosphere, modern design, and beachfront parties."
+      },
+      {
+        "img": "x",
+        "alt": "The St. Regis Bali Resort",
+        "title": "The St. Regis Bali Resort",
+        "description": "The St. Regis in Nusa Dua is a luxury beachfront resort with refined accommodations, a lagoon, and exquisite dining."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Ngurah Rai International Airport",
+        "title": "Ngurah Rai International Airport",
+        "description": "Ngurah Rai International Airport (DPS) is Bali's main international airport, serving domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Scooters and Motorbikes",
+        "title": "Scooters and Motorbikes",
+        "description": "Scooters and motorbikes are a common mode of transport in Bali, and they can be rented for convenient local travel."
+      },
+      {
+        "img": "x",
+        "alt": "Bali Bemo",
+        "title": "Bali Bemo",
+        "description": "Bemos are small public minivans used for short journeys in Bali, and they are an affordable way to get around."
+      },
+      {
+        "img": "x",
+        "alt": "Blue Bird Taxis",
+        "title": "Blue Bird Taxis",
+        "description": "Blue Bird is a reliable and well-known taxi company in Bali, with metered fares for hassle-free rides."
+      }
+    ]
+  }
+}

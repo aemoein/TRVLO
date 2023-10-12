@@ -1,0 +1,196 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Washington, D.C."
+  },
+  "about": {
+    "name": "Washington, D.C.",
+    "info_text": "Washington, D.C., the capital of the United States, is a city rich in history, culture, and political significance. It is known for its iconic landmarks, including the White House, the U.S. Capitol, and the Washington Monument. Visitors to D.C. can explore world-class museums and galleries, enjoy the beauty of the National Mall, and delve into the nation's history. The city is also celebrated for its diverse neighborhoods, excellent dining, and vibrant arts scene.",
+    "facts_text": "<strong>Population:</strong> Approximately 689,545<br><strong>State:</strong> Washington, D.C.<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Languages:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Washington, D.C. experiences a humid subtropical climate with four distinct seasons. Summers are typically hot and humid, while winters can be cold with occasional snowfall."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "The National Mall",
+        "title": "The National Mall",
+        "description": "The National Mall is a sprawling green space in the heart of D.C., surrounded by the city's iconic monuments, memorials, and museums."
+      },
+      {
+        "img": "x",
+        "alt": "The White House",
+        "title": "The White House",
+        "description": "The White House is the official residence and workplace of the President of the United States, and it is a symbol of American democracy."
+      },
+      {
+        "img": "x",
+        "alt": "Smithsonian Museums",
+        "title": "Smithsonian Museums",
+        "description": "The Smithsonian Institution operates numerous museums in D.C., covering a wide range of topics, from art and history to science and aviation."
+      },
+      {
+        "img": "x",
+        "alt": "The U.S. Capitol",
+        "title": "The U.S. Capitol",
+        "description": "The U.S. Capitol is the home of the United States Congress and an architectural marvel, featuring the stunning Capitol Rotunda."
+      },
+      {
+        "img": "x",
+        "alt": "The Lincoln Memorial",
+        "title": "The Lincoln Memorial",
+        "description": "The Lincoln Memorial honors Abraham Lincoln and is famous for its large statue of the 16th President of the United States."
+      },
+      {
+        "img": "x",
+        "alt": "The Washington Monument",
+        "title": "The Washington Monument",
+        "description": "The Washington Monument is an iconic obelisk dedicated to George Washington, offering panoramic views of the city from its observation deck."
+      },
+      {
+        "img": "x",
+        "alt": "The National Gallery of Art",
+        "title": "The National Gallery of Art",
+        "description": "The National Gallery of Art is a world-class art museum featuring an extensive collection of European and American masterpieces."
+      },
+      {
+        "img": "x",
+        "alt": "The Library of Congress",
+        "title": "The Library of Congress",
+        "description": "The Library of Congress is the largest library in the world, with a vast collection of books, manuscripts, and historic documents."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Ben's Chili Bowl",
+        "title": "Ben's Chili Bowl",
+        "description": "Ben's Chili Bowl is a D.C. institution known for its half-smokes and chili dogs, a favorite among locals and visitors."
+      },
+      {
+        "img": "x",
+        "alt": "Ethnic Cuisine",
+        "title": "Ethnic Cuisine",
+        "description": "Washington, D.C. offers a diverse range of international cuisine, from Ethiopian and Vietnamese to Caribbean and Peruvian dishes."
+      },
+      {
+        "img": "x",
+        "alt": "Food Trucks",
+        "title": "Food Trucks",
+        "description": "The city is famous for its food truck scene, with vendors serving up a variety of delicious street food options."
+      },
+      {
+        "img": "x",
+        "alt": "Farmers Markets",
+        "title": "Farmers Markets",
+        "description": "Farmers markets throughout D.C. provide fresh, local produce and artisanal products for those looking to savor the flavors of the region."
+      },
+      {
+        "img": "x",
+        "alt": "Classic D.C. Cocktails",
+        "title": "Classic D.C. Cocktails",
+        "description": "Explore classic D.C. cocktails, such as the Rickey and the Gin Rickey, in the city's historic bars and speakeasies."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Watergate Hotel",
+        "title": "The Watergate Hotel",
+        "description": "The Watergate Hotel is a luxury hotel with a historic past, offering elegant accommodations and stunning views of the Potomac River."
+      },
+      {
+        "img": "x",
+        "alt": "The Mayflower Hotel, Autograph Collection",
+        "title": "The Mayflower Hotel, Autograph Collection",
+        "description": "The Mayflower Hotel is a historic landmark with opulent rooms and a prime location near the White House and museums."
+      },
+      {
+        "img": "x",
+        "alt": "The Willard InterContinental",
+        "title": "The Willard InterContinental",
+        "description": "The Willard InterContinental is a grand and historic hotel offering luxurious accommodations and a central downtown location."
+      },
+      {
+        "img": "x",
+        "alt": "The Line Hotel",
+        "title": "The Line Hotel",
+        "description": "The Line Hotel is a trendy and stylish option, known for its vibrant atmosphere and artistic design."
+      },
+      {
+        "img": "x",
+        "alt": "The Kimpton George Hotel",
+        "title": "The Kimpton George Hotel",
+        "description": "The Kimpton George Hotel is a boutique hotel with personality, providing a comfortable and unique stay."
+      },
+      {
+        "img": "x",
+        "alt": "Eaton DC",
+        "title": "Eaton DC",
+        "description": "Eaton DC is a socially conscious hotel, combining hospitality with progressive and cultural experiences."
+      },
+      {
+        "img": "x",
+        "alt": "The Ritz-Carlton, Washington, D.C.",
+        "title": "The Ritz-Carlton, Washington, D.C.",
+        "description": "The Ritz-Carlton offers unparalleled luxury and exceptional service in the heart of the city."
+      },
+      {
+        "img": "x",
+        "alt": "The Hay-Adams",
+        "title": "The Hay-Adams",
+        "description": "The Hay-Adams is a historic boutique hotel overlooking the White House, providing classic elegance and timeless charm."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Washington Metro",
+        "title": "Washington Metro",
+        "description": "The Washington Metro provides a convenient way to navigate the city with its extensive subway system."
+      },
+      {
+        "img": "x",
+        "alt": "Metrobus",
+        "title": "Metrobus",
+        "description": "Metrobus services complement the Metro system, offering bus transportation to various destinations in the D.C. area."
+      },
+      {
+        "img": "x",
+        "alt": "Capital Bikeshare",
+        "title": "Capital Bikeshare",
+        "description": "Capital Bikeshare provides bike-sharing services, allowing you to explore the city on two wheels."
+      },
+      {
+        "img": "x",
+        "alt": "D.C. Circulator",
+        "title": "D.C. Circulator",
+        "description": "The D.C. Circulator is a convenient bus service that operates in specific neighborhoods, including downtown D.C."
+      },
+      {
+        "img": "x",
+        "alt": "Ronald Reagan Washington National Airport",
+        "title": "Ronald Reagan Washington National Airport",
+        "description": "Ronald Reagan Washington National Airport (DCA) is the closest airport to downtown D.C., offering domestic flights."
+      },
+      {
+        "img": "x",
+        "alt": "Union Station",
+        "title": "Union Station",
+        "description": "Union Station serves as a transportation hub for Amtrak and regional trains, making it easy to reach D.C. by rail."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rental agencies are available for those who prefer to have their own transportation while exploring Washington, D.C."
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Lisbon"
+    },
+    "about": {
+      "name": "Lisbon",
+      "info_text": "Lisbon, the capital of Portugal, is a city of timeless charm and vibrant culture. Nestled on the banks of the Tagus River, Lisbon is known for its historic neighborhoods, colorful tiles, and breathtaking views. Visitors can explore the winding streets of Alfama, visit iconic landmarks like Belém Tower, and indulge in delicious Portuguese cuisine. With a rich maritime heritage and a warm Mediterranean climate, Lisbon is a city that invites you to embrace its history and modernity.",
+      "facts_text": "<strong>Population:</strong> Approximately 547,000<br><strong>Region:</strong> Lisbon District<br><strong>Time Zone:</strong> Western European Time (UTC+00:00)<br><strong>Language:</strong> Portuguese<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Lisbon enjoys a Mediterranean climate with mild, rainy winters and warm, dry summers. The city is known for its abundant sunshine and pleasant weather year-round."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Belém Tower",
+          "title": "Belém Tower",
+          "description": "Belém Tower is a historic fortress and a symbol of Portugal's Age of Discovery, offering picturesque views of the Tagus River."
+        },
+        {
+          "img": "x",
+          "alt": "Jerónimos Monastery",
+          "title": "Jerónimos Monastery",
+          "description": "The Jerónimos Monastery is a UNESCO World Heritage site, known for its stunning Manueline architecture and cultural significance."
+        },
+        {
+          "img": "x",
+          "alt": "Alfama District",
+          "title": "Alfama District",
+          "description": "Alfama is Lisbon's oldest neighborhood, characterized by narrow streets, historic buildings, and the São Jorge Castle."
+        },
+        {
+          "img": "x",
+          "alt": "Bairro Alto",
+          "title": "Bairro Alto",
+          "description": "Bairro Alto is a lively district known for its vibrant nightlife, Fado music, and a variety of bars and restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Oceanarium",
+          "title": "Lisbon Oceanarium",
+          "description": "The Lisbon Oceanarium is one of the world's largest saltwater aquariums, featuring a diverse range of marine life."
+        },
+        {
+          "img": "x",
+          "alt": "Rossio Square",
+          "title": "Rossio Square",
+          "description": "Rossio Square is a central square in Lisbon, surrounded by historic buildings, cafes, and a monument to Dom Pedro IV."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Trams",
+          "title": "Lisbon Trams",
+          "description": "Lisbon's iconic trams, especially Tram 28, offer a charming way to explore the city's streets and hills."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Cathedral",
+          "title": "Lisbon Cathedral",
+          "description": "Lisbon Cathedral, also known as Sé de Lisboa, is a Romanesque-style cathedral with historic and religious significance."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Pastéis de Nata",
+          "title": "Pastéis de Nata",
+          "description": "Pastéis de Nata are delicious custard tarts with flaky pastry, a beloved Portuguese pastry enjoyed with coffee."
+        },
+        {
+          "img": "x",
+          "alt": "Bacalhau à Brás",
+          "title": "Bacalhau à Brás",
+          "description": "Bacalhau à Brás is a classic Portuguese dish made with salted cod, eggs, and crispy shoestring potatoes."
+        },
+        {
+          "img": "x",
+          "alt": "Francesinha",
+          "title": "Francesinha",
+          "description": "Francesinha is a hearty sandwich from Porto, often enjoyed in Lisbon, featuring layers of meat, cheese, and a spicy sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Amêijoas à Bulhão Pato",
+          "title": "Amêijoas à Bulhão Pato",
+          "description": "Amêijoas à Bulhão Pato is a popular Portuguese seafood dish, consisting of clams cooked with garlic, cilantro, and white wine."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Ritz Lisbon",
+          "title": "Four Seasons Hotel Ritz Lisbon",
+          "description": "The Four Seasons Hotel Ritz Lisbon offers luxurious accommodations with stunning views, fine dining, and a spa."
+        },
+        {
+          "img": "x",
+          "alt": "Tivoli Avenida Liberdade",
+          "title": "Tivoli Avenida Liberdade",
+          "description": "Tivoli Avenida Liberdade is a grand hotel located on Lisbon's main boulevard, offering elegant rooms and excellent dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Memmo Príncipe Real",
+          "title": "Memmo Príncipe Real",
+          "description": "Memmo Príncipe Real is a boutique hotel in the trendy Príncipe Real district, providing stylish rooms and a rooftop bar with panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Santa Justa",
+          "title": "Hotel Santa Justa",
+          "description": "Hotel Santa Justa is a charming hotel located near the historic Santa Justa Elevator, offering cozy accommodations and a central location."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Lisbon Portela Airport",
+          "title": "Lisbon Portela Airport",
+          "description": "Lisbon Portela Airport is the primary international airport serving Lisbon, providing various transportation options to the city center."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Trams and Buses",
+          "title": "Lisbon Trams and Buses",
+          "description": "Lisbon's tram and bus network offers convenient public transportation, connecting different parts of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Metro",
+          "title": "Lisbon Metro",
+          "description": "Lisbon's metro system is an efficient way to get around the city, with multiple lines serving various neighborhoods and attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Ferries on the Tagus River",
+          "title": "Ferries on the Tagus River",
+          "description": "Ferries on the Tagus River provide a scenic way to explore Lisbon and its surroundings, including Cacilhas and Trafaria."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Taxis",
+          "title": "Lisbon Taxis",
+          "description": "Taxis in Lisbon are readily available and offer a convenient way to reach specific destinations in the city."
+        },
+        {
+          "img": "x",
+          "alt": "Santa Apolónia Train Station",
+          "title": "Santa Apolónia Train Station",
+          "description": "Santa Apolónia Train Station is Lisbon's main train station, providing national and international rail connections."
+        },
+        {
+          "img": "x",
+          "alt": "Lisbon Funiculars",
+          "title": "Lisbon Funiculars",
+          "description": "Lisbon's funiculars, such as the Elevador da Bica, offer a unique way to navigate the city's steep hills."
+        }
+      ]
+    }
+  }
+  

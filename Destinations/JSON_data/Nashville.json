@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Nashville"
+  },
+  "about": {
+    "name": "Nashville",
+    "info_text": "Nashville, often referred to as 'Music City,' is the capital of Tennessee and a vibrant hub of country music and entertainment. Known for its live music venues, historic landmarks, and Southern hospitality, Nashville offers a unique blend of culture, cuisine, and musical heritage. Whether you're exploring the iconic Grand Ole Opry, indulging in hot chicken, or strolling along the lively streets of Broadway, Nashville has a lot to offer.",
+    "facts_text": "<strong>Population:</strong> Approximately 700,000<br><strong>State:</strong> Tennessee<br><strong>Time Zone:</strong> Central Time Zone (UTC-06:00)<br><strong>Languages:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "Nashville experiences a humid subtropical climate with hot summers and mild winters. It's an ideal year-round destination for music enthusiasts and travelers looking to enjoy its rich cultural scene."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Grand Ole Opry",
+        "title": "Grand Ole Opry",
+        "description": "The Grand Ole Opry is a historic and legendary venue where country music stars have performed for decades. It's a must-visit for music enthusiasts."
+      },
+      {
+        "img": "x",
+        "alt": "Country Music Hall of Fame and Museum",
+        "title": "Country Music Hall of Fame and Museum",
+        "description": "The Country Music Hall of Fame showcases the history and heritage of country music through exhibits, artifacts, and live performances."
+      },
+      {
+        "img": "x",
+        "alt": "Ryman Auditorium",
+        "title": "Ryman Auditorium",
+        "description": "The Ryman Auditorium, known as the 'Mother Church of Country Music,' is a historic venue with incredible acoustics and a rich musical legacy."
+      },
+      {
+        "img": "x",
+        "alt": "Broadway Honky Tonks",
+        "title": "Broadway Honky Tonks",
+        "description": "Broadway in downtown Nashville is lined with honky tonks and live music venues, offering a lively atmosphere and constant entertainment."
+      },
+      {
+        "img": "x",
+        "alt": "The Parthenon",
+        "title": "The Parthenon",
+        "description": "A full-scale replica of the Parthenon in Athens, this iconic landmark in Centennial Park features art exhibitions and a stunning statue of Athena."
+      },
+      {
+        "img": "x",
+        "alt": "Belle Meade Plantation",
+        "title": "Belle Meade Plantation",
+        "description": "Belle Meade Plantation is a historic estate with a mansion and gardens, providing insights into Nashville's antebellum past."
+      },
+      {
+        "img": "x",
+        "alt": "The Johnny Cash Museum",
+        "title": "The Johnny Cash Museum",
+        "description": "Dedicated to the legendary Johnny Cash, this museum features memorabilia, exhibits, and an extensive collection of artifacts from his life and career."
+      },
+      {
+        "img": "x",
+        "alt": "Nashville Zoo at Grassmere",
+        "title": "Nashville Zoo at Grassmere",
+        "description": "The Nashville Zoo offers a family-friendly experience with a wide variety of animals, interactive exhibits, and conservation programs."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Hot Chicken",
+        "title": "Hot Chicken",
+        "description": "Nashville is famous for its hot chicken, a spicy fried chicken dish that's a local specialty. Try it at various restaurants in the city."
+      },
+      {
+        "img": "x",
+        "alt": "Biscuits and Gravy",
+        "title": "Biscuits and Gravy",
+        "description": "Biscuits and gravy is a Southern classic, featuring fluffy biscuits smothered in creamy sausage gravy, often served for breakfast."
+      },
+      {
+        "img": "x",
+        "alt": "Barbecue",
+        "title": "Barbecue",
+        "description": "Nashville boasts a thriving barbecue scene with a variety of styles, from pulled pork to ribs, served with flavorful sauces."
+      },
+      {
+        "img": "x",
+        "alt": "Goo Goo Cluster",
+        "title": "Goo Goo Cluster",
+        "description": "Goo Goo Cluster is a beloved Nashville candy, featuring nougat, caramel, peanuts, and milk chocolate. Don't miss this sweet treat."
+      },
+      {
+        "img": "x",
+        "alt": "Meat and Three",
+        "title": "Meat and Three",
+        "description": "Meat and three restaurants allow you to choose a meat and three side dishes, a classic Southern comfort food tradition."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Hermitage Hotel",
+        "title": "The Hermitage Hotel",
+        "description": "The Hermitage Hotel is a luxurious and historic hotel in downtown Nashville, offering elegant rooms, fine dining, and a timeless atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Omni Nashville Hotel",
+        "title": "Omni Nashville Hotel",
+        "description": "The Omni Nashville Hotel is connected to the Country Music Hall of Fame and provides modern accommodations with a rooftop pool and bar."
+      },
+      {
+        "img": "x",
+        "alt": "Gaylord Opryland Resort & Convention Center",
+        "title": "Gaylord Opryland Resort & Convention Center",
+        "description": "This sprawling resort near the Grand Ole Opry features lush gardens, indoor waterfalls, multiple restaurants, and extensive event spaces."
+      },
+      {
+        "img": "x",
+        "alt": "The Westin Nashville",
+        "title": "The Westin Nashville",
+        "description": "The Westin Nashville offers contemporary rooms and a rooftop bar with panoramic views of the city's skyline."
+      },
+      {
+        "img": "x",
+        "alt": "Noelle Nashville",
+        "title": "Noelle Nashville",
+        "description": "Noelle Nashville is a stylish boutique hotel with unique design, culinary options, and a rooftop bar in the heart of downtown."
+      },
+      {
+        "img": "x",
+        "alt": "Thompson Nashville",
+        "title": "Thompson Nashville",
+        "description": "The Thompson Nashville is a boutique hotel in the Gulch district, known for its chic design, upscale dining, and lively ambiance."
+      },
+      {
+        "img": "x",
+        "alt": "The Joseph, a Luxury Collection Hotel",
+        "title": "The Joseph, a Luxury Collection Hotel",
+        "description": "The Joseph is an art-filled luxury hotel with contemporary elegance, offering a refined experience in the city's Art District."
+      },
+      {
+        "img": "x",
+        "alt": "Hutton Hotel",
+        "title": "Hutton Hotel",
+        "description": "The Hutton Hotel combines music, art, and hospitality, featuring stylish rooms, creative dining, and a focus on Nashville's cultural scene."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Nashville International Airport",
+        "title": "Nashville International Airport",
+        "description": "Nashville International Airport (BNA) is the major airport serving the city, providing connections to domestic and international destinations."
+      },
+      {
+        "img": "x",
+        "alt": "Music City Star Commuter Train",
+        "title": "Music City Star Commuter Train",
+        "description": "The Music City Star commuter train connects Nashville to nearby communities, making it convenient for commuters and visitors."
+      },
+      {
+        "img": "x",
+        "alt": "WeGo Public Transit",
+        "title": "WeGo Public Transit",
+        "description": "WeGo Public Transit offers bus services throughout Nashville, providing an affordable way to explore the city and its neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis and Ridesharing",
+        "title": "Taxis and Ridesharing",
+        "description": "Taxis, Uber, and Lyft services are available for convenient transportation within Nashville and its surrounding areas."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rental agencies in Nashville offer flexibility for travelers to explore the city and nearby attractions at their own pace."
+      }
+    ]
+  }
+}

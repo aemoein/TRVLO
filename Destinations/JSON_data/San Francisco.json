@@ -1,0 +1,191 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "San Francisco"
+  },
+  "about": {
+    "name": "San Francisco",
+    "info_text": "San Francisco is a vibrant and culturally diverse city located on the northern California coast. Known for its iconic landmarks, hilly terrain, and a rich history of art and innovation, San Francisco offers a unique blend of natural beauty and urban sophistication. The city is famous for its Golden Gate Bridge, historic cable cars, and diverse neighborhoods, each with its own character and charm. Whether you're exploring Alcatraz Island, enjoying a meal in Chinatown, or admiring the stunning views of the bay, San Francisco has something for everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 883,000<br><strong>State:</strong> California<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Languages:</strong> English, Spanish, Chinese, and more<br><strong>Currency:</strong> United States Dollar (USD)",
+    "climate_text": "San Francisco experiences a Mediterranean climate with cool, foggy summers and mild, wet winters. Layered clothing is recommended to adapt to the city's microclimates."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Golden Gate Bridge",
+        "title": "Golden Gate Bridge",
+        "description": "The Golden Gate Bridge is an iconic suspension bridge that spans the Golden Gate strait, offering breathtaking views and photo opportunities."
+      },
+      {
+        "img": "x",
+        "alt": "Alcatraz Island",
+        "title": "Alcatraz Island",
+        "description": "Alcatraz Island is known for its historic prison, where you can take a ferry to explore the former penitentiary and its intriguing history."
+      },
+      {
+        "img": "x",
+        "alt": "Fisherman's Wharf",
+        "title": "Fisherman's Wharf",
+        "description": "Fisherman's Wharf is a popular waterfront district with seafood restaurants, shops, and attractions like Pier 39 and sea lion colonies."
+      },
+      {
+        "img": "x",
+        "alt": "Cable Cars",
+        "title": "Cable Cars",
+        "description": "San Francisco's iconic cable cars offer a historic and charming way to explore the city's steep hills and neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Chinatown",
+        "title": "Chinatown",
+        "description": "San Francisco's Chinatown is one of the oldest and most vibrant in North America, featuring authentic cuisine and cultural experiences."
+      },
+      {
+        "img": "x",
+        "alt": "The Exploratorium",
+        "title": "The Exploratorium",
+        "description": "The Exploratorium is a hands-on science museum where visitors can engage with interactive exhibits and learn about the world around them."
+      },
+      {
+        "img": "x",
+        "alt": "Lombard Street",
+        "title": "Lombard Street",
+        "description": "Lombard Street is famous for its steep, winding section known as the 'crookedest street in the world,' offering a unique urban experience."
+      },
+      {
+        "img": "x",
+        "alt": "Palace of Fine Arts",
+        "title": "Palace of Fine Arts",
+        "description": "The Palace of Fine Arts is a stunning architectural landmark surrounded by a peaceful park, ideal for leisurely strolls and photography."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Clam Chowder in a Bread Bowl",
+        "title": "Clam Chowder in a Bread Bowl",
+        "description": "San Francisco is renowned for its clam chowder served in a sourdough bread bowl, a must-try dish at seafood eateries along the wharf."
+      },
+      {
+        "img": "x",
+        "alt": "Mission Burrito",
+        "title": "Mission Burrito",
+        "description": "The Mission District is known for its oversized burritos, filled with a variety of ingredients and flavors."
+      },
+      {
+        "img": "x",
+        "alt": "Dim Sum",
+        "title": "Dim Sum",
+        "description": "San Francisco's Chinatown offers authentic dim sum experiences, with a variety of small dishes to enjoy."
+      },
+      {
+        "img": "x",
+        "alt": "Dungeness Crab",
+        "title": "Dungeness Crab",
+        "description": "Dungeness crab, either steamed or roasted, is a popular seafood choice in San Francisco's seafood restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Gourmet Coffee",
+        "title": "Gourmet Coffee",
+        "description": "San Francisco is known for its artisanal coffee culture, with numerous specialty coffee shops throughout the city."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Fairmont San Francisco",
+        "title": "Fairmont San Francisco",
+        "description": "The Fairmont is a luxurious hotel atop Nob Hill, offering stunning views, elegant accommodations, and timeless charm."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Nikko San Francisco",
+        "title": "Hotel Nikko San Francisco",
+        "description": "Hotel Nikko is a modern and sophisticated hotel in Union Square, known for its stylish rooms and entertainment options."
+      },
+      {
+        "img": "x",
+        "alt": "The St. Regis San Francisco",
+        "title": "The St. Regis San Francisco",
+        "description": "The St. Regis offers contemporary luxury with a prime location in the SoMa district, featuring upscale amenities and services."
+      },
+      {
+        "img": "x",
+        "alt": "The Clift Royal Sonesta Hotel",
+        "title": "The Clift Royal Sonesta Hotel",
+        "description": "The Clift is a boutique hotel in Union Square, known for its artistic design, cozy accommodations, and social atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "The Ritz-Carlton, San Francisco",
+        "title": "The Ritz-Carlton, San Francisco",
+        "description": "The Ritz-Carlton offers a classic and opulent experience with elegant rooms, fine dining, and exceptional service."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Zephyr",
+        "title": "Hotel Zephyr",
+        "description": "Hotel Zephyr is a waterfront hotel at Fisherman's Wharf, offering a playful and nautical-themed atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Vitale",
+        "title": "Hotel Vitale",
+        "description": "Hotel Vitale is a luxurious waterfront hotel located in the heart of San Francisco. With stunning views of the San Francisco Bay, the hotel offers a perfect blend of modern elegance and exceptional hospitality. Each room is meticulously designed for comfort and style, providing a tranquil retreat in the midst of the bustling city. Guests can enjoy exquisite dining, spa services, and access to the hotel's rooftop terrace, offering breathtaking panoramas of the city skyline and the Bay Bridge. Whether you're traveling for business or leisure, Hotel Vitale provides an unforgettable experience in one of America's most iconic cities."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "San Francisco International Airport",
+        "title": "San Francisco International Airport",
+        "description": "San Francisco International Airport (SFO) is a major international airport providing convenient air travel access to the city and the Bay Area."
+      },
+      {
+        "img": "x",
+        "alt": "Bay Area Rapid Transit (BART)",
+        "title": "Bay Area Rapid Transit (BART)",
+        "description": "BART is a regional rail system connecting San Francisco to neighboring cities, offering a quick way to get around the Bay Area."
+      },
+      {
+        "img": "x",
+        "alt": "Cable Cars",
+        "title": "Cable Cars",
+        "description": "San Francisco's historic cable cars are not only attractions but also a unique mode of public transportation within the city."
+      },
+      {
+        "img": "x",
+        "alt": "Muni Bus and Trolley",
+        "title": "Muni Bus and Trolley",
+        "description": "The San Francisco Municipal Railway (Muni) provides a network of buses and trolleys for local transportation."
+      },
+      {
+        "img": "x",
+        "alt": "Caltrain",
+        "title": "Caltrain",
+        "description": "Caltrain is a commuter rail line connecting San Francisco with the southern part of the San Francisco Peninsula."
+      },
+      {
+        "img": "x",
+        "alt": "Ferries",
+        "title": "Ferries",
+        "description": "Ferry services are available for travel between San Francisco and neighboring regions, such as the East Bay and Marin County."
+      },
+      {
+        "img": "x",
+        "alt": "Rental Cars",
+        "title": "Rental Cars",
+        "description": "Visitors can rent cars from various agencies for flexible transportation options and to explore the surrounding Bay Area."
+      }
+    ]
+  }
+}
+      

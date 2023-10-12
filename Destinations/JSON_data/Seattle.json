@@ -1,0 +1,190 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Seattle"
+    },
+    "about": {
+      "name": "Seattle",
+      "info_text": "Seattle, often referred to as the 'Emerald City,' is a dynamic city located in the Pacific Northwest of the United States. It is known for its stunning natural surroundings, including the Puget Sound, mountains, and forests. Seattle is famous for its diverse culture, tech industry, and vibrant arts scene. Visitors can explore iconic landmarks like the Space Needle, enjoy fresh seafood, and experience the city's rich music history, from jazz to grunge.",
+      "facts_text": "<strong>Population:</strong> Approximately 753,675<br><strong>State:</strong> Washington<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Languages:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Seattle has a marine west coast climate, characterized by mild, rainy winters and warm, dry summers. The city is known for its overcast and drizzly weather."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Space Needle",
+          "title": "Space Needle",
+          "description": "The Space Needle is an iconic observation tower offering breathtaking panoramic views of Seattle and the surrounding landscape."
+        },
+        {
+          "img": "x",
+          "alt": "Pike Place Market",
+          "title": "Pike Place Market",
+          "description": "Pike Place Market is a historic public market known for its fresh produce, artisanal crafts, and the famous fish-throwing tradition."
+        },
+        {
+          "img": "x",
+          "alt": "Chihuly Garden and Glass",
+          "title": "Chihuly Garden and Glass",
+          "description": "Chihuly Garden and Glass is an extraordinary exhibit showcasing the incredible glass art of Dale Chihuly in a beautifully landscaped garden setting."
+        },
+        {
+          "img": "x",
+          "alt": "Museum of Pop Culture (MoPOP)",
+          "title": "Museum of Pop Culture (MoPOP)",
+          "description": "MoPOP is a unique museum celebrating pop culture, music, science fiction, and more, featuring interactive exhibits and memorabilia."
+        },
+        {
+          "img": "x",
+          "alt": "Kerry Park",
+          "title": "Kerry Park",
+          "description": "Kerry Park is a scenic viewpoint on Queen Anne Hill, providing postcard-worthy vistas of downtown Seattle and the Space Needle."
+        },
+        {
+          "img": "x",
+          "alt": "Seattle Aquarium",
+          "title": "Seattle Aquarium",
+          "description": "The Seattle Aquarium offers a glimpse into the marine life of the Pacific Northwest, featuring underwater exhibits and interactive displays."
+        },
+        {
+          "img": "x",
+          "alt": "Seattle Great Wheel",
+          "title": "Seattle Great Wheel",
+          "description": "The Seattle Great Wheel is a waterfront Ferris wheel offering a fun and scenic ride with views of the Puget Sound."
+        },
+        {
+          "img": "x",
+          "alt": "Olympic Sculpture Park",
+          "title": "Olympic Sculpture Park",
+          "description": "The Olympic Sculpture Park is a public art space featuring outdoor sculptures, open spaces, and stunning waterfront views."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Pacific Northwest Seafood",
+          "title": "Pacific Northwest Seafood",
+          "description": "Seattle is renowned for its fresh seafood, including salmon, Dungeness crab, and a variety of shellfish."
+        },
+        {
+          "img": "x",
+          "alt": "Seattle-Style Hot Dog",
+          "title": "Seattle-Style Hot Dog",
+          "description": "A Seattle-style hot dog typically includes cream cheese, grilled onions, and other unique toppings."
+        },
+        {
+          "img": "x",
+          "alt": "Coffee",
+          "title": "Coffee",
+          "description": "Seattle is famous for its coffee culture, and you can enjoy a wide range of coffee shops, including the original Starbucks store."
+        },
+        {
+          "img": "x",
+          "alt": "Asian Cuisine",
+          "title": "Asian Cuisine",
+          "description": "Seattle offers a diverse range of Asian cuisine, from sushi and dim sum to Thai and Vietnamese dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Craft Beer",
+          "title": "Craft Beer",
+          "description": "Seattle's craft beer scene is thriving, with numerous breweries offering a wide selection of local and artisanal beers."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Edgewater Hotel",
+          "title": "The Edgewater Hotel",
+          "description": "The Edgewater Hotel is a waterfront luxury hotel, known for its cozy accommodations and stunning views of Elliott Bay."
+        },
+        {
+          "img": "x",
+          "alt": "Fairmont Olympic Hotel",
+          "title": "Fairmont Olympic Hotel",
+          "description": "The Fairmont Olympic Hotel is a classic and elegant hotel offering timeless luxury in the heart of downtown Seattle."
+        },
+        {
+          "img": "x",
+          "alt": "Thompson Seattle",
+          "title": "Thompson Seattle",
+          "description": "Thompson Seattle is a boutique hotel located near Pike Place Market, featuring stylish rooms and a rooftop bar."
+        },
+        {
+          "img": "x",
+          "alt": "Inn at the Market",
+          "title": "Inn at the Market",
+          "description": "Inn at the Market is a charming boutique hotel within steps of Pike Place Market, providing a cozy and convenient stay."
+        },
+        {
+          "img": "x",
+          "alt": "The Alexis Royal Sonesta Hotel",
+          "title": "The Alexis Royal Sonesta Hotel",
+          "description": "The Alexis Royal Sonesta Hotel is an artistic and pet-friendly hotel in the heart of downtown, featuring creative design and comfort."
+        },
+        {
+          "img": "x",
+          "alt": "The Charter Hotel Seattle, Curio Collection by Hilton",
+          "title": "The Charter Hotel Seattle, Curio Collection by Hilton",
+          "description": "The Charter Hotel offers contemporary style and excellent service, located near the Washington State Convention Center."
+        },
+        {
+          "img": "x",
+          "alt": "The Paramount Hotel",
+          "title": "The Paramount Hotel",
+          "description": "The Paramount Hotel is a modern and convenient choice for travelers, situated in the bustling downtown area."
+        },
+        {
+          "img": "x",
+          "alt": "W Seattle",
+          "title": "W Seattle",
+          "description": "W Seattle is a trendy and upscale hotel, known for its vibrant atmosphere and innovative design."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+      {
+        "img": "x",
+        "alt": "Seattle-Tacoma International Airport",
+        "title": "Seattle-Tacoma International Airport",
+        "description": "Seattle-Tacoma International Airport (SEA) is the primary airport serving the Seattle area, providing domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Link Light Rail",
+        "title": "Link Light Rail",
+        "description": "The Link Light Rail system connects the airport to downtown Seattle and offers convenient public transportation options."
+      },
+      {
+        "img": "x",
+        "alt": "Metro Transit Bus",
+        "title": "Metro Transit Bus",
+        "description": "King County Metro Transit provides an extensive bus network for travel within Seattle and the surrounding region."
+      },
+      {
+        "img": "x",
+        "alt": "Seattle Streetcar",
+        "title": "Seattle Streetcar",
+        "description": "The Seattle Streetcar operates in select neighborhoods, offering a convenient way to explore specific areas of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Washington State Ferries",
+        "title": "Washington State Ferries",
+        "description": "Washington State Ferries connect Seattle to nearby islands and provide scenic transportation options."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rental agencies are available for those who prefer to have their own transportation while exploring Seattle and the surrounding area."
+      }
+    ]
+  }
+}
