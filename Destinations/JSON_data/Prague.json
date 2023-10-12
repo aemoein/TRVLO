@@ -1,0 +1,100 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Prague"
+    },
+    "about": {
+      "name": "Prague",
+      "info_text": "Prague, the capital of the Czech Republic, is a city of stunning architecture, rich history, and vibrant culture. Known as the 'City of a Hundred Spires,' Prague's historic Old Town, iconic Charles Bridge, and majestic Prague Castle make it a favorite destination for travelers. Visitors can explore its cobblestone streets, Gothic and Baroque buildings, and experience the charm of this Bohemian city. With a thriving arts scene, world-class cuisine, and a strong coffee culture, Prague is a destination that seamlessly blends the old and the new.",
+      "facts_text": "<strong>Population:</strong> Approximately 1.3 million<br><strong>Country:</strong> Czech Republic<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Czech<br><strong>Currency:</strong> Czech Koruna (CZK)",
+      "climate_text": "Prague, the capital of the Czech Republic, features a temperate continental climate with four distinct seasons. Summers are warm, with temperatures typically ranging from 20°C to 25°C (68°F to 77°F), while winters can be cold, with temperatures between -2°C and 2°C (28°F to 36°F). Prague experiences a fair amount of precipitation year-round, with snowfall common in the winter months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Prague Castle",
+          "title": "Prague Castle",
+          "description": "Visit the largest ancient castle in the world, featuring the stunning St. Vitus Cathedral and the historic Royal Palace."
+        },
+        {
+          "img": "x",
+          "alt": "Charles Bridge",
+          "title": "Charles Bridge",
+          "description": "Stroll across the iconic Charles Bridge, adorned with statues, and enjoy panoramic views of Prague's Old Town and Prague Castle."
+        },
+        {
+          "img": "x",
+          "alt": "Old Town Square",
+          "title": "Old Town Square",
+          "description": "Experience the heart of Prague in the Old Town Square. Admire the Astronomical Clock and the Gothic Church of Our Lady before Týn."
+        },
+        {
+          "img": "x",
+          "alt": "Astronomical Clock",
+          "title": "Astronomical Clock",
+          "description": "Don't miss the famous Astronomical Clock in the Old Town Hall, known for its hourly show with figurines and astronomical dials."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Trdelník",
+          "title": "Trdelník",
+          "description": "Indulge in trdelník, a traditional Czech sweet pastry, often filled with ice cream or other delicious toppings."
+        },
+        {
+          "img": "x",
+          "alt": "Goulash",
+          "title": "Goulash",
+          "description": "Savor a hearty bowl of Czech goulash, a stew made with tender meat and a rich paprika sauce, often served with dumplings."
+        },
+        {
+          "img": "x",
+          "alt": "Pilsner Beer",
+          "title": "Pilsner Beer",
+          "description": "Enjoy a pint of Pilsner beer, as the Czech Republic is famous for its beer culture. Explore local pubs and breweries."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Aria Hotel Prague",
+          "title": "Aria Hotel Prague",
+          "description": "Stay at the Aria Hotel Prague, a luxurious and music-themed boutique hotel near Prague Castle."
+        },
+        {
+          "img": "x",
+          "alt": "BoHo Hotel",
+          "title": "BoHo Hotel",
+          "description": "Experience modern comfort at the BoHo Hotel, conveniently located in the heart of Prague's Old Town."
+        },
+        {
+          "img": "x",
+          "alt": "Mandarin Oriental, Prague",
+          "title": "Mandarin Oriental, Prague",
+          "description": "Enjoy a luxurious stay at the Mandarin Oriental, Prague, housed in a former 14th-century monastery."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Prague Metro",
+          "title": "Prague Metro",
+          "description": "The Prague Metro provides efficient transportation around the city. It's a convenient way to reach various attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Trams and Buses",
+          "title": "Trams and Buses",
+          "description": "Explore Prague using its extensive tram and bus network, which connects various parts of the city."
+        }
+      ]
+    }
+  }  

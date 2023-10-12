@@ -1,0 +1,100 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Dubrovnik"
+    },
+    "about": {
+      "name": "Dubrovnik",
+      "info_text": "Dubrovnik, often referred to as the 'Pearl of the Adriatic,' is a stunning coastal city located in the south of Croatia. With its well-preserved medieval walls, historic Old Town, and crystal-clear waters of the Adriatic Sea, Dubrovnik is a top destination for travelers seeking both cultural experiences and natural beauty. Visitors can explore the city's ancient architecture, walk along the city walls, and take in breathtaking views of the sea. In addition to its rich history, Dubrovnik offers a vibrant cultural scene and a taste of traditional Croatian cuisine.",
+      "facts_text": "<strong>Population:</strong> Approximately 42,615<br><strong>Country:</strong> Croatia<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Croatian, English<br><strong>Currency:</strong> Croatian Kuna (HRK)",
+      "climate_text": "Dubrovnik, located on the Adriatic coast of Croatia, enjoys a Mediterranean climate with hot, dry summers and mild, wet winters. Summer temperatures range from 25°C to 35°C (77°F to 95°F), while winters are generally milder, with temperatures between 8°C to 14°C (46°F to 57°F)."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Old Town",
+          "title": "Old Town",
+          "description": "Dubrovnik's Old Town is a UNESCO World Heritage site and a true gem. Walk its historic streets, visit landmarks like Rector's Palace, and enjoy the charming atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "City Walls",
+          "title": "City Walls",
+          "description": "Climb the ancient city walls for panoramic views of Dubrovnik and the Adriatic. The walls offer a unique perspective of the city's layout and surroundings."
+        },
+        {
+          "img": "x",
+          "alt": "Dubrovnik Cable Car",
+          "title": "Dubrovnik Cable Car",
+          "description": "Take a cable car ride up to Mount Srd for stunning vistas of the city and the Elafiti Islands. It's a perfect spot for sunset or a meal at the mountaintop restaurant."
+        },
+        {
+          "img": "x",
+          "alt": "Lokrum Island",
+          "title": "Lokrum Island",
+          "description": "Lokrum Island, just off the coast, is a nature reserve with beautiful botanical gardens, a historic monastery, and opportunities for swimming and relaxation."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Seafood",
+          "title": "Seafood",
+          "description": "Dubrovnik's location on the Adriatic ensures a fresh and delicious seafood scene. Try local dishes like black risotto, grilled fish, and octopus salad."
+        },
+        {
+          "img": "x",
+          "alt": "Pasticada",
+          "title": "Pasticada",
+          "description": "Pasticada is a traditional Dalmatian dish made of slow-cooked beef in a wine sauce. It's often served with gnocchi or homemade pasta."
+        },
+        {
+          "img": "x",
+          "alt": "Rozata",
+          "title": "Rozata",
+          "description": "Rozata is a popular dessert in Dubrovnik. It's a creamy caramel custard pudding with a hint of citrus, often enjoyed after a hearty meal."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hilton Imperial Dubrovnik",
+          "title": "Hilton Imperial Dubrovnik",
+          "description": "Overlooking the ancient city walls, this hotel offers luxurious accommodations and stunning views. It's within walking distance of Old Town."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Excelsior",
+          "title": "Hotel Excelsior",
+          "description": "Situated right by the sea, Hotel Excelsior offers modern rooms and a beautiful beach. It's a short walk from the Old Town's Pile Gate."
+        },
+        {
+          "img": "x",
+          "alt": "Guesthouse Maria",
+          "title": "Guesthouse Maria",
+          "description": "For a budget-friendly option, Guesthouse Maria provides comfortable rooms and a friendly atmosphere. It's located in Lapad, near the beach."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Local Buses",
+          "title": "Local Buses",
+          "description": "Dubrovnik has a network of local buses that provide transportation around the city. They are a convenient way to explore different neighborhoods."
+        },
+        {
+          "img": "x",
+          "alt": "Ferries",
+          "title": "Ferries",
+          "description": "Ferries and boats connect Dubrovnik to nearby islands and coastal destinations. It's a great way to explore the Adriatic and its beautiful surroundings."
+        }
+      ]
+    }
+  }  

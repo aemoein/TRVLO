@@ -1,0 +1,100 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Stockholm"
+    },
+    "about": {
+      "name": "Stockholm",
+      "info_text": "Stockholm, the capital of Sweden, is a picturesque city spread across 14 islands in the Baltic Sea. Known for its stunning archipelago, historic old town, and vibrant cultural scene, Stockholm offers a unique blend of modernity and tradition. Visitors can explore the charming cobblestone streets of Gamla Stan (Old Town), visit world-class museums, and enjoy the city's beautiful parks and waterways. Stockholm is a city of innovation and design, making it a dynamic and inviting destination for travelers from around the world.",
+      "facts_text": "<strong>Population:</strong> Approximately 975,000<br><strong>Country:</strong> Sweden<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Language:</strong> Swedish, English<br><strong>Currency:</strong> Swedish Krona (SEK)",
+      "climate_text": "Stockholm, the capital of Sweden, has a temperate maritime climate. Summers in Stockholm are relatively mild, with temperatures typically ranging from 15°C to 25°C (59°F to 77°F), while winters are cold, with temperatures between -5°C and 2°C (23°F to 36°F). The city experiences consistent rainfall throughout the year, with snowfall common during the winter months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Gamla Stan (Old Town)",
+          "title": "Gamla Stan (Old Town)",
+          "description": "Explore the historic Gamla Stan, with its medieval streets, colorful buildings, and iconic Royal Palace."
+        },
+        {
+          "img": "x",
+          "alt": "Vasa Museum",
+          "title": "Vasa Museum",
+          "description": "Visit the Vasa Museum to see the well-preserved warship Vasa, a unique maritime treasure."
+        },
+        {
+          "img": "x",
+          "alt": "ABBA The Museum",
+          "title": "ABBA The Museum",
+          "description": "Discover the world of the legendary pop group ABBA at ABBA The Museum."
+        },
+        {
+          "img": "x",
+          "alt": "Djurgården Island",
+          "title": "Djurgården Island",
+          "description": "Explore Djurgården Island, home to many museums, parks, and the Gröna Lund amusement park."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Swedish Meatballs",
+          "title": "Swedish Meatballs",
+          "description": "Try the famous Swedish meatballs, typically served with lingonberry sauce and creamy mashed potatoes."
+        },
+        {
+          "img": "x",
+          "alt": "Herring",
+          "title": "Herring",
+          "description": "Sample herring prepared in various traditional Swedish styles, often served with potatoes and sour cream."
+        },
+        {
+          "img": "x",
+          "alt": "Prinsesstårta",
+          "title": "Prinsesstårta",
+          "description": "Indulge in Prinsesstårta, a classic Swedish cake with layers of sponge cake, cream, and a green marzipan cover."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Grand Hôtel Stockholm",
+          "title": "Grand Hôtel Stockholm",
+          "description": "Experience luxury at Grand Hôtel Stockholm, a historic and elegant hotel with magnificent waterfront views."
+        },
+        {
+          "img": "x",
+          "alt": "Scandic Grand Central",
+          "title": "Scandic Grand Central",
+          "description": "Stay at Scandic Grand Central, a stylish and centrally located hotel offering modern comfort."
+        },
+        {
+          "img": "x",
+          "alt": "Generator Stockholm",
+          "title": "Generator Stockholm",
+          "description": "Enjoy a trendy and affordable stay at Generator Stockholm, a chic hostel in the city."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Stockholm Arlanda Airport",
+          "title": "Stockholm Arlanda Airport",
+          "description": "Arrive in Stockholm via Stockholm Arlanda Airport, the city's largest international airport."
+        },
+        {
+          "img": "x",
+          "alt": "Stockholm Public Transport",
+          "title": "Stockholm Public Transport",
+          "description": "Use Stockholm's efficient public transport system, including trams, buses, and the Stockholm Metro."
+        }
+      ]
+    }
+  }  

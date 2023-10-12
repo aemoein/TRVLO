@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "img": "x",
+    "title": "Sibiu"
+  },
+  "about": {
+    "name": "Sibiu",
+    "info_text": "Sibiu, located in the heart of Transylvania, Romania, is a city known for its rich history, stunning architecture, and vibrant cultural scene. With its well-preserved medieval old town, Sibiu offers visitors a journey back in time, surrounded by cobblestone streets, colorful buildings, and historic landmarks. The city is famous for its annual theater festival, Sibiu International Theatre Festival, and its charming squares and museums. Sibiu is a destination that blends history and modernity, making it an attractive place for travelers interested in culture, art, and history.",
+    "facts_text": "<strong>Population:</strong> Approximately 150,000<br><strong>Country:</strong> Romania<br><strong>Time Zone:</strong> Eastern European Time (EET, UTC+2)<br><strong>Language:</strong> Romanian, German, English<br><strong>Currency:</strong> Romanian Leu (RON)",
+    "climate_text": "Sibiu, a city in Romania, has a continental climate with four distinct seasons. Summers in Sibiu are warm, with temperatures ranging from 20°C to 25°C (68°F to 77°F), while winters can be cold, with temperatures between -5°C and 2°C (23°F to 36°F). Sibiu experiences moderate rainfall year-round, with occasional snowfall during the winter months."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Brukenthal National Museum",
+        "title": "Brukenthal National Museum",
+        "description": "Explore the art and history collections of the Brukenthal National Museum, Romania's oldest museum."
+      },
+      {
+        "img": "x",
+        "alt": "Piata Mare (Big Square)",
+        "title": "Piata Mare (Big Square)",
+        "description": "Stroll through Piata Mare, the largest square in Sibiu, surrounded by colorful baroque buildings and historical landmarks."
+      },
+      {
+        "img": "x",
+        "alt": "Council Tower",
+        "title": "Council Tower",
+        "description": "Climb the Council Tower for panoramic views of Sibiu and its iconic rooftops."
+      },
+      {
+        "img": "x",
+        "alt": "ASTRA National Museum Complex",
+        "title": "ASTRA National Museum Complex",
+        "description": "Visit the ASTRA National Museum Complex, an open-air museum showcasing Romania's rural architecture and traditions."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Mămăligă",
+        "title": "Mămăligă",
+        "description": "Taste Mămăligă, a traditional Romanian dish of polenta, often served with cheese, sour cream, and bacon."
+      },
+      {
+        "img": "x",
+        "alt": "Sibiu Salami",
+        "title": "Sibiu Salami",
+        "description": "Try Sibiu Salami, a delicious Romanian sausage known for its unique flavor and quality."
+      },
+      {
+        "img": "x",
+        "alt": "Ciorbă",
+        "title": "Ciorbă",
+        "description": "Enjoy Ciorbă, a sour soup popular in Romania, available in various flavors and with or without meat."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hilton Sibiu",
+        "title": "Hilton Sibiu",
+        "description": "Stay at the Hilton Sibiu, a luxurious hotel offering comfort and great amenities."
+      },
+      {
+        "img": "x",
+        "alt": "Continental Forum Sibiu",
+        "title": "Continental Forum Sibiu",
+        "description": "Experience a comfortable stay at the Continental Forum Sibiu, conveniently located in the city center."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Levoslav House",
+        "title": "Hotel Levoslav House",
+        "description": "Relax at the Hotel Levoslav House, a charming boutique hotel with a historic ambiance."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Sibiu International Airport",
+        "title": "Sibiu International Airport",
+        "description": "Fly into Sibiu International Airport for easy access to the city and surrounding regions."
+      },
+      {
+        "img": "x",
+        "alt": "Public Transportation",
+        "title": "Public Transportation",
+        "description": "Use Sibiu's public transportation system to get around the city conveniently."
+      }
+    ]
+  }
+}
