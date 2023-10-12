@@ -1,0 +1,100 @@
+{
+    "hero": {
+      "img": "X",
+      "title": "Namibia"
+    },
+    "about": {
+      "name": "Namibia",
+      "info_text": "Namibia is a diverse and captivating country located in southwestern Africa. Known for its stunning landscapes, including the otherworldly Namib Desert, vast savannahs, and the unique wildlife of Etosha National Park, Namibia offers a truly memorable travel experience. Visitors can explore ancient deserts, encounter native wildlife, and immerse themselves in the rich culture of Namibia's indigenous people. Whether you're a nature enthusiast, adventure seeker, or culture lover, Namibia has something to offer everyone.",
+      "facts_text": "<strong>Population:</strong> X<br><strong>Region:</strong> X<br><strong>Time Zone:</strong> X<br><strong>Languages:</strong> X<br><strong>Currency:</strong> X",
+      "climate_text": "Namibia's climate is characterized by arid and semi-arid conditions, with limited rainfall, high temperatures, and significant day-to-night temperature variations."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "X",
+          "alt": "Namib Desert",
+          "title": "Namib Desert",
+          "description": "The Namib Desert is one of the world's oldest and most surreal deserts, known for its towering dunes, including the famous Dune 45. Visitors can experience the mesmerizing landscapes and stunning sunsets of this unique desert."
+        },
+        {
+          "img": "X",
+          "alt": "Etosha National Park",
+          "title": "Etosha National Park",
+          "description": "Etosha National Park is home to a remarkable diversity of wildlife, including elephants, lions, and rhinos. Visitors can go on game drives and enjoy the waterholes, making it a premier safari destination."
+        },
+        {
+          "img": "X",
+          "alt": "Fish River Canyon",
+          "title": "Fish River Canyon",
+          "description": "Fish River Canyon is one of the largest canyons in the world, offering breathtaking views and opportunities for hiking and exploration. It's a geological wonder that shouldn't be missed."
+        },
+        {
+          "img": "X",
+          "alt": "Himba Villages",
+          "title": "Himba Villages",
+          "description": "The Himba people are an indigenous group with a unique way of life. Visitors can learn about their culture, traditions, and enjoy the remote and scenic locations of Himba villages."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "X",
+          "alt": "Braaivleis",
+          "title": "Braaivleis",
+          "description": "Braaivleis, or barbecue, is a popular culinary tradition in Namibia. Try some of the best grilled meats at local braai spots, and savor the flavors of this delicious tradition."
+        },
+        {
+          "img": "X",
+          "alt": "Kapana",
+          "title": "Kapana",
+          "description": "Kapana is a street food sensation in Namibia, featuring delicious grilled meat served with various spices and sauces. It's a must-try for food enthusiasts."
+        },
+        {
+          "img": "X",
+          "alt": "Potjiekos",
+          "title": "Potjiekos",
+          "description": "Potjiekos is a traditional South African stew that's also popular in Namibia. It's cooked in a cast-iron pot over an open fire and is filled with meat and vegetables, creating a flavorful dish."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "X",
+          "alt": "The Olive Exclusive",
+          "title": "The Olive Exclusive",
+          "description": "This boutique hotel in Windhoek offers luxurious suites, a gourmet restaurant, and a rooftop pool with stunning city views."
+        },
+        {
+          "img": "X",
+          "alt": "Mowani Mountain Camp",
+          "title": "Mowani Mountain Camp",
+          "description": "Nestled among the boulders of Damaraland, Mowani Mountain Camp offers unique tented accommodations and panoramic views of the desert landscape."
+        },
+        {
+          "img": "X",
+          "alt": "Sossusvlei Lodge",
+          "title": "Sossusvlei Lodge",
+          "description": "Located just outside the entrance to Sossusvlei, this lodge offers comfortable accommodations, a swimming pool, and guided tours of the area."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "X",
+          "alt": "Car Rental",
+          "title": "Car Rental",
+          "description": "Renting a car is the best way to explore Namibia's vast and rugged landscapes. Major car rental companies operate at the airport and in major cities."
+        },
+        {
+          "img": "X",
+          "alt": "Bus",
+          "title": "Bus",
+          "description": "Buses are available for travel between major cities and towns, but they can be slow and uncomfortable. Minibus taxis are a cheaper alternative, but they can be crowded and unsafe."
+        }
+      ]
+    }
+  }

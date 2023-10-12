@@ -1,5 +1,5 @@
 function loadJSON(filename) {
-  fetch(`${filename}.json`)
+  fetch(`JSON_data/${filename}.json`)
     .then(response => response.json())
     .then(data => {
       const title = document.getElementById("head_title");
@@ -66,7 +66,7 @@ function loadJSON(filename) {
 } 
 
 function JSON_attractions(filename) {
-  fetch(`${filename}.json`)
+  fetch(`JSON_data/${filename}.json`)
   .then(response => response.json())
   .then(data => {
     const attractions = data.attractions.attractions_card;
@@ -92,7 +92,7 @@ function JSON_attractions(filename) {
 }
 
 function JSON_foods(filename) {
-  fetch(`${filename}.json`)
+  fetch(`JSON_data/${filename}.json`)
   .then(response => response.json())
   .then(data => {
     const foods = data.foods.food_card;
@@ -118,7 +118,7 @@ function JSON_foods(filename) {
 }
 
 function JSON_hotels(filename) {
-  fetch(`${filename}.json`)
+  fetch(`JSON_data/${filename}.json`)
   .then(response => response.json())
   .then(data => {
     const hotels = data.hotels.hotels_card;
@@ -144,7 +144,7 @@ function JSON_hotels(filename) {
 }
 
 function JSON_transport(filename) {
-  fetch(`${filename}.json`)
+  fetch(`JSON_data/${filename}.json`)
   .then(response => response.json())
   .then(data => {
     const transport = data.transport.transport_card;

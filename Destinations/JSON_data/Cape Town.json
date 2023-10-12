@@ -1,0 +1,107 @@
+{
+    "hero": {
+      "img": "https://wallpapercave.com/dwp2x/wp1842994.jpg",
+      "title": "Cape Town"
+    },
+    "about": {
+      "name": "Cape Town",
+      "info_text": "Cape Town is a vibrant coastal city located in the Western Cape province of South Africa. It is known for its stunning natural beauty, including iconic landmarks such as Table Mountain and the Cape of Good Hope. Visitors can explore the city's rich history and culture, including its colonial past and the legacy of apartheid, or indulge in its world-class food and wine scene.",
+      "facts_text": "<strong>Population:</strong> 4,005,000<br><strong>Province:</strong> Western Cape<br><strong>Time Zone:</strong> South Africa Standard Time (UTC+02:00)<br><strong>Language:</strong> Afrikaans, English, Xhosa<br><strong>Currency:</strong> South African Rand (ZAR)",
+      "climate_text": "Cape Town has a Mediterranean climate with mild, wet winters and hot, dry summers. Average temperatures range from 7°C (45°F) in winter to 27°C (81°F) in summer, with plenty of sunshine throughout the year. However, visitors should be aware of occasional wind and rain during the winter months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "https://media.cntraveler.com/photos/5b742b191f8f5f5aacc37829/16:9/w_2560,c_limit/Table-Mountain_GettyImages-103891332.jpg",
+          "alt": "Table Mountain",
+          "title": "Table Mountain",
+          "description": "One of the world's most iconic natural landmarks, Table Mountain offers stunning views of Cape Town and the surrounding coastline. Visitors can take a cable car to the mountaintop, go hiking, or enjoy a picnic in the park."
+        },
+        {
+          "img": "https://www.capetown.travel/wp-content/uploads/2022/07/Cape-Point-1-e1654697675309-scaled.jpg",
+          "alt": "Cape Point",
+          "title": "Cape Point",
+          "description": "This nature reserve is home to rugged cliffs, breathtaking beaches, and a variety of wildlife. Visitors can hike to the lighthouse for stunning views of the ocean and the surrounding landscape, or explore the park's hiking trails and beaches."
+        },
+        {
+          "img": "https://www.tripsavvy.com/thmb/HjmUlkA9tL6mdwmmfFbJWtyafeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-476602073-aacbdf65339e40ffa343ad2bdcc4357a.jpg",
+          "alt": "V&A Waterfront",
+          "title": "V&A Waterfront",
+          "description": "This bustling waterfront precinct is home to a variety of shops, restaurants, and entertainment venues. Visitors can take a boat tour, go shopping, or enjoy a meal with views of the harbor and Table Mountain."
+        },
+        {
+          "img": "https://media.cntraveler.com/photos/53da72e4dcd5888e145b4e00/16:9/w_2560,c_limit/kirstenbosch-national-botanical-garden-cape-town-south-africa-corbin17-alamy.jpg",
+          "alt": "Kirstenbosch National Botanical Garden",
+          "title": "Kirstenbosch National Botanical Garden",
+          "description": "This beautiful botanical garden is home to a wide variety of indigenous plants, as well as several hiking trails and picnic areas. Visitors can enjoy a peaceful stroll through the gardens or attend one of the park's many events and concerts."
+        },
+        {
+          "img": "https://www.robben-island.org.za/wp-content/uploads/2022/06/island-clear-1024x664.png",
+          "alt": "Robben Island",
+          "title": "Robben Island",
+          "description": "This historic island was once used as a prison for political prisoners, including Nelson Mandela. Visitors can take a ferry to the island and explore the prison and other historic sites, as well as enjoy views of Cape Town and Table Mountain from the water."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "https://i.guim.co.uk/img/media/1358e10a1797e076e9b11e3945d08289801d14ef/0_3_5120_3074/master/5120.jpg?width=1200&quality=85&auto=format&fit=max&s=d0798d00c805254c0677b7eabc76ee45",
+          "alt": "Braai",
+          "title": "Braai",
+          "description": "Braai (barbecue) is a popular South African culinary tradition, and Cape Town has many great spots to enjoy it. Some popular options include Mzoli's Place, The Butcher Man, and Braai Shack."
+        },
+        {
+          "img": "https://media.cnn.com/api/v1/images/stellar/prod/161020165021-malay-food-2.jpg?q=w_1600,h_900,x_0,y_0,c_fill/w_1280",
+          "alt": "Cape Malay Cuisine",
+          "title": "Cape Malay Cuisine",
+          "description": "Cape Malay cuisine is a fusion of African, Indian, and European flavors and is unique to Cape Town. Some top spots to try include The Bo-Kaap Kombuis, Biesmiellah, and The Cape Malay Restaurant."
+        },
+        {
+          "img": "https://www.capetown.travel/wp-content/uploads/2022/07/Man_drinking_craft_beer_cape_town-e1485441419663-1.jpg",
+          "alt": "Craft Beer",
+          "title": "Craft Beer",
+          "description": "Cape Town also has a thriving craft beer scene, with a variety of local breweries and taprooms. Some popular options include Devil's Peak Brewing Company, Drifter Brewing Company, and Woodstock Brewery."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171342255.jpg?k=9918d2574dc90e16c12491f195f6c842abb07e59083930a4b2554f3a5a24a87a&o=&hp=1",
+          "alt": "Belmond Mount Nelson Hotel",
+          "title": "Belmond Mount Nelson Hotel",
+          "description": "This iconic pink hotel is located in the heart of Cape Town and offers luxurious rooms and suites, a spa, and multiple dining options."
+        },
+        {
+          "img": "https://cdn.kiwicollection.com/media/property/PR006358/xl/006358-Spa%20Island%20copy.jpg?cb=1534892796",
+          "alt": "One&Only Cape Town",
+          "title": "One&Only Cape Town",
+          "description": "This waterfront hotel offers stunning views of Table Mountain and luxurious rooms and suites with high-end amenities. Guests can also enjoy the on-site spa, fitness center, and multiple dining options."
+        },
+        {
+          "img": "https://cdn.kiwicollection.com/media/property/PR100380/xl/100380-family-suite-bedroom.jpg?cb=1512759461",
+          "alt": "The Silo Hotel",
+          "title": "The Silo Hotel",
+          "description": "This stylish hotel is located in a former grain silo and offers unique rooms and suites with stunning views of the city and harbor. Amenities include a rooftop bar, spa, and multiple dining options."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "https://secretcapetown.co.za/wp-content/uploads/2019/10/Secret-Cape-TownMyCiTi-Bus-Routes.jpg",
+          "alt": "MyCiti Bus",
+          "title": "MyCiti Bus",
+          "description": "The MyCiti Bus is Cape Town's rapid transit system, providing quick and convenient access to key destinations around the city. Tickets can be purchased at stations or through the mobile app."
+        },
+        {
+          "img": "https://ubernewsroomapi.10upcdn.com/wp-content/uploads/sites/211/2016/11/maps.jpg",
+          "alt": "Uber",
+          "title": "Uber",
+          "description": "Uber is widely available in Cape Town and offers a convenient way to get around the city. Users can easily request a ride through the mobile app."
+        }
+      ]
+    }
+  }
+  

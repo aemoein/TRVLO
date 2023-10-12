@@ -34,13 +34,6 @@
             "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
             "link": "Destinations/Japan/Tokyo.html"
         },
-
-        {
-            "name": "Sibiu",
-            "category": "Romania",
-            "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg",
-            "link": "Destinations/Europe/Sibiu.html"
-        },
         
         {
             "name": "Amsterdam",
@@ -109,7 +102,7 @@
             "name": "Barcelona",
             "category": "Spain",
             "image": "https://wallpaperaccess.com/full/1127205.jpg",
-            "link": "Destinations/Spain/Barcelona.html"
+            "link": "Destinations/city.html"
         },
 
         {
@@ -151,7 +144,7 @@
             "name": "Vancouver",
             "category": "Canada",
             "image": "https://lp-cms-production.imgix.net/2021-04/GettyRF_1124659884.jpg",
-            "link": "Destinations/Canada/Vancouver.html"
+            "link": "Destinations/city.html"
         },
 
         {
@@ -224,7 +217,7 @@
             "name": "Munich",
             "category": "Germany",
             "image": "https://res.cloudinary.com/odysseytraveller/image/fetch/f_auto,q_auto,dpr_auto,r_4,w_765,h_535.5,c_limit/https://cdn.odysseytraveller.com/app/uploads/2020/02/Old-Town-Hall-at-Marienplatz-Square-Munich-Germany-GettyImages-1173484118.jpg",
-            "link": "/Destinations/Germany/City.html"
+            "link": "/Destinations/city.html"
         },
         {
             "name": "Seville",
@@ -347,7 +340,7 @@
             "name": "Berlin",
             "category": "Germany",
             "image": "https://images6.alphacoders.com/369/thumb-1920-369567.jpg",
-            "link": "/Destinations/Germany/City.html"
+            "link": "/Destinations/city.html"
         },
 
         {
@@ -390,6 +383,13 @@
             "category": "Canada",
             "image": "https://wallpaperaccess.com/full/1609678.jpg",
             "link": "Destinations/Canada/lakeLouiseAL.html"
+        },
+
+        {
+            "name": "Sibiu",
+            "category": "Romania",
+            "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg",
+            "link": "Destinations/Europe/Sibiu.html"
         },
         
         {

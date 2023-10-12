@@ -1,0 +1,100 @@
+{
+    "hero": {
+      "img": "X",
+      "title": "Bali"
+    },
+    "about": {
+      "name": "Bali",
+      "info_text": "Bali is a beautiful island located in Indonesia, known for its pristine beaches, crystal-clear waters, and stunning landscapes. It is a popular destination for travelers seeking a tropical paradise with a unique culture and vibrant nightlife. Visitors to Bali can explore ancient temples, hike through lush jungles, surf world-renowned waves, or simply relax on the beach. Bali's warm climate and friendly locals make it an ideal destination for any traveler.",
+      "facts_text": "<strong>Population:</strong> 4.3 million<br><strong>Language:</strong> Indonesian, Balinese<br><strong>Currency:</strong> Indonesian Rupiah (IDR)<br><strong>Time Zone:</strong> UTC+08:00<br><strong>International Dialing Code:</strong> +62",
+      "climate_text": "Bali has a tropical climate with warm temperatures year-round. The rainy season lasts from October to March, with the most rain falling in December and January. The dry season is from April to September, with lower humidity and less rainfall. The best time to visit Bali is during the dry season, when the weather is sunny and the beaches are perfect for swimming and water activities."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "X",
+          "alt": "Ubud Monkey Forest",
+          "title": "Ubud Monkey Forest",
+          "description": "A nature reserve and temple complex in Ubud that's home to hundreds of macaques. Visitors can stroll through lush greenery and marvel at the intricate stone carvings and architecture of the temples."
+        },
+        {
+          "img": "X",
+          "alt": "Tegalalang Rice Terraces",
+          "title": "Tegalalang Rice Terraces",
+          "description": "A UNESCO World Heritage Site located north of Ubud, known for its stunning terraced rice paddies that offer sweeping views of the lush green landscape. Visitors can take a leisurely hike or bike ride through the area and soak up the natural beauty."
+        },
+        {
+          "img": "X",
+          "alt": "Tanah Lot Temple",
+          "title": "Tanah Lot Temple",
+          "description": "A Hindu temple situated on a rocky outcrop in the sea, offering panoramic views of the coastline and spectacular sunsets. Visitors can explore the temple grounds and enjoy the peaceful atmosphere."
+        },
+        {
+          "img": "X",
+          "alt": "Uluwatu Temple",
+          "title": "Uluwatu Temple",
+          "description": "A Balinese sea temple located atop a cliff, offering breathtaking views of the Indian Ocean. Visitors can watch traditional dance performances and explore the surrounding area."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "X",
+          "alt": "Nasi Goreng",
+          "title": "Nasi Goreng",
+          "description": "Nasi Goreng is a traditional Indonesian fried rice dish that is a staple in Bali. Some of the best places to try Nasi Goreng in Bali are Warung Nasi Ayam Bu Oki, Warung Taman Bambu, and Warung Mak Beng."
+        },
+        {
+          "img": "X",
+          "alt": "Satay",
+          "title": "Satay",
+          "description": "Satay is a popular Indonesian street food that consists of grilled meat on skewers. Bali has many great places to try satay, such as Warung Babi Guling Pak Malen, Warung Rindu, and Warung Eny."
+        },
+        {
+          "img": "X",
+          "alt": "Bintang Beer",
+          "title": "Bintang Beer",
+          "description": "Bintang Beer is Bali's most popular local beer, and it's the perfect drink to enjoy on a hot day. You can find Bintang Beer at most bars and restaurants throughout the island."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "X",
+          "alt": "X",
+          "title": "Hotel Name",
+          "description": "Description of the hotel and its amenities."
+        },
+        {
+          "img": "X",
+          "alt": "X",
+          "title": "Hotel Name",
+          "description": "Description of the hotel and its amenities."
+        },
+        {
+          "img": "X",
+          "alt": "X",
+          "title": "Hotel Name",
+          "description": "Description of the hotel and its amenities."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "X",
+          "alt": "Scooter",
+          "title": "Scooter",
+          "description": "Scooters are the most popular way to get around Bali. You can rent them for a low price, and they're a convenient way to explore the island at your own pace."
+        },
+        {
+          "img": "X",
+          "alt": "Bluebird Taxi",
+          "title": "Bluebird Taxi",
+          "description": "Bluebird is a reliable taxi service that operates throughout Bali. You can easily hail a Bluebird taxi on the street or use their mobile app to book a ride."
+        }
+      ]
+    }
+  }         
