@@ -72,14 +72,14 @@ window.onload=function(){
         const listItem = document.createElement('section');
         listItem.classList.add('card');
         listItem.innerHTML = `
-        <div class="card__img" style="background-image: url('${city.image}')"></div>
-        <a href="${city.link}" class="card_link">
-          <div class="card__img--hover" style="background-image: url('${city.image}')"></div>
-        </a>
-        <div class="card__info">
-          <span class="card__category">${city.category}</span>
-          <h3 class="card__title">${city.name}</h3>
-        </div>
+          <div class="card__img" style="background-image: url('${city.image}')"></div>
+          <a href="${city.link}?cityName=${city.name}" class="card_link">
+            <div class="card__img--hover" style="background-image: url('${city.image}')"></div>
+          </a>
+          <div class="card__info">
+            <span class="card__category">${city.category}</span>
+            <h3 class="card__title">${city.name}</h3>
+          </div>
       `;
         cityList.appendChild(listItem);
       }

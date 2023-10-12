@@ -2,154 +2,51 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-     
-    <title>Barcelona Travel Guide</title>
+    <title id="head_title"></title>
     <link rel="stylesheet" href="../city.css">
+    <script src="../city.js"></script>
   </head>
 
-    <section class="hero" id="hero">
-        <style>
-            #hero {
-              background-image: url('https://rare-gallery.com/uploads/posts/812673-Spain-Temples-Sky-Barcelona.jpg');
-            }
-            </style>
-        <div class = "logo">
-            <a href="../../index.html">Travelio</a>
-        </div>
-        
-        <header>
-        <div class = "container">
-        <nav>
-            <ul>
-            <li><a href=" ../../destination.html">DESTINATIONS</a></li>
-            <li><a href="#">POPULAR</a></li>
-            <li><a href="#">EVENTS</a></li>
-            <li><a href="#">CATEGORIES</a></li>
-            <li><a href="#">CHALLENGES</a></li>
-            </ul>
-        </nav>
-        </div>
-        </header>
-        
-        <div class = "hero-contain">
-            <h1 class = "hero-title" >Barcelona</h1>
-        </div>
-    </section>
+    <section class="hero" id="hero"></section>
 
   <body>
     <main>
-        <section id="about">
-            <div class="info">
-                <p>Barcelona is a vibrant city located on the northeast coast of Spain. It is known for its rich history, stunning architecture, and world-renowned art scene. The city boasts several UNESCO World Heritage Sites, including the famous works of architect Antoni Gaudí, such as the Sagrada Familia and Park Güell. Visitors can also explore the city's Gothic Quarter, with its winding streets and historic buildings, or relax on the beaches of Barceloneta.</p>
-            </div>
-
-            <div class="facts">
-                <h2>Quick Facts</h2>
-                <p>
-                    <strong>Population:</strong> 1,620,343<br>
-                    <strong>Autonomous Community:</strong> Catalonia<br>
-                    <strong>Time Zone:</strong> Central European Time (UTC+01:00)<br>
-                    <strong>Language:</strong> Catalan, Spanish<br>
-                    <strong>Currency:</strong> Euro (EUR)
-                </p>
-            </div>
-            
-            <div class="climate">
-                <h2>Climate</h2>
-                <p>Barcelona has a Mediterranean climate with mild, wet winters and hot, dry summers. Average temperatures range from 10°C (50°F) in winter to 26°C (79°F) in summer, with plenty of sunshine throughout the year. However, visitors should be aware of occasional thunderstorms and heavy rain during the summer months.</p>
-            </div>
-        </section>
-
+        <section id="about"></section>
 
         <section id="attractions">
             <h2>Top Attractions</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="https://rare-gallery.com/uploads/posts/812673-Spain-Temples-Sky-Barcelona.jpg" alt="Sagrada Familia">
-                    <h3>Sagrada Familia</h3>
-                    <p>Designed by famed architect Antoni Gaudi, this stunning basilica has been under construction since 1882 and is still not complete. Visitors can explore the interior of the church and marvel at the intricate details and vibrant stained glass windows.</p>
-                </div>
-                <div class="card">
-                    <img src="https://cdn.kastatic.org/ka-perseus-images/e5cab28b0fe01050e8b992c7223f8db44846559d.jpg" alt="Park Guell">
-                    <h3>Park Guell</h3>
-                    <p>Another creation of Gaudi, this park features whimsical sculptures, mosaics, and architecture set against stunning views of the city. Visitors can stroll through the gardens, relax on the colorful tiled benches, and enjoy the vibrant atmosphere.</p>
-                </div>
-                <div class="card">
-                    <img src="https://i0.wp.com/tiqets-cdn.s3.eu-west-1.amazonaws.com/wordpress/blog/wp-content/uploads/2022/08/11191347/CB3.jpeg?fit=1370%2C904&ssl=1" alt="Casa Batllo">
-                    <h3>Casa Batllo</h3>
-                    <p>One of Gaudi's most famous works, this modernist building is characterized by its colorful tiled facade and undulating lines. Visitors can take a tour of the interior to see more of Gaudi's unique design elements.</p>
-                </div>
-                <div class="card">
-                    <img src="https://media.cntraveler.com/photos/5a85a6cc833f8a477b94953e/16:9/w_2560,c_limit/Musee-Picasso_Fabien-Campoverde_2018_BH4A5113fab.jpg" alt="Picasso Museum">
-                    <h3>Picasso Museum</h3>
-                    <p>This museum houses one of the most extensive collections of Picasso's works in the world, showcasing his evolution as an artist from his early years to his later masterpieces. Visitors can admire the paintings, sculptures, and ceramics on display.</p>
-                </div>
-
-                <div class="card">
-                    <img src="https://www.fcbarcelona.com/photo-resources/2021/08/09/d4236e65-4502-4cca-816d-a97c441abdac/Camp-nou-1.jpg?width=1200&height=750" alt="Camp Nou">
-                    <h3>Camp Nou</h3>
-                    <p>Camp Nou is the legendary football stadium of FC Barcelona, located in the Les Corts district of Barcelona, Catalonia, Spain. With a capacity of 99,354 spectators, it is the largest stadium in Europe and one of the most iconic sports venues in the world. Visitors can take guided tours of the stadium, including the pitch, changing rooms, press rooms, and museum, where they can learn about the history of the club and see its trophies and memorabilia.</p>
-                </div>                
-            </div>
+            <div class="grid" id="attractions_grid"></div>
         </section>
 
         <section id="food">
             <h2>Food &amp; Drink</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="https://static-resources.mirai.com/wp-content/uploads/sites/1745/20210825074738/paella-en-Barcelona.jpg" alt="Paella">
-                    <h3>Paella</h3>
-                    <p>Paella is a traditional Spanish rice dish originating from Valencia, but it's widely popular in Barcelona. Some of the best places to try paella in Barcelona are Can Solé, Xiringuito Escribà, and 7 Portes.</p>
-                </div>
-                <div class="card">
-                    <img src="https://www.kkhotels.com/wp-content/uploads/2018/12/tapas-barcelona.jpg" alt="Tapas">
-                    <h3>Tapas</h3>
-                    <p>Tapas are small dishes that are usually shared among friends over drinks. Barcelona has plenty of great tapas bars to choose from, such as El Xampanyet, La Cova Fumada, and Quimet &amp; Quimet.</p>
-                </div>
-                <div class="card">
-                    <img src="https://www.barcelona-life.com/wp-content/uploads/2018/03/cava-barcelona.jpg" alt="Cava">
-                    <h3>Cava</h3>
-                    <p>Cava is a sparkling wine that's produced in Catalonia, the region where Barcelona is located. Some of the best places to enjoy cava in Barcelona are Can Paixano (La Xampanyeria), La Vinya del Senyor, and Bar Brutal.</p>
-                </div>
-            </div>
+            <div class="grid" id="food_grid"></div>
         </section>
-        
+
         <section id="hotels">
             <h2>Hotels &amp; Accommodation</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="https://media.cntraveler.com/photos/53d9b64edcd5888e14595bf4/16:9/w_1600,c_limit/majestic-hotel-spa-barcelona-barcelona-spain-107119-1.jpg" alt="Majestic Hotel &amp; Spa">
-                    <h3>Majestic Hotel &amp; Spa</h3>
-                    <p>This luxurious hotel is located in the heart of Barcelona and offers elegant rooms and suites with modern amenities. Amenities include a rooftop pool, spa, and several dining options.</p>
-                </div>
-                <div class="card">
-                    <img src="https://media.architecturaldigest.com/photos/55e79417cd709ad62e9019af/master/pass/dam-images-daily-2015-05-cotton-house-hotel-cotton-house-hotel-01.jpg" alt="Cotton House Hotel">
-                    <h3>Cotton House Hotel</h3>
-                    <p>This boutique hotel is situated in the Eixample district and offers stylish rooms and suites with vintage-inspired decor. Guests can also enjoy the on-site library, terrace, and restaurant.</p>
-                </div>
-                <div class="card">
-                    <img src="https://pix10.agoda.net/hotelImages/412766/-1/98509f27efb652008487396d7199cad8.jpg?ca=6&ce=1&s=1024x768" alt="Generator Hostel">
-                    <h3>Generator Hostel</h3>
-                    <p>This trendy hostel is located in the Gràcia neighborhood and offers dormitory and private rooms with shared bathrooms. Amenities include a bar, terrace, and game room.</p>
-                </div>
-            </div>
+            <div class="grid" id="hotels_grid"></div>
         </section>
-        
+
         <section id="transportation">
             <h2>Getting Around</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="https://www.travelguide.barcelona/wp-content/uploads/2018/06/barcelona_metro.jpg" alt="Metro">
-                    <h3>Metro</h3>
-                    <p>The metro is Barcelona's rapid transit system, providing quick and easy access to most of the city's attractions. Tickets can be purchased at stations or through the mobile app.</p>
-                </div>
-                <div class="card">
-                    <img src="https://ajuntament.barcelona.cat/bicicleta/sites/default/files/NovaEstacioBicing_NB.jpg" alt="Bicing">
-                    <h3>Bicing</h3>
-                    <p>Bicing is Barcelona's bike share program, with hundreds of bikes available for rent at various stations throughout the city. Users can sign up for a membership or purchase a day pass.</p>
-                </div>
-            </div>
+            <div class="grid" id="transport_grid"></div>
         </section>
+
+        <script>
+            // Function to get a query parameter from the URL
+            function getQueryParam(paramName) {
+                const urlParams = new URLSearchParams(window.location.search);
+                return urlParams.get(paramName);
+            }
+
+            // Get the city name from the URL
+            const cityName = getQueryParam('cityName');
+
+            if (cityName) {
+                loadJSON(cityName); // Load content for the selected city
+            }
+        </script>
     </main>
  </body>
 

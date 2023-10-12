@@ -1,0 +1,100 @@
+{
+    "hero": {
+      "img": "https://media.cntraveler.com/photos/5bd0cdde90ea376266cc61ba/3:2/w_1600%2Cc_limit/GettyImages-726793863.jpg",
+      "title": "Berlin"
+    },
+    "about": {
+      "name": "Berlin",
+      "info_text": "Berlin is a dynamic and culturally rich city located in northeastern Germany. Known for its fascinating history, art scene, and vibrant nightlife, Berlin offers a unique blend of old-world charm and modern innovation. Visitors can explore the city's many museums, galleries, and historic landmarks, or enjoy the delicious cuisine that Berlin is famous for. Whether you're looking for history, culture, or a little bit of both, Berlin has something to offer everyone.",
+      "facts_text": "<strong>Population:</strong> 3.7 million<br><strong>State:</strong> Berlin<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> German<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Berlin has a temperate oceanic climate with mild winters and warm summers. Average temperatures range from -1°C (30°F) in winter to 22°C (72°F) in summer, with plenty of sunshine and opportunities for outdoor activities during the warmer months. Be sure to bring warm clothing for winter months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Brandenburg Gate",
+          "title": "Brandenburg Gate",
+          "description": "One of the most famous landmarks in Germany, the Brandenburg Gate is a symbol of Berlin and a must-visit attraction. The gate is located in the heart of the city and is surrounded by other historic sites."
+        },
+        {
+          "img": "x",
+          "alt": "Berlin Wall",
+          "title": "Berlin Wall",
+          "description": "A symbol of the Cold War, the Berlin Wall divided the city for nearly 30 years. Today, visitors can see remnants of the wall at various locations throughout the city, including the East Side Gallery."
+        },
+        {
+          "img": "x",
+          "alt": "Museum Island",
+          "title": "Museum Island",
+          "description": "Located in the heart of Berlin, Museum Island is home to five world-renowned museums. Visitors can see ancient artifacts, art, and sculptures from all over the world."
+        },
+        {
+          "img": "x",
+          "alt": "Reichstag Building",
+          "title": "Reichstag Building",
+          "description": "The Reichstag Building is the seat of the German parliament and an iconic landmark in Berlin. Visitors can take a guided tour of the building and its impressive glass dome."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Currywurst",
+          "title": "Currywurst",
+          "description": "Currywurst is a popular German fast food consisting of pork sausage covered in curry ketchup. Some of the best places to try currywurst in Berlin are Curry 36, Konnopke's Imbiss, and Curry Mitte."
+        },
+        {
+          "img": "x",
+          "alt": "Schnitzel",
+          "title": "Schnitzel",
+          "description": "Schnitzel is a thin, breaded and fried cutlet of meat that's usually served with potatoes and vegetables. Some of the best places to try schnitzel in Berlin are Zur Haxe, Gasthaus Krombach, and Prater Garten."
+        },
+        {
+          "img": "x",
+          "alt": "Beer",
+          "title": "Beer",
+          "description": "Beer is an important part of German culture, and Berlin has plenty of great breweries and beer halls to choose from, such as BRLO, Augustiner am Gendarmenmarkt, and Prater Garten."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Adlon Kempinski",
+          "title": "Hotel Adlon Kempinski",
+          "description": "This luxurious hotel is located in the heart of Berlin, next to the Brandenburg Gate. Amenities include a spa, fitness center, and several dining options."
+        },
+        {
+          "img": "x",
+          "alt": "The Circus Hostel",
+          "title": "The Circus Hostel",
+          "description": "This trendy hostel is situated in the Mitte district and offers dormitory and private rooms with shared bathrooms. Amenities include a bar, terrace, and game room."
+        },
+        {
+          "img": "x",
+          "alt": "25hours Hotel Bikini Berlin",
+          "title": "25hours Hotel Bikini Berlin",
+          "description": "This design hotel is located near the Berlin Zoo and offers stylish rooms and suites with jungle-themed decor. Guests can also enjoy the on-site restaurant, bar, and rooftop terrace."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "U-Bahn",
+          "title": "U-Bahn",
+          "description": "The U-Bahn is Berlin's underground railway system, providing quick and easy access to most of the city's attractions. Tickets can be purchased at stations or through the mobile app."
+        },
+        {
+          "img": "x",
+          "alt": "Bike",
+          "title": "Bike",
+          "description": "Biking is a great way to explore Berlin, with several bike rental companies and bike sharing programs available throughout the city, such as Nextbike, Lidl Bike, and Call a Bike."
+        }
+      ]
+    }
+  }  
