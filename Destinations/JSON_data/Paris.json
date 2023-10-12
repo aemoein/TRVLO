@@ -1,0 +1,208 @@
+{
+    "hero": {
+      "img": "https://media.cntraveler.com/photos/5cf96a9dd9fb41f17ed08435/master/w_4000,h_2667,c_limit/Eiffel%20Tower_GettyImages-1005348968.jpg",
+      "title": "Paris"
+    },
+    "about": {
+      "name": "Paris",
+      "info_text": "Paris, the capital city of France, is one of the world's most popular tourist destinations. Known as the City of Light, Paris is famous for its stunning architecture, rich history, and art museums. Visitors can explore world-famous landmarks such as the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. Paris is also renowned for its cuisine, with a range of traditional French dishes and fine dining experiences available. Whether you're interested in art, history, culture, or food, Paris has something to offer everyone.",
+      "facts_text": "<strong>Population:</strong> 2.1 million<br><strong>Country:</strong> France<br><strong>Region:</strong> Île-de-France<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>International Dialing Code:</strong> +33",
+      "climate_text": "Paris, the capital of France, has a temperate maritime climate characterized by four distinct seasons. Summers in Paris are generally warm, with temperatures typically ranging from 15°C to 25°C (59°F to 77°F), while winters are cool, with temperatures between 3°C and 7°C (37°F to 45°F). Paris experiences moderate rainfall throughout the year, with occasional snowfall during the winter months, although it is not very common."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "https://media.cntraveler.com/photos/5d8cf7d5db6acf000833e6cc/1:1/w_1600%2Cc_limit/Eiffel-Tower_GettyImages-1060266626.jpg",
+          "alt": "Eiffel Tower",
+          "title": "Eiffel Tower",
+          "description": "The iconic Eiffel Tower is a must-see for visitors to Paris. Visitors can climb to the top for stunning views of the city, or simply admire the tower from below."
+        },
+        {
+          "img": "https://media.cntraveler.com/photos/57d961ce3e6b32bf25f5ad0f/16:9/w_2560,c_limit/most-beautiful-paris-louvre-GettyImages-536267205.jpg",
+          "alt": "Louvre Museum",
+          "title": "Louvre Museum",
+          "description": "The Louvre Museum is home to thousands of works of art, including the famous Mona Lisa. Visitors can explore the museum's galleries and exhibitions, or take a guided tour."
+        },
+        {
+          "img": "https://assets.cntraveller.in/photos/60ba1783253686a607d32284/4:3/w_1440,h_1080,c_limit/Notre-Dame-Paris.jpg",
+          "alt": "Notre-Dame Cathedral",
+          "title": "Notre-Dame Cathedral",
+          "description": "Despite suffering damage in a 2019 fire, Notre-Dame Cathedral remains a popular attraction in Paris. Visitors can admire the Gothic architecture and learn about the cathedral's history."
+        },
+        {
+          "img": "https://www.aparisguide.com/montmartre/montmarte001.jpg",
+          "alt": "Montmartre and Sacré-Cœur Basilica",
+          "title": "Montmartre and Sacré-Cœur Basilica",
+          "description": "Montmartre is a charming neighborhood in Paris known for its artistic history and hilltop views. The Sacré-Cœur Basilica is a famous landmark located at the top of the hill, offering panoramic views of the city."
+        },
+        {
+            "img": "https://cdn.britannica.com/65/114465-050-8C96BD81/Hall-of-Mirrors-ceiling-Jules-Hardouin-Mansart-Charles.jpg",
+            "alt": "Palace of Versailles",
+            "title": "Palace of Versailles",
+            "description": "The Palace of Versailles is a grandiose royal residence located just outside of Paris. Visitors can explore the opulent rooms and gardens of the palace, which was the center of political power in France during the 17th and 18th centuries."
+        },
+        {
+            "img": "https://media.cntraveler.com/photos/541c421a17e4b1f634ef1345/16:9/w_2560,c_limit/musee-dorsay-paris-france.jpg",
+            "alt": "Musée d'Orsay",
+            "title": "Musée d'Orsay",
+            "description": "The Musée d'Orsay is a renowned art museum located in a former train station in Paris. Its collection includes an impressive range of Impressionist and Post-Impressionist works, as well as decorative arts and photography."
+        },
+        {
+            "img": "https://media.cntraveler.com/photos/5a85a096c5f2863a6e7b97d5/16:9/w_2560,c_limit/Centre-Pompidou_2018_GettyImages-535471213.jpg",
+            "alt": "Centre Pompidou",
+            "title": "Centre Pompidou",
+            "description": "The Centre Pompidou is a modern art museum and cultural center in the heart of Paris. Its distinctive architecture and innovative exhibitions make it a must-visit destination for art enthusiasts."
+        },
+        {
+            "img": "https://www.roadaffair.com/wp-content/uploads/2022/09/interior-sainte-chapelle-cathedral-paris-france-shutterstock_1573148548-1024x683.jpg",
+            "alt": "Sainte-Chapelle",
+            "title": "Sainte-Chapelle",
+            "description": "Sainte-Chapelle is a stunning Gothic chapel located on the Île de la Cité in the heart of Paris. Its towering stained glass windows and intricate architecture make it a breathtaking sight to behold."
+        },
+        {
+            "img": "https://www.tripsavvy.com/thmb/UUNtD6zm6RD2P2OeemBPdsmkie8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAM_3195-d6cd587f78c44b3484a7cfdf1c0c8eab.jpg",
+            "alt": "Champs-Élysées",
+            "title": "Champs-Élysées",
+            "description": "This famous avenue is lined with shops, cafes, and theaters, and is a popular destination for shopping and dining. Visitors can also check out the Arc de Triomphe at the end of the avenue."
+        },
+        {
+            "img": "https://static1.s123-cdn-static-a.com/uploads/3086630/2000_5e4bde5c97d61.jpg",
+            "alt": "Musée de l'Orangerie",
+            "title": "Musée de l'Orangerie",
+            "description": "The Musée de l'Orangerie is an art museum located in the Tuileries Garden. It features impressionist and post-impressionist paintings, including works by Monet, Renoir, and Picasso."
+        },
+        {
+            "img": "https://www.parisperfect.com/g/photos/upload/sml_637598399-1481429696-Invalides-HERO.jpg",
+            "alt": "Les Invalides",
+            "title": "Les Invalides",
+            "description": "Les Invalides is a complex of buildings in the 7th arrondissement of Paris. It houses several museums and monuments, including the tomb of Napoleon Bonaparte."
+        },
+        {
+            "img": "X",
+            "alt": "Musée Rodin",
+            "title": "Musée Rodin",
+            "description": "The Musée Rodin is a museum dedicated to the works of the French sculptor Auguste Rodin. It features many of his sculptures, including The Thinker and The Kiss."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+            "img": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex1/merlin_184841898_ccc8fb62-ee41-44e8-9ddf-b95b198b88db-threeByTwoMediumAt2X.jpg",
+            "alt": "Croissants",
+            "title": "Croissants",
+            "description": "Croissants are a staple breakfast pastry in Paris. Some of the best places to try croissants in Paris are Pierre Hermé, Du Pain et Des Idées, and Blé Sucré."
+        },
+        {
+            "img": "https://images.immediate.co.uk/production/volatile/sites/30/2012/01/coq-au-vin-3740fe3.jpg?resize=768,574",
+            "alt": "Coq au Vin",
+            "title": "Coq au Vin",
+            "description": "Coq au Vin is a chicken dish cooked in red wine, bacon, and mushrooms. Some of the best places to try Coq au Vin in Paris are Chez L'Ami Jean, Le Comptoir du Relais, and Bistrot Paul Bert."
+        },
+        {
+            "img": "https://assets.epicurious.com/photos/57c5c1fbcf9e9ad43de2d96c/master/w_1000,h_667,c_limit/steak-frites.jpg",
+            "alt": "Steak Frites",
+            "title": "Steak Frites",
+            "description": "Steak Frites is a dish of steak served with French fries. Some of the best places to try Steak Frites in Paris are Le Relais de l'Entrecôte, Le Severo, and Le Bistrot Paul Bert."
+        },
+        {
+            "img": "https://www.budgetbytes.com/wp-content/uploads/2020/11/French-Onion-Soup-bowl.jpg",
+            "alt": "French Onion Soup",
+            "title": "French Onion Soup",
+            "description": "French Onion Soup is a hearty soup made with onions, beef broth, and cheese. Some of the best places to try French Onion Soup in Paris are Au Pied de Cochon, Les Philosophes, and Le Soufflé."
+        },
+        {
+            "img": "https://www.thespruceeats.com/thmb/hgN7KLDa3hCAznjq37Clie9Oeo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-macaron-recipe-435221-hero-01-b3680f676df64f5ab2c1e65976c0e945.jpg",
+            "alt": "Macarons",
+            "title": "Macarons",
+            "description": "Macarons are colorful and delicate French cookies with a sweet filling. Some of the best places to try macarons in Paris are Ladurée, Pierre Hermé, and Fauchon."
+        },
+        {
+            "img": "https://assets.afcdn.com/recipe/20161201/4190_w1024h768c1cx2705cy1803.jpg",
+            "alt": "Crème Brûlée",
+            "title": "Crème Brûlée",
+            "description": "Crème Brûlée is a creamy custard dessert with a caramelized sugar top. Some of the best places to try Crème Brûlée in Paris are Le Comptoir du Relais, L'Ami Jean, and Les Ombres."
+        },
+        {
+            "img": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/8-3-large.jpg?itok=fRNQugY8",
+            "alt": "Baguette",
+            "title": "Baguette",
+            "description": "Baguette is a French bread that's perfect for making sandwiches. Paris has plenty of great bakeries to choose from, such as Maison Kayser, Poilâne, and Eric Kayser."
+        },
+        {
+            "img": "https://www.thespruceeats.com/thmb/YEI_JAfLHd6fbfCYUukcW5E2TYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-cafe-au-lait-recipe-1374920-hero-01-b1463e806a7947e7b8b17979ab70eab3.jpg",
+            "alt": "Café au Lait",
+            "title": "Café au Lait",
+            "description": "Café au Lait is a popular French breakfast drink made with coffee and hot milk. It is typically served in a large bowl or mug. Some great places to try Café au Lait in Paris are Café de Flore, Les Deux Magots, and Café Bonaparte."
+        },
+        {
+            "img": "https://www.davidlebovitz.com/wp-content/uploads/2005/11/Parisian-hot-chocolate-recipe.jpg",
+            "alt": "Parisian Hot Chocolate",
+            "title": "Parisian Hot Chocolate",
+            "description": "Hot Chocolate, or chocolat chaud, is a rich and decadent drink made with melted chocolate and hot milk. Some of the best places to try Hot Chocolate in Paris are Angelina, Jacques Genin, and Un Dimanche à Paris."
+        },
+        {
+            "img": "https://static.750g.com/images/1200-630/9a8fc31da15b73d547bdb772e53c8de5/chocolat-chaud-a-l-ancienne.jpg",
+            "alt": "Chocolat Chaud à l'Ancienne",
+            "title": "Chocolat Chaud à l'Ancienne",
+            "description": "Chocolat Chaud à l'Ancienne is a traditional French hot chocolate made with dark chocolate and heavy cream. It is typically thicker and richer than regular hot chocolate. Some great places to try Chocolat Chaud à l'Ancienne in Paris are Angelina, Un Dimanche à Paris, and Jean-Paul Hévin."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+            "img": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_384_original.jpg",
+            "alt": "Four Seasons Hotel George V",
+            "title": "Four Seasons Hotel George V",
+            "description": "This luxurious hotel is located in the heart of Paris and offers elegant rooms and suites with modern amenities. Amenities include a spa, fitness center, and several dining options."
+        },
+        {
+            "img": "https://media.meer.com/attachments/ac443dfd78f8e42fb6dadc0493045de066ceb8fe/store/fill/1020/574/1f351545820c464a11c2dbd4fd455c5f45e8fcba50d462d88e5ba7ca9688/The-Ritz-Paris-facade.jpg",
+            "alt": "Ritz Paris",
+            "title": "Ritz Paris",
+            "description": "The Ritz Paris is a legendary hotel located in the heart of the city. It features opulent rooms and suites, several restaurants and bars, and a world-class spa."
+        },
+        {
+            "img": "https://www.arteliagroup.com/sites/default/files/styles/max_normal/public/2017-10/f75_paris_hotel_crillon_1.jpg?itok=dnDLS-Ef",
+            "alt": "Hôtel de Crillon, A Rosewood Hotel",
+            "title": "Hôtel de Crillon, A Rosewood Hotel",
+            "description": "Hôtel de Crillon, A Rosewood Hotel is a historic hotel that has been beautifully restored and modernized. It offers luxurious rooms and suites, several dining options, and a spa."
+        },
+        {
+            "img": "https://media.vanityfair.com/photos/630738173d533aaa826e0dd5/master/w_2560%2Cc_limit/paris-exterior-rue-saint-honore-2.jpg",
+            "alt": "Mandarin Oriental, Paris",
+            "title": "Mandarin Oriental, Paris",
+            "description": "Mandarin Oriental, Paris is a five-star hotel located in the fashionable 1st arrondissement. It offers stylish rooms and suites, an excellent restaurant, and a world-class spa."
+        },
+        {
+            "img": "https://cdn.sortiraparis.com/images/80/1404/64551-brasserie-du-lutetia-restaurant.jpg",
+            "alt": "Hotel Lutetia",
+            "title": "Hotel Lutetia",
+            "description": "This historic hotel is situated in the Saint-Germain-des-Prés neighborhood and offers stylish rooms and suites with Art Deco decor. Guests can also enjoy the on-site spa, fitness center, and restaurant."
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335932617.jpg?k=9ba1432f2727fdadadb1178cc9ae6ae6ceabededc9b6284b4d0678a752f7b405&o=&hp=1",
+            "alt": "Generator Hostel",
+            "title": "Generator Hostel",
+            "description": "This trendy hostel is located in the 10th arrondissement and offers dormitory and private rooms with shared bathrooms. Amenities include a bar, terrace, and game room."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/141012_Paris_Stalingrad_IMG_5848.JPG",
+            "alt": "Métro de Paris",
+            "title": "Métro de Paris",
+            "description": "The metro is Paris's rapid transit system, providing quick and easy access to most of the city's attractions. Tickets can be purchased at stations or through the mobile app."
+        },
+        {
+            "img": "https://i0.wp.com/secretsofparis.com/wp-content/uploads/2019/11/bikes.jpg?resize=990%2C556&ssl=1",
+            "alt": "Vélib'",
+            "title": "Vélib'",
+            "description": "Vélib' is Paris's bike share program, with thousands of bikes available for rent at various stations throughout the city. Users can sign up for a membership or purchase a day pass."
+        }
+      ]
+    }
+  }         

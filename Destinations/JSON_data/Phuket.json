@@ -1,152 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-     
-    <title>Phuket Travel Guide</title>
-    <link rel="stylesheet" href="../city.css">
-  </head>
-
-    <section class="hero" id="hero">
-        <style>
-            #hero {
-              background-image: url('https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg');
-            }
-            </style>
-        <div class = "logo">
-            <a href="../../index.html">Travelio</a>
-        </div>
-        
-        <header>
-        <div class = "container">
-        <nav>
-            <ul>
-            <li><a href=" ../../destination.html">DESTINATIONS</a></li>
-            <li><a href="#">POPULAR</a></li>
-            <li><a href="#">EVENTS</a></li>
-            <li><a href="#">CATEGORIES</a></li>
-            <li><a href="#">CHALLENGES</a></li>
-            </ul>
-        </nav>
-        </div>
-        </header>
-        
-        <div class = "hero-contain">
-            <h1 class = "hero-title" >Phuket</h1>
-        </div>
-    </section>
-
-  <body>
-    <main>
-        <section id="about">
-            <div class="info">
-                <p>Phuket is a beautiful island located in the south of Thailand. Known for its stunning beaches, crystal clear waters, and delicious cuisine, it is a popular destination for tourists from all over the world. Visitors can enjoy a variety of activities, from relaxing on the beach to exploring the island's natural beauty and cultural heritage. The city is also home to a bustling nightlife scene, with numerous bars, nightclubs, and restaurants to choose from.</p>
-            </div>
-        
-            <div class="facts">
-                <h2>Quick Facts</h2>
-                <p>
-                    <strong>Population:</strong> 416,582<br>
-                    <strong>Province:</strong> Phuket<br>
-                    <strong>Time Zone:</strong> Indochina Time (UTC+07:00)<br>
-                    <strong>Language:</strong> Thai<br>
-                    <strong>Currency:</strong> Thai baht (THB)
-                </p> 
-            </div>
-        
-            <div class="climate">
-                <h2>Climate</h2>
-                <p>Phuket has a tropical monsoon climate with high temperatures and high humidity year-round. The rainy season lasts from May to October, with the heaviest rainfall in September and October. The dry season runs from November to April, with the hottest months being March and April. Visitors should pack light, comfortable clothing and be prepared for occasional rain showers.</p>
-            </div>
-        </section>        
-
-        <section id="attractions">
-            <h2>Top Attractions</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="Beaches">
-                    <h3>Beaches</h3>
-                    <p>Phuket is renowned for its beautiful beaches, which offer crystal-clear waters, white sand, and stunning views. Some of the top beaches to visit include Patong Beach, Karon Beach, and Kata Beach.</p>
-                </div>
-        
-                <div class="card">
-                    <img src="x" alt="Big Buddha">
-                    <h3>Big Buddha</h3>
-                    <p>This 45-meter-tall statue of Buddha is one of the most popular attractions in Phuket. Visitors can climb the stairs to the top of the statue and enjoy panoramic views of the island.</p>
-                </div>
-        
-                <div class="card">
-                    <img src="x" alt="Phang Nga Bay">
-                    <h3>Phang Nga Bay</h3>
-                    <p>This stunning bay is known for its limestone cliffs, emerald-green waters, and picturesque islands. Visitors can take a boat tour of the bay and explore its many caves, lagoons, and secluded beaches.</p>
-                </div>
-        
-                <div class="card">
-                    <img src="x" alt="Old Phuket Town">
-                    <h3>Old Phuket Town</h3>
-                    <p>This historic neighborhood is filled with charming Sino-Portuguese architecture, colorful shophouses, and street art. Visitors can explore its many boutiques, cafes, and galleries, and learn about the island's rich cultural heritage.</p>
-                </div>
-            </div>
-        </section>
-        
-        <section id="food">
-            <h2>Food &amp; Drink</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="Pad Thai">
-                    <h3>Pad Thai</h3>
-                    <p>Pad Thai is a stir-fried noodle dish that is popular in Thailand, including Phuket. Some of the best places to try Pad Thai in Phuket are Pad Thai Shop, Pad Thai Baan Nern Khao, and Pad Thai Thip Samai.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Tom Yum Goong">
-                    <h3>Tom Yum Goong</h3>
-                    <p>Tom Yum Goong is a spicy and sour soup that is often served with prawns. It is a popular dish in Thailand, and some of the best places to try it in Phuket are Krua Thai, Kan Eang @ Pier, and Laem Hin Seafood.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Thai Iced Tea">
-                    <h3>Thai Iced Tea</h3>
-                    <p>Thai Iced Tea is a sweet and creamy drink made with black tea, condensed milk, and sugar. It is a refreshing beverage to enjoy in the hot climate of Phuket, and some of the best places to try it are Cha Tra Mue, Naiharn Coffee, and Yentafo Convent.</p>
-                </div>
-            </div>
-        </section>
-        
-        <section id="hotels">
-            <h2>Hotels &amp; Accommodation</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="Trisara Phuket">
-                    <h3>Trisara Phuket</h3>
-                    <p>Trisara Phuket is a luxurious resort located on the northwest coast of Phuket. It offers spacious villas and suites with private pools, ocean views, and modern amenities. Amenities include a spa, beach club, and several dining options.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="The Surin Phuket">
-                    <h3>The Surin Phuket</h3>
-                    <p>The Surin Phuket is a beachfront resort located on the west coast of Phuket. It offers elegant rooms and suites with traditional Thai decor and modern amenities. Amenities include a spa, beach club, and several dining options.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Hostel Our Nomad">
-                    <h3>Hostel Our Nomad</h3>
-                    <p>Hostel Our Nomad is a budget-friendly hostel located in the heart of Phuket Town. It offers dormitory and private rooms with shared bathrooms. Amenities include a common area, kitchen, and laundry facilities.</p>
-                </div>
-            </div>
-        </section>
-        
-        <section id="transportation">
-            <h2>Getting Around</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="Songthaew">
-                    <h3>Songthaew</h3>
-                    <p>Songthaew is a shared taxi truck that is a popular mode</p>
-                </div>
-            </div>
-        </section>
-    </main>
- </body>
-
- <section class="subtitle3">
-    <h2>TRAVELIO</h2>
-    <h3>DISCOVER THE SHADES</h3> 
-    <h4>OF THE WORLD</h4>
-  </section>
-</html>
+{
+    "hero": {
+      "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
+      "title": "Phuket"
+    },
+    "about": {
+      "name": "Phuket",
+      "info_text": "Phuket is a beautiful island located in the south of Thailand. Known for its stunning beaches, crystal clear waters, and delicious cuisine, it is a popular destination for tourists from all over the world. Visitors can enjoy a variety of activities, from relaxing on the beach to exploring the island's natural beauty and cultural heritage. The city is also home to a bustling nightlife scene, with numerous bars, nightclubs, and restaurants to choose from.",
+      "facts_text": "<strong>Population:</strong> 416,582<br><strong>Province:</strong> Phuket<br><strong>Time Zone:</strong> Indochina Time (UTC+07:00)<br><strong>Language:</strong> Thai<br><strong>Currency:</strong> Thai baht (THB)",
+      "climate_text": "Phuket has a tropical monsoon climate with high temperatures and high humidity year-round. The rainy season lasts from May to October, with the heaviest rainfall in September and October. The dry season runs from November to April, with the hottest months being March and April. Visitors should pack light, comfortable clothing and be prepared for occasional rain showers."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Beaches",
+          "title": "Beaches",
+          "description": "Phuket is renowned for its beautiful beaches, which offer crystal-clear waters, white sand, and stunning views. Some of the top beaches to visit include Patong Beach, Karon Beach, and Kata Beach."
+        },
+        {
+          "img": "x",
+          "alt": "Big Buddha",
+          "title": "Big Buddha",
+          "description": "This 45-meter-tall statue of Buddha is one of the most popular attractions in Phuket. Visitors can climb the stairs to the top of the statue and enjoy panoramic views of the island."
+        },
+        {
+          "img": "x",
+          "alt": "Phang Nga Bay",
+          "title": "Phang Nga Bay",
+          "description": "This stunning bay is known for its limestone cliffs, emerald-green waters, and picturesque islands. Visitors can take a boat tour of the bay and explore its many caves, lagoons, and secluded beaches."
+        },
+        {
+          "img": "x",
+          "alt": "Old Phuket Town",
+          "title": "Old Phuket Town",
+          "description": "This historic neighborhood is filled with charming Sino-Portuguese architecture, colorful shophouses, and street art. Visitors can explore its many boutiques, cafes, and galleries and learn about the island's rich cultural heritage."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Pad Thai",
+          "title": "Pad Thai",
+          "description": "Pad Thai is a stir-fried noodle dish that is popular in Thailand, including Phuket. Some of the best places to try Pad Thai in Phuket are Pad Thai Shop, Pad Thai Baan Nern Khao, and Pad Thai Thip Samai."
+        },
+        {
+          "img": "x",
+          "alt": "Tom Yum Goong",
+          "title": "Tom Yum Goong",
+          "description": "Tom Yum Goong is a spicy and sour soup that is often served with prawns. It is a popular dish in Thailand, and some of the best places to try it in Phuket are Krua Thai, Kan Eang @ Pier, and Laem Hin Seafood."
+        },
+        {
+          "img": "x",
+          "alt": "Thai Iced Tea",
+          "title": "Thai Iced Tea",
+          "description": "Thai Iced Tea is a sweet and creamy drink made with black tea, condensed milk, and sugar. It is a refreshing beverage to enjoy in the hot climate of Phuket, and some of the best places to try it are Cha Tra Mue, Naiharn Coffee, and Yentafo Convent."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Trisara Phuket",
+          "title": "Trisara Phuket",
+          "description": "Trisara Phuket is a luxurious resort located on the northwest coast of Phuket. It offers spacious villas and suites with private pools, ocean views, and modern amenities. Amenities include a spa, beach club, and several dining options."
+        },
+        {
+          "img": "x",
+          "alt": "The Surin Phuket",
+          "title": "The Surin Phuket",
+          "description": "The Surin Phuket is a beachfront resort located on the west coast of Phuket. It offers elegant rooms and suites with traditional Thai decor and modern amenities. Amenities include a spa, beach club, and several dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Hostel Our Nomad",
+          "title": "Hostel Our Nomad",
+          "description": "Hostel Our Nomad is a budget-friendly hostel located in the heart of Phuket Town. It offers dormitory and private rooms with shared bathrooms. Amenities include a common area, kitchen, and laundry facilities."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Songthaew",
+          "title": "Songthaew",
+          "description": "Songthaew is a shared taxi truck that is a popular mode of transportation in Phuket."
+        }
+      ]
+    }
+  }  

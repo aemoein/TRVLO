@@ -1,0 +1,99 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Cannes"
+    },
+    "about": {
+      "name": "Cannes",
+      "info_text": "Cannes is a glamorous city on the French Riviera known for its beautiful beaches, luxurious resorts, and the world-famous Cannes Film Festival. With its stunning Mediterranean coastline, vibrant nightlife, and upscale shopping, Cannes is a playground for the rich and famous. Visitors can explore the historic old town, relax on sandy beaches, and enjoy exquisite dining and entertainment.",
+      "facts_text": "<strong>Population:</strong> Approximately 75,000<br><strong>Country:</strong> France<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)"
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Promenade de la Croisette",
+          "title": "Promenade de la Croisette",
+          "description": "Stroll along the iconic Promenade de la Croisette, a waterfront boulevard lined with palm trees and luxury hotels."
+        },
+        {
+          "img": "x",
+          "alt": "Cannes Film Festival",
+          "title": "Cannes Film Festival",
+          "description": "Experience the glitz and glamour of the Cannes Film Festival, where international cinema takes the spotlight."
+        },
+        {
+          "img": "x",
+          "alt": "Le Suquet (Old Town)",
+          "title": "Le Suquet (Old Town)",
+          "description": "Explore Le Suquet, the charming old town of Cannes, with its cobbled streets, historic buildings, and panoramic views."
+        },
+        {
+          "img": "x",
+          "alt": "Île Saint-Honorat",
+          "title": "Île Saint-Honorat",
+          "description": "Take a boat trip to Île Saint-Honorat, a tranquil island with a medieval monastery and natural beauty."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Bouillabaisse",
+          "title": "Bouillabaisse",
+          "description": "Indulge in Bouillabaisse, a traditional Provençal fish stew, served in many of Cannes' seafood restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Socca",
+          "title": "Socca",
+          "description": "Try Socca, a savory chickpea flour pancake, often found in the markets of Cannes."
+        },
+        {
+          "img": "x",
+          "alt": "Salade Niçoise",
+          "title": "Salade Niçoise",
+          "description": "Enjoy a classic Salade Niçoise, a salad featuring tuna, olives, anchovies, and fresh vegetables."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Barrière Le Majestic",
+          "title": "Hotel Barrière Le Majestic",
+          "description": "Experience luxury at Hotel Barrière Le Majestic, a renowned 5-star hotel with stunning sea views."
+        },
+        {
+          "img": "x",
+          "alt": "InterContinental Carlton Cannes",
+          "title": "InterContinental Carlton Cannes",
+          "description": "Stay at the historic InterContinental Carlton Cannes, a grand hotel on the Croisette."
+        },
+        {
+          "img": "x",
+          "alt": "Hôtel Martinez",
+          "title": "Hôtel Martinez",
+          "description": "Relax at Hôtel Martinez, another prestigious 5-star hotel known for its elegance and comfort."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Cannes Railway Station",
+          "title": "Cannes Railway Station",
+          "description": "Arrive in Cannes via the Cannes Railway Station, providing connections to other cities along the French Riviera."
+        },
+        {
+          "img": "x",
+          "alt": "Cannes Buses",
+          "title": "Cannes Buses",
+          "description": "Use the Cannes bus network for convenient transportation within the city and its surrounding areas."
+        }
+      ]
+    }
+  }  

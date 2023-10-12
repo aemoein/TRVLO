@@ -1,150 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-     
-    <title>Marrakech Travel Guide</title>
-    <link rel="stylesheet" href="../city.css">
-  </head>
-
-    <section class="hero" id="hero">
-        <style>
-            #hero {
-              background-image: url('https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg');
-            }
-            </style>
-        <div class = "logo">
-            <a href="../../index.html">Travelio</a>
-        </div>
-        
-        <header>
-        <div class = "container">
-        <nav>
-            <ul>
-            <li><a href=" ../../destination.html">DESTINATIONS</a></li>
-            <li><a href="#">POPULAR</a></li>
-            <li><a href="#">EVENTS</a></li>
-            <li><a href="#">CATEGORIES</a></li>
-            <li><a href="#">CHALLENGES</a></li>
-            </ul>
-        </nav>
-        </div>
-        </header>
-        
-        <div class = "hero-contain">
-            <h1 class = "hero-title" >Marrakech</h1>
-        </div>
-    </section>
-
-  <body>
-    <main>
-        <section id="about">
-            <div class="info">
-                <p>Marrakech is a vibrant and bustling city located in the heart of Morocco. Known for its rich history, stunning architecture, and vibrant culture, Marrakech is a must-visit destination for any traveler. Visitors can explore the winding alleyways of the old Medina, sample traditional Moroccan cuisine, and marvel at the city's stunning landmarks, such as the Koutoubia Mosque and the Bahia Palace. Whether you're interested in history, culture, or just soaking up the lively atmosphere, Marrakech has something to offer everyone.</p>
-            </div>
-
-            <div class="facts">
-                <h2>Quick Facts</h2>
-                    
-                    <p>
-                        <strong>Population:</strong> 928,850<br>
-                        <strong>Region:</strong> Marrakech-Safi<br>
-                        <strong>Time Zone:</strong> Western European Time (UTC+01:00)<br>
-                        <strong>Language:</strong> Arabic, French<br>
-                        <strong>Currency:</strong> Moroccan dirham (MAD)
-                    </p> 
-            </div>
-    
-            <div class="climate">
-                <h2>Climate</h2>
-                <p>Marrakech has a hot, dry climate with very little rainfall throughout the year. Average temperatures range from 12°C (54°F) in winter to 38°C (100°F) in summer, making it a great destination for sun-seekers. However, the heat can be intense during the summer months, so be sure to stay hydrated and seek shade during the hottest parts of the day.</p>
-            </div>
-        </section>    
-
-        <section id="attractions">
-            <h2>Top Attractions</h2>
-            <div class="grid">
-              <div class="card">
-                <img src="x" alt="Jemaa el-Fnaa">
-                <h3>Jemaa el-Fnaa</h3>
-                <p>Jemaa el-Fnaa is a lively square in the heart of Marrakesh's old city, surrounded by cafes, food stalls, and shops. Visitors can witness snake charmers, acrobats, and musicians, or sample traditional Moroccan cuisine at one of the many street food vendors.</p>
-              </div>
-              <div class="card">
-                <img src="x" alt="Bahia Palace">
-                <h3>Bahia Palace</h3>
-                <p>This ornate palace was built in the late 19th century for a wealthy Moroccan nobleman and features beautiful gardens, intricate tilework, and detailed woodcarvings. Visitors can take a guided tour to learn more about the history and architecture of the palace.</p>
-              </div>
-              <div class="card">
-                <img src="x" alt="Koutoubia Mosque">
-                <h3>Koutoubia Mosque</h3>
-                <p>The Koutoubia Mosque is one of the most recognizable landmarks in Marrakesh, with its distinctive minaret towering over the city skyline. Visitors can admire the mosque's intricate architecture and learn about its importance in Moroccan history and culture.</p>
-              </div>
-              <div class="card">
-                <img src="x" alt="Saadian Tombs">
-                <h3>Saadian Tombs</h3>
-                <p>The Saadian Tombs are a collection of ornate mausoleums dating back to the 16th century, located in the Kasbah district of Marrakesh. Visitors can explore the intricate tilework and carvings of the tombs, which were rediscovered in the early 20th century after being sealed up for centuries.</p>
-              </div>
-            </div>
-          </section>          
-
-          <section id="food">
-            <h2>Food &amp; Drink</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="Tagine">
-                    <h3>Tagine</h3>
-                    <p>Tagine is a traditional Moroccan dish named after the earthenware pot it's cooked in. It typically consists of meat or fish, vegetables, and spices like saffron, cinnamon, and cumin. Some of the best places to try tagine in Marrakesh are Le Foundouk, Dar Moha, and La Maison Arabe.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Couscous">
-                    <h3>Couscous</h3>
-                    <p>Couscous is a staple food in North African cuisine and is often served with meat, vegetables, and a spicy sauce. In Marrakesh, you can try couscous at restaurants like Le Jardin, Le Tanjia, and Dar Yacout.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Mint Tea">
-                    <h3>Mint Tea</h3>
-                    <p>Mint tea, also known as Moroccan tea, is a popular drink in Marrakesh and throughout Morocco. It's made with green tea, fresh mint leaves, and sugar, and is usually served in small glasses. Some great places to enjoy mint tea in Marrakesh are Café de France, La Mamounia, and Le Jardin Secret.</p>
-                </div>
-            </div>
-        </section>
-        
-        <section id="hotels">
-            <h2>Hotels &amp; Accommodation</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="La Mamounia">
-                    <h3>La Mamounia</h3>
-                    <p>This iconic 5-star hotel is located in the heart of Marrakesh and features lush gardens, luxurious rooms and suites, several restaurants and bars, a spa, and a pool.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Riad Kniza">
-                    <h3>Riad Kniza</h3>
-                    <p>This charming riad is situated in the historic Medina and offers elegant rooms and suites, a rooftop terrace, a courtyard with a fountain, and a hammam.</p>
-                </div>
-                <div class="card">
-                    <img src="x" alt="Les Jardins de la Koutoubia">
-                    <h3>Les Jardins de la Koutoubia</h3>
-                    <p>This upscale hotel is located near the famous Koutoubia Mosque and offers spacious rooms and suites, a rooftop terrace with views of the Medina, and several restaurants and bars.</p>
-                </div>
-            </div>
-        </section>
-        
-        <section id="transportation">
-            <h2>Getting Around</h2>
-            <div class="grid">
-                <div class="card">
-                    <img src="x" alt="Medina">
-                    <h3>Medina</h3>
-                    <p>The Medina is the historic center of Marrakesh and is best explored on foot. It's a maze of narrow streets, alleys, and souks (markets) selling everything from spices and textiles to jewelry and pottery.</p>
-                </div>
-            </div>
-        </section>
-    </main>
- </body>
-
- <section class="subtitle3">
-    <h2>TRAVELIO</h2>
-    <h3>DISCOVER THE SHADES</h3> 
-    <h4>OF THE WORLD</h4>
-  </section>
-</html>
+{
+    "hero": {
+      "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
+      "title": "Marrakech"
+    },
+    "about": {
+      "name": "Marrakech",
+      "info_text": "Marrakech is a vibrant and bustling city located in the heart of Morocco. Known for its rich history, stunning architecture, and vibrant culture, Marrakech is a must-visit destination for any traveler. Visitors can explore the winding alleyways of the old Medina, sample traditional Moroccan cuisine, and marvel at the city's stunning landmarks, such as the Koutoubia Mosque and the Bahia Palace. Whether you're interested in history, culture, or just soaking up the lively atmosphere, Marrakech has something to offer everyone.",
+      "facts_text": "<strong>Population:</strong> 928,850<br><strong>Region:</strong> Marrakech-Safi<br><strong>Time Zone:</strong> Western European Time (UTC+01:00)<br><strong>Language:</strong> Arabic, French<br><strong>Currency:</strong> Moroccan dirham (MAD)",
+      "climate_text": "Marrakech has a hot, dry climate with very little rainfall throughout the year. Average temperatures range from 12°C (54°F) in winter to 38°C (100°F) in summer, making it a great destination for sun-seekers. However, the heat can be intense during the summer months, so be sure to stay hydrated and seek shade during the hottest parts of the day."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "X",
+          "alt": "Jemaa el-Fnaa",
+          "title": "Jemaa el-Fnaa",
+          "description": "Jemaa el-Fnaa is a lively square in the heart of Marrakesh's old city, surrounded by cafes, food stalls, and shops. Visitors can witness snake charmers, acrobats, and musicians, or sample traditional Moroccan cuisine at one of the many street food vendors."
+        },
+        {
+          "img": "X",
+          "alt": "Bahia Palace",
+          "title": "Bahia Palace",
+          "description": "This ornate palace was built in the late 19th century for a wealthy Moroccan nobleman and features beautiful gardens, intricate tilework, and detailed woodcarvings. Visitors can take a guided tour to learn more about the history and architecture of the palace."
+        },
+        {
+          "img": "X",
+          "alt": "Koutoubia Mosque",
+          "title": "Koutoubia Mosque",
+          "description": "The Koutoubia Mosque is one of the most recognizable landmarks in Marrakesh, with its distinctive minaret towering over the city skyline. Visitors can admire the mosque's intricate architecture and learn about its importance in Moroccan history and culture."
+        },
+        {
+          "img": "X",
+          "alt": "Saadian Tombs",
+          "title": "Saadian Tombs",
+          "description": "The Saadian Tombs are a collection of ornate mausoleums dating back to the 16th century, located in the Kasbah district of Marrakesh. Visitors can explore the intricate tilework and carvings of the tombs, which were rediscovered in the early 20th century after being sealed up for centuries."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "X",
+          "alt": "Tagine",
+          "title": "Tagine",
+          "description": "Tagine is a traditional Moroccan dish named after the earthenware pot it's cooked in. It typically consists of meat or fish, vegetables, and spices like saffron, cinnamon, and cumin. Some of the best places to try tagine in Marrakesh are Le Foundouk, Dar Moha, and La Maison Arabe."
+        },
+        {
+          "img": "X",
+          "alt": "Couscous",
+          "title": "Couscous",
+          "description": "Couscous is a staple food in North African cuisine and is often served with meat, vegetables, and a spicy sauce. In Marrakesh, you can try couscous at restaurants like Le Jardin, Le Tanjia, and Dar Yacout."
+        },
+        {
+          "img": "X",
+          "alt": "Mint Tea",
+          "title": "Mint Tea",
+          "description": "Mint tea, also known as Moroccan tea, is a popular drink in Marrakesh and throughout Morocco. It's made with green tea, fresh mint leaves, and sugar, and is usually served in small glasses. Some great places to enjoy mint tea in Marrakesh are Café de France, La Mamounia, and Le Jardin Secret."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "X",
+          "alt": "La Mamounia",
+          "title": "La Mamounia",
+          "description": "This iconic 5-star hotel is located in the heart of Marrakesh and features lush gardens, luxurious rooms and suites, several restaurants and bars, a spa, and a pool."
+        },
+        {
+          "img": "X",
+          "alt": "Riad Kniza",
+          "title": "Riad Kniza",
+          "description": "This charming riad is situated in the historic Medina and offers elegant rooms and suites, a rooftop terrace, a courtyard with a fountain, and a hammam."
+        },
+        {
+          "img": "X",
+          "alt": "Les Jardins de la Koutoubia",
+          "title": "Les Jardins de la Koutoubia",
+          "description": "This upscale hotel is located near the famous Koutoubia Mosque and offers spacious rooms and suites, a rooftop terrace with views of the Medina, and several restaurants and bars."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "X",
+          "alt": "Medina",
+          "title": "Medina",
+          "description": "The Medina is the historic center of Marrakesh and is best explored on foot. It's a maze of narrow streets, alleys, and souks (markets) selling everything from spices and textiles to jewelry and pottery."
+        }
+      ]
+    }
+  }  

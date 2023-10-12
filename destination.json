@@ -8,21 +8,21 @@
         },
         
         {
-            "name": "Los Angeles, CA",
+            "name": "Los Angeles",
             "category": "United States",
             "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
             "link": "Destinations/United States/LosAngeles.html"
         },
         
         {
-            "name": "Paris, France",
+            "name": "Paris",
             "category": "France",
             "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
-            "link": "Destinations/France/Paris.html"
+            "link": "Destinations/city.html"
         },
         
         {
-            "name": "New York, NY",
+            "name": "New York",
             "category": "United States",
             "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
             "link": "Destinations/United States/NewYork.html"

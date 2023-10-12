@@ -1,0 +1,107 @@
+{
+    "hero": {
+      "img": "https://wallpaperaccess.com/full/496881.jpg",
+      "title": "Santorini"
+    },
+    "about": {
+      "name": "Santorini",
+      "info_text": "Santorini is a breathtakingly beautiful island located in the Aegean Sea, part of Greece's Cyclades archipelago. The island is famous for its stunning sunsets, white-washed buildings, and crystal-clear blue waters. Visitors can explore the island's rich history and culture, including ancient ruins and traditional villages, or simply relax on its black sand beaches and soak up the Mediterranean sun.",
+      "facts_text": "<strong>Population:</strong> 15,550<br><strong>Region:</strong> South Aegean<br><strong>Time Zone:</strong> Eastern European Time (UTC+02:00)<br><strong>Language:</strong> Greek<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "Santorini has a Mediterranean climate with mild, wet winters and hot, dry summers. Average temperatures range from 12°C (54°F) in winter to 28°C (82°F) in summer, with plenty of sunshine throughout the year. Visitors should be aware of occasional strong winds, particularly in the summer months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/3d/98/27.jpg",
+          "alt": "Sunset in Oia",
+          "title": "Oia Sunset",
+          "description": "Watch the sunset over the village of Oia, one of the most iconic and beautiful experiences in Santorini. Be sure to arrive early to get a good spot as it can get crowded during peak season."
+        },
+        {
+          "img": "https://weloveourlife.net/wp-content/uploads/2020/05/Oia-best-view-Santorini.jpg",
+          "alt": "Caldera Views",
+          "title": "Caldera Views",
+          "description": "The Santorini caldera is one of the most picturesque and breathtaking views in the world. Take a walk along the edge of the cliff in Fira or Oia to experience the stunning panoramic view."
+        },
+        {
+          "img": "https://www.greeka.com/seedo/photos/9/santorini-akrotiri-minoan-site-top-1-1280.jpg",
+          "alt": "Akrotiri Archaeological Site",
+          "title": "Akrotiri Archaeological Site",
+          "description": "Explore the ancient Minoan city of Akrotiri, which was preserved by volcanic ash and excavated in the 20th century. See the well-preserved frescoes and learn about the culture and history of the island."
+        },
+        {
+          "img": "https://images.santorini-view.com/ccd494f2_76a6_4baa_a1de_712c667bf988.limghandler.jpg?i=aT0lMmZ1cGxvYWRlZGZpbGVzJTJmMjAyMiUyZjAxJTJmMTIlMmZjY2Q0OTRmMi0376.jpg",
+          "alt": "Black Sand Beach",
+          "title": "Black Sand Beach",
+          "description": "Visit one of the unique black sand beaches in Santorini, created by volcanic activity. Perissa Beach is one of the most popular and offers various activities such as swimming, sunbathing, and water sports."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "https://theplanetd.com/images/Best-Greek-Food.jpg",
+          "alt": "Greek Salad",
+          "title": "Greek Cuisine",
+          "description": "Indulge in the traditional flavors of Greece with a Greek salad, moussaka, souvlaki, or dolmades at one of the island's many tavernas or restaurants."
+        },
+        {
+          "img": "https://bringabottle.b-cdn.net/wp-content/uploads/2021/08/Bring-a-Bottle-239751311-1024x683.jpg",
+          "alt": "Wine",
+          "title": "Wine Tasting",
+          "description": "Take a wine tour and taste some of the best wines of Santorini, such as Assyrtiko, Nykteri, and Vinsanto."
+        },
+        {
+          "img": "https://www.greekboston.com/wp-content/uploads/2015/07/Seafood-is-a-Staple-in-Greek-Cuisine.jpg",
+          "alt": "Seafood",
+          "title": "Seafood",
+          "description": "Enjoy fresh seafood, such as octopus, calamari, or grilled fish, while taking in the stunning views of the Aegean Sea."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "https://dunetravelgroup.com/wp-content/uploads/sites/17310/2021/03/grace-hotel-santorini-5-1024x767.jpg",
+          "alt": "Grace Santorini Hotel",
+          "title": "Grace Santorini Hotel",
+          "description": "Experience luxury and relaxation at this stunning boutique hotel, which boasts an infinity pool, a spa, and breathtaking views of the island."
+        },
+        {
+          "img": "https://cdn.astrasuites.com/wp-content/uploads/imerovigli.jpg",
+          "alt": "Astra Suites",
+          "title": "Astra Suites",
+          "description": "Escape to this romantic hotel, where you can enjoy private balconies with views of the caldera, a spa, and a poolside bar."
+        },
+        {
+          "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342908105.jpg?k=b8fc562f19e5efa0f53540c7eb823edd79ecafe58a94ad84d8f0a8d3aa833c9c&o=&hp=1",
+          "alt": "Mystique Santorini",
+          "title": "Mystique Santorini",
+          "description": "Relax in the lap of luxury at this 5-star hotel, which features a cave spa, a Champagne bar, and stunning views of the Aegean Sea."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "https://www.vacation-in-greece.gr/wp-content/uploads/2018/02/santorini-quad-bike.jpg",
+          "alt": "ATV",
+          "title": "ATV Rentals",
+          "description": "Explore the island at your own pace with an ATV rental, which allows you to access some of the island's more remote areas."
+        },
+        {
+          "img": "https://santorinibus.com/wp-content/uploads/2020/09/how-to-move-around-bus.jpg",
+          "alt": "Bus",
+          "title": "Public Transportation",
+          "description": "Take advantage of Santorini's affordable bus system to get around the island and visit the major tourist destinations."
+        },
+        {
+          "img": "https://www.welcomepickups.com/wp-content/uploads/2019/05/taxi-from-the-airport.jpg",
+          "alt": "Taxi",
+          "title": "Taxis",
+          "description": "If you prefer a more private mode of transportation, taxis are readily available and can take you anywhere on the island."
+        }
+      ]
+    }
+}
+  

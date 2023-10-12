@@ -1,0 +1,101 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Annecy"
+    },
+    "about": {
+      "name": "Annecy",
+      "info_text": "Annecy is a charming town nestled in the French Alps, known for its stunning Alpine scenery, pristine lake, and well-preserved medieval architecture. With its nickname 'Venice of the Alps,' Annecy boasts scenic canals, colorful houses, and charming streets. Visitors can explore the historic old town, relax by Lake Annecy, and enjoy various outdoor activities, including hiking, cycling, and water sports.",
+      "facts_text": "<strong>Population:</strong> Approximately 50,000<br><strong>Country:</strong> France<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)",
+      "climate_text": "x"
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Palais de l'Isle",
+          "title": "Palais de l'Isle",
+          "description": "Visit the iconic Palais de l'Isle, a medieval palace that has served as a prison and lordly residence."
+        },
+        {
+          "img": "x",
+          "alt": "Lake Annecy",
+          "title": "Lake Annecy",
+          "description": "Enjoy the crystal-clear waters of Lake Annecy, surrounded by mountains, for swimming, boating, and picnics."
+        },
+        {
+          "img": "x",
+          "alt": "Château d'Annecy",
+          "title": "Château d'Annecy",
+          "description": "Explore Château d'Annecy, a historic castle overlooking the town and offering panoramic views of the lake and mountains."
+        },
+        {
+          "img": "x",
+          "alt": "Annecy Old Town",
+          "title": "Annecy Old Town",
+          "description": "Stroll through Annecy's picturesque old town with its narrow canals, colorful buildings, and charming cafés."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Tartiflette",
+          "title": "Tartiflette",
+          "description": "Savor Tartiflette, a hearty Savoyard dish made with potatoes, reblochon cheese, lardons, and onions."
+        },
+        {
+          "img": "x",
+          "alt": "Raclette",
+          "title": "Raclette",
+          "description": "Indulge in Raclette, a famous melted cheese dish served with potatoes, pickles, and cured meats."
+        },
+        {
+          "img": "x",
+          "alt": "Croissant aux Amandes",
+          "title": "Croissant aux Amandes",
+          "description": "Enjoy a Croissant aux Amandes, a sweet pastry filled with almond cream, popular in the region."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "L'Impérial Palace",
+          "title": "L'Impérial Palace",
+          "description": "Stay at L'Impérial Palace, a luxurious hotel and spa located on the shores of Lake Annecy."
+        },
+        {
+          "img": "x",
+          "alt": "Hôtel du Palais de l'Isle",
+          "title": "Hôtel du Palais de l'Isle",
+          "description": "Experience a unique stay at Hôtel du Palais de l'Isle, a charming hotel in a historic building."
+        },
+        {
+          "img": "x",
+          "alt": "Auberge du Lyonnais",
+          "title": "Auberge du Lyonnais",
+          "description": "Enjoy the cozy ambiance of Auberge du Lyonnais, a traditional Savoyard inn in the heart of Annecy."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Annecy Railway Station",
+          "title": "Annecy Railway Station",
+          "description": "Arrive in Annecy via the Annecy Railway Station, connecting the town to major cities in France."
+        },
+        {
+          "img": "x",
+          "alt": "Annecy Buses",
+          "title": "Annecy Buses",
+          "description": "Use the Annecy bus network for convenient transportation within the town and its surroundings."
+        }
+      ]
+    }
+  }
+  
