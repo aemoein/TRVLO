@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Osaka"
+    },
+    "about": {
+      "name": "Osaka",
+      "info_text": "Osaka, often referred to as Japan's kitchen, is a dynamic and bustling city located in the Kansai region of Japan. Known for its vibrant street food culture, historic landmarks, and modern architecture, Osaka offers a unique blend of old and new. The city is famous for its delicious street food, including takoyaki (octopus balls) and okonomiyaki (savory pancakes). Visitors can explore traditional temples, such as Shitenno-ji, and enjoy contemporary attractions like Universal Studios Japan. Osaka is a city that truly caters to a wide range of interests and tastes.",
+      "facts_text": "<strong>Population:</strong> Approximately 2.7 million<br><strong>Prefecture:</strong> Osaka<br><strong>Time Zone:</strong> Japan Standard Time (UTC+09:00)<br><strong>Language:</strong> Japanese<br><strong>Currency:</strong> Japanese Yen (JPY)",
+      "climate_text": "Osaka experiences a humid subtropical climate with four distinct seasons. Summers are hot and humid, while winters are relatively mild. The city is known for its cherry blossoms in spring and vibrant foliage in the fall."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Osaka Castle",
+          "title": "Osaka Castle",
+          "description": "Osaka Castle is a historic and iconic Japanese castle that played a major role in the unification of Japan. Visitors can explore the castle's museum and enjoy panoramic views from the observation deck."
+        },
+        {
+          "img": "x",
+          "alt": "Dotonbori",
+          "title": "Dotonbori",
+          "description": "Dotonbori is a vibrant entertainment district known for its neon lights, street food stalls, and lively atmosphere. It's a popular spot for trying local specialties and shopping."
+        },
+        {
+          "img": "x",
+          "alt": "Universal Studios Japan",
+          "title": "Universal Studios Japan",
+          "description": "Universal Studios Japan is a theme park in Osaka featuring a wide range of attractions based on popular movies and TV shows. It's a great place for family fun and entertainment."
+        },
+        {
+          "img": "x",
+          "alt": "Shitenno-ji Temple",
+          "title": "Shitenno-ji Temple",
+          "description": "Shitenno-ji is one of Japan's oldest Buddhist temples, dating back to the 6th century. It's a serene and historic site with beautiful gardens and architecture."
+        },
+        {
+          "img": "x",
+          "alt": "Kuromon Ichiba Market",
+          "title": "Kuromon Ichiba Market",
+          "description": "Kuromon Ichiba Market is a bustling food market known for its fresh produce, street food, and a wide variety of Japanese and international dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Tsutenkaku Tower",
+          "title": "Tsutenkaku Tower",
+          "description": "Tsutenkaku Tower is an iconic symbol of Osaka. Visitors can take an elevator to the top for panoramic views of the city and enjoy nostalgic entertainment at the base."
+        },
+        {
+          "img": "x",
+          "alt": "Sumiyoshi Taisha Shrine",
+          "title": "Sumiyoshi Taisha Shrine",
+          "description": "Sumiyoshi Taisha is a historic Shinto shrine with unique architectural features, including arched bridges and buildings that appear to float on water."
+        },
+        {
+          "img": "x",
+          "alt": "Osaka Aquarium Kaiyukan",
+          "title": "Osaka Aquarium Kaiyukan",
+          "description": "Kaiyukan is one of Japan's largest and most impressive aquariums, showcasing a wide range of marine life and underwater environments."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Takoyaki",
+          "title": "Takoyaki",
+          "description": "Takoyaki are savory octopus balls, a popular street food in Osaka. They are typically served hot and topped with takoyaki sauce, bonito flakes, and seaweed."
+        },
+        {
+          "img": "x",
+          "alt": "Okonomiyaki",
+          "title": "Okonomiyaki",
+          "description": "Okonomiyaki is a Japanese savory pancake made with various ingredients, including cabbage, meat, and seafood. It's often customized to your liking and cooked on a griddle."
+        },
+        {
+          "img": "x",
+          "alt": "Kushikatsu",
+          "title": "Kushikatsu",
+          "description": "Kushikatsu is a popular local dish consisting of skewered and deep-fried meat and vegetables, often dipped in a savory sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Ramen",
+          "title": "Ramen",
+          "description": "Osaka is known for its unique style of ramen, with thick and savory broth, often topped with green onions, char siu pork, and other ingredients."
+        },
+        {
+          "img": "x",
+          "alt": "Sushi",
+          "title": "Sushi",
+          "description": "While not as famous as Tokyo for sushi, Osaka offers delicious and fresh sushi options at various restaurants and sushi bars."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Osaka",
+          "title": "The Ritz-Carlton, Osaka",
+          "description": "The Ritz-Carlton offers luxurious accommodations, elegant dining, and impeccable service in the heart of Osaka."
+        },
+        {
+          "img": "x",
+          "alt": "InterContinental Osaka",
+          "title": "InterContinental Osaka",
+          "description": "InterContinental Osaka is a modern and stylish hotel with comfortable rooms, dining options, and convenient access to the city."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Monterey Grasmere Osaka",
+          "title": "Hotel Monterey Grasmere Osaka",
+          "description": "Hotel Monterey Grasmere is located near Namba Station and offers comfortable rooms with European-style decor."
+        },
+        {
+          "img": "x",
+          "alt": "Swissôtel Nankai Osaka",
+          "title": "Swissôtel Nankai Osaka",
+          "description": "Swissôtel Nankai Osaka is a well-appointed hotel with city views, various dining options, and a prime location in Namba."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Nikko Osaka",
+          "title": "Hotel Nikko Osaka",
+          "description": "Hotel Nikko Osaka offers modern accommodations with great views and is conveniently located near major attractions."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Osaka Metro",
+          "title": "Osaka Metro",
+          "description": "The Osaka Metro is a convenient and efficient subway system that connects different parts of the city, making it easy to get around."
+        },
+        {
+          "img": "x",
+          "alt": "JR West",
+          "title": "JR West",
+          "description": "JR West operates train services in the Kansai region, providing easy access to nearby cities like Kyoto and Nara."
+        },
+        {
+          "img": "x",
+          "alt": "Osaka City Bus",
+          "title": "Osaka City Bus",
+          "description": "The Osaka City Bus network is another way to navigate the city, offering various routes and options for travelers."
+        },
+        {
+          "img": "x",
+          "alt": "Kansai International Airport",
+          "title": "Kansai International Airport",
+          "description": "Kansai International Airport (KIX) is the primary international gateway to Osaka and the Kansai region, serving both domestic and international flights."
+        }
+      ]
+    }
+  }  

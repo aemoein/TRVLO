@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Bangkok"
+    },
+    "about": {
+      "name": "Bangkok",
+      "info_text": "Bangkok, the capital of Thailand, is a bustling metropolis known for its rich cultural heritage, vibrant street life, and modern skyscrapers. The city offers a unique blend of traditional Thai culture and contemporary urban experiences. Visitors can explore ancient temples, savor delicious street food, shop at bustling markets, and enjoy a thriving nightlife scene. Bangkok is a city of contrasts, where ornate temples stand beside sleek malls, and the Chao Phraya River winds through the heart of the city.",
+      "facts_text": "<strong>Population:</strong> Approximately 8.3 million<br><strong>Province:</strong> Bangkok<br><strong>Time Zone:</strong> Indochina Time (UTC+07:00)<br><strong>Language:</strong> Thai<br><strong>Currency:</strong> Thai Baht (THB)",
+      "climate_text": "Bangkok has a tropical monsoon climate with three distinct seasons: hot, wet, and cool. The best time to visit is during the cool and dry season from November to February when the weather is more pleasant."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Grand Palace",
+          "title": "Grand Palace",
+          "description": "The Grand Palace is a stunning complex of royal and religious buildings, including the famous Wat Phra Kaew (Temple of the Emerald Buddha). It's a must-visit for its architectural beauty and cultural significance."
+        },
+        {
+          "img": "x",
+          "alt": "Wat Pho",
+          "title": "Wat Pho",
+          "description": "Wat Pho, also known as the Temple of the Reclining Buddha, is famous for its enormous golden statue of a reclining Buddha and traditional Thai massage school."
+        },
+        {
+          "img": "x",
+          "alt": "Chatuchak Weekend Market",
+          "title": "Chatuchak Weekend Market",
+          "description": "Chatuchak Market is one of the world's largest weekend markets, offering a wide range of products, from clothing and accessories to handicrafts and street food."
+        },
+        {
+          "img": "x",
+          "alt": "Asiatique The Riverfront",
+          "title": "Asiatique The Riverfront",
+          "description": "Asiatique is a vibrant night market located along the Chao Phraya River. It features boutique shops, restaurants, and entertainment options with great views of the river."
+        },
+        {
+          "img": "x",
+          "alt": "Khao San Road",
+          "title": "Khao San Road",
+          "description": "Khao San Road is a famous backpacker street known for its lively nightlife, street vendors, bars, and budget accommodations."
+        },
+        {
+          "img": "x",
+          "alt": "Jim Thompson House",
+          "title": "Jim Thompson House",
+          "description": "The Jim Thompson House is a museum showcasing the traditional Thai-style houses and the art collection of the American silk entrepreneur Jim Thompson."
+        },
+        {
+          "img": "x",
+          "alt": "Erawan Shrine",
+          "title": "Erawan Shrine",
+          "description": "The Erawan Shrine is a Hindu shrine famous for its spiritual significance and traditional dance performances that take place in the vicinity."
+        },
+        {
+          "img": "x",
+          "alt": "Lumphini Park",
+          "title": "Lumphini Park",
+          "description": "Lumphini Park is an urban oasis offering green spaces, a large lake, and opportunities for jogging, picnics, and paddle boating."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Pad Thai",
+          "title": "Pad Thai",
+          "description": "Pad Thai is a classic Thai dish made with stir-fried rice noodles, shrimp or chicken, tofu, peanuts, and a flavorful tamarind sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Tom Yum Soup",
+          "title": "Tom Yum Soup",
+          "description": "Tom Yum is a hot and sour Thai soup made with lemongrass, kaffir lime leaves, and a combination of shrimp, chicken, or mushrooms."
+        },
+        {
+          "img": "x",
+          "alt": "Green Curry",
+          "title": "Green Curry",
+          "description": "Green Curry is a popular Thai dish made with green curry paste, coconut milk, and a variety of vegetables and proteins, such as chicken or beef."
+        },
+        {
+          "img": "x",
+          "alt": "Mango Sticky Rice",
+          "title": "Mango Sticky Rice",
+          "description": "Mango Sticky Rice is a beloved Thai dessert made with ripe mangoes, glutinous rice, and coconut milk, creating a sweet and creamy treat."
+        },
+        {
+          "img": "x",
+          "alt": "Som Tum",
+          "title": "Som Tum",
+          "description": "Som Tum is a spicy green papaya salad that's a staple of Thai cuisine, offering a mix of flavors, including sweet, sour, and spicy."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Mandarin Oriental, Bangkok",
+          "title": "Mandarin Oriental, Bangkok",
+          "description": "The Mandarin Oriental is a legendary luxury hotel located along the Chao Phraya River, offering elegant accommodations and exceptional service."
+        },
+        {
+          "img": "x",
+          "alt": "Banyan Tree Bangkok",
+          "title": "Banyan Tree Bangkok",
+          "description": "Banyan Tree is a stylish urban resort with panoramic city views, luxurious rooms, and a rooftop restaurant and bar."
+        },
+        {
+          "img": "x",
+          "alt": "Amari Watergate Bangkok",
+          "title": "Amari Watergate Bangkok",
+          "description": "Amari Watergate is a contemporary hotel in the Pratunam shopping district, offering comfortable rooms, a rooftop pool, and multiple dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Shangri-La Hotel, Bangkok",
+          "title": "Shangri-La Hotel, Bangkok",
+          "description": "The Shangri-La Hotel provides a riverside retreat with luxurious amenities, beautiful gardens, and a range of dining experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Centara Grand at CentralWorld",
+          "title": "Centara Grand at CentralWorld",
+          "description": "Centara Grand is a modern hotel connected to CentralWorld shopping mall, offering comfortable rooms and rooftop dining with city views."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "BTS Skytrain",
+          "title": "BTS Skytrain",
+          "description": "The BTS Skytrain is a convenient and efficient way to navigate Bangkok's traffic, with routes connecting major areas of the city."
+        },
+        {
+          "img": "x",
+          "alt": "MRT Subway",
+          "title": "MRT Subway",
+          "description": "The MRT Subway is another rapid transit system that complements the BTS, providing access to various parts of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Tuk-Tuk",
+          "title": "Tuk-Tuk",
+          "description": "Tuk-Tuks are a popular and iconic mode of transportation in Bangkok, often used for short trips within the city."
+        },
+        {
+          "img": "x",
+          "alt": "Suvarnabhumi Airport",
+          "title": "Suvarnabhumi Airport",
+          "description": "Suvarnabhumi Airport (BKK) is Bangkok's main international airport, located about 25 kilometers east of the city center."
+        }
+      ]
+    }
+  }  

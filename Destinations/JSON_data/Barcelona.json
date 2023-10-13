@@ -1,107 +1,160 @@
 {
-    "hero": {
-      "img": "https://rare-gallery.com/uploads/posts/812673-Spain-Temples-Sky-Barcelona.jpg",
-      "title": "Barcelona"
-    },
-    "about": {
-      "name": "Barcelona",
-      "info_text": "Barcelona is a vibrant city located on the northeast coast of Spain. It is known for its rich history, stunning architecture, and world-renowned art scene. The city boasts several UNESCO World Heritage Sites, including the famous works of architect Antoni Gaudí, such as the Sagrada Familia and Park Güell. Visitors can also explore the city's Gothic Quarter, with its winding streets and historic buildings, or relax on the beaches of Barceloneta.",
-      "facts_text": "<strong>Population:</strong> 1,620,343<br><strong>Autonomous Community:</strong> Catalonia<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Catalan, Spanish<br><strong>Currency:</strong> Euro (EUR)",
-      "climate_text": "Barcelona has a Mediterranean climate with mild, wet winters and hot, dry summers. Average temperatures range from 10°C (50°F) in winter to 26°C (79°F) in summer, with plenty of sunshine throughout the year. However, visitors should be aware of occasional thunderstorms and heavy rain during the summer months."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "https://rare-gallery.com/uploads/posts/812673-Spain-Temples-Sky-Barcelona.jpg",
-          "alt": "Sagrada Familia",
-          "title": "Sagrada Familia",
-          "description": "Designed by famed architect Antoni Gaudi, this stunning basilica has been under construction since 1882 and is still not complete. Visitors can explore the interior of the church and marvel at the intricate details and vibrant stained glass windows."
-        },
-        {
-          "img": "https://cdn.kastatic.org/ka-perseus-images/e5cab28b0fe01050e8b992c7223f8db44846559d.jpg",
-          "alt": "Park Guell",
-          "title": "Park Guell",
-          "description": "Another creation of Gaudi, this park features whimsical sculptures, mosaics, and architecture set against stunning views of the city. Visitors can stroll through the gardens, relax on the colorful tiled benches, and enjoy the vibrant atmosphere."
-        },
-        {
-          "img": "https://i0.wp.com/tiqets-cdn.s3.eu-west-1.amazonaws.com/wordpress/blog/wp-content/uploads/2022/08/11191347/CB3.jpeg?fit=1370%2C904&ssl=1",
-          "alt": "Casa Batllo",
-          "title": "Casa Batllo",
-          "description": "One of Gaudi's most famous works, this modernist building is characterized by its colorful tiled facade and undulating lines. Visitors can take a tour of the interior to see more of Gaudi's unique design elements."
-        },
-        {
-          "img": "https://media.cntraveler.com/photos/5a85a6cc833f8a477b94953e/16:9/w_2560,c_limit/Musee-Picasso_Fabien-Campoverde_2018_BH4A5113fab.jpg",
-          "alt": "Picasso Museum",
-          "title": "Picasso Museum",
-          "description": "This museum houses one of the most extensive collections of Picasso's works in the world, showcasing his evolution as an artist from his early years to his later masterpieces. Visitors can admire the paintings, sculptures, and ceramics on display."
-        },
-        {
-          "img": "https://www.fcbarcelona.com/photo-resources/2021/08/09/d4236e65-4502-4cca-816d-a97c441abdac/Camp-nou-1.jpg?width=1200&height=750",
-          "alt": "Camp Nou",
-          "title": "Camp Nou",
-          "description": "Camp Nou is the legendary football stadium of FC Barcelona, located in the Les Corts district of Barcelona, Catalonia, Spain. With a capacity of 99,354 spectators, it is the largest stadium in Europe and one of the most iconic sports venues in the world. Visitors can take guided tours of the stadium, including the pitch, changing rooms, press rooms, and museum, where they can learn about the history of the club and see its trophies and memorabilia."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "https://static-resources.mirai.com/wp-content/uploads/sites/1745/20210825074738/paella-en-Barcelona.jpg",
-          "alt": "Paella",
-          "title": "Paella",
-          "description": "Paella is a traditional Spanish rice dish originating from Valencia, but it's widely popular in Barcelona. Some of the best places to try paella in Barcelona are Can Solé, Xiringuito Escribà, and 7 Portes."
-        },
-        {
-          "img": "https://www.kkhotels.com/wp-content/uploads/2018/12/tapas-barcelona.jpg",
-          "alt": "Tapas",
-          "title": "Tapas",
-          "description": "Tapas are small dishes that are usually shared among friends over drinks. Barcelona has plenty of great tapas bars to choose from, such as El Xampanyet, La Cova Fumada, and Quimet & Quimet."
-        },
-        {
-          "img": "https://www.barcelona-life.com/wp-content/uploads/2018/03/cava-barcelona.jpg",
-          "alt": "Cava",
-          "title": "Cava",
-          "description": "Cava is a sparkling wine that's produced in Catalonia, the region where Barcelona is located. Some of the best places to enjoy cava in Barcelona are Can Paixano (La Xampanyeria), La Vinya del Senyor, and Bar Brutal."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "https://media.cntraveler.com/photos/53d9b64edcd5888e14595bf4/16:9/w_1600,c_limit/majestic-hotel-spa-barcelona-barcelona-spain-107119-1.jpg",
-          "alt": "Majestic Hotel & Spa",
-          "title": "Majestic Hotel & Spa",
-          "description": "This luxurious hotel is located in the heart of Barcelona and offers elegant rooms and suites with modern amenities. Amenities include a rooftop pool, spa, and several dining options."
-        },
-        {
-          "img": "https://media.architecturaldigest.com/photos/55e79417cd709ad62e9019af/master/pass/dam-images-daily-2015-05-cotton-house-hotel-cotton-house-hotel-01.jpg",
-          "alt": "Cotton House Hotel",
-          "title": "Cotton House Hotel",
-          "description": "This boutique hotel is situated in the Eixample district and offers stylish rooms and suites with vintage-inspired decor. Guests can also enjoy the on-site library, terrace, and restaurant."
-        },
-        {
-          "img": "https://pix10.agoda.net/hotelImages/412766/-1/98509f27efb652008487396d7199cad8.jpg?ca=6&ce=1&s=1024x768",
-          "alt": "Generator Hostel",
-          "title": "Generator Hostel",
-          "description": "This trendy hostel is located in the Gràcia neighborhood and offers dormitory and private rooms with shared bathrooms. Amenities include a bar, terrace, and game room."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "https://www.travelguide.barcelona/wp-content/uploads/2018/06/barcelona_metro.jpg",
-          "alt": "Metro",
-          "title": "Metro",
-          "description": "The metro is Barcelona's rapid transit system, providing quick and easy access to most of the city's attractions. Tickets can be purchased at stations or through the mobile app."
-        },
-        {
-          "img": "https://ajuntament.barcelona.cat/bicicleta/sites/default/files/NovaEstacioBicing_NB.jpg",
-          "alt": "Bicing",
-          "title": "Bicing",
-          "description": "Bicing is Barcelona's bike share program, with hundreds of bikes available for rent at various stations throughout the city. Users can sign up for a membership or purchase a day pass."
-        }
-      ]
-    }
+  "hero": {
+    "img": "x",
+    "title": "Barcelona"
+  },
+  "about": {
+    "name": "Barcelona",
+    "info_text": "Barcelona is a vibrant and cosmopolitan city located on the northeastern coast of the Iberian Peninsula in Spain. It is the capital of the Catalonia region and is known for its rich history, stunning architecture, beautiful beaches, and a lively arts and culture scene. Barcelona is famous for its unique blend of Gothic and modernist architecture, with landmarks like the Sagrada Família and Park Güell designed by Antoni Gaudí. Visitors can explore the city's historic neighborhoods, enjoy delicious Catalan cuisine, and relax on the Mediterranean shores. Whether you're interested in history, art, or simply savoring the Mediterranean lifestyle, Barcelona has something to offer everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.6 million<br><strong>Autonomous Community:</strong> Catalonia<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Language:</strong> Catalan, Spanish<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Barcelona has a Mediterranean climate with mild, wet winters and hot, dry summers. The average temperature ranges from 8°C (46°F) in winter to 30°C (86°F) in summer, making it a great year-round destination for travelers."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Sagrada Família",
+        "title": "Sagrada Família",
+        "description": "The Sagrada Família is a renowned basilica and an iconic symbol of Barcelona, known for its intricate architecture and ongoing construction."
+      },
+      {
+        "img": "x",
+        "alt": "Park Güell",
+        "title": "Park Güell",
+        "description": "Park Güell is a colorful public park designed by Antoni Gaudí, featuring whimsical mosaics, sculptures, and stunning city views."
+      },
+      {
+        "img": "x",
+        "alt": "La Rambla",
+        "title": "La Rambla",
+        "description": "La Rambla is a famous boulevard in the heart of the city, known for its vibrant street life, shops, and lively atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Casa Batlló",
+        "title": "Casa Batlló",
+        "description": "Casa Batlló is a modernist building designed by Gaudí, featuring a unique architectural style and open for guided tours."
+      },
+      {
+        "img": "x",
+        "alt": "Barri Gòtic (Gothic Quarter)",
+        "title": "Barri Gòtic (Gothic Quarter)",
+        "description": "The Gothic Quarter is the historic center of Barcelona, with narrow streets, medieval buildings, and historic sites like the Barcelona Cathedral."
+      },
+      {
+        "img": "x",
+        "alt": "Magic Fountain of Montjuïc",
+        "title": "Magic Fountain of Montjuïc",
+        "description": "The Magic Fountain is a spectacular fountain with nightly light and music shows, located in the Montjuïc neighborhood."
+      },
+      {
+        "img": "x",
+        "alt": "Casa Milà (La Pedrera)",
+        "title": "Casa Milà (La Pedrera)",
+        "description": "Casa Milà, also known as La Pedrera, is another Gaudí masterpiece, known for its unique design and rooftop terrace."
+      },
+      {
+        "img": "x",
+        "alt": "Barcelona Beaches",
+        "title": "Barcelona Beaches",
+        "description": "Barcelona offers several beautiful beaches along its coastline, including Barceloneta Beach, perfect for sunbathing and water sports."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Tapas",
+        "title": "Tapas",
+        "description": "Tapas are a popular Spanish dining tradition, and Barcelona offers a wide variety of small plates, including patatas bravas, croquettes, and more."
+      },
+      {
+        "img": "x",
+        "alt": "Paella",
+        "title": "Paella",
+        "description": "Paella is a classic Spanish dish, and you can savor seafood or Valencian paella in many Barcelona restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Crema Catalana",
+        "title": "Crema Catalana",
+        "description": "Crema Catalana is a delicious dessert similar to crème brûlée, with a caramelized sugar top and creamy custard inside."
+      },
+      {
+        "img": "x",
+        "alt": "Cava",
+        "title": "Cava",
+        "description": "Cava is a Spanish sparkling wine that originates from Catalonia, and you can enjoy it in local bars and restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Churros with Chocolate",
+        "title": "Churros with Chocolate",
+        "description": "Churros are a popular Spanish treat, and they are often enjoyed with a cup of rich, melted chocolate for dipping."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hotel Arts Barcelona",
+        "title": "Hotel Arts Barcelona",
+        "description": "Hotel Arts Barcelona offers luxurious accommodations, a beachfront location, and stunning views of the Mediterranean Sea."
+      },
+      {
+        "img": "x",
+        "alt": "Majestic Hotel & Spa Barcelona",
+        "title": "Majestic Hotel & Spa Barcelona",
+        "description": "The Majestic Hotel & Spa is a historic and elegant hotel, known for its top-notch service and rooftop bar."
+      },
+      {
+        "img": "x",
+        "alt": "W Barcelona",
+        "title": "W Barcelona",
+        "description": "W Barcelona, also known as the Hotel Vela, is a modern beachfront hotel offering contemporary design and panoramic sea views."
+      },
+      {
+        "img": "x",
+        "alt": "Cotton House Hotel",
+        "title": "Cotton House Hotel",
+        "description": "Cotton House Hotel is a charming boutique hotel with a cozy atmosphere, located in a neoclassical building."
+      },
+      {
+        "img": "x",
+        "alt": "H10 Casa Mimosa",
+        "title": "H10 Casa Mimosa",
+        "description": "H10 Casa Mimosa is a stylish hotel set in a modernist building, offering comfortable rooms and a terrace with city views."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Barcelona-El Prat Airport",
+        "title": "Barcelona-El Prat Airport",
+        "description": "Barcelona-El Prat Airport (BCN) is the main international airport serving Barcelona, located about 12 kilometers from the city center."
+      },
+      {
+        "img": "x",
+        "alt": "Barcelona Metro",
+        "title": "Barcelona Metro",
+        "description": "The Barcelona Metro is an efficient way to navigate the city, with various lines connecting key attractions and neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Bus and Tram",
+        "title": "Bus and Tram",
+        "description": "Barcelona has an extensive bus and tram network, providing convenient transportation within the city and its outskirts."
+      },
+      {
+        "img": "x",
+        "alt": "Bicing (Bike Share)",
+        "title": "Bicing (Bike Share)",
+        "description": "Bicing is Barcelona's bike-sharing system, offering an eco-friendly way to explore the city at your own pace."
+      }
+    ]
+  }
 }
-  

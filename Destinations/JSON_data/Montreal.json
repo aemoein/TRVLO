@@ -1,101 +1,160 @@
 {
-    "hero": {
-      "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
-      "title": "Montreal"
-    },
-    "about": {
-      "name": "Montreal",
-      "info_text": "Montreal is a vibrant city located in the province of Quebec, Canada. Known for its European charm and rich history, Montreal is a city that offers a unique blend of cultures, languages, and experiences. Visitors can explore the city's cobblestone streets, quaint cafes, and historic architecture, or take in the many festivals and events that Montreal is famous for. Montreal is also a foodie's paradise, with an incredible culinary scene that draws inspiration from around the world. Whether you're looking for culture, history, or cuisine, Montreal is a destination that has something for everyone.",
-      "facts_text": "<strong>Population:</strong> 1.7 million<br><strong>Province:</strong> Quebec<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> French, English<br><strong>Currency:</strong> Canadian dollar (CAD)",
-      "climate_text": "Montreal has a humid continental climate with warm summers and cold winters. Average temperatures range from -9°C (15°F) in winter to 26°C (79°F) in summer, with occasional heat waves and heavy snowfall in the winter months. The best time to visit Montreal is in the summer months, from June to September, when the weather is warm and the city is alive with festivals and events."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Old Montreal",
-          "title": "Old Montreal",
-          "description": "Explore the charming cobblestone streets and historic buildings of this picturesque neighborhood, which dates back to the 17th century. Be sure to check out the stunning Notre-Dame Basilica and the bustling Bonsecours Market."
-        },
-        {
-          "img": "x",
-          "alt": "Mont Royal Park",
-          "title": "Mont Royal Park",
-          "description": "This expansive park offers stunning views of the city from its namesake mountain. Visitors can hike or bike the many trails, enjoy a picnic or barbecue, or simply relax and take in the scenery."
-        },
-        {
-          "img": "x",
-          "alt": "Montreal Museum of Fine Arts",
-          "title": "Montreal Museum of Fine Arts",
-          "description": "This world-renowned museum boasts an impressive collection of more than 43,000 works of art, ranging from ancient artifacts to contemporary pieces. Visitors can also enjoy concerts, films, and other cultural events."
-        },
-        {
-          "img": "x",
-          "alt": "Botanical Garden",
-          "title": "Botanical Garden",
-          "description": "Explore the lush gardens and greenhouses of this peaceful oasis, which features over 22,000 plant species from around the world. Don't miss the stunning Chinese Garden, which is one of the largest of its kind outside of China."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Poutine",
-          "title": "Poutine",
-          "description": "Poutine is a Canadian dish made with french fries, gravy, and cheese curds. Some of the best places to try poutine in Montreal are La Banquise, Chez Claudette, and Poutineville."
-        },
-        {
-          "img": "x",
-          "alt": "Bagels",
-          "title": "Bagels",
-          "description": "Montreal-style bagels are smaller and sweeter than their New York counterparts, and are boiled in honey water before being baked in a wood-fired oven. Some of the best places to try bagels in Montreal are St-Viateur Bagel, Fairmount Bagel, and Dizz's Bagel & Deli."
-        },
-        {
-          "img": "x",
-          "alt": "Maple Syrup",
-          "title": "Maple Syrup",
-          "description": "Canada is known for its maple syrup, and Montreal is no exception. Some of the best places to enjoy maple syrup in Montreal are Sucrerie de la Montagne, Cabane à Sucre Au Pied de Cochon, and La Petite Cabane à Sucre de Québec."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Hotel William Gray",
-          "title": "Hotel William Gray",
-          "description": "This stylish hotel is located in Old Montreal and offers luxurious rooms and suites with modern amenities. Amenities include a rooftop terrace, fitness center, and several dining options."
-        },
-        {
-          "img": "x",
-          "alt": "Le Mount Stephen",
-          "title": "Le Mount Stephen",
-          "description": "This historic hotel is situated in the Golden Square Mile and offers elegant rooms and suites with classic decor. Guests can also enjoy the on-site spa, restaurant, and bar."
-        },
-        {
-          "img": "x",
-          "alt": "Auberge du Vieux-Port",
-          "title": "Auberge du Vieux-Port",
-          "description": "This charming hotel is located in Old Montreal and offers cozy rooms and suites with rustic decor. Amenities include a rooftop terrace, restaurant, and bar."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Metro",
-          "title": "Metro",
-          "description": "The metro is Montreal's rapid transit system, providing quick and easy access to most of the city's attractions. Tickets can be purchased at stations or through the mobile app."
-        },
-        {
-          "img": "x",
-          "alt": "BIXI",
-          "title": "BIXI",
-          "description": "BIXI is Montreal's bike share program, with thousands of bikes available for rent at various stations throughout the city. Users can sign up for a membership or purchase a day pass."
-        }
-      ]
-    }
+  "hero": {
+    "img": "x",
+    "title": "Montreal"
+  },
+  "about": {
+    "name": "Montreal",
+    "info_text": "Montreal is a dynamic and culturally rich city located in the province of Quebec, Canada. Known for its bilingual heritage, the city combines French and English influences, creating a unique and vibrant atmosphere. Montreal is famous for its diverse neighborhoods, historic architecture, and a thriving arts and culinary scene. Visitors can explore the charming Old Montreal, enjoy world-class museums and galleries, and savor the city's delicious cuisine. Whether you're interested in history, art, or simply enjoying a lively urban experience, Montreal has something for everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.8 million<br><strong>Province:</strong> Quebec<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Languages:</strong> French, English<br><strong>Currency:</strong> Canadian dollar (CAD)",
+    "climate_text": "Montreal experiences four distinct seasons, with cold winters and warm summers. Average temperatures range from -12°C (10°F) in winter to 26°C (79°F) in summer, making it an ideal destination for winter sports and outdoor festivals."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Old Montreal (Vieux-Montréal)",
+        "title": "Old Montreal (Vieux-Montréal)",
+        "description": "Old Montreal is a historic district with cobblestone streets, stunning architecture, and a European charm. Visitors can explore landmarks like Notre-Dame Basilica and enjoy the vibrant street life."
+      },
+      {
+        "img": "x",
+        "alt": "Mont Royal Park (Parc du Mont-Royal)",
+        "title": "Mont Royal Park (Parc du Mont-Royal)",
+        "description": "Mont Royal Park offers a natural escape in the heart of the city, with hiking trails, scenic viewpoints, and the iconic Mount Royal Cross."
+      },
+      {
+        "img": "x",
+        "alt": "Montreal Museum of Fine Arts (Musée des beaux-arts de Montréal)",
+        "title": "Montreal Museum of Fine Arts (Musée des beaux-arts de Montréal)",
+        "description": "The Montreal Museum of Fine Arts is one of Canada's most prominent art institutions, featuring an extensive collection of artworks from various periods and cultures."
+      },
+      {
+        "img": "x",
+        "alt": "Biodome de Montreal",
+        "title": "Biodome de Montreal",
+        "description": "The Biodome is a unique indoor nature exhibit housed in a former Olympic facility, allowing visitors to explore four distinct ecosystems and their wildlife."
+      },
+      {
+        "img": "x",
+        "alt": "Jean-Talon Market (Marché Jean-Talon)",
+        "title": "Jean-Talon Market (Marché Jean-Talon)",
+        "description": "Jean-Talon Market is a bustling farmers' market in the Little Italy neighborhood, offering fresh produce, local foods, and artisanal products."
+      },
+      {
+        "img": "x",
+        "alt": "Botanical Garden (Jardin botanique de Montréal)",
+        "title": "Botanical Garden (Jardin botanique de Montréal)",
+        "description": "Montreal's Botanical Garden is a haven of greenery and botanical wonders, featuring themed gardens and the beautiful Chinese Garden."
+      },
+      {
+        "img": "x",
+        "alt": "Notre-Dame Basilica",
+        "title": "Notre-Dame Basilica",
+        "description": "Notre-Dame Basilica is a stunning Gothic Revival church known for its intricate interior design and impressive stained glass windows."
+      },
+      {
+        "img": "x",
+        "alt": "Museum of Contemporary Art (Musée d'art contemporain de Montréal)",
+        "title": "Museum of Contemporary Art (Musée d'art contemporain de Montréal)",
+        "description": "The Museum of Contemporary Art showcases contemporary and avant-garde art through a variety of exhibitions and installations."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Poutine",
+        "title": "Poutine",
+        "description": "Poutine is a Canadian dish made of french fries topped with cheese curds and smothered in savory gravy. A must-try Quebecois specialty."
+      },
+      {
+        "img": "x",
+        "alt": "Bagels",
+        "title": "Bagels",
+        "description": "Montreal is famous for its unique style of bagels, characterized by their smaller size, sweet flavor, and the traditional method of wood-fired baking."
+      },
+      {
+        "img": "x",
+        "alt": "Smoked Meat Sandwich",
+        "title": "Smoked Meat Sandwich",
+        "description": "A Montreal smoked meat sandwich features deliciously spiced and smoked beef piled high on rye bread with mustard."
+      },
+      {
+        "img": "x",
+        "alt": "Tourtière",
+        "title": "Tourtière",
+        "description": "Tourtière is a traditional meat pie, often served during the holiday season, and comes in various regional styles."
+      },
+      {
+        "img": "x",
+        "alt": "Maple Syrup",
+        "title": "Maple Syrup",
+        "description": "Quebec is renowned for its high-quality maple syrup, which can be found in various products, from syrup to candies."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Fairmont The Queen Elizabeth",
+        "title": "Fairmont The Queen Elizabeth",
+        "description": "Fairmont The Queen Elizabeth is a historic and elegant hotel located in downtown Montreal, offering luxurious accommodations and dining."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel William Gray",
+        "title": "Hotel William Gray",
+        "description": "Hotel William Gray is a boutique hotel in Old Montreal with a contemporary design, a rooftop terrace, and scenic views."
+      },
+      {
+        "img": "x",
+        "alt": "Le Mount Stephen Hotel",
+        "title": "Le Mount Stephen Hotel",
+        "description": "Le Mount Stephen Hotel is a luxury boutique hotel in a historic mansion, known for its opulent décor and exceptional service."
+      },
+      {
+        "img": "x",
+        "alt": "Ritz-Carlton Montreal",
+        "title": "Ritz-Carlton Montreal",
+        "description": "The Ritz-Carlton Montreal is a landmark hotel offering timeless luxury, world-class dining, and a prestigious address."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Nelligan",
+        "title": "Hotel Nelligan",
+        "description": "Hotel Nelligan is a charming boutique hotel in Old Montreal, known for its comfortable rooms and a rooftop terrace with panoramic city views."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "STM Metro",
+        "title": "STM Metro",
+        "description": "The Société de transport de Montréal (STM) operates the metro system, making it easy to navigate the city and reach various attractions."
+      },
+      {
+        "img": "x",
+        "alt": "BIXI Bike Share",
+        "title": "BIXI Bike Share",
+        "description": "BIXI is Montreal's popular bike-sharing system, providing a convenient way to explore the city on two wheels."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis",
+        "title": "Taxis",
+        "description": "Taxis are readily available in Montreal and can be hailed on the street or requested through mobile apps."
+      },
+      {
+        "img": "x",
+        "alt": "Pierre Elliott Trudeau International Airport",
+        "title": "Pierre Elliott Trudeau International Airport",
+        "description": "Pierre Elliott Trudeau International Airport (YUL) is Montreal's major airport, serving both domestic and international flights."
+      }
+    ]
   }
-  
+}

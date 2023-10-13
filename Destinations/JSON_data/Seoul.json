@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Seoul"
+    },
+    "about": {
+      "name": "Seoul",
+      "info_text": "Seoul, the capital of South Korea, is a dynamic and bustling metropolis that seamlessly combines tradition and modernity. This vibrant city is known for its rich history, stunning palaces, technological innovations, and delicious cuisine. Visitors to Seoul can explore ancient temples and palaces, enjoy the energetic street markets, experience the K-pop culture, and indulge in the flavors of Korean barbecue and kimchi. With its unique blend of old and new, Seoul offers a truly immersive experience for travelers.",
+      "facts_text": "<strong>Population:</strong> Approximately 9.7 million<br><strong>Province:</strong> Seoul<br><strong>Time Zone:</strong> Korean Standard Time (UTC+09:00)<br><strong>Language:</strong> Korean<br><strong>Currency:</strong> Korean Won (KRW)",
+      "climate_text": "Seoul experiences four distinct seasons. Winters are cold, with temperatures often dropping below freezing, while summers are hot and humid. Spring and autumn are pleasant, with mild temperatures and colorful foliage."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Gyeongbokgung Palace",
+          "title": "Gyeongbokgung Palace",
+          "description": "Gyeongbokgung Palace is the largest and most iconic of Seoul's five grand palaces. Visitors can witness the changing of the guard ceremony and explore the beautiful architecture and spacious courtyards."
+        },
+        {
+          "img": "x",
+          "alt": "Namsan Seoul Tower",
+          "title": "Namsan Seoul Tower",
+          "description": "Namsan Seoul Tower sits atop Namsan Mountain and offers panoramic views of the city. It's a popular spot for couples, with thousands of love locks adorning the fences."
+        },
+        {
+          "img": "x",
+          "alt": "Bukchon Hanok Village",
+          "title": "Bukchon Hanok Village",
+          "description": "Bukchon Hanok Village is a preserved traditional Korean village with hanok houses, narrow alleyways, and a glimpse into Seoul's architectural heritage."
+        },
+        {
+          "img": "x",
+          "alt": "Myeongdong Shopping Street",
+          "title": "Myeongdong Shopping Street",
+          "description": "Myeongdong is a popular shopping district known for its trendy boutiques, cosmetics shops, street food stalls, and vibrant atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Changdeokgung Palace",
+          "title": "Changdeokgung Palace",
+          "description": "Changdeokgung Palace, a UNESCO World Heritage Site, offers a beautiful and serene environment with its Secret Garden, a hidden oasis within the palace grounds."
+        },
+        {
+          "img": "x",
+          "alt": "Insadong",
+          "title": "Insadong",
+          "description": "Insadong is a cultural district where you can explore art galleries, traditional tea houses, and shops selling traditional Korean crafts and souvenirs."
+        },
+        {
+          "img": "x",
+          "alt": "Lotte World Tower",
+          "title": "Lotte World Tower",
+          "description": "Lotte World Tower is one of the tallest skyscrapers in the world and features an observation deck, a luxury mall, and an aquarium."
+        },
+        {
+          "img": "x",
+          "alt": "War Memorial of Korea",
+          "title": "War Memorial of Korea",
+          "description": "The War Memorial of Korea is a museum dedicated to the history of the Korean War and the country's military heritage."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Bibimbap",
+          "title": "Bibimbap",
+          "description": "Bibimbap is a popular Korean dish made with mixed rice, vegetables, meat (usually beef), and a flavorful gochujang sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Kimchi",
+          "title": "Kimchi",
+          "description": "Kimchi is a staple of Korean cuisine, consisting of fermented vegetables, mainly napa cabbage and Korean radishes, seasoned with various spices."
+        },
+        {
+          "img": "x",
+          "alt": "Korean Barbecue",
+          "title": "Korean Barbecue",
+          "description": "Korean barbecue is a dining experience where you grill your own meat at the table, accompanied by a variety of side dishes and dipping sauces."
+        },
+        {
+          "img": "x",
+          "alt": "Tteokbokki",
+          "title": "Tteokbokki",
+          "description": "Tteokbokki is a popular street food made with chewy rice cakes smothered in a spicy and sweet gochujang sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Samgyeopsal",
+          "title": "Samgyeopsal",
+          "description": "Samgyeopsal is a delicious Korean pork belly dish, often enjoyed as a barbecue and wrapped in lettuce leaves with various condiments."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Shilla Seoul",
+          "title": "The Shilla Seoul",
+          "description": "The Shilla Seoul is a luxury hotel with a serene ambiance, offering top-notch accommodations, dining, and leisure facilities."
+        },
+        {
+          "img": "x",
+          "alt": "Lotte Hotel Seoul",
+          "title": "Lotte Hotel Seoul",
+          "description": "Lotte Hotel Seoul is a 5-star hotel with modern amenities, excellent dining options, and a convenient location in the heart of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Seoul",
+          "title": "Four Seasons Hotel Seoul",
+          "description": "The Four Seasons Hotel Seoul combines luxury and style, featuring spacious rooms, exceptional dining, and a rooftop bar with stunning views."
+        },
+        {
+          "img": "x",
+          "alt": "Grand Hyatt Seoul",
+          "title": "Grand Hyatt Seoul",
+          "description": "Grand Hyatt Seoul offers a tranquil escape in the heart of the city, boasting beautiful gardens, fine dining, and elegant rooms."
+        },
+        {
+          "img": "x",
+          "alt": "JW Marriott Dongdaemun Square Seoul",
+          "title": "JW Marriott Dongdaemun Square Seoul",
+          "description": "This Marriott hotel in Dongdaemun Square provides a blend of contemporary design and luxury, with easy access to shopping and cultural attractions."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Seoul Metro",
+          "title": "Seoul Metro",
+          "description": "The Seoul Metro is a vast and efficient subway system that connects all major parts of the city and offers easy access to attractions."
+        },
+        {
+          "img": "x",
+          "alt": "City Buses",
+          "title": "City Buses",
+          "description": "Seoul's extensive bus network provides another convenient way to navigate the city, with numerous routes and stops."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are widely available in Seoul and can be hailed on the street or booked through ride-sharing apps."
+        },
+        {
+          "img": "x",
+          "alt": "Incheon International Airport",
+          "title": "Incheon International Airport",
+          "description": "Incheon International Airport (ICN) is the main international airport serving Seoul, offering both domestic and international flights."
+        }
+      ]
+    }
+  }  

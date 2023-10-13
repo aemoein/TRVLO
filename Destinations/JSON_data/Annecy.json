@@ -1,101 +1,154 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Annecy"
-    },
-    "about": {
-      "name": "Annecy",
-      "info_text": "Annecy is a charming town nestled in the French Alps, known for its stunning Alpine scenery, pristine lake, and well-preserved medieval architecture. With its nickname 'Venice of the Alps,' Annecy boasts scenic canals, colorful houses, and charming streets. Visitors can explore the historic old town, relax by Lake Annecy, and enjoy various outdoor activities, including hiking, cycling, and water sports.",
-      "facts_text": "<strong>Population:</strong> Approximately 50,000<br><strong>Country:</strong> France<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)",
-      "climate_text": "x"
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Palais de l'Isle",
-          "title": "Palais de l'Isle",
-          "description": "Visit the iconic Palais de l'Isle, a medieval palace that has served as a prison and lordly residence."
-        },
-        {
-          "img": "x",
-          "alt": "Lake Annecy",
-          "title": "Lake Annecy",
-          "description": "Enjoy the crystal-clear waters of Lake Annecy, surrounded by mountains, for swimming, boating, and picnics."
-        },
-        {
-          "img": "x",
-          "alt": "Château d'Annecy",
-          "title": "Château d'Annecy",
-          "description": "Explore Château d'Annecy, a historic castle overlooking the town and offering panoramic views of the lake and mountains."
-        },
-        {
-          "img": "x",
-          "alt": "Annecy Old Town",
-          "title": "Annecy Old Town",
-          "description": "Stroll through Annecy's picturesque old town with its narrow canals, colorful buildings, and charming cafés."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Tartiflette",
-          "title": "Tartiflette",
-          "description": "Savor Tartiflette, a hearty Savoyard dish made with potatoes, reblochon cheese, lardons, and onions."
-        },
-        {
-          "img": "x",
-          "alt": "Raclette",
-          "title": "Raclette",
-          "description": "Indulge in Raclette, a famous melted cheese dish served with potatoes, pickles, and cured meats."
-        },
-        {
-          "img": "x",
-          "alt": "Croissant aux Amandes",
-          "title": "Croissant aux Amandes",
-          "description": "Enjoy a Croissant aux Amandes, a sweet pastry filled with almond cream, popular in the region."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "L'Impérial Palace",
-          "title": "L'Impérial Palace",
-          "description": "Stay at L'Impérial Palace, a luxurious hotel and spa located on the shores of Lake Annecy."
-        },
-        {
-          "img": "x",
-          "alt": "Hôtel du Palais de l'Isle",
-          "title": "Hôtel du Palais de l'Isle",
-          "description": "Experience a unique stay at Hôtel du Palais de l'Isle, a charming hotel in a historic building."
-        },
-        {
-          "img": "x",
-          "alt": "Auberge du Lyonnais",
-          "title": "Auberge du Lyonnais",
-          "description": "Enjoy the cozy ambiance of Auberge du Lyonnais, a traditional Savoyard inn in the heart of Annecy."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Annecy Railway Station",
-          "title": "Annecy Railway Station",
-          "description": "Arrive in Annecy via the Annecy Railway Station, connecting the town to major cities in France."
-        },
-        {
-          "img": "x",
-          "alt": "Annecy Buses",
-          "title": "Annecy Buses",
-          "description": "Use the Annecy bus network for convenient transportation within the town and its surroundings."
-        }
-      ]
-    }
+  "hero": {
+    "img": "x",
+    "title": "Annecy"
+  },
+  "about": {
+    "name": "Annecy",
+    "info_text": "Annecy is a charming town in southeastern France, often referred to as the 'Venice of the Alps' due to its picturesque canals, cobbled streets, and stunning alpine backdrop. This delightful destination is known for its well-preserved medieval old town, Lake Annecy, and the surrounding snow-capped mountains. Visitors can explore the historic streets, enjoy water activities on the lake, and savor the local cuisine in cozy cafes and restaurants. Annecy is a true gem for nature lovers, history enthusiasts, and those seeking a romantic escape.",
+    "facts_text": "<strong>Population:</strong> Approximately 53,000<br><strong>Region:</strong> Auvergne-Rhône-Alpes<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Annecy experiences a continental climate with cold winters and mild summers. Winter temperatures can drop below freezing, while summer temperatures range from 18°C (64°F) to 25°C (77°F). It's an ideal destination for both winter sports and summer adventures."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Palais de l'Isle",
+        "title": "Palais de l'Isle",
+        "description": "The Palais de l'Isle is a historic castle that served as a prison in the past. It's one of Annecy's most iconic landmarks and is located on an island in the Thiou River."
+      },
+      {
+        "img": "x",
+        "alt": "Château d'Annecy",
+        "title": "Château d'Annecy",
+        "description": "Château d'Annecy is a beautiful castle overlooking the old town. It houses the Annecy Castle Museum, which showcases regional art and history."
+      },
+      {
+        "img": "x",
+        "alt": "Lake Annecy",
+        "title": "Lake Annecy",
+        "description": "Lake Annecy, often called Europe's cleanest lake, offers a wide range of water sports, swimming, and a scenic lakeside promenade."
+      },
+      {
+        "img": "x",
+        "alt": "Pont des Amours",
+        "title": "Pont des Amours",
+        "description": "The 'Lovers' Bridge' is a romantic spot over the Canal du Vassé. Legend has it that a kiss exchanged on this bridge guarantees eternal love."
+      },
+      {
+        "img": "x",
+        "alt": "Annecy Old Town",
+        "title": "Annecy Old Town",
+        "description": "Wander through the medieval old town's winding streets, lined with colorful houses, charming boutiques, and delightful cafes."
+      },
+      {
+        "img": "x",
+        "alt": "Basilique de la Visitation",
+        "title": "Basilique de la Visitation",
+        "description": "This stunning basilica offers panoramic views of Annecy and Lake Annecy. It's a place of serenity and architectural beauty."
+      },
+      {
+        "img": "x",
+        "alt": "Gorges du Fier",
+        "title": "Gorges du Fier",
+        "description": "Explore the impressive natural beauty of Gorges du Fier, a narrow gorge with a footbridge that allows you to walk above the river."
+      },
+      {
+        "img": "x",
+        "alt": "Paragliding",
+        "title": "Paragliding",
+        "description": "Annecy is a paragliding paradise, and visitors can take to the skies to enjoy breathtaking aerial views of the town and surrounding landscapes."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Savoyard Cuisine",
+        "title": "Savoyard Cuisine",
+        "description": "Indulge in Savoyard specialties such as raclette, fondue, and tartiflette, accompanied by delicious local wines."
+      },
+      {
+        "img": "x",
+        "alt": "Pâtisserie",
+        "title": "Pâtisserie",
+        "description": "Annecy offers a delectable range of French pastries and desserts, from macarons to tarts and éclairs."
+      },
+      {
+        "img": "x",
+        "alt": "Fresh Seafood",
+        "title": "Fresh Seafood",
+        "description": "With its proximity to Lake Annecy, enjoy fresh fish and seafood dishes in the town's restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Local Markets",
+        "title": "Local Markets",
+        "description": "Visit local markets to discover fresh produce, cheeses, and a variety of regional specialties."
+      },
+      {
+        "img": "x",
+        "alt": "Annecy Beer",
+        "title": "Annecy Beer",
+        "description": "Sample locally brewed beers at Annecy's microbreweries, known for their craft beers."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hôtel de l'Abbaye",
+        "title": "Hôtel de l'Abbaye",
+        "description": "Hôtel de l'Abbaye offers comfortable accommodations in the heart of Annecy's old town, providing a charming and historic atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Impérial Palace Annecy",
+        "title": "Impérial Palace Annecy",
+        "description": "The Impérial Palace Annecy is a luxury hotel and casino overlooking Lake Annecy, providing a lavish and scenic stay."
+      },
+      {
+        "img": "x",
+        "alt": "Boutique Hotels",
+        "title": "Boutique Hotels",
+        "description": "Annecy boasts boutique hotels with unique character and a personalized experience, often situated in the old town."
+      },
+      {
+        "img": "x",
+        "alt": "Budget Accommodations",
+        "title": "Budget Accommodations",
+        "description": "For budget travelers, there are a variety of affordable guesthouses and hostels available in and around Annecy."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Annecy Airport",
+        "title": "Annecy Airport",
+        "description": "Annecy-Meythet Airport (NCY) is the closest airport, offering domestic and European flights for travelers."
+      },
+      {
+        "img": "x",
+        "alt": "Public Transport",
+        "title": "Public Transport",
+        "description": "Annecy has a well-connected network of buses for exploring the town and its surroundings, as well as the beautiful lakefront."
+      },
+      {
+        "img": "x",
+        "alt": "Cycling",
+        "title": "Cycling",
+        "description": "Rent a bike and explore Annecy and its scenic countryside at your own pace, with dedicated bike paths and routes."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rentals are available for those who wish to explore the surrounding Alpine landscapes and nearby attractions."
+      }
+    ]
   }
-  
+}

@@ -1,101 +1,160 @@
 {
-    "hero": {
-      "img": "https://res-2.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/locations/city%20images/munich_at_the_evening_-177540533_eokd07",
-      "title": "Munich"
-    },
-    "about": {
-      "name": "Munich",
-      "info_text": "Munich is a charming and culturally rich city located in southern Germany. Known for its Bavarian traditions, historic architecture, and beautiful parks, Munich offers a mix of old-world charm and modern sophistication. Visitors can explore the city's museums, beer gardens, and historic landmarks, or savor the delicious Bavarian cuisine that Munich is famous for. Whether you're interested in history, culture, or a bit of both, Munich has something to offer for everyone.",
-      "facts_text": "<strong>Population:</strong> 1.5 million<br><strong>State:</strong> Bavaria<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> German<br><strong>Currency:</strong> Euro (EUR)",
-      "climate_text": "Munich has a continental climate with cold winters and warm summers. Average temperatures range from -1°C (30°F) in winter to 24°C (75°F) in summer. Munich enjoys plenty of sunshine, making it an ideal destination for outdoor activities during the summer."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "X",
-          "alt": "Nymphenburg Palace",
-          "title": "Nymphenburg Palace",
-          "description": "Nymphenburg Palace is a grand Baroque palace in Munich, known for its stunning architecture and beautiful gardens. Visitors can explore the palace's opulent rooms, art collections, and take leisurely walks in the palace gardens."
-        },
-        {
-          "img": "X",
-          "alt": "Marienplatz",
-          "title": "Marienplatz",
-          "description": "Marienplatz is Munich's central square and a hub of activity. The square is surrounded by historic buildings, including the New Town Hall with its famous Glockenspiel. It's a great place to experience the city's atmosphere."
-        },
-        {
-          "img": "X",
-          "alt": "English Garden",
-          "title": "English Garden",
-          "description": "The English Garden is one of the largest urban parks in the world and offers a peaceful escape in the heart of Munich. Visitors can enjoy serene lakes, walking and biking trails, and the famous Eisbach wave for surfing."
-        },
-        {
-          "img": "X",
-          "alt": "Hofbräuhaus",
-          "title": "Hofbräuhaus",
-          "description": "Hofbräuhaus is an iconic beer hall in Munich, known for its lively atmosphere, traditional Bavarian music, and, of course, beer. It's a must-visit to experience Bavarian culture."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "X",
-          "alt": "Schnitzel",
-          "title": "Schnitzel",
-          "description": "Schnitzel is a classic German dish consisting of breaded and fried meat, usually served with potatoes and a tasty sauce. Some of the best places to try schnitzel in Munich are at traditional Bavarian restaurants."
-        },
-        {
-          "img": "X",
-          "alt": "Bratwurst",
-          "title": "Bratwurst",
-          "description": "Bratwurst is a German sausage made from pork, veal, or beef. You can find delicious bratwurst at local beer gardens and food stalls throughout Munich."
-        },
-        {
-          "img": "X",
-          "alt": "Pretzels",
-          "title": "Pretzels",
-          "description": "Pretzels are a beloved snack in Germany, and you'll find them at bakeries, street vendors, and beer gardens in Munich. They pair perfectly with beer."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "X",
-          "alt": "Hotel Vier Jahreszeiten Kempinski",
-          "title": "Hotel Vier Jahreszeiten Kempinski",
-          "description": "This luxurious hotel is located in the heart of Munich and offers elegant rooms, fine dining, and a spa. It's known for its impeccable service and central location."
-        },
-        {
-          "img": "X",
-          "alt": "Munich Marriott Hotel",
-          "title": "Munich Marriott Hotel",
-          "description": "The Munich Marriott Hotel provides comfortable accommodations and convenient access to the city's attractions. Guests can enjoy a fitness center, restaurant, and stylish rooms."
-        },
-        {
-          "img": "X",
-          "alt": "Aloft Munich",
-          "title": "Aloft Munich",
-          "description": "Aloft Munich is a trendy and modern hotel in Munich's city center. It offers vibrant rooms, a bar with a view, and a lively atmosphere."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "X",
-          "alt": "U-Bahn",
-          "title": "U-Bahn",
-          "description": "The U-Bahn is Munich's underground railway system, providing efficient transportation to various parts of the city. Tickets can be easily purchased at stations or through the mobile app."
-        },
-        {
-          "img": "X",
-          "alt": "Tram",
-          "title": "Tram",
-          "description": "Munich's tram system offers another convenient way to get around the city, particularly to neighborhoods not covered by the U-Bahn. Trams are a popular mode of transportation for both locals and tourists."
-        }
-      ]
-    }
+  "hero": {
+    "img": "x",
+    "title": "Munich"
+  },
+  "about": {
+    "name": "Munich",
+    "info_text": "Munich, the capital of Bavaria, is a charming and historic city in southern Germany. Known for its rich culture, beer gardens, and picturesque architecture, Munich offers a delightful blend of tradition and modernity. Visitors can explore historic sites, indulge in Bavarian cuisine, and enjoy the city's vibrant arts and music scene. Whether you're strolling through the English Garden or sipping beer at the famous Hofbräuhaus, Munich has something to offer every traveler.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.5 million<br><strong>State:</strong> Bavaria (Bayern)<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> German<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Munich experiences a continental climate with cold winters and warm summers. The city is known for its beautiful parks and gardens, which are ideal for enjoying the outdoors in the summer months."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Marienplatz",
+        "title": "Marienplatz",
+        "description": "Marienplatz is Munich's central square and home to the famous Glockenspiel, a musical clock with dancing figurines. It's a bustling hub of activity and a great starting point for exploring the city."
+      },
+      {
+        "img": "x",
+        "alt": "Nymphenburg Palace",
+        "title": "Nymphenburg Palace",
+        "description": "Nymphenburg Palace is a magnificent Baroque palace complex surrounded by lush gardens. Visitors can explore the opulent rooms and enjoy the beautiful park grounds."
+      },
+      {
+        "img": "x",
+        "alt": "English Garden",
+        "title": "English Garden",
+        "description": "The English Garden is one of the world's largest urban parks, offering green spaces, serene lakes, and even a Chinese pagoda. It's a great place for leisurely walks and picnics."
+      },
+      {
+        "img": "x",
+        "alt": "Hofbräuhaus",
+        "title": "Hofbräuhaus",
+        "description": "Hofbräuhaus is an iconic Munich beer hall where you can savor traditional Bavarian beer, hearty food, and live music in a lively and historic atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Viktualienmarkt",
+        "title": "Viktualienmarkt",
+        "description": "Viktualienmarkt is a bustling food market in the heart of Munich. You can find fresh produce, local delicacies, and enjoy outdoor beer gardens."
+      },
+      {
+        "img": "x",
+        "alt": "Olympiapark",
+        "title": "Olympiapark",
+        "description": "The Olympiapark is a vast sports and leisure complex, famous for its futuristic architecture. You can enjoy panoramic views from the Olympic Tower or catch a concert or event at the Olympic Stadium."
+      },
+      {
+        "img": "x",
+        "alt": "Deutsches Museum",
+        "title": "Deutsches Museum",
+        "description": "The Deutsches Museum is one of the world's largest science and technology museums, featuring a wide range of interactive exhibits and collections."
+      },
+      {
+        "img": "x",
+        "alt": "BMW Welt",
+        "title": "BMW Welt",
+        "description": "BMW Welt is a unique experience for car enthusiasts, offering a glimpse into the world of BMW with exhibitions of their latest vehicles and technologies."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Weisswurst",
+        "title": "Weisswurst",
+        "description": "Weisswurst is a traditional Bavarian sausage made from minced veal and pork back bacon. It's typically flavored with parsley, lemon, mace, onions, ginger, and cardamom."
+      },
+      {
+        "img": "x",
+        "alt": "Pretzels",
+        "title": "Pretzels",
+        "description": "Soft pretzels, known as Brezn in Bavarian, are a beloved snack in Munich. They are often enjoyed with mustard and make a perfect pairing with beer."
+      },
+      {
+        "img": "x",
+        "alt": "Sauerbraten",
+        "title": "Sauerbraten",
+        "description": "Sauerbraten is a pot roast, typically of beef (but sometimes pork, lamb, mutton, or traditionally, horse), marinated before slow-cooking in a mixture of vinegar or wine and water."
+      },
+      {
+        "img": "x",
+        "alt": "Apfelstrudel",
+        "title": "Apfelstrudel",
+        "description": "Apfelstrudel, or apple strudel, is a classic German pastry filled with spiced apples, cinnamon, and raisins, often served with a dollop of whipped cream."
+      },
+      {
+        "img": "x",
+        "alt": "Beer",
+        "title": "Beer",
+        "description": "Munich is famous for its beer, and you can enjoy a wide variety of brews. The city hosts the annual Oktoberfest, the world's largest beer festival."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hotel Vier Jahreszeiten Kempinski Munich",
+        "title": "Hotel Vier Jahreszeiten Kempinski Munich",
+        "description": "This luxury hotel in the heart of Munich offers elegant rooms, gourmet dining, and a spa. It's known for its impeccable service and central location."
+      },
+      {
+        "img": "x",
+        "alt": "Bayerischer Hof",
+        "title": "Bayerischer Hof",
+        "description": "Bayerischer Hof is a renowned five-star hotel in Munich, offering a variety of restaurants, a rooftop bar, and a cinema. It's a blend of tradition and modern comfort."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Königshof",
+        "title": "Hotel Königshof",
+        "description": "Hotel Königshof is a luxury boutique hotel near Marienplatz, known for its elegant design, personalized service, and gourmet dining."
+      },
+      {
+        "img": "x",
+        "alt": "Mandarin Oriental, Munich",
+        "title": "Mandarin Oriental, Munich",
+        "description": "Mandarin Oriental, Munich is a five-star hotel with a prime location near Maximilianstrasse. It offers elegant rooms, a rooftop bar, and a spa."
+      },
+      {
+        "img": "x",
+        "alt": "Leonardo Hotel Munich Arabellapark",
+        "title": "Leonardo Hotel Munich Arabellapark",
+        "description": "This modern hotel in the Bogenhausen district offers comfortable accommodations, a restaurant, and easy access to public transport."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Munich S-Bahn",
+        "title": "Munich S-Bahn",
+        "description": "The Munich S-Bahn is an efficient urban rail network connecting the city and its suburbs. It's a convenient way to travel around Munich and the surrounding areas."
+      },
+      {
+        "img": "x",
+        "alt": "Trams and Buses",
+        "title": "Trams and Buses",
+        "description": "Munich has an extensive tram and bus network that covers the entire city, making it easy to reach various neighborhoods and attractions."
+      },
+      {
+        "img": "x",
+        "alt": "U-Bahn (Metro)",
+        "title": "U-Bahn (Metro)",
+        "description": "The Munich U-Bahn, or metro, is another efficient mode of public transportation that complements the S-Bahn and connects the city's key areas."
+      },
+      {
+        "img": "x",
+        "alt": "Munich Airport (MUC)",
+        "title": "Munich Airport (MUC)",
+        "description": "Munich Airport, also known as Franz Josef Strauss International Airport, is the primary international gateway to Munich and the surrounding region."
+      }
+    ]
   }
-  
+}

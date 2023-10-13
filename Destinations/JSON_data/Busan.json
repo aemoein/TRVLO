@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Busan"
+    },
+    "about": {
+      "name": "Busan",
+      "info_text": "Busan, South Korea's second-largest city, is a bustling metropolis located on the country's southeastern coast. Known for its stunning coastline, vibrant street markets, and rich cultural heritage, Busan offers a mix of traditional and modern experiences. Visitors can explore pristine beaches, sample delicious seafood, and immerse themselves in the city's lively festivals and events. Busan is also home to significant landmarks, such as the renowned Haeundae Beach and the historic Gamcheon Culture Village.",
+      "facts_text": "<strong>Population:</strong> Approximately 3.4 million<br><strong>Province:</strong> South Gyeongsang<br><strong>Time Zone:</strong> Korean Standard Time (UTC+09:00)<br><strong>Language:</strong> Korean<br><strong>Currency:</strong> South Korean Won (KRW)",
+      "climate_text": "Busan experiences a temperate climate with warm summers and mild winters. It's a popular destination in the summer for beachgoers and offers a pleasant climate for most of the year."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Haeundae Beach",
+          "title": "Haeundae Beach",
+          "description": "Haeundae Beach is one of South Korea's most famous and beautiful beaches, known for its soft sand and clear waters. It's a popular destination for sunbathing and water sports."
+        },
+        {
+          "img": "x",
+          "alt": "Gamcheon Culture Village",
+          "title": "Gamcheon Culture Village",
+          "description": "The Gamcheon Culture Village is a colorful hillside neighborhood filled with art installations, quirky sculptures, and a lively artistic atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Taejongdae Park",
+          "title": "Taejongdae Park",
+          "description": "Taejongdae Park is a natural park featuring rugged cliffs, dense forests, and scenic viewpoints overlooking the sea. It's an excellent spot for hiking and picnics."
+        },
+        {
+          "img": "x",
+          "alt": "Jagalchi Fish Market",
+          "title": "Jagalchi Fish Market",
+          "description": "Jagalchi Fish Market is South Korea's largest seafood market, where visitors can experience the vibrant fish auction and sample fresh seafood dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Beomeosa Temple",
+          "title": "Beomeosa Temple",
+          "description": "Beomeosa Temple is a historic Buddhist temple complex located in a tranquil forest setting, offering cultural and spiritual experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Dalmaji Hill",
+          "title": "Dalmaji Hill",
+          "description": "Dalmaji Hill is a scenic coastal road lined with cherry blossoms, making it a popular destination during the cherry blossom season."
+        },
+        {
+          "img": "x",
+          "alt": "Busan Tower",
+          "title": "Busan Tower",
+          "description": "Busan Tower is an iconic landmark with panoramic views of the city. It's beautifully illuminated at night and offers a romantic atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Songdo Beach Skywalk",
+          "title": "Songdo Beach Skywalk",
+          "description": "The Songdo Beach Skywalk is a glass-bottomed walkway that extends over the sea, providing thrilling views of the ocean below."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Haemul Pajeon",
+          "title": "Haemul Pajeon",
+          "description": "Haemul Pajeon is a savory Korean pancake loaded with fresh seafood, scallions, and a flavorful dipping sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Hoe",
+          "title": "Hoe",
+          "description": "Hoe is a Korean-style raw fish dish, often served with fresh and marinated fish slices, accompanied by various side dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Dwaeji Gukbap",
+          "title": "Dwaeji Gukbap",
+          "description": "Dwaeji Gukbap is a hearty pork soup with rice, enjoyed with spicy condiments and a rich, flavorful broth."
+        },
+        {
+          "img": "x",
+          "alt": "Milmyeon",
+          "title": "Milmyeon",
+          "description": "Milmyeon is a cold and spicy noodle dish, perfect for hot summer days, and a specialty of Busan's culinary scene."
+        },
+        {
+          "img": "x",
+          "alt": "Ssiat Hotteok",
+          "title": "Ssiat Hotteok",
+          "description": "Ssiat Hotteok is a sweet Korean pancake filled with a mixture of seeds, nuts, and brown sugar syrup, offering a delightful dessert."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Paradise Hotel Busan",
+          "title": "Paradise Hotel Busan",
+          "description": "Paradise Hotel Busan is a luxurious beachfront hotel in Haeundae, offering spacious rooms, a casino, and multiple dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Lotte Hotel Busan",
+          "title": "Lotte Hotel Busan",
+          "description": "Lotte Hotel Busan is a stylish and modern hotel located in the heart of the city, featuring comfortable accommodations and upscale amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Novotel Ambassador Busan",
+          "title": "Novotel Ambassador Busan",
+          "description": "Novotel Ambassador Busan is a contemporary hotel with stunning sea views, convenient access to Haeundae Beach, and well-appointed rooms."
+        },
+        {
+          "img": "x",
+          "alt": "Park Hyatt Busan",
+          "title": "Park Hyatt Busan",
+          "description": "Park Hyatt Busan is a luxury hotel in Marine City, offering elegant rooms, a spa, and spectacular views of the Gwangan Bridge and coastline."
+        },
+        {
+          "img": "x",
+          "alt": "Citadines Haeundae Busan",
+          "title": "Citadines Haeundae Busan",
+          "description": "Citadines Haeundae Busan is an apartment-style hotel in the Haeundae district, perfect for extended stays and self-catering."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Busan Metro",
+          "title": "Busan Metro",
+          "description": "The Busan Metro is a convenient way to travel within the city, with multiple lines connecting key areas, including Haeundae, Nampo, and Seomyeon."
+        },
+        {
+          "img": "x",
+          "alt": "City Buses",
+          "title": "City Buses",
+          "description": "City buses provide extensive coverage in Busan, making it easy to reach various neighborhoods and attractions."
+        },
+        {
+          "img": "x",
+          "alt": "KTX Train",
+          "title": "KTX Train",
+          "description": "The KTX (Korea Train eXpress) offers high-speed rail travel, connecting Busan to major cities like Seoul and Daegu in a matter of hours."
+        },
+        {
+          "img": "x",
+          "alt": "Gimhae International Airport",
+          "title": "Gimhae International Airport",
+          "description": "Gimhae International Airport (PUS) serves Busan and provides both domestic and international flight options."
+        }
+      ]
+    }
+  }  

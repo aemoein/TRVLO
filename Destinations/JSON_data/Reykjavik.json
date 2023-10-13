@@ -5,9 +5,9 @@
   },
   "about": {
     "name": "Reykjavik",
-    "info_text": "Reykjavik, the capital of Iceland, is a city of natural beauty, cultural vibrancy, and unique charm. Located on the southwest coast of Iceland, Reykjavik is the world's northernmost capital and offers a gateway to the country's stunning landscapes. Visitors can explore the city's colorful buildings, lively arts scene, and rich history. Reykjavik is also known for its geothermal pools and spas, making it an ideal place to relax and rejuvenate. Whether you're looking to experience Iceland's unique culture or use Reykjavik as a starting point for your Icelandic adventure, this city has something for everyone.",
-    "facts_text": "<strong>Population:</strong> Approximately 130,000<br><strong>Country:</strong> Iceland<br><strong>Time Zone:</strong> Greenwich Mean Time (GMT+0)<br><strong>Language:</strong> Icelandic, English<br><strong>Currency:</strong> Icelandic Krona (ISK)",
-    "climate_text": "Reykjavik, the capital of Iceland, experiences a subarctic climate with cold winters and cool summers. Winter temperatures in Reykjavik range from -2°C to 2°C (28°F to 36°F), while summer temperatures typically fall between 10°C and 15°C (50°F to 59°F). Precipitation is relatively consistent throughout the year, with frequent rainfall and occasional snowfall during the winter months."
+    "info_text": "Reykjavik, the capital of Iceland, is a unique and vibrant city that combines rich culture, stunning natural beauty, and a deep connection to the country's Viking heritage. The city is known for its colorful buildings, vibrant arts scene, and proximity to incredible landscapes, including geysers, waterfalls, and the Northern Lights. Reykjavik offers a one-of-a-kind blend of urban sophistication and rugged wilderness, making it a must-visit destination for adventurers and culture enthusiasts alike.",
+    "facts_text": "<strong>Population:</strong> Approximately 130,000<br><strong>Region:</strong> Capital Region<br><strong>Time Zone:</strong> Greenwich Mean Time (GMT+0)<br><strong>Language:</strong> Icelandic, English<br><strong>Currency:</strong> Icelandic Krona (ISK)",
+    "climate_text": "Reykjavik experiences a subarctic climate, with cool summers and cold winters. It's known for its ever-changing weather, which can include sunny days, rain, and snow all in one day. The city's coastal location makes it milder than other places at similar latitudes."
   },
   "attractions": {
     "attractions_card": [
@@ -15,25 +15,49 @@
         "img": "x",
         "alt": "Hallgrímskirkja",
         "title": "Hallgrímskirkja",
-        "description": "Visit the iconic Hallgrímskirkja church, offering panoramic views of Reykjavik from its observation tower."
+        "description": "Hallgrímskirkja is a striking Lutheran church and one of Reykjavik's most iconic landmarks, known for its unique modern design and panoramic views from the tower."
+      },
+      {
+        "img": "x",
+        "alt": "The Sun Voyager",
+        "title": "The Sun Voyager",
+        "description": "The Sun Voyager is a famous sculpture located along Reykjavik's waterfront, representing a dreamboat and symbolizing the promise of undiscovered territory."
       },
       {
         "img": "x",
         "alt": "Harpa Concert Hall",
         "title": "Harpa Concert Hall",
-        "description": "Explore the stunning Harpa Concert Hall and Conference Centre, known for its modern architecture and cultural events."
+        "description": "Harpa is a remarkable concert hall and conference center with a distinct glass façade, hosting various events, including musical performances and exhibitions."
       },
       {
         "img": "x",
         "alt": "Blue Lagoon",
         "title": "Blue Lagoon",
-        "description": "Relax in the famous Blue Lagoon geothermal spa, surrounded by lava fields and offering warm, mineral-rich waters."
+        "description": "The Blue Lagoon is a geothermal spa located in a lava field, offering warm mineral-rich waters with healing properties, making it a popular relaxation spot."
       },
       {
         "img": "x",
         "alt": "Golden Circle",
         "title": "Golden Circle",
-        "description": "Embark on a tour of the Golden Circle, featuring attractions like Geysir geothermal area, Gullfoss waterfall, and Thingvellir National Park."
+        "description": "The Golden Circle is a famous route that includes three major attractions: Thingvellir National Park, Geysir geothermal area, and Gullfoss waterfall."
+      },
+      {
+        "img": "x",
+        "alt": "National Museum of Iceland",
+        "title": "National Museum of Iceland",
+        "description": "The National Museum showcases Iceland's history, culture, and heritage through a wide range of artifacts and exhibitions."
+      },
+      {
+        "img": "x",
+        "alt": "Perlan",
+        "title": "Perlan",
+        "description": "Perlan is a unique dome-shaped structure that houses a rotating restaurant, exhibition space, and a viewing platform offering panoramic views."
+      },
+      {
+        "img": "x",
+        "alt": "Whale Watching",
+        "title": "Whale Watching",
+        "description": "Reykjavik is a hub for whale watching tours, where you can spot various marine wildlife, including whales, dolphins, and seabirds."
       }
     ]
   },
@@ -43,19 +67,31 @@
         "img": "x",
         "alt": "Icelandic Lamb",
         "title": "Icelandic Lamb",
-        "description": "Savor traditional Icelandic lamb dishes, known for their tender and flavorful meat."
+        "description": "Icelandic lamb is renowned for its tender and flavorful meat, often served as lamb chops or in traditional dishes like lamb stew."
       },
       {
         "img": "x",
-        "alt": "Plokkfiskur",
-        "title": "Plokkfiskur",
-        "description": "Try Plokkfiskur, an Icelandic fish stew made with cod or haddock, potatoes, and béchamel sauce."
+        "alt": "Pylsa (Hot Dog)",
+        "title": "Pylsa (Hot Dog)",
+        "description": "Icelandic hot dogs, or pylsur, are a beloved snack made with a blend of meats, including lamb, and are typically topped with crispy onions, remoulade sauce, and more."
       },
       {
         "img": "x",
         "alt": "Skyr",
         "title": "Skyr",
-        "description": "Enjoy Skyr, an Icelandic yogurt-like dairy product that's often served with fruits and honey."
+        "description": "Skyr is a creamy and healthy dairy product that resembles yogurt, often served with berries and honey or used in desserts."
+      },
+      {
+        "img": "x",
+        "alt": "Icelandic Fish",
+        "title": "Icelandic Fish",
+        "description": "Fresh fish is a staple in Icelandic cuisine, with options like cod, haddock, and Arctic char, often prepared in various delicious ways."
+      },
+      {
+        "img": "x",
+        "alt": "Rúgbrauð (Rye Bread)",
+        "title": "Rúgbrauð (Rye Bread)",
+        "description": "Rúgbrauð is a dense and sweet Icelandic rye bread, traditionally baked in the ground with geothermal heat."
       }
     ]
   },
@@ -63,21 +99,33 @@
     "hotels_card": [
       {
         "img": "x",
-        "alt": "Ion Adventure Hotel",
-        "title": "Ion Adventure Hotel",
-        "description": "Stay at the Ion Adventure Hotel, a stylish eco-friendly hotel with breathtaking views of Iceland's natural wonders."
+        "alt": "Icelandair Hotel Reykjavik Natura",
+        "title": "Icelandair Hotel Reykjavik Natura",
+        "description": "Icelandair Hotel Reykjavik Natura is a comfortable and eco-friendly hotel, conveniently located near the city center and nature areas."
       },
       {
         "img": "x",
-        "alt": "CenterHotel Thingholt",
-        "title": "CenterHotel Thingholt",
-        "description": "Experience modern comfort at CenterHotel Thingholt, located in the heart of Reykjavik's city center."
+        "alt": "Radisson Blu Saga Hotel",
+        "title": "Radisson Blu Saga Hotel",
+        "description": "The Radisson Blu Saga Hotel offers a blend of modern comfort and a historic setting, featuring comfortable rooms and excellent dining options."
+      },
+      {
+        "img": "x",
+        "alt": "Canopy by Hilton Reykjavik City Centre",
+        "title": "Canopy by Hilton Reykjavik City Centre",
+        "description": "Canopy by Hilton provides a stylish and central stay with a local touch, making it an ideal base for exploring the city."
       },
       {
         "img": "x",
         "alt": "Fosshotel Reykjavik",
         "title": "Fosshotel Reykjavik",
-        "description": "Relax at the Fosshotel Reykjavik, a contemporary hotel offering great amenities and proximity to the city's attractions."
+        "description": "Fosshotel Reykjavik is a modern and centrally located hotel, featuring comfortable rooms and panoramic views from the tower."
+      },
+      {
+        "img": "x",
+        "alt": "Icelandair Hotel Reykjavik Marina",
+        "title": "Icelandair Hotel Reykjavik Marina",
+        "description": "Icelandair Hotel Reykjavik Marina is a quirky and artistic hotel located in the old harbor area, offering unique and cozy accommodations."
       }
     ]
   },
@@ -85,15 +133,27 @@
     "transport_card": [
       {
         "img": "x",
-        "alt": "Reykjavik Domestic Airport",
-        "title": "Reykjavik Domestic Airport",
-        "description": "Fly into Reykjavik Domestic Airport for domestic flights and easy access to other parts of Iceland."
+        "alt": "Keflavik International Airport",
+        "title": "Keflavik International Airport",
+        "description": "Keflavik International Airport (KEF) is the main international airport in Iceland, serving Reykjavik and connecting the country to the world."
       },
       {
         "img": "x",
-        "alt": "Reykjavik Excursions",
-        "title": "Reykjavik Excursions",
-        "description": "Use Reykjavik Excursions for convenient transportation options, including airport transfers and tours."
+        "alt": "Reykjavik Domestic Airport",
+        "title": "Reykjavik Domestic Airport",
+        "description": "Reykjavik Domestic Airport (RKV) offers domestic flights within Iceland and serves as a convenient hub for exploring the country."
+      },
+      {
+        "img": "x",
+        "alt": "Public Bus System",
+        "title": "Public Bus System",
+        "description": "Reykjavik has a public bus system that covers the city and nearby areas, providing an affordable way to get around."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rentals are a popular choice for exploring Iceland's stunning landscapes, with several rental companies available at the airport."
       }
     ]
   }

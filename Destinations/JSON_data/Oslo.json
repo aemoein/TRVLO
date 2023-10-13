@@ -1,101 +1,160 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Oslo"
-    },
-    "about": {
-      "name": "Oslo",
-      "info_text": "Oslo, the capital of Norway, is a vibrant and modern city located at the northernmost tip of Europe. Nestled between the Oslofjord and lush green hills, Oslo offers a unique blend of nature, culture, and history. Visitors can explore the city's many museums, including the Munch Museum, dedicated to the famous painter Edvard Munch. The city is also known for its stunning natural landscapes, such as the Oslofjord, forests, and islands, providing ample opportunities for outdoor activities and relaxation.",
-      "facts_text": "<strong>Population:</strong> Approximately 700,000<br><strong>Country:</strong> Norway<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Norwegian<br><strong>Currency:</strong> Norwegian Krone (NOK)",
-      "climate_text": "Oslo, the capital of Norway, has a temperate maritime climate with four distinct seasons. Summers in Oslo are relatively mild, with temperatures typically ranging from 15°C to 25°C (59°F to 77°F), while winters are cold, with temperatures between -6°C and 2°C (21°F to 36°F). Oslo experiences moderate rainfall throughout the year, with snowfall common in the winter months."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Vigeland Park",
-          "title": "Vigeland Park",
-          "description": "Explore the world's largest sculpture park created by a single artist, Gustav Vigeland. The park features over 200 sculptures, including the famous Monolith and the Wheel of Life."
-        },
-        {
-          "img": "x",
-          "alt": "The Viking Ship Museum",
-          "title": "The Viking Ship Museum",
-          "description": "Discover well-preserved Viking ships, artifacts, and historical exhibits that provide insight into Norway's Viking heritage."
-        },
-        {
-          "img": "x",
-          "alt": "Holmenkollen Ski Museum and Tower",
-          "title": "Holmenkollen Ski Museum and Tower",
-          "description": "Visit the world's oldest ski museum and experience the thrill of standing atop the famous Holmenkollen Ski Jump, offering panoramic views of Oslo."
-        },
-        {
-          "img": "x",
-          "alt": "The Royal Palace",
-          "title": "The Royal Palace",
-          "description": "Admire the official residence of the Norwegian monarch. While you can't enter the palace, you can witness the changing of the guards ceremony."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Gravlaks",
-          "title": "Gravlaks",
-          "description": "Indulge in gravlaks, a traditional Norwegian dish of cured salmon served with mustard sauce, bread, and dill. It's a delicacy you must try."
-        },
-        {
-          "img": "x",
-          "alt": "Koldtbord",
-          "title": "Koldtbord",
-          "description": "Experience the Norwegian koldtbord, a lavish cold buffet featuring an array of seafood, cold meats, cheeses, and more."
-        },
-        {
-          "img": "x",
-          "alt": "Brunost",
-          "title": "Brunost",
-          "description": "Try brunost, a sweet brown cheese that is uniquely Norwegian. It's often served with waffles or crackers."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Grand Hotel Oslo",
-          "title": "Grand Hotel Oslo",
-          "description": "Stay at the iconic Grand Hotel Oslo, known for its luxury, history, and central location. It has hosted numerous celebrities and dignitaries."
-        },
-        {
-          "img": "x",
-          "alt": "Scandic Holmenkollen Park",
-          "title": "Scandic Holmenkollen Park",
-          "description": "Nestled in the hills above Oslo, this hotel offers stunning views and is close to the Holmenkollen Ski Jump and Museum."
-        },
-        {
-          "img": "x",
-          "alt": "The Thief",
-          "title": "The Thief",
-          "description": "Experience modern luxury at The Thief, a boutique hotel on Tjuvholmen Island. It offers contemporary design and waterfront views."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Oslo Metro",
-          "title": "Oslo Metro",
-          "description": "The Oslo Metro provides efficient transportation within the city and easy access to attractions, including Holmenkollen and Vigeland Park."
-        },
-        {
-          "img": "x",
-          "alt": "Ferries and Boats",
-          "title": "Ferries and Boats",
-          "description": "Explore the Oslofjord and nearby islands by taking a ferry or boat ride. It's a scenic way to experience the region's stunning natural beauty."
-        }
-      ]
-    }
+  "hero": {
+    "img": "x",
+    "title": "Oslo"
+  },
+  "about": {
+    "name": "Oslo",
+    "info_text": "Oslo, the capital of Norway, is a vibrant and modern city nestled at the head of the Oslofjord. It's known for its harmonious blend of natural beauty, cutting-edge architecture, and rich cultural heritage. Oslo offers a high quality of life, with a strong focus on sustainability, making it a wonderful destination for exploring the great outdoors and experiencing Nordic culture. From world-class museums to pristine forests and fjords, Oslo has something for everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 700,000<br><strong>County:</strong> Oslo<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Language:</strong> Norwegian<br><strong>Currency:</strong> Norwegian Krone (NOK)",
+    "climate_text": "Oslo experiences a temperate maritime climate with warm summers and cold winters. Summer temperatures range from 15°C to 25°C (59°F to 77°F), while winter temperatures can drop below freezing with occasional snowfall."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Vigeland Park",
+        "title": "Vigeland Park",
+        "description": "Vigeland Park, also known as Frogner Park, is the world's largest sculpture park created by a single artist, Gustav Vigeland. It features over 200 bronze and granite sculptures set amidst beautifully landscaped gardens."
+      },
+      {
+        "img": "x",
+        "alt": "The Viking Ship Museum",
+        "title": "The Viking Ship Museum",
+        "description": "The Viking Ship Museum houses well-preserved Viking ships, artifacts, and historical treasures, offering a fascinating glimpse into Norway's seafaring history."
+      },
+      {
+        "img": "x",
+        "alt": "The Royal Palace",
+        "title": "The Royal Palace",
+        "description": "The Royal Palace is the official residence of the Norwegian monarch in Oslo. Visitors can witness the changing of the guard and explore the palace grounds."
+      },
+      {
+        "img": "x",
+        "alt": "Holmenkollen Ski Jump",
+        "title": "Holmenkollen Ski Jump",
+        "description": "Holmenkollen Ski Jump is a historic ski jump that has hosted numerous ski jumping competitions. The accompanying museum showcases the history of skiing and winter sports."
+      },
+      {
+        "img": "x",
+        "alt": "Aker Brygge",
+        "title": "Aker Brygge",
+        "description": "Aker Brygge is a popular waterfront district with a mix of shops, restaurants, and entertainment. It offers stunning views of the Oslo Fjord and is a hub for leisure and dining."
+      },
+      {
+        "img": "x",
+        "alt": "The Fram Museum",
+        "title": "The Fram Museum",
+        "description": "The Fram Museum houses the polar exploration ship Fram, which carried famous explorers like Roald Amundsen on their expeditions to the North and South Poles."
+      },
+      {
+        "img": "x",
+        "alt": "Opera House",
+        "title": "Opera House",
+        "description": "The Oslo Opera House is a striking architectural gem with a sloping roof that visitors can walk on. It's a cultural center for opera, ballet, and music performances."
+      },
+      {
+        "img": "x",
+        "alt": "Norsk Folkemuseum",
+        "title": "Norsk Folkemuseum",
+        "description": "Norsk Folkemuseum is an open-air museum that showcases traditional Norwegian buildings, cultural artifacts, and historical exhibitions."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Smørrebrød",
+        "title": "Smørrebrød",
+        "description": "Smørrebrød is an open-faced sandwich, a Danish and Norwegian specialty. It features various toppings like herring, roast beef, and egg salad on rye bread."
+      },
+      {
+        "img": "x",
+        "alt": "Gravlaks",
+        "title": "Gravlaks",
+        "description": "Gravlaks is a Norwegian version of gravlax, a cured salmon dish served with mustard sauce, dill, and traditional Norwegian flatbread."
+      },
+      {
+        "img": "x",
+        "alt": "Koldtbord",
+        "title": "Koldtbord",
+        "description": "Koldtbord is a traditional Norwegian buffet-style meal featuring a variety of cold dishes, including seafood, meats, salads, and more."
+      },
+      {
+        "img": "x",
+        "alt": "Brunost",
+        "title": "Brunost",
+        "description": "Brunost, or brown cheese, is a sweet, caramelized cheese that's a staple of Norwegian cuisine, often served with bread."
+      },
+      {
+        "img": "x",
+        "alt": "Raspeballer",
+        "title": "Raspeballer",
+        "description": "Raspeballer are traditional Norwegian potato dumplings, typically served with a savory meat sauce."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Thief",
+        "title": "The Thief",
+        "description": "The Thief is a stylish, waterfront hotel in Tjuvholmen with contemporary design, art installations, and breathtaking views."
+      },
+      {
+        "img": "x",
+        "alt": "Grand Hotel Oslo",
+        "title": "Grand Hotel Oslo",
+        "description": "The Grand Hotel is a historic and luxurious landmark in Oslo, known for its elegance, high-class service, and prime location."
+      },
+      {
+        "img": "x",
+        "alt": "Scandic Holmenkollen Park",
+        "title": "Scandic Holmenkollen Park",
+        "description": "Scandic Holmenkollen Park is a classic hotel situated near the Holmenkollen Ski Jump, offering stunning views of the city and fjord."
+      },
+      {
+        "img": "x",
+        "alt": "Thon Hotel Opera",
+        "title": "Thon Hotel Opera",
+        "description": "Thon Hotel Opera is a modern and comfortable hotel located next to the Oslo Opera House, providing convenient access to the city's cultural attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Radisson Blu Plaza Hotel",
+        "title": "Radisson Blu Plaza Hotel",
+        "description": "Radisson Blu Plaza Hotel is a contemporary hotel in the city center, offering comfortable accommodations and modern amenities."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Oslo Trams",
+        "title": "Oslo Trams",
+        "description": "Oslo has an efficient tram system that provides easy access to various parts of the city, including popular attractions and neighborhoods."
+      },
+      {
+        "img": "x",
+        "alt": "Oslo Metro",
+        "title": "Oslo Metro",
+        "description": "The Oslo Metro is another convenient mode of transportation, connecting the city and its suburbs."
+      },
+      {
+        "img": "x",
+        "alt": "Ferries",
+        "title": "Ferries",
+        "description": "Ferries and boats are essential for exploring the Oslo Fjord and its islands, offering scenic views and leisurely trips."
+      },
+      {
+        "img": "x",
+        "alt": "Oslo Gardermoen Airport",
+        "title": "Oslo Gardermoen Airport",
+        "description": "Oslo Gardermoen Airport (OSL) is the primary international gateway to Oslo and the largest airport in Norway, serving both domestic and international flights."
+      }
+    ]
   }
-  
+}

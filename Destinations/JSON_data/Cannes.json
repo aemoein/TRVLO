@@ -1,99 +1,153 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Cannes"
-    },
-    "about": {
-      "name": "Cannes",
-      "info_text": "Cannes is a glamorous city on the French Riviera known for its beautiful beaches, luxurious resorts, and the world-famous Cannes Film Festival. With its stunning Mediterranean coastline, vibrant nightlife, and upscale shopping, Cannes is a playground for the rich and famous. Visitors can explore the historic old town, relax on sandy beaches, and enjoy exquisite dining and entertainment.",
-      "facts_text": "<strong>Population:</strong> Approximately 75,000<br><strong>Country:</strong> France<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)"
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Promenade de la Croisette",
-          "title": "Promenade de la Croisette",
-          "description": "Stroll along the iconic Promenade de la Croisette, a waterfront boulevard lined with palm trees and luxury hotels."
-        },
-        {
-          "img": "x",
-          "alt": "Cannes Film Festival",
-          "title": "Cannes Film Festival",
-          "description": "Experience the glitz and glamour of the Cannes Film Festival, where international cinema takes the spotlight."
-        },
-        {
-          "img": "x",
-          "alt": "Le Suquet (Old Town)",
-          "title": "Le Suquet (Old Town)",
-          "description": "Explore Le Suquet, the charming old town of Cannes, with its cobbled streets, historic buildings, and panoramic views."
-        },
-        {
-          "img": "x",
-          "alt": "Île Saint-Honorat",
-          "title": "Île Saint-Honorat",
-          "description": "Take a boat trip to Île Saint-Honorat, a tranquil island with a medieval monastery and natural beauty."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Bouillabaisse",
-          "title": "Bouillabaisse",
-          "description": "Indulge in Bouillabaisse, a traditional Provençal fish stew, served in many of Cannes' seafood restaurants."
-        },
-        {
-          "img": "x",
-          "alt": "Socca",
-          "title": "Socca",
-          "description": "Try Socca, a savory chickpea flour pancake, often found in the markets of Cannes."
-        },
-        {
-          "img": "x",
-          "alt": "Salade Niçoise",
-          "title": "Salade Niçoise",
-          "description": "Enjoy a classic Salade Niçoise, a salad featuring tuna, olives, anchovies, and fresh vegetables."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Hotel Barrière Le Majestic",
-          "title": "Hotel Barrière Le Majestic",
-          "description": "Experience luxury at Hotel Barrière Le Majestic, a renowned 5-star hotel with stunning sea views."
-        },
-        {
-          "img": "x",
-          "alt": "InterContinental Carlton Cannes",
-          "title": "InterContinental Carlton Cannes",
-          "description": "Stay at the historic InterContinental Carlton Cannes, a grand hotel on the Croisette."
-        },
-        {
-          "img": "x",
-          "alt": "Hôtel Martinez",
-          "title": "Hôtel Martinez",
-          "description": "Relax at Hôtel Martinez, another prestigious 5-star hotel known for its elegance and comfort."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Cannes Railway Station",
-          "title": "Cannes Railway Station",
-          "description": "Arrive in Cannes via the Cannes Railway Station, providing connections to other cities along the French Riviera."
-        },
-        {
-          "img": "x",
-          "alt": "Cannes Buses",
-          "title": "Cannes Buses",
-          "description": "Use the Cannes bus network for convenient transportation within the city and its surrounding areas."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Cannes"
+  },
+  "about": {
+    "name": "Cannes",
+    "info_text": "Cannes is a picturesque city located on the French Riviera in the Provence-Alpes-Côte d'Azur region of France. It is famous for its beautiful Mediterranean beaches, upscale shopping, and the internationally renowned Cannes Film Festival. The city is a playground for the rich and famous, with its luxurious hotels, exquisite dining, and a vibrant nightlife scene. Visitors can explore the charming Old Town (Le Suquet), relax on the sandy shores, and take in the stunning views of the Mediterranean Sea. Cannes offers a unique blend of culture, glamour, and natural beauty.",
+    "facts_text": "<strong>Population:</strong> Approximately 74,000<br><strong>Official Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Climate:</strong> Mediterranean climate with warm, dry summers and mild, wet winters."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Cannes Film Festival",
+        "title": "Cannes Film Festival",
+        "description": "One of the most prestigious film festivals in the world, where celebrities and filmmakers gather to showcase and celebrate cinematic art."
+      },
+      {
+        "img": "x",
+        "alt": "La Croisette",
+        "title": "La Croisette",
+        "description": "A famous waterfront promenade lined with palm trees, luxury boutiques, and upscale hotels, offering stunning views of the Mediterranean."
+      },
+      {
+        "img": "x",
+        "alt": "Le Suquet (Old Town)",
+        "title": "Le Suquet (Old Town)",
+        "description": "Explore the historic Old Town with its narrow streets, charming squares, and the iconic Musée de la Castre."
+      },
+      {
+        "img": "x",
+        "alt": "Palais des Festivals et des Congrès",
+        "title": "Palais des Festivals",
+        "description": "The venue for the Cannes Film Festival and other major events, known for its striking architectural design."
+      },
+      {
+        "img": "x",
+        "alt": "Îles de Lérins",
+        "title": "Îles de Lérins",
+        "description": "A group of beautiful islands, including Île Sainte-Marguerite and Île Saint-Honorat, offering natural beauty, historical sites, and tranquility."
+      },
+      {
+        "img": "x",
+        "alt": "Museums and Galleries",
+        "title": "Museums and Galleries",
+        "description": "Cannes boasts a range of cultural institutions, including the Musée de la Castre and the Musée de la Mer."
+      },
+      {
+        "img": "x",
+        "alt": "Beaches",
+        "title": "Beaches",
+        "description": "Relax on the sandy shores of Cannes, including Plage de la Croisette, Plage de la Bocca, and more."
+      },
+      {
+        "img": "x",
+        "alt": "Shopping and Dining",
+        "title": "Shopping and Dining",
+        "description": "Indulge in upscale shopping at designer boutiques and savor gourmet French cuisine at the city's fine dining restaurants."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "French Cuisine",
+        "title": "French Cuisine",
+        "description": "Enjoy classic French dishes such as coq au vin, bouillabaisse, and escargot at Cannes' renowned restaurants."
+      },
+      {
+        "img": "x",
+        "alt": "Mediterranean Delights",
+        "title": "Mediterranean Delights",
+        "description": "Savor Mediterranean flavors with fresh seafood, olive oil, and herbs in dishes like grilled fish and seafood stew."
+      },
+      {
+        "img": "x",
+        "alt": "Patisseries and Desserts",
+        "title": "Patisseries and Desserts",
+        "description": "Treat yourself to delectable pastries, macarons, and crème brûlée at local patisseries and dessert shops."
+      },
+      {
+        "img": "x",
+        "alt": "Cafés and Coffee",
+        "title": "Cafés and Coffee",
+        "description": "Relax at charming cafés, enjoying espresso and people-watching along the promenade."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Luxury Resorts",
+        "title": "Luxury Resorts",
+        "description": "Cannes offers a range of luxury resorts and hotels with lavish amenities and scenic views of the Mediterranean."
+      },
+      {
+        "img": "x",
+        "alt": "Boutique Hotels",
+        "title": "Boutique Hotels",
+        "description": "Stay in boutique hotels with unique character and personalized service in the heart of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Seaside Villas",
+        "title": "Seaside Villas",
+        "description": "Experience the charm of Cannes in seaside villas and apartments available for rent."
+      },
+      {
+        "img": "x",
+        "alt": "Budget Accommodations",
+        "title": "Budget Accommodations",
+        "description": "Budget-conscious travelers can find comfortable and affordable hotels in Cannes."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Nice Côte d'Azur Airport",
+        "title": "Nice Côte d'Azur Airport",
+        "description": "The nearest major airport serving Cannes, providing domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Train Services",
+        "title": "Train Services",
+        "description": "Cannes is well-connected by train, with services to other French cities and nearby destinations."
+      },
+      {
+        "img": "x",
+        "alt": "Public Transport",
+        "title": "Public Transport",
+        "description": "Explore Cannes and its surroundings using the city's efficient bus services."
+      },
+      {
+        "img": "x",
+        "alt": "Walking",
+        "title": "Walking",
+        "description": "Cannes is a walkable city, making it easy to explore the streets, beaches, and attractions on foot."
+      },
+      {
+        "img": "x",
+        "alt": "Car Rentals",
+        "title": "Car Rentals",
+        "description": "Car rentals are available for those who wish to explore the French Riviera and its scenic coastal roads."
+      }
+    ]
+  }
+}

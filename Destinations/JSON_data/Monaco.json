@@ -1,100 +1,153 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Monaco"
-    },
-    "about": {
-      "name": "Monaco",
-      "info_text": "Monaco is a tiny yet glamorous principality located on the French Riviera in Western Europe. Known for its opulent lifestyle, luxurious casinos, and stunning Mediterranean coastline, Monaco is a playground for the rich and famous. Visitors can explore its charming old town, visit the iconic Casino de Monte-Carlo, or enjoy the vibrant nightlife and cultural events. Despite its small size, Monaco boasts a rich history and a unique blend of French and Mediterranean influences.",
-      "facts_text": "<strong>Population:</strong> Approximately 38,000<br><strong>Country:</strong> Monaco<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)",
-      "climate_text": "Monaco, situated on the French Riviera, enjoys a Mediterranean climate characterized by mild, wet winters and hot, dry summers. Summer temperatures in Monaco can reach 30°C to 35°C (86°F to 95°F), while winter temperatures generally range from 8°C to 14°C (46°F to 57°F). Precipitation is more frequent in the cooler months, with drier conditions prevailing during the summer."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Casino de Monte-Carlo",
-          "title": "Casino de Monte-Carlo",
-          "description": "One of the world's most iconic casinos, the Casino de Monte-Carlo offers a glamorous gaming experience in a stunning Belle Époque building."
-        },
-        {
-          "img": "x",
-          "alt": "Prince's Palace of Monaco",
-          "title": "Prince's Palace of Monaco",
-          "description": "Visit the official residence of the Sovereign Prince of Monaco. Explore the palace's historical and architectural treasures."
-        },
-        {
-          "img": "x",
-          "alt": "The Rock of Monaco",
-          "title": "The Rock of Monaco",
-          "description": "Perched on a rocky outcrop, The Rock is home to Monaco-Ville, the old town. Stroll through charming streets and enjoy panoramic views."
-        },
-        {
-          "img": "x",
-          "alt": "Oceanographic Museum",
-          "title": "Oceanographic Museum",
-          "description": "Discover marine life and oceanography at this fascinating museum, founded by Prince Albert I. It features an impressive aquarium and educational exhibits."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Bouillabaisse",
-          "title": "Bouillabaisse",
-          "description": "Savor the flavors of the Mediterranean with bouillabaisse, a traditional fish stew. Monaco's coastal location offers some of the freshest seafood dishes."
-        },
-        {
-          "img": "x",
-          "alt": "Barbagiuan",
-          "title": "Barbagiuan",
-          "description": "Try barbagiuan, a savory pastry filled with Swiss chard, ricotta, and Parmesan. It's a popular local snack."
-        },
-        {
-          "img": "x",
-          "alt": "Tarte aux Noix",
-          "title": "Tarte aux Noix",
-          "description": "Indulge in tarte aux noix, a delicious walnut pie that's a sweet treat and a favorite dessert in Monaco."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Hotel de Paris Monte-Carlo",
-          "title": "Hotel de Paris Monte-Carlo",
-          "description": "Experience luxury at its finest at Hotel de Paris. This iconic hotel offers exquisite rooms, Michelin-starred dining, and a prime location."
-        },
-        {
-          "img": "x",
-          "alt": "Hotel Hermitage Monte-Carlo",
-          "title": "Hotel Hermitage Monte-Carlo",
-          "description": "A Belle Époque gem, Hotel Hermitage boasts elegance and modern comforts. Guests can enjoy stunning views and access to the casino."
-        },
-        {
-          "img": "x",
-          "alt": "Fairmont Monte Carlo",
-          "title": "Fairmont Monte Carlo",
-          "description": "Set by the sea, the Fairmont Monte Carlo offers luxurious rooms and amenities, including a rooftop pool and fitness center."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Monaco Heliport",
-          "title": "Monaco Heliport",
-          "description": "Arrive in style by taking a helicopter from Nice Côte d'Azur Airport. The heliport offers breathtaking views of the French Riviera."
-        },
-        {
-          "img": "x",
-          "alt": "Public Transport",
-          "title": "Public Transport",
-          "description": "Monaco's efficient bus network provides an easy way to get around the principality and explore its attractions and neighborhoods."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Monaco"
+  },
+  "about": {
+    "name": "Monaco",
+    "info_text": "Monaco is a tiny sovereign city-state located on the French Riviera in Western Europe. Known for its glitz, glamour, and stunning Mediterranean coastline, Monaco is a playground for the rich and famous. Despite its small size, the city-state offers a wide range of attractions, from upscale casinos and luxury boutiques to historical landmarks and beautiful gardens. Monaco's mix of natural beauty, high-end entertainment, and a rich cultural heritage makes it a unique destination on the French Riviera.",
+    "facts_text": "<strong>Population:</strong> Approximately 38,000<br><strong>Official Language:</strong> French<br><strong>Currency:</strong> Euro (EUR)<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Climate:</strong> Mediterranean climate with mild, wet winters and hot, dry summers."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Monte Carlo Casino",
+        "title": "Monte Carlo Casino",
+        "description": "The Monte Carlo Casino is an iconic destination known for its opulent architecture and high-stakes gambling. It's a must-visit even for those who don't gamble, thanks to its beautiful interior and exterior."
+      },
+      {
+        "img": "x",
+        "alt": "Prince's Palace of Monaco",
+        "title": "Prince's Palace of Monaco",
+        "description": "The Prince's Palace is the official residence of the ruling monarch of Monaco. Visitors can explore the historic palace and its stunning surroundings, including the Changing of the Guard ceremony."
+      },
+      {
+        "img": "x",
+        "alt": "Jardin Exotique de Monaco",
+        "title": "Jardin Exotique de Monaco",
+        "description": "The Jardin Exotique is a botanical garden with a vast collection of succulent plants and cacti. It offers panoramic views of Monaco and the Mediterranean Sea."
+      },
+      {
+        "img": "x",
+        "alt": "Oceanographic Museum",
+        "title": "Oceanographic Museum",
+        "description": "The Oceanographic Museum is a marine science museum founded by Prince Albert I. It houses an aquarium, maritime artifacts, and a vast collection of marine life."
+      },
+      {
+        "img": "x",
+        "alt": "Larvotto Beach",
+        "title": "Larvotto Beach",
+        "description": "Larvotto Beach is Monaco's main public beach, offering a beautiful stretch of sand and clear blue waters. It's a great spot to relax and enjoy the Mediterranean sun."
+      },
+      {
+        "img": "x",
+        "alt": "The Rock of Monaco",
+        "title": "The Rock of Monaco",
+        "description": "The Rock of Monaco, also known as Le Rocher, is the historic heart of the city-state. It features charming narrow streets, the cathedral, and old-world architecture."
+      },
+      {
+        "img": "x",
+        "alt": "Port Hercules",
+        "title": "Port Hercules",
+        "description": "Port Hercules is a bustling marina filled with luxury yachts and lined with cafes and restaurants. It's a prime spot for people-watching and enjoying the maritime atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Monaco Grand Prix Circuit",
+        "title": "Monaco Grand Prix Circuit",
+        "description": "The Monaco Grand Prix is one of the most prestigious Formula 1 races, and you can walk the legendary circuit when there are no races taking place."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Monégasque Cuisine",
+        "title": "Monégasque Cuisine",
+        "description": "Monaco's cuisine is influenced by French and Italian flavors. Don't miss local specialties like Barbajuan (deep-fried pastry filled with Swiss chard and ricotta) and Stocafi (dried codfish)."
+      },
+      {
+        "img": "x",
+        "alt": "Fine Dining",
+        "title": "Fine Dining",
+        "description": "Monaco is home to some of the world's finest restaurants, including Michelin-starred establishments. Enjoy gourmet experiences featuring French and Mediterranean cuisine."
+      },
+      {
+        "img": "x",
+        "alt": "French Pastries",
+        "title": "French Pastries",
+        "description": "Indulge in delectable French pastries and desserts at local patisseries. Try classics like croissants, macarons, and tarts."
+      },
+      {
+        "img": "x",
+        "alt": "Local Wines",
+        "title": "Local Wines",
+        "description": "Sample wines from the nearby French regions of Provence and Côte d'Azur, which pair perfectly with Mediterranean cuisine."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hotel de Paris Monte-Carlo",
+        "title": "Hotel de Paris Monte-Carlo",
+        "description": "Hotel de Paris is a legendary luxury hotel located near the Monte Carlo Casino, offering opulent rooms and top-notch service."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Hermitage Monte-Carlo",
+        "title": "Hotel Hermitage Monte-Carlo",
+        "description": "Hotel Hermitage is an elegant hotel with Belle Époque architecture, providing a sophisticated atmosphere and beautiful views."
+      },
+      {
+        "img": "x",
+        "alt": "Fairmont Monte Carlo",
+        "title": "Fairmont Monte Carlo",
+        "description": "The Fairmont boasts a prime location overlooking the Mediterranean, with modern accommodations and fantastic amenities."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Metropole Monte-Carlo",
+        "title": "Hotel Metropole Monte-Carlo",
+        "description": "Hotel Metropole offers a luxurious experience with stylish rooms, Michelin-starred dining, and a stunning pool area."
+      },
+      {
+        "img": "x",
+        "alt": "Le Meridien Beach Plaza",
+        "title": "Le Meridien Beach Plaza",
+        "description": "Le Meridien Beach Plaza is a contemporary beachfront hotel with sea-view rooms and a private beach area."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Monaco Heliport",
+        "title": "Monaco Heliport",
+        "description": "The Monaco Heliport offers helicopter services to and from Nice Côte d'Azur Airport, providing a quick and scenic way to reach Monaco."
+      },
+      {
+        "img": "x",
+        "alt": "Train Services",
+        "title": "Train Services",
+        "description": "The Monaco Monte Carlo Train Station connects the city-state with nearby towns and cities, making it easy to explore the French Riviera by train."
+      },
+      {
+        "img": "x",
+        "alt": "Public Transportation",
+        "title": "Public Transportation",
+        "description": "Monaco has an efficient bus network that covers the city and surrounding areas. You can also use the city's public elevators and escalators to navigate the steep terrain."
+      },
+      {
+        "img": "x",
+        "alt": "Nice Côte d'Azur Airport",
+        "title": "Nice Côte d'Azur Airport",
+        "description": "Nice Côte d'Azur Airport (NCE) is the closest major international airport to Monaco, with numerous flight options to destinations worldwide."
+      }
+    ]
+  }
+}

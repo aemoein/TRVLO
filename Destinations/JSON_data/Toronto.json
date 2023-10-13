@@ -1,100 +1,160 @@
 {
-    "hero": {
-      "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
-      "title": "Toronto"
-    },
-    "about": {
-      "name": "Toronto",
-      "info_text": "Toronto is a diverse and vibrant city located on the shores of Lake Ontario in Canada. Known for its friendly people, vibrant neighborhoods, and beautiful green spaces, Toronto is a popular destination for travelers from all over the world. Visitors can explore the city's unique blend of cultures and traditions by visiting its many museums, galleries, and theaters, or by sampling its world-class cuisine. Toronto is also a hub for business and technology, with a thriving startup scene and a strong economy. Whether you're looking for adventure, relaxation, or inspiration, Toronto has something for everyone.",
-      "facts_text": "<strong>Population:</strong> 2.93 million<br><strong>Province:</strong> Ontario<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> English, French<br><strong>Currency:</strong> Canadian dollar (CAD)",
-      "climate_text": "Toronto has a humid continental climate with warm summers and cold winters. Average temperatures range from -6°C (21°F) in January to 26°C (79°F) in July. The city can experience heavy snowfall and cold winds in the winter months, and occasional heat waves in the summer. Remember to pack warm clothes for winter and light clothes for summer."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "CN Tower",
-          "title": "CN Tower",
-          "description": "Rising 553 meters above the city, the CN Tower is one of Toronto's most iconic landmarks. Visitors can take an elevator to the observation deck for stunning views, or even try the EdgeWalk, a hands-free walk around the edge of the tower's main pod."
-        },
-        {
-          "img": "x",
-          "alt": "Royal Ontario Museum",
-          "title": "Royal Ontario Museum",
-          "description": "The ROM is Canada's largest museum and home to over six million artifacts, artworks, and specimens. Highlights include exhibits on dinosaurs, ancient Egypt, and Canada's First Peoples."
-        },
-        {
-          "img": "x",
-          "alt": "Distillery District",
-          "title": "Distillery District",
-          "description": "This pedestrian-only neighbourhood is home to over 40 heritage buildings that once housed a large whiskey distillery. Today, the district is a popular spot for dining, shopping, and entertainment."
-        },
-        {
-          "img": "x",
-          "alt": "Toronto Islands",
-          "title": "Toronto Islands",
-          "description": "A short ferry ride from downtown Toronto, the Toronto Islands offer a peaceful escape from the city. Visitors can bike, hike, or paddle around the islands, or simply relax on the beach."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Poutine",
-          "title": "Poutine",
-          "description": "Poutine is a Canadian dish that originated in Quebec and consists of fries, cheese curds, and gravy. Some popular places to try poutine in Toronto include Smoke's Poutinerie, Poutini's House of Poutine, and The Fry's Guys."
-        },
-        {
-          "img": "x",
-          "alt": "Peameal Bacon Sandwich",
-          "title": "Peameal Bacon Sandwich",
-          "description": "Another Canadian dish that's popular in Toronto is the peameal bacon sandwich. Some great places to try this sandwich include Carousel Bakery at the St. Lawrence Market, Paddington's Pump, and The Senator Restaurant."
-        },
-        {
-          "img": "x",
-          "alt": "Craft Beer",
-          "title": "Craft Beer",
-          "description": "Toronto has a vibrant craft beer scene, with plenty of breweries and brewpubs to choose from. Some notable places to try craft beer in Toronto include Bellwoods Brewery, Blood Brothers Brewing, and Left Field Brewery."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Fairmont Royal York",
-          "title": "Fairmont Royal York",
-          "description": "This iconic hotel is located in the heart of downtown Toronto and offers luxurious rooms and suites with modern amenities. Amenities include a spa, fitness center, and several dining options."
-        },
-        {
-          "img": "x",
-          "alt": "The Drake Hotel",
-          "title": "The Drake Hotel",
-          "description": "This boutique hotel is situated in the trendy West Queen West neighborhood and offers stylish rooms and suites with unique decor. Guests can also enjoy the on-site restaurant, rooftop patio, and live music events."
-        },
-        {
-          "img": "x",
-          "alt": "HI Toronto Hostel",
-          "title": "HI Toronto Hostel",
-          "description": "This budget-friendly hostel is located in the Annex neighborhood and offers dormitory and private rooms with shared bathrooms. Amenities include a kitchen, lounge, and rooftop terrace with views of the city."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Subway",
-          "title": "Subway",
-          "description": "Toronto's subway system provides quick and easy access to most of the city's attractions. Tickets can be purchased at stations or through the mobile app."
-        },
-        {
-          "img": "x",
-          "alt": "Bike Share",
-          "title": "Bike Share",
-          "description": "Toronto has a bike share program called Bike Share Toronto, with hundreds of bikes available for rent at various stations throughout the city. Users can sign up for a membership or purchase a day pass."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Toronto"
+  },
+  "about": {
+    "name": "Toronto",
+    "info_text": "Toronto is the capital of Ontario and Canada's largest city, known for its diverse culture, stunning skyline, and numerous attractions. It's a city that offers a blend of historic and modern experiences, with a thriving arts scene, multicultural neighborhoods, and a beautiful waterfront. Toronto is a hub for business, culture, and entertainment and welcomes visitors with open arms.",
+    "facts_text": "<strong>Population:</strong> Approximately 2.8 million<br><strong>Province:</strong> Ontario<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> Canadian dollar (CAD)",
+    "climate_text": "Toronto experiences a continental climate with warm summers and cold winters. Summers are typically mild to warm, with temperatures around 20°C to 30°C (68°F to 86°F), while winters can be cold with temperatures often dropping below freezing, and snowfall is common."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "CN Tower",
+        "title": "CN Tower",
+        "description": "The CN Tower is one of the world's tallest freestanding structures and offers breathtaking views of the city from its observation decks and glass floor."
+      },
+      {
+        "img": "x",
+        "alt": "Royal Ontario Museum (ROM)",
+        "title": "Royal Ontario Museum (ROM)",
+        "description": "The ROM is Canada's largest museum of art, culture, and natural history, featuring a diverse range of exhibits and collections."
+      },
+      {
+        "img": "x",
+        "alt": "Distillery District",
+        "title": "Distillery District",
+        "description": "The Distillery District is a historic area with cobblestone streets, art galleries, restaurants, and unique shops set in heritage buildings."
+      },
+      {
+        "img": "x",
+        "alt": "Toronto Islands",
+        "title": "Toronto Islands",
+        "description": "The Toronto Islands are a group of small islands in Lake Ontario, offering a peaceful escape from the city with parks, beaches, and recreational activities."
+      },
+      {
+        "img": "x",
+        "alt": "Art Gallery of Ontario (AGO)",
+        "title": "Art Gallery of Ontario (AGO)",
+        "description": "AGO is one of the largest art museums in North America, featuring an impressive collection of artworks from various periods."
+      },
+      {
+        "img": "x",
+        "alt": "Ripley's Aquarium of Canada",
+        "title": "Ripley's Aquarium of Canada",
+        "description": "This popular aquarium showcases a variety of marine life and offers interactive exhibits, including a mesmerizing underwater tunnel."
+      },
+      {
+        "img": "x",
+        "alt": "St. Lawrence Market",
+        "title": "St. Lawrence Market",
+        "description": "St. Lawrence Market is a historic market with food vendors, artisanal products, and fresh produce, making it a food lover's paradise."
+      },
+      {
+        "img": "x",
+        "alt": "High Park",
+        "title": "High Park",
+        "description": "High Park is Toronto's largest public park, known for its lush green spaces, a zoo, and beautiful cherry blossoms in spring."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Poutine",
+        "title": "Poutine",
+        "description": "Poutine is a Canadian classic, featuring french fries topped with cheese curds and smothered in gravy. A must-try comfort food."
+      },
+      {
+        "img": "x",
+        "alt": "Peameal Bacon Sandwich",
+        "title": "Peameal Bacon Sandwich",
+        "description": "This sandwich features peameal bacon (back bacon) on a bun, often with toppings like lettuce, tomato, and mustard."
+      },
+      {
+        "img": "x",
+        "alt": "Butter Tart",
+        "title": "Butter Tart",
+        "description": "Butter tarts are a sweet treat made with a buttery, sugary filling in a flaky pastry shell, a beloved Canadian dessert."
+      },
+      {
+        "img": "x",
+        "alt": "Kensington Market Street Food",
+        "title": "Kensington Market Street Food",
+        "description": "Kensington Market is known for its diverse street food scene, with international flavors and unique culinary experiences."
+      },
+      {
+        "img": "x",
+        "alt": "Toronto-style Pizza",
+        "title": "Toronto-style Pizza",
+        "description": "Toronto-style pizza is often square or rectangular, with a thick and fluffy crust and a generous amount of toppings."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Fairmont Royal York",
+        "title": "Fairmont Royal York",
+        "description": "The Fairmont Royal York is a historic luxury hotel in the heart of Toronto, offering elegant accommodations and fine dining."
+      },
+      {
+        "img": "x",
+        "alt": "The Ritz-Carlton, Toronto",
+        "title": "The Ritz-Carlton, Toronto",
+        "description": "The Ritz-Carlton, Toronto is a five-star hotel known for its exceptional service and opulent rooms with city views."
+      },
+      {
+        "img": "x",
+        "alt": "Thompson Toronto",
+        "title": "Thompson Toronto",
+        "description": "Thompson Toronto is a stylish and modern hotel in the trendy King West Village, offering a rooftop pool and bar with panoramic views."
+      },
+      {
+        "img": "x",
+        "alt": "Bond Place Hotel",
+        "title": "Bond Place Hotel",
+        "description": "Bond Place Hotel is a budget-friendly option in downtown Toronto, providing comfortable accommodations for travelers on a budget."
+      },
+      {
+        "img": "x",
+        "alt": "HI Toronto Hostel",
+        "title": "HI Toronto Hostel",
+        "description": "HI Toronto Hostel is a great choice for budget travelers and backpackers, offering affordable dormitory-style rooms."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Toronto Pearson International Airport",
+        "title": "Toronto Pearson International Airport",
+        "description": "Toronto Pearson International Airport (YYZ) is the primary airport serving the city and offers a wide range of domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Toronto Transit Commission (TTC)",
+        "title": "Toronto Transit Commission (TTC)",
+        "description": "The TTC operates buses, streetcars, and subways, providing extensive public transportation within Toronto."
+      },
+      {
+        "img": "x",
+        "alt": "GO Transit",
+        "title": "GO Transit",
+        "description": "GO Transit offers commuter train and bus services, connecting Toronto to nearby cities and regions in Ontario."
+      },
+      {
+        "img": "x",
+        "alt": "Bike Share Toronto",
+        "title": "Bike Share Toronto",
+        "description": "Bike Share Toronto provides rental bicycles at various stations throughout the city, offering a convenient way to explore."
+      }
+    ]
+  }
+}

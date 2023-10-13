@@ -1,100 +1,160 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Istanbul"
-    },
-    "about": {
-      "name": "Istanbul",
-      "info_text": "Istanbul, a city that straddles Europe and Asia, is a vibrant and historically rich metropolis in Turkey. With its unique location and cultural heritage, Istanbul offers an enchanting blend of East and West. The city is known for its iconic landmarks like the Hagia Sophia, Blue Mosque, and Topkapi Palace, as well as its bustling bazaars and delicious street food. Visitors can explore centuries of history, enjoy the lively atmosphere of the Grand Bazaar, and savor traditional Turkish delights.",
-      "facts_text": "<strong>Population:</strong> Approximately 15.5 million<br><strong>Country:</strong> Turkey<br><strong>Time Zone:</strong> Turkey Time (UTC+03:00)<br><strong>Language:</strong> Turkish<br><strong>Currency:</strong> Turkish Lira (TRY)",
-      "climate_text": "Istanbul, Turkey, experiences a moderate maritime climate with distinct seasons. Summers in Istanbul are warm, with temperatures typically ranging from 20°C to 30°C (68°F to 86°F), while winters are cool, averaging between 5°C and 10°C (41°F to 50°F). The city receives rainfall throughout the year, but it's more concentrated in the winter months."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Hagia Sophia",
-          "title": "Hagia Sophia",
-          "description": "A marvel of Byzantine architecture, the Hagia Sophia has served as a cathedral, mosque, and now a museum. Explore its stunning interior filled with mosaics and history."
-        },
-        {
-          "img": "x",
-          "alt": "Blue Mosque",
-          "title": "Blue Mosque",
-          "description": "The Blue Mosque, with its six minarets and beautiful blue tiles, is an iconic symbol of Istanbul. Visitors can admire its impressive domes and architecture."
-        },
-        {
-          "img": "x",
-          "alt": "Topkapi Palace",
-          "title": "Topkapi Palace",
-          "description": "The former residence of Ottoman sultans, Topkapi Palace showcases opulent rooms, stunning courtyards, and a rich collection of Ottoman artifacts."
-        },
-        {
-          "img": "x",
-          "alt": "Grand Bazaar",
-          "title": "Grand Bazaar",
-          "description": "One of the world's oldest and largest covered markets, the Grand Bazaar is a paradise for shoppers. Explore its labyrinthine alleys and find treasures."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Kebabs",
-          "title": "Kebabs",
-          "description": "Indulge in a variety of delicious kebabs, a staple of Turkish cuisine. Options include doner, shish, and iskender kebabs, served with fresh bread and salads."
-        },
-        {
-          "img": "x",
-          "alt": "Baklava",
-          "title": "Baklava",
-          "description": "Satisfy your sweet tooth with baklava, a rich dessert made of layers of filo pastry, nuts, and honey. It's a delightful Turkish treat."
-        },
-        {
-          "img": "x",
-          "alt": "Turkish Delight",
-          "title": "Turkish Delight",
-          "description": "Experience the delight of Turkish delight (lokum) in various flavors and colors. It's a sweet, chewy treat often dusted with powdered sugar."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Four Seasons Hotel Istanbul at Sultanahmet",
-          "title": "Four Seasons Hotel Istanbul at Sultanahmet",
-          "description": "Nestled in the heart of the historic Sultanahmet district, this luxurious hotel offers comfortable rooms and easy access to major attractions."
-        },
-        {
-          "img": "x",
-          "alt": "The Marmara Taksim",
-          "title": "The Marmara Taksim",
-          "description": "Located in the vibrant Taksim Square, this hotel provides stunning views of the Bosphorus and the city. Enjoy modern amenities and a central location."
-        },
-        {
-          "img": "x",
-          "alt": "Sura Hagia Sophia Hotel",
-          "title": "Sura Hagia Sophia Hotel",
-          "description": "Just steps from the Hagia Sophia, this elegant hotel offers comfortable accommodations and a restaurant serving Turkish and international dishes."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Trams and Metro",
-          "title": "Trams and Metro",
-          "description": "Istanbul's tram and metro systems provide convenient transportation around the city. Trams are particularly useful for reaching historic sites."
-        },
-        {
-          "img": "x",
-          "alt": "Ferries",
-          "title": "Ferries",
-          "description": "Ferries crisscross the Bosphorus, connecting European and Asian sides of Istanbul. They offer scenic views and are an integral part of the city's transportation."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Istanbul"
+  },
+  "about": {
+    "name": "Istanbul",
+    "info_text": "Istanbul, formerly known as Byzantium and Constantinople, is a city that straddles Europe and Asia across the Bosphorus Strait. It has a rich and diverse history that spans over 2,000 years, making it a city of incredible cultural and historical significance. Istanbul is renowned for its stunning architecture, including the Hagia Sophia and the Blue Mosque, its bustling bazaars, and its unique blend of Eastern and Western influences. Visitors to Istanbul can explore its vibrant neighborhoods, sample delicious Turkish cuisine, and immerse themselves in its unique atmosphere.",
+    "facts_text": "<strong>Population:</strong> Approximately 15.5 million<br><strong>Country:</strong> Turkey<br><strong>Time Zone:</strong> Turkey Time (UTC+03:00)<br><strong>Language:</strong> Turkish<br><strong>Currency:</strong> Turkish Lira (TRY)",
+    "climate_text": "Istanbul experiences a temperate Mediterranean climate, with hot and dry summers and mild, wet winters. The best times to visit are in spring and autumn when the weather is pleasant."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Hagia Sophia",
+        "title": "Hagia Sophia",
+        "description": "The Hagia Sophia is an architectural marvel that has served as a church, mosque, and museum. It features stunning mosaics and a unique blend of Byzantine and Islamic architecture."
+      },
+      {
+        "img": "x",
+        "alt": "Blue Mosque",
+        "title": "Blue Mosque",
+        "description": "The Blue Mosque, also known as Sultan Ahmed Mosque, is famous for its impressive blue tiles and intricate design. It's a masterpiece of Ottoman architecture."
+      },
+      {
+        "img": "x",
+        "alt": "Topkapi Palace",
+        "title": "Topkapi Palace",
+        "description": "Topkapi Palace was the primary residence of Ottoman sultans for centuries. It's a vast complex with beautiful courtyards, stunning chambers, and a rich history."
+      },
+      {
+        "img": "x",
+        "alt": "Grand Bazaar",
+        "title": "Grand Bazaar",
+        "description": "The Grand Bazaar is one of the world's oldest and largest covered markets, offering a vast array of shops selling textiles, ceramics, jewelry, spices, and more."
+      },
+      {
+        "img": "x",
+        "alt": "Bosphorus Cruise",
+        "title": "Bosphorus Cruise",
+        "description": "A Bosphorus cruise allows you to witness Istanbul's breathtaking skyline, including the Dolmabahçe Palace and historic waterfront mansions."
+      },
+      {
+        "img": "x",
+        "alt": "Süleymaniye Mosque",
+        "title": "Süleymaniye Mosque",
+        "description": "The Süleymaniye Mosque is a masterpiece of Ottoman architecture, known for its grand dome and serene courtyards with stunning views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Basilica Cistern",
+        "title": "Basilica Cistern",
+        "description": "The Basilica Cistern is an underground wonder with rows of ancient columns submerged in water, providing a mysterious and unique atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Chora Church",
+        "title": "Chora Church",
+        "description": "The Chora Church, or Kariye Museum, is famous for its remarkable mosaics and frescoes that depict scenes from the life of Christ."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Kebabs",
+        "title": "Kebabs",
+        "description": "Turkish kebabs are a culinary delight, featuring marinated and grilled meat, often served with pita bread, vegetables, and flavorful sauces."
+      },
+      {
+        "img": "x",
+        "alt": "Baklava",
+        "title": "Baklava",
+        "description": "Baklava is a sweet dessert made of layers of filo pastry, honey, and nuts. It's a popular treat and a must-try in Istanbul."
+      },
+      {
+        "img": "x",
+        "alt": "Turkish Delight",
+        "title": "Turkish Delight",
+        "description": "Turkish Delight, known as lokum, is a delightful confection made from starch and sugar, often flavored with rosewater or various fruits and nuts."
+      },
+      {
+        "img": "x",
+        "alt": "Manti",
+        "title": "Manti",
+        "description": "Manti are Turkish dumplings filled with ground meat or vegetables, topped with yogurt and a drizzle of garlic-infused butter."
+      },
+      {
+        "img": "x",
+        "alt": "Iskender Kebab",
+        "title": "Iskender Kebab",
+        "description": "Iskender Kebab is a delicious dish of sliced doner kebab meat served over pita bread, topped with tomato sauce and yogurt."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Four Seasons Hotel Istanbul at Sultanahmet",
+        "title": "Four Seasons Hotel Istanbul at Sultanahmet",
+        "description": "This luxurious hotel is located in the heart of the historic Sultanahmet district, offering elegant rooms and stunning views of Hagia Sophia."
+      },
+      {
+        "img": "x",
+        "alt": "Pera Palace Hotel, Jumeirah",
+        "title": "Pera Palace Hotel, Jumeirah",
+        "description": "Pera Palace is a historic hotel that has hosted numerous famous guests. It combines timeless elegance with modern amenities."
+      },
+      {
+        "img": "x",
+        "alt": "The Marmara Taksim",
+        "title": "The Marmara Taksim",
+        "description": "The Marmara Taksim offers comfortable accommodations with panoramic views of the Bosphorus and the city, located in the vibrant Taksim Square."
+      },
+      {
+        "img": "x",
+        "alt": "Swissotel The Bosphorus Istanbul",
+        "title": "Swissotel The Bosphorus Istanbul",
+        "description": "This luxury hotel provides a prime location on the Bosphorus waterfront and features spacious rooms, a spa, and fine dining options."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel Amira Istanbul",
+        "title": "Hotel Amira Istanbul",
+        "description": "Hotel Amira offers cozy accommodations in Sultanahmet, within walking distance of major attractions like the Hagia Sophia and the Blue Mosque."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Istanbul Metro",
+        "title": "Istanbul Metro",
+        "description": "The Istanbul Metro is a convenient way to navigate the city, connecting various neighborhoods and attractions."
+      },
+      {
+        "img": "x",
+        "alt": "Trams",
+        "title": "Trams",
+        "description": "Trams are a common mode of public transportation in Istanbul, serving both the historic and modern parts of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Ferries",
+        "title": "Ferries",
+        "description": "Ferries are a scenic way to travel between the European and Asian sides of Istanbul, offering breathtaking views of the Bosphorus."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis",
+        "title": "Taxis",
+        "description": "Taxis are readily available in Istanbul and can be hailed on the street or booked through ride-sharing apps."
+      }
+    ]
+  }
+}

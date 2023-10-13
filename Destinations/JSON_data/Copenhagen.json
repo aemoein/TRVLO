@@ -1,100 +1,166 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Copenhagen"
-    },
-    "about": {
-      "name": "Copenhagen",
-      "info_text": "Copenhagen is the capital of Denmark and a vibrant, progressive city known for its beautiful architecture, rich history, and high quality of life. Situated on the eastern coast of the island of Zealand, Copenhagen offers a mix of old-world charm and modern innovation. Visitors can explore historic sites, enjoy a leisurely canal tour, or indulge in the city's world-famous culinary scene. With its commitment to sustainability and excellent public transportation, Copenhagen is a city that welcomes travelers from around the globe.",
-      "facts_text": "<strong>Population:</strong> 602,481 (City) / 1,346,791 (Metro)<br><strong>Country:</strong> Denmark<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Danish, English<br><strong>Currency:</strong> Danish Krone (DKK)",
-      "climate_text": "Copenhagen, Denmark, experiences a temperate maritime climate with mild summers and cool winters. Summer temperatures typically range from 15°C to 25°C (59°F to 77°F), while winter temperatures hover around 0°C to 5°C (32°F to 41°F), with occasional frost and snowfall."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Tivoli Gardens",
-          "title": "Tivoli Gardens",
-          "description": "Tivoli Gardens is one of the world's oldest amusement parks, offering a mix of thrilling rides, beautiful gardens, and live entertainment. It's a must-visit for all ages."
-        },
-        {
-          "img": "x",
-          "alt": "The Little Mermaid",
-          "title": "The Little Mermaid",
-          "description": "This iconic statue, inspired by Hans Christian Andersen's fairy tale, is a symbol of Copenhagen. It's located on the waterfront and is a popular tourist attraction."
-        },
-        {
-          "img": "x",
-          "alt": "Nyhavn",
-          "title": "Nyhavn",
-          "description": "Nyhavn is a picturesque canal district with colorful buildings, historic ships, and a lively atmosphere. It's a great place for dining, people-watching, and boat tours."
-        },
-        {
-          "img": "x",
-          "alt": "Rosenborg Castle",
-          "title": "Rosenborg Castle",
-          "description": "Rosenborg Castle is a beautifully preserved Renaissance castle that houses the Danish crown jewels. Visitors can explore its royal chambers and stunning gardens."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Smørrebrød",
-          "title": "Smørrebrød",
-          "description": "Smørrebrød is a traditional Danish open-faced sandwich, typically featuring rye bread topped with various ingredients like herring, liver pâté, and pickled cucumbers."
-        },
-        {
-          "img": "x",
-          "alt": "Danish Pastries",
-          "title": "Danish Pastries",
-          "description": "Denmark is famous for its delicious pastries, known as 'wienerbrød.' Try classic pastries like the cinnamon snail or the raspberry-filled 'spandauer.'"
-        },
-        {
-          "img": "x",
-          "alt": "Nordic Cuisine",
-          "title": "Nordic Cuisine",
-          "description": "Copenhagen is renowned for its modern Nordic cuisine, with many Michelin-starred restaurants. Experience innovative dishes with a focus on local and seasonal ingredients."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Hotel d'Angleterre",
-          "title": "Hotel d'Angleterre",
-          "description": "This luxurious hotel offers elegant rooms, a Michelin-starred restaurant, and a prime location near the Royal Danish Theatre and Nyhavn."
-        },
-        {
-          "img": "x",
-          "alt": "Tivoli Hotel & Congress Center",
-          "title": "Tivoli Hotel & Congress Center",
-          "description": "Located near Tivoli Gardens, this modern hotel features comfortable rooms, stunning views, and convenient access to both the amusement park and the city center."
-        },
-        {
-          "img": "x",
-          "alt": "Generator Copenhagen",
-          "title": "Generator Copenhagen",
-          "description": "A trendy hostel in the city center, Generator Copenhagen offers a range of accommodation options, a vibrant atmosphere, and a bar with a selection of local craft beers."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Metro",
-          "title": "Metro",
-          "description": "Copenhagen's metro system provides quick and efficient transportation around the city. It's a convenient way to reach various attractions and neighborhoods."
-        },
-        {
-          "img": "x",
-          "alt": "Biking",
-          "title": "Biking",
-          "description": "Copenhagen is a bicycle-friendly city with dedicated bike lanes. Rent a bike and explore the city like a local, visiting parks, historic sites, and more."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Copenhagen"
+  },
+  "about": {
+    "name": "Copenhagen",
+    "info_text": "Copenhagen is the capital and largest city of Denmark, known for its rich history, beautiful architecture, and a strong focus on sustainability. Situated on the eastern coast of the island of Zealand, the city is a hub of culture, innovation, and Scandinavian charm. Copenhagen offers a mix of historic landmarks, modern design, and a thriving culinary scene. Whether you're interested in exploring historic castles, riding a bike along picturesque canals, or savoring Danish pastries, Copenhagen has something for everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 623,000<br><strong>Region:</strong> Capital Region of Denmark<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Language:</strong> Danish, English<br><strong>Currency:</strong> Danish Krone (DKK)",
+    "climate_text": "Copenhagen has a temperate maritime climate with cool summers and mild winters. Summer temperatures average around 20°C (68°F), while winter temperatures range from 0°C (32°F) to 4°C (39°F)."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Tivoli Gardens",
+        "title": "Tivoli Gardens",
+        "description": "Tivoli Gardens is one of the world's oldest amusement parks, offering rides, entertainment, and beautifully landscaped gardens."
+      },
+      {
+        "img": "x",
+        "alt": "The Little Mermaid",
+        "title": "The Little Mermaid",
+        "description": "The Little Mermaid statue is an iconic symbol of Copenhagen, inspired by Hans Christian Andersen's fairy tale."
+      },
+      {
+        "img": "x",
+        "alt": "Nyhavn",
+        "title": "Nyhavn",
+        "description": "Nyhavn is a picturesque waterfront district with colorful buildings, waterfront cafes, and a lively atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Rosenborg Castle",
+        "title": "Rosenborg Castle",
+        "description": "Rosenborg Castle is a historic royal palace featuring the Danish Crown Jewels and beautiful Renaissance architecture."
+      },
+      {
+        "img": "x",
+        "alt": "Christiansborg Palace",
+        "title": "Christiansborg Palace",
+        "description": "Christiansborg Palace houses the Danish Parliament, the Prime Minister's Office, and the Supreme Court, and it's open for public tours."
+      },
+      {
+        "img": "x",
+        "alt": "The Round Tower",
+        "title": "The Round Tower",
+        "description": "The Round Tower is a historic observatory with a unique spiral ramp providing panoramic views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "National Gallery of Denmark",
+        "title": "National Gallery of Denmark",
+        "description": "The National Gallery of Denmark (Statens Museum for Kunst) is the largest art museum in Denmark, showcasing a vast collection of European and Danish art."
+      },
+      {
+        "img": "x",
+        "alt": "Copenhagen Zoo",
+        "title": "Copenhagen Zoo",
+        "description": "Copenhagen Zoo is home to a diverse range of animals and offers educational exhibits and experiences for visitors of all ages."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Smørrebrød",
+        "title": "Smørrebrød",
+        "description": "Smørrebrød is a traditional Danish open-faced sandwich, featuring various toppings like herring, roast beef, and liver pate."
+      },
+      {
+        "img": "x",
+        "alt": "Danish Pastries",
+        "title": "Danish Pastries",
+        "description": "Indulge in delicious Danish pastries, known as Wienerbrød, available in a variety of flavors and shapes."
+      },
+      {
+        "img": "x",
+        "alt": "New Nordic Cuisine",
+        "title": "New Nordic Cuisine",
+        "description": "Experience the innovative New Nordic Cuisine movement at Michelin-starred restaurants, emphasizing local and seasonal ingredients."
+      },
+      {
+        "img": "x",
+        "alt": "Æbleskiver",
+        "title": "Æbleskiver",
+        "description": "Æbleskiver are Danish spherical pancakes, often served with powdered sugar and jam, perfect for a sweet treat."
+      },
+      {
+        "img": "x",
+        "alt": "Danish Hot Dogs",
+        "title": "Danish Hot Dogs",
+        "description": "Try a Danish hot dog from a street vendor, typically served with a variety of toppings and sauces."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Hotel d'Angleterre",
+        "title": "Hotel d'Angleterre",
+        "description": "Hotel d'Angleterre is a luxurious and historic hotel located on Kongens Nytorv, offering elegant accommodations and fine dining."
+      },
+      {
+        "img": "x",
+        "alt": "Nimb Hotel",
+        "title": "Nimb Hotel",
+        "description": "Nimb Hotel is a boutique hotel situated in Tivoli Gardens, providing a unique and stylish stay."
+      },
+      {
+        "img": "x",
+        "alt": "Wakeup Copenhagen",
+        "title": "Wakeup Copenhagen",
+        "description": "Wakeup Copenhagen is a modern and budget-friendly hotel with convenient locations in the city center."
+      },
+      {
+        "img": "x",
+        "alt": "Scandic Palace Hotel",
+        "title": "Scandic Palace Hotel",
+        "description": "Scandic Palace Hotel is a classic and comfortable hotel offering views of City Hall Square."
+      },
+      {
+        "img": "x",
+        "alt": "Vacation Rentals",
+        "title": "Vacation Rentals",
+        "description": "Explore a variety of vacation rentals and apartment stays for a more independent and homely experience in Copenhagen."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Copenhagen Airport",
+        "title": "Copenhagen Airport",
+        "description": "Copenhagen Airport (CPH) is the primary international gateway to the city, offering numerous flight options."
+      },
+      {
+        "img": "x",
+        "alt": "Metro and Trains",
+        "title": "Metro and Trains",
+        "description": "Copenhagen's efficient metro and train system provide easy transportation within the city and to neighboring areas."
+      },
+      {
+        "img": "x",
+        "alt": "Cycling",
+        "title": "Cycling",
+        "description": "Copenhagen is renowned for its cycling culture, with bike lanes and rentals available for eco-friendly exploration."
+      },
+      {
+        "img": "x",
+        "alt": "Buses",
+        "title": "Buses",
+        "description": "Public buses and sightseeing tour buses offer a convenient way to get around Copenhagen and see the sights."
+      },
+      {
+        "img": "x",
+        "alt": "Harbor Ferries",
+        "title": "Harbor Ferries",
+        "description": "Explore Copenhagen from the water with the city's network of harbor ferries."
+      }
+    ]
+  }
+}

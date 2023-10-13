@@ -1,107 +1,159 @@
 {
-    "hero": {
-      "img": "https://lp-cms-production.imgix.net/2020-09/The%20Nautilus%20Maldives_July19-9335.jpg",
-      "title": "Maldives"
-    },
-    "about": {
-      "name": "Maldives",
-      "info_text": "The Maldives is a tropical paradise located in the Indian Ocean. With pristine white-sand beaches, crystal-clear waters, and vibrant coral reefs, it's the perfect destination for beach lovers and snorkelers. The Maldives is made up of over 1,000 islands, each with its own unique charm and beauty. Visitors can explore local villages, sample delicious Maldivian cuisine, or simply relax in one of the many luxury resorts that dot the islands. Whether you're seeking adventure or relaxation, the Maldives offers an unforgettable experience.",
-      "facts_text": "<strong>Capital:</strong> Malé<br><strong>Population:</strong> 540,000<br><strong>Language:</strong> Dhivehi<br><strong>Currency:</strong> Maldivian rufiyaa (MVR)<br><strong>Time Zone:</strong> Maldives Time (UTC+05:00)",
-      "climate_text": "The Maldives boasts a tropical climate, with consistently warm temperatures year-round, averaging around 30°C (86°F). The archipelago experiences distinct wet and dry seasons, with the wet season occurring from May to November, marked by increased rainfall and the possibility of monsoons."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "https://media.cntraveler.com/photos/619327cddb92f6dee8542cb8/master/w_2000,h_1600,c_limit/Back%20with%20a%20Bang_DEC21_Anantara%20Kihavah%20Maldives_the%20lagoon%20at%20Anantara%20Kihavah%20Maldives%20Villa.jpg",
-          "alt": "Beaches",
-          "title": "Beaches",
-          "description": "The Maldives is renowned for its pristine beaches, crystal-clear waters, and breathtaking sunsets. Visitors can relax on the soft white sand, go for a swim, or take a dip in a natural pool formed by the coral reefs."
-        },
-        {
-          "img": "https://assets.cntraveller.in/photos/60e556a03e5e0b9dfcd10f4c/master/w_1600%2Cc_limit/MLG_268.jpg",
-          "alt": "Snorkeling and Diving",
-          "title": "Snorkeling and Diving",
-          "description": "The Maldives boasts some of the world's best snorkeling and diving spots, with abundant marine life and stunning coral reefs. Visitors can explore the underwater world and spot colorful fish, sea turtles, and even sharks."
-        },
-        {
-          "img": "https://elitetraveler.com/wp-content/uploads/sites/8/2021/03/kudadoo-scaled.jpg",
-          "alt": "Island Hopping",
-          "title": "Island Hopping",
-          "description": "With over 1,000 islands, the Maldives offers plenty of opportunities for island hopping. Visitors can discover the unique culture and lifestyle of each island, and enjoy activities like fishing, barbecues, and beach picnics."
-        },
-        {
-          "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mal%C3%A9_Maldives_%281%29.jpg",
-          "alt": "Malé",
-          "title": "Malé",
-          "description": "The capital city of Maldives, Malé is a bustling hub of culture and commerce. Visitors can explore the city's historic landmarks, mosques, and markets, and enjoy delicious Maldivian cuisine."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "https://themaldivesexpert.com/wp-content/uploads/2018/04/Cuisine.jpg",
-          "alt": "Maldivian Cuisine",
-          "title": "Maldivian Cuisine",
-          "description": "Sample the local cuisine, which is heavily influenced by Indian and Sri Lankan flavors. Don't miss out on dishes like mas huni, garudhiya, and fish curry."
-        },
-        {
-          "img": "https://www.transindus.co.uk/media/2394/tailormade-holidays-maldives-highlight-freash-seafood-1.jpg",
-          "alt": "Seafood",
-          "title": "Seafood",
-          "description": "As a nation surrounded by the sea, the Maldives is a great place to enjoy fresh seafood. Some popular options include grilled fish, lobster, and shrimp."
-        },
-        {
-          "img": "https://milelion-com0.exactdn.com/wp-content/uploads/2019/08/Pasted-into-Review-W-Maldives-Dining4.png?strip=all&lossy=1&resize=696%2C435&ssl=1",
-          "alt": "Resort Dining",
-          "title": "Resort Dining",
-          "description": "Many resorts in the Maldives offer a range of dining options, from international cuisine to beachside barbecues. Some top choices include Ithaa Undersea Restaurant and Fenesse."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "https://i.ytimg.com/vi/0VFah69nnBY/maxresdefault.jpg",
-          "alt": "Soneva Fushi",
-          "title": "Soneva Fushi",
-          "description": "This luxurious resort is located on a private island and offers a range of villas and suites, as well as a spa, multiple dining options, and activities like snorkeling and diving."
-        },
-        {
-          "img": "https://api.time.com/wp-content/uploads/2018/08/conrad-maldives-rangali-island-worlds-greatest-places-20181.jpg",
-          "alt": "Conrad Maldives Rangali Island",
-          "title": "Conrad Maldives Rangali Island",
-          "description": "This resort is known for its overwater villas and underwater restaurant, as well as its beachfront villas and multiple dining options. It also offers a range of activities, including snorkeling, diving, and spa treatments."
-        },
-        {
-          "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289562121.jpg?k=d2db02b18da0286ef4d5ce240774d01289fb53f3593c3b1166cfda4baa90afc5&o=&hp=1",
-          "alt": "Gili Lankanfushi",
-          "title": "Gili Lankanfushi",
-          "description": "This eco-friendly resort offers overwater villas, as well as a spa, multiple dining options, and activities like snorkeling, diving, and yoga."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "https://i.ytimg.com/vi/CXvluAn3YkY/maxresdefault.jpg",
-          "alt": "Seaplane",
-          "title": "Seaplane",
-          "description": "Many resorts in the Maldives are located on private islands, so the best way to get around is by seaplane. Your resort can arrange transportation for you."
-        },
-        {
-          "img": "https://www.kuoni.co.uk/upload/inspiration/claire/mar%2015/maldives-transfers-speedboat-v-seaplane-speedboat.jpg",
-          "alt": "Speedboat",
-          "title": "Speedboat",
-          "description": "If your resort is located closer to the main island, you may be able to take a speedboat to get there. Your resort can provide more information."
-        },
-        {
-          "img": "https://media.gadventures.com/media-server/cache/8e/c3/8ec3d083a658892e7130ac94167e41e1.jpg",
-          "alt": "Dhoni",
-          "title": "Dhoni",
-          "description": "Dhoni description here..."
-        }
-      ]
-    }
+  "hero": {
+    "img": "x",
+    "title": "Maldives"
+  },
+  "about": {
+    "name": "Maldives",
+    "info_text": "The Maldives is a tropical paradise located in the Indian Ocean, southwest of Sri Lanka. It is renowned for its stunning white-sand beaches, crystal-clear turquoise waters, and vibrant coral reefs. Comprising 26 atolls and over a thousand coral islands, the Maldives is a popular destination for honeymooners, scuba divers, and beach lovers. Visitors can enjoy overwater bungalows, water sports, snorkeling, and experience the unique underwater world in this idyllic island nation. The Maldives offers a serene and luxurious escape surrounded by the beauty of the Indian Ocean.",
+    "facts_text": "<strong>Population:</strong> Approximately 520,000<br><strong>Official Language:</strong> Dhivehi<br><strong>Currency:</strong> Maldivian Rufiyaa (MVR)<br><strong>Time Zone:</strong> Maldives Standard Time (MST, UTC+05:00)<br><strong>Climate:</strong> Tropical climate with a dry northeast monsoon (November to March) and a wet southwest monsoon (April to October)."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Underwater Restaurants",
+        "title": "Underwater Restaurants",
+        "description": "Experience dining in underwater restaurants where you can enjoy a meal while observing the rich marine life of the Indian Ocean."
+      },
+      {
+        "img": "x",
+        "alt": "Water Villas",
+        "title": "Water Villas",
+        "description": "Stay in luxurious overwater bungalows offering direct access to the crystal-clear waters, and breathtaking views of the ocean."
+      },
+      {
+        "img": "x",
+        "alt": "Coral Reefs",
+        "title": "Coral Reefs",
+        "description": "Explore the vibrant coral reefs through snorkeling and scuba diving to witness a variety of marine species and colorful corals."
+      },
+      {
+        "img": "x",
+        "alt": "Manta Ray and Whale Shark Watching",
+        "title": "Manta Ray and Whale Shark Watching",
+        "description": "The Maldives is a hotspot for watching manta rays and whale sharks, offering thrilling encounters with these gentle giants."
+      },
+      {
+        "img": "x",
+        "alt": "Local Islands",
+        "title": "Local Islands",
+        "description": "Visit local Maldivian islands to experience the culture, traditions, and interact with friendly locals."
+      },
+      {
+        "img": "x",
+        "alt": "Male, the Capital",
+        "title": "Male, the Capital",
+        "description": "Explore the capital city, Male, with its colorful buildings, bustling markets, and historical landmarks."
+      },
+      {
+        "img": "x",
+        "alt": "Water Sports",
+        "title": "Water Sports",
+        "description": "Enjoy a range of water sports, including windsurfing, parasailing, and jet skiing, in the pristine waters of the Maldives."
+      },
+      {
+        "img": "x",
+        "alt": "Island Hopping",
+        "title": "Island Hopping",
+        "description": "Embark on island-hopping adventures to discover the unique charm of different Maldivian islands."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Maldivian Cuisine",
+        "title": "Maldivian Cuisine",
+        "description": "Savor traditional Maldivian dishes, including fish curry, coconut-based curries, and sweet treats like bondi (fried dough)."
+      },
+      {
+        "img": "x",
+        "alt": "Fresh Seafood",
+        "title": "Fresh Seafood",
+        "description": "Enjoy the freshest seafood, from grilled fish to lobster, served at beachside restaurants with a view."
+      },
+      {
+        "img": "x",
+        "alt": "International Cuisine",
+        "title": "International Cuisine",
+        "description": "Indulge in international cuisine, with many resorts offering a variety of dining options, from Italian to Japanese."
+      },
+      {
+        "img": "x",
+        "alt": "Beachside Dining",
+        "title": "Beachside Dining",
+        "description": "Dine on the beach under the starry sky, with the sound of the waves and your toes in the sand."
+      },
+      {
+        "img": "x",
+        "alt": "Tropical Fruits",
+        "title": "Tropical Fruits",
+        "description": "Taste a wide array of tropical fruits, including coconuts, papayas, and mangos, available throughout the Maldives."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Luxury Resorts",
+        "title": "Luxury Resorts",
+        "description": "Stay in luxurious resorts with overwater bungalows and world-class amenities, offering a private and romantic experience."
+      },
+      {
+        "img": "x",
+        "alt": "Mid-Range Accommodations",
+        "title": "Mid-Range Accommodations",
+        "description": "Find comfortable mid-range accommodations that provide value and convenience for travelers."
+      },
+      {
+        "img": "x",
+        "alt": "Budget-Friendly Options",
+        "title": "Budget-Friendly Options",
+        "description": "Budget-conscious travelers can choose from guesthouses and affordable beachfront lodges."
+      },
+      {
+        "img": "x",
+        "alt": "Eco-Friendly Stays",
+        "title": "Eco-Friendly Stays",
+        "description": "Experience eco-friendly accommodations that promote sustainable tourism and responsible travel."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Ibrahim Nasir International Airport",
+        "title": "Ibrahim Nasir International Airport",
+        "description": "The primary international airport in the Maldives, providing access to various atolls and resorts."
+      },
+      {
+        "img": "x",
+        "alt": "Speedboats and Seaplanes",
+        "title": "Speedboats and Seaplanes",
+        "description": "Transfers to resorts are often by speedboat or seaplane, offering breathtaking aerial views of the islands."
+      },
+      {
+        "img": "x",
+        "alt": "Domestic Flights",
+        "title": "Domestic Flights",
+        "description": "Inter-island domestic flights are available for convenient travel between different atolls and islands."
+      },
+      {
+        "img": "x",
+        "alt": "Ferries",
+        "title": "Ferries",
+        "description": "Ferry services connect various local islands and provide opportunities for island hopping."
+      },
+      {
+        "img": "x",
+        "alt": "Water Taxis",
+        "title": "Water Taxis",
+        "description": "Water taxis are commonly used for short transfers within atolls and between neighboring islands."
+      }
+    ]
+  }
 }
-    

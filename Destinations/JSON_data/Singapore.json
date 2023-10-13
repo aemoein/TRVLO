@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Singapore"
+    },
+    "about": {
+      "name": "Singapore",
+      "info_text": "Singapore, often referred to as the 'Lion City,' is a vibrant and modern island city-state located in Southeast Asia. Known for its stunning skyline, multicultural population, and clean streets, Singapore offers a unique blend of culture, history, and contemporary living. Visitors can explore the city's diverse neighborhoods, enjoy world-class cuisine, and experience attractions that range from lush gardens to cutting-edge technology.",
+      "facts_text": "<strong>Population:</strong> Approximately 5.7 million<br><strong>Country:</strong> Singapore<br><strong>Time Zone:</strong> Singapore Standard Time (SGT, UTC+08:00)<br><strong>Official Languages:</strong> English, Malay, Mandarin, Tamil<br><strong>Currency:</strong> Singapore Dollar (SGD)",
+      "climate_text": "Singapore has a tropical rainforest climate, characterized by high humidity and consistent temperatures. The average temperature ranges from 25°C (77°F) to 31°C (88°F) throughout the year. Expect occasional rain showers, especially during the monsoon season."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Marina Bay Sands",
+          "title": "Marina Bay Sands",
+          "description": "Marina Bay Sands is an iconic integrated resort known for its rooftop infinity pool, SkyPark, and stunning views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Gardens by the Bay",
+          "title": "Gardens by the Bay",
+          "description": "Gardens by the Bay is a futuristic garden featuring the Supertree Grove, Flower Dome, Cloud Forest, and lush greenery."
+        },
+        {
+          "img": "x",
+          "alt": "Sentosa Island",
+          "title": "Sentosa Island",
+          "description": "Sentosa Island is a resort destination with beautiful beaches, Universal Studios Singapore, Adventure Cove Waterpark, and more."
+        },
+        {
+          "img": "x",
+          "alt": "Singapore Zoo",
+          "title": "Singapore Zoo",
+          "description": "The Singapore Zoo is a world-class wildlife park known for its open habitats and a diverse collection of animals."
+        },
+        {
+          "img": "x",
+          "alt": "Chinatown",
+          "title": "Chinatown",
+          "description": "Chinatown in Singapore offers a cultural experience with vibrant streets, temples, and delicious street food."
+        },
+        {
+          "img": "x",
+          "alt": "Little India",
+          "title": "Little India",
+          "description": "Little India is a lively neighborhood with colorful streets, Indian cuisine, and a rich cultural atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Merlion Park",
+          "title": "Merlion Park",
+          "description": "Merlion Park is home to the iconic Merlion statue, a symbol of Singapore, and offers scenic views of the waterfront."
+        },
+        {
+          "img": "x",
+          "alt": "National Museum of Singapore",
+          "title": "National Museum of Singapore",
+          "description": "The National Museum of Singapore showcases the country's history and culture through interactive exhibits and artifacts."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Hainanese Chicken Rice",
+          "title": "Hainanese Chicken Rice",
+          "description": "Hainanese Chicken Rice is a beloved Singaporean dish featuring poached chicken, fragrant rice, and condiments."
+        },
+        {
+          "img": "x",
+          "alt": "Chilli Crab",
+          "title": "Chilli Crab",
+          "description": "Chilli Crab is a popular seafood dish with a spicy and savory sauce, best enjoyed with steamed buns."
+        },
+        {
+          "img": "x",
+          "alt": "Laksa",
+          "title": "Laksa",
+          "description": "Laksa is a spicy noodle soup with a rich coconut-based broth, often served with prawns or chicken."
+        },
+        {
+          "img": "x",
+          "alt": "Satay",
+          "title": "Satay",
+          "description": "Satay consists of skewered and grilled meat served with a flavorful peanut sauce and rice cakes."
+        },
+        {
+          "img": "x",
+          "alt": "Roti Prata",
+          "title": "Roti Prata",
+          "description": "Roti Prata is a South Indian-inspired flatbread served with curry, a common breakfast and snack item."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Marina Bay Sands Hotel",
+          "title": "Marina Bay Sands Hotel",
+          "description": "The Marina Bay Sands Hotel offers luxurious accommodations with unparalleled views and world-class amenities."
+        },
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Millenia Singapore",
+          "title": "The Ritz-Carlton, Millenia Singapore",
+          "description": "The Ritz-Carlton offers opulent rooms and top-notch service, located in the heart of Marina Bay."
+        },
+        {
+          "img": "x",
+          "alt": "Shangri-La Hotel, Singapore",
+          "title": "Shangri-La Hotel, Singapore",
+          "description": "Shangri-La Hotel in Singapore provides a serene escape with lush gardens, elegant rooms, and exceptional dining."
+        },
+        {
+          "img": "x",
+          "alt": "Holiday Inn Singapore Orchard City Centre",
+          "title": "Holiday Inn Singapore Orchard City Centre",
+          "description": "Holiday Inn offers comfortable accommodations in the Orchard Road shopping district, ideal for leisure travelers."
+        },
+        {
+          "img": "x",
+          "alt": "Backpacker Hostels",
+          "title": "Backpacker Hostels",
+          "description": "Singapore offers a range of backpacker hostels for budget travelers, providing affordable dormitory-style rooms."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Changi Airport",
+          "title": "Changi Airport",
+          "description": "Changi Airport (SIN) is one of the world's best airports, serving both domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "MRT (Mass Rapid Transit)",
+          "title": "MRT (Mass Rapid Transit)",
+          "description": "The MRT is Singapore's efficient subway system, offering easy access to various parts of the city and key attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Singapore's extensive bus network complements the MRT system, making it convenient to explore the city."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Singapore and provide a comfortable way to travel, although they can be more expensive."
+        }
+      ]
+    }
+  }  

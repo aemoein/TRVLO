@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Shenzhen"
+    },
+    "about": {
+      "name": "Shenzhen",
+      "info_text": "Shenzhen is a dynamic and modern metropolis located in the Guangdong Province of southern China. It is known for its rapid economic growth, impressive skyscrapers, and vibrant tech scene. Shenzhen is a city of innovation, offering a blend of urban development and natural beauty, with its proximity to the South China Sea. Visitors can explore its bustling city center, visit historic sites, and enjoy a range of entertainment and cultural attractions.",
+      "facts_text": "<strong>Population:</strong> Approximately 17.5 million<br><strong>Province:</strong> Guangdong<br><strong>Time Zone:</strong> China Standard Time (UTC+08:00)<br><strong>Language:</strong> Mandarin, Cantonese<br><strong>Currency:</strong> Chinese Yuan (CNY)",
+      "climate_text": "Shenzhen has a subtropical climate with mild, pleasant winters and hot, humid summers. The city is known for its year-round warmth and occasional typhoons during the summer months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Window of the World",
+          "title": "Window of the World",
+          "description": "Window of the World is a popular theme park that features miniature replicas of famous landmarks from around the world, making it a great place for cultural exploration and entertainment."
+        },
+        {
+          "img": "x",
+          "alt": "Shenzhen Civic Center",
+          "title": "Shenzhen Civic Center",
+          "description": "The Shenzhen Civic Center is a modern architectural marvel, home to the city's government offices, a concert hall, and a library, offering a hub of cultural and administrative activities."
+        },
+        {
+          "img": "x",
+          "alt": "Dameisha Beach",
+          "title": "Dameisha Beach",
+          "description": "Dameisha Beach is a popular seaside destination in Shenzhen, featuring a long stretch of sandy shoreline, water sports, and a vibrant boardwalk."
+        },
+        {
+          "img": "x",
+          "alt": "Splendid China Folk Village",
+          "title": "Splendid China Folk Village",
+          "description": "Splendid China Folk Village showcases the rich cultural diversity of China through miniature landscapes, traditional architecture, and live performances."
+        },
+        {
+          "img": "x",
+          "alt": "Lianhuashan Park",
+          "title": "Lianhuashan Park",
+          "description": "Lianhuashan Park offers serene natural surroundings, with lush gardens, a lake, and the opportunity for hiking and outdoor relaxation."
+        },
+        {
+          "img": "x",
+          "alt": "Shenzhen Museum",
+          "title": "Shenzhen Museum",
+          "description": "Shenzhen Museum is a cultural institution that provides insights into the city's history, art, and development through a variety of exhibitions."
+        },
+        {
+          "img": "x",
+          "alt": "Shenzhen Bay Park",
+          "title": "Shenzhen Bay Park",
+          "description": "Shenzhen Bay Park is a scenic waterfront park with walking and cycling paths, gardens, and beautiful views of the bay and the Hong Kong skyline."
+        },
+        {
+          "img": "x",
+          "alt": "Guanlan Print Village",
+          "title": "Guanlan Print Village",
+          "description": "Guanlan Print Village is an artistic hub known for its printmaking studios, galleries, and the opportunity to explore traditional Chinese art techniques."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Dim Sum",
+          "title": "Dim Sum",
+          "description": "Dim Sum is a popular Cantonese cuisine featuring a variety of bite-sized dishes, including dumplings, buns, and rolls. Try local dim sum restaurants for an authentic experience."
+        },
+        {
+          "img": "x",
+          "alt": "Hot Pot",
+          "title": "Hot Pot",
+          "description": "Hot Pot is a communal dining experience where you cook a variety of ingredients in a flavorful broth. It's a great way to enjoy a social meal with friends and family."
+        },
+        {
+          "img": "x",
+          "alt": "Seafood",
+          "title": "Seafood",
+          "description": "Shenzhen's proximity to the South China Sea means you can enjoy a wide range of fresh seafood dishes, including shrimp, crab, and fish prepared in various styles."
+        },
+        {
+          "img": "x",
+          "alt": "Barbecue (Chuanr)",
+          "title": "Barbecue (Chuanr)",
+          "description": "Chuanr refers to Chinese-style barbecue skewers, often featuring a selection of meats, vegetables, and tofu, seasoned and grilled to perfection."
+        },
+        {
+          "img": "x",
+          "alt": "Hakka Cuisine",
+          "title": "Hakka Cuisine",
+          "description": "Shenzhen is known for its Hakka cuisine, which includes dishes like stuffed tofu, salt-baked chicken, and preserved vegetables with meat."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Shenzhen",
+          "title": "The Ritz-Carlton, Shenzhen",
+          "description": "The Ritz-Carlton offers luxury accommodations in the heart of Shenzhen, with elegant rooms, fine dining, and stunning city views."
+        },
+        {
+          "img": "x",
+          "alt": "Grand Hyatt Shenzhen",
+          "title": "Grand Hyatt Shenzhen",
+          "description": "The Grand Hyatt Shenzhen is a high-end hotel in the Luohu district, offering stylish rooms, diverse dining options, and convenient access to shopping and attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Futian Shangri-La, Shenzhen",
+          "title": "Futian Shangri-La, Shenzhen",
+          "description": "The Futian Shangri-La is a luxurious hotel known for its comfortable accommodations, beautiful garden spaces, and gourmet restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "The Langham, Shenzhen",
+          "title": "The Langham, Shenzhen",
+          "description": "The Langham offers a blend of modern luxury and classic elegance, featuring spacious rooms, a spa, and a range of dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Shangri-La Hotel, Shenzhen",
+          "title": "Shangri-La Hotel, Shenzhen",
+          "description": "The Shangri-La Hotel in Shenzhen provides comfortable accommodations, a health club, and a variety of dining experiences for guests."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Shenzhen Metro",
+          "title": "Shenzhen Metro",
+          "description": "The Shenzhen Metro is a convenient way to navigate the city, with multiple lines connecting key areas, making it easy for travelers to get around."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Shenzhen's public bus system is extensive, offering a budget-friendly way to explore the city and reach various destinations."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Shenzhen and can be hailed on the street or booked through ride-sharing apps for convenient transportation."
+        },
+        {
+          "img": "x",
+          "alt": "Shenzhen Bao'an International Airport",
+          "title": "Shenzhen Bao'an International Airport",
+          "description": "Shenzhen Bao'an International Airport (SZX) is the main airport serving the city, providing domestic and international flights for travelers."
+        }
+      ]
+    }
+  }  

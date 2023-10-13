@@ -1,99 +1,158 @@
 {
   "hero": {
-    "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
+    "img": "x",
     "title": "Cairo"
   },
   "about": {
     "name": "Cairo",
-    "info_text": "Cairo is a bustling and historic city located in the heart of Egypt. Known for its ancient wonders, rich history, and vibrant culture, Cairo offers a blend of old-world charm and modern excitement. Visitors can explore iconic landmarks such as the Great Pyramid of Giza, experience the lively Khan El-Khalili bazaar, or visit world-class museums like the Egyptian Museum. Whether you're interested in history, culture, or delicious Egyptian cuisine, Cairo has something for everyone.",
-    "facts_text": "<strong>Population:</strong> 9.5 million<br><strong>Governorate:</strong> Cairo<br><strong>Time Zone:</strong> Eastern European Time (UTC+02:00)<br><strong>Language:</strong> Arabic<br><strong>Currency:</strong> Egyptian pound (EGP)",
-    "climate_text": "Cairo has a hot desert climate with very little rainfall. Summers are scorching, with average temperatures reaching over 35°C (95°F), while winters are milder with daytime temperatures around 18-22°C (64-72°F). It's advisable to visit during the cooler months."
+    "info_text": "Cairo is the vibrant capital city of Egypt, known for its rich history, ancient landmarks, and bustling streets. Located on the banks of the Nile River, Cairo is a city that bridges the past and the present. Visitors can explore iconic attractions such as the Pyramids of Giza, the Sphinx, and the Egyptian Museum, which houses an extensive collection of artifacts from ancient Egypt. The city is also a hub for lively markets, delicious cuisine, and vibrant culture. Whether you're interested in exploring history, savoring local flavors, or experiencing the energy of a bustling metropolis, Cairo has it all.",
+    "facts_text": "<strong>Population:</strong> Approximately 10 million<br><strong>Official Language:</strong> Arabic<br><strong>Currency:</strong> Egyptian Pound (EGP)<br><strong>Time Zone:</strong> Eastern European Time (EET, UTC+02:00)<br><strong>Climate:</strong> Desert climate with hot summers and mild winters."
   },
   "attractions": {
     "attractions_card": [
       {
-        "img": "X",
-        "alt": "Giza Pyramids",
-        "title": "Giza Pyramids",
-        "description": "The Great Pyramid of Giza is one of the most recognizable structures globally and the last surviving member of the Seven Wonders of the Ancient World. Visitors can also explore the surrounding pyramids, the Sphinx, and ancient tombs."
+        "img": "x",
+        "alt": "Pyramids of Giza",
+        "title": "Pyramids of Giza",
+        "description": "Visit the world-famous Pyramids of Giza, including the Great Pyramid, and marvel at these ancient wonders."
       },
       {
-        "img": "X",
-        "alt": "Khan El-Khalili",
-        "title": "Khan El-Khalili",
-        "description": "This bustling bazaar in Islamic Cairo dates back to the 14th century and is a popular destination for shopping and people watching. Visitors can browse for souvenirs, sip tea at a café, or take a walking tour of the area."
+        "img": "x",
+        "alt": "Sphinx",
+        "title": "Sphinx",
+        "description": "Admire the enigmatic Sphinx, a colossal statue with the body of a lion and the head of a pharaoh."
       },
       {
-        "img": "X",
+        "img": "x",
         "alt": "Egyptian Museum",
         "title": "Egyptian Museum",
-        "description": "Home to one of the world's most extensive collections of ancient Egyptian artifacts, the Egyptian Museum in Cairo is a must-visit for history buffs. Highlights include the Tutankhamun exhibit and the mummy room."
+        "description": "Explore the Egyptian Museum in Tahrir Square, home to a vast collection of ancient Egyptian artifacts."
       },
       {
-        "img": "X",
-        "alt": "Cairo Citadel",
-        "title": "Cairo Citadel",
-        "description": "Perched atop a hill in Islamic Cairo, the Cairo Citadel is a UNESCO World Heritage site and a prime example of Islamic military architecture. Visitors can explore the fortifications, mosques, and museums within the citadel walls."
+        "img": "x",
+        "alt": "Khan el-Khalili Bazaar",
+        "title": "Khan el-Khalili Bazaar",
+        "description": "Shop for souvenirs, jewelry, spices, and textiles in the bustling Khan el-Khalili market."
+      },
+      {
+        "img": "x",
+        "alt": "Coptic Cairo",
+        "title": "Coptic Cairo",
+        "description": "Discover the historic Coptic Christian neighborhood with ancient churches and religious landmarks."
+      },
+      {
+        "img": "x",
+        "alt": "Islamic Cairo",
+        "title": "Islamic Cairo",
+        "description": "Wander through the winding streets of Islamic Cairo, home to historic mosques, palaces, and monuments."
+      },
+      {
+        "img": "x",
+        "alt": "Citadel of Saladin",
+        "title": "Citadel of Saladin",
+        "description": "Visit the Citadel of Saladin, a UNESCO World Heritage Site, offering panoramic views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Nile River Cruises",
+        "title": "Nile River Cruises",
+        "description": "Enjoy a cruise on the Nile River, with dinner, entertainment, and scenic views of the city's landmarks."
       }
     ]
   },
   "foods": {
     "food_card": [
       {
-        "img": "X",
-        "alt": "Koshari",
-        "title": "Koshari",
-        "description": "Koshari is a popular Egyptian dish made with rice, lentils, and pasta, topped with a spicy tomato sauce and crispy fried onions. You can try it at local eateries like El Tahrir Koshari in Downtown Cairo or Abu Tarek in Midan Tahrir."
+        "img": "x",
+        "alt": "Egyptian Cuisine",
+        "title": "Egyptian Cuisine",
+        "description": "Savor traditional Egyptian dishes, including koshari, falafel, shawarma, and delicious desserts like baklava."
       },
       {
-        "img": "X",
-        "alt": "Foul",
-        "title": "Foul",
-        "description": "Foul is a hearty and filling breakfast dish made with fava beans, served with bread and optional toppings like tahini, onions, and tomatoes. You can try it at Foul El Gamal in Islamic Cairo or at Foul El Mahshi in Zamalek."
+        "img": "x",
+        "alt": "Street Food",
+        "title": "Street Food",
+        "description": "Taste the flavors of Egyptian street food, from savory fuul sandwiches to sweet and flaky pastries."
       },
       {
-        "img": "X",
-        "alt": "Karkadeh",
-        "title": "Karkadeh",
-        "description": "Karkadeh is a refreshing hibiscus tea that's popular in Egypt. You can find it at many cafes and restaurants throughout Cairo, or try making it yourself with dried hibiscus flowers."
+        "img": "x",
+        "alt": "Mango Juice",
+        "title": "Mango Juice",
+        "description": "Cool off with fresh mango juice, a popular and refreshing beverage available at local juice stands."
+      },
+      {
+        "img": "x",
+        "alt": "Egyptian Tea and Coffee",
+        "title": "Egyptian Tea and Coffee",
+        "description": "Experience the culture of tea and coffee in Egypt, often served with sweet treats and hospitality."
+      },
+      {
+        "img": "x",
+        "alt": "Middle Eastern Sweets",
+        "title": "Middle Eastern Sweets",
+        "description": "Indulge in a variety of Middle Eastern sweets, including kunafa, basbousa, and qatayef."
       }
     ]
   },
   "hotels": {
     "hotels_card": [
       {
-        "img": "X",
-        "alt": "Four Seasons Hotel Cairo at Nile Plaza",
-        "title": "Four Seasons Hotel Cairo at Nile Plaza",
-        "description": "This luxurious hotel is located on the banks of the Nile River and offers stunning views of the city. Amenities include an outdoor pool, spa, and multiple dining options."
+        "img": "x",
+        "alt": "Luxury Hotels",
+        "title": "Luxury Hotels",
+        "description": "Stay in luxurious hotels with modern amenities and views of the Nile River or historic landmarks."
       },
       {
-        "img": "X",
-        "alt": "Kempinski Nile Hotel Cairo",
-        "title": "Kempinski Nile Hotel Cairo",
-        "description": "This five-star hotel is situated in the Garden City district and offers spacious rooms and suites with modern amenities. Guests can also enjoy the on-site spa, fitness center, and several dining options."
+        "img": "x",
+        "alt": "Boutique Hotels",
+        "title": "Boutique Hotels",
+        "description": "Discover boutique hotels in the heart of Cairo, offering a blend of comfort and style."
       },
       {
-        "img": "X",
-        "alt": "Cairo Marriott Hotel & Omar Khayyam Casino",
-        "title": "Cairo Marriott Hotel & Omar Khayyam Casino",
-        "description": "This historic hotel is located in Zamalek and offers elegant rooms and suites with views of the Nile or the hotel's gardens. Amenities include a casino, spa, and several restaurants."
+        "img": "x",
+        "alt": "Budget Accommodations",
+        "title": "Budget Accommodations",
+        "description": "Find budget-friendly hostels and guesthouses for economical travel options."
+      },
+      {
+        "img": "x",
+        "alt": "Historic Stays",
+        "title": "Historic Stays",
+        "description": "Experience the charm of historic hotels with unique architecture and character."
       }
     ]
   },
   "transport": {
     "transport_card": [
       {
-        "img": "X",
-        "alt": "Metro",
-        "title": "Metro",
-        "description": "The Cairo Metro is the fastest and most convenient way to get around the city. It has three lines that connect many of the major attractions, and tickets can be purchased at stations."
+        "img": "x",
+        "alt": "Cairo International Airport",
+        "title": "Cairo International Airport",
+        "description": "The main international gateway to Cairo, with connections to domestic and international destinations."
       },
       {
-        "img": "X",
-        "alt": "Uber",
-        "title": "Uber",
-        "description": "Uber is available in Cairo and can be ordered directly from the app."
+        "img": "x",
+        "alt": "Metro and Buses",
+        "title": "Metro and Buses",
+        "description": "Use the Cairo Metro and public buses for affordable and efficient transportation within the city."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis",
+        "title": "Taxis",
+        "description": "Taxis are readily available for convenient transportation, but it's advisable to negotiate fares in advance."
+      },
+      {
+        "img": "x",
+        "alt": "Horse-Drawn Carriages",
+        "title": "Horse-Drawn Carriages",
+        "description": "Enjoy a nostalgic ride in a horse-drawn carriage, a charming way to explore historic areas."
+      },
+      {
+        "img": "x",
+        "alt": "Walking and Bicycles",
+        "title": "Walking and Bicycles",
+        "description": "Explore the city on foot or by bicycle, especially in areas like Old Cairo and Zamalek."
       }
     ]
   }

@@ -1,94 +1,159 @@
 {
-    "hero": {
-      "img": "https://res.cloudinary.com/simpleview/image/upload/v1589990523/clients/vancouverbc/Vancouver_Aerial_2017_1__72115131-4a31-42dc-b369-7a5ccec8273f.jpg",
-      "title": "Phuket"
-    },
-    "about": {
-      "name": "Phuket",
-      "info_text": "Phuket is a beautiful island located in the south of Thailand. Known for its stunning beaches, crystal clear waters, and delicious cuisine, it is a popular destination for tourists from all over the world. Visitors can enjoy a variety of activities, from relaxing on the beach to exploring the island's natural beauty and cultural heritage. The city is also home to a bustling nightlife scene, with numerous bars, nightclubs, and restaurants to choose from.",
-      "facts_text": "<strong>Population:</strong> 416,582<br><strong>Province:</strong> Phuket<br><strong>Time Zone:</strong> Indochina Time (UTC+07:00)<br><strong>Language:</strong> Thai<br><strong>Currency:</strong> Thai baht (THB)",
-      "climate_text": "Phuket has a tropical monsoon climate with high temperatures and high humidity year-round. The rainy season lasts from May to October, with the heaviest rainfall in September and October. The dry season runs from November to April, with the hottest months being March and April. Visitors should pack light, comfortable clothing and be prepared for occasional rain showers."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Beaches",
-          "title": "Beaches",
-          "description": "Phuket is renowned for its beautiful beaches, which offer crystal-clear waters, white sand, and stunning views. Some of the top beaches to visit include Patong Beach, Karon Beach, and Kata Beach."
-        },
-        {
-          "img": "x",
-          "alt": "Big Buddha",
-          "title": "Big Buddha",
-          "description": "This 45-meter-tall statue of Buddha is one of the most popular attractions in Phuket. Visitors can climb the stairs to the top of the statue and enjoy panoramic views of the island."
-        },
-        {
-          "img": "x",
-          "alt": "Phang Nga Bay",
-          "title": "Phang Nga Bay",
-          "description": "This stunning bay is known for its limestone cliffs, emerald-green waters, and picturesque islands. Visitors can take a boat tour of the bay and explore its many caves, lagoons, and secluded beaches."
-        },
-        {
-          "img": "x",
-          "alt": "Old Phuket Town",
-          "title": "Old Phuket Town",
-          "description": "This historic neighborhood is filled with charming Sino-Portuguese architecture, colorful shophouses, and street art. Visitors can explore its many boutiques, cafes, and galleries and learn about the island's rich cultural heritage."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Pad Thai",
-          "title": "Pad Thai",
-          "description": "Pad Thai is a stir-fried noodle dish that is popular in Thailand, including Phuket. Some of the best places to try Pad Thai in Phuket are Pad Thai Shop, Pad Thai Baan Nern Khao, and Pad Thai Thip Samai."
-        },
-        {
-          "img": "x",
-          "alt": "Tom Yum Goong",
-          "title": "Tom Yum Goong",
-          "description": "Tom Yum Goong is a spicy and sour soup that is often served with prawns. It is a popular dish in Thailand, and some of the best places to try it in Phuket are Krua Thai, Kan Eang @ Pier, and Laem Hin Seafood."
-        },
-        {
-          "img": "x",
-          "alt": "Thai Iced Tea",
-          "title": "Thai Iced Tea",
-          "description": "Thai Iced Tea is a sweet and creamy drink made with black tea, condensed milk, and sugar. It is a refreshing beverage to enjoy in the hot climate of Phuket, and some of the best places to try it are Cha Tra Mue, Naiharn Coffee, and Yentafo Convent."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Trisara Phuket",
-          "title": "Trisara Phuket",
-          "description": "Trisara Phuket is a luxurious resort located on the northwest coast of Phuket. It offers spacious villas and suites with private pools, ocean views, and modern amenities. Amenities include a spa, beach club, and several dining options."
-        },
-        {
-          "img": "x",
-          "alt": "The Surin Phuket",
-          "title": "The Surin Phuket",
-          "description": "The Surin Phuket is a beachfront resort located on the west coast of Phuket. It offers elegant rooms and suites with traditional Thai decor and modern amenities. Amenities include a spa, beach club, and several dining options."
-        },
-        {
-          "img": "x",
-          "alt": "Hostel Our Nomad",
-          "title": "Hostel Our Nomad",
-          "description": "Hostel Our Nomad is a budget-friendly hostel located in the heart of Phuket Town. It offers dormitory and private rooms with shared bathrooms. Amenities include a common area, kitchen, and laundry facilities."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Songthaew",
-          "title": "Songthaew",
-          "description": "Songthaew is a shared taxi truck that is a popular mode of transportation in Phuket."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Phuket"
+  },
+  "about": {
+    "name": "Phuket",
+    "info_text": "Phuket is Thailand's largest island and a popular destination in the Andaman Sea. Known for its stunning beaches, vibrant nightlife, and cultural heritage, Phuket offers a diverse range of experiences for travelers. Visitors can explore the bustling streets of Patong, relax on the pristine shores of Karon Beach, and discover the rich history of Old Phuket Town. The island also serves as a gateway to nearby attractions, including the Phi Phi Islands and Phang Nga Bay. Whether you're seeking adventure, relaxation, or cultural immersion, Phuket has something for everyone.",
+    "facts_text": "<strong>Population:</strong> Approximately 400,000<br><strong>Official Language:</strong> Thai<br><strong>Currency:</strong> Thai Baht (THB)<br><strong>Time Zone:</strong> Indochina Time (ICT, UTC+07:00)<br><strong>Climate:</strong> Tropical monsoon climate with a rainy season from May to October and a dry season from November to April."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Patong Beach",
+        "title": "Patong Beach",
+        "description": "Phuket's most famous beach, known for its vibrant nightlife, water sports, and entertainment options."
+      },
+      {
+        "img": "x",
+        "alt": "Karon Beach",
+        "title": "Karon Beach",
+        "description": "A beautiful, family-friendly beach with a relaxed atmosphere, ideal for swimming and sunbathing."
+      },
+      {
+        "img": "x",
+        "alt": "Old Phuket Town",
+        "title": "Old Phuket Town",
+        "description": "Explore the historic district with its colorful Sino-Portuguese architecture, museums, and vibrant street art."
+      },
+      {
+        "img": "x",
+        "alt": "Big Buddha",
+        "title": "Big Buddha",
+        "description": "Visit the iconic 45-meter-tall statue of the Big Buddha and enjoy panoramic views of the island."
+      },
+      {
+        "img": "x",
+        "alt": "Phi Phi Islands",
+        "title": "Phi Phi Islands",
+        "description": "Embark on day trips to the stunning Phi Phi Islands for snorkeling, scuba diving, and beach adventures."
+      },
+      {
+        "img": "x",
+        "alt": "Phang Nga Bay",
+        "title": "Phang Nga Bay",
+        "description": "Discover the famous James Bond Island and the surreal limestone karsts of Phang Nga Bay on boat tours."
+      },
+      {
+        "img": "x",
+        "alt": "Wat Chalong",
+        "title": "Wat Chalong",
+        "description": "Visit the largest and most important Buddhist temple in Phuket, known for its spiritual significance."
+      },
+      {
+        "img": "x",
+        "alt": "Elephant Sanctuaries",
+        "title": "Elephant Sanctuaries",
+        "description": "Interact with rescued elephants in ethical sanctuaries focused on conservation and animal welfare."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Thai Street Food",
+        "title": "Thai Street Food",
+        "description": "Indulge in a variety of authentic Thai dishes from street vendors, including pad Thai, green curry, and mango sticky rice."
+      },
+      {
+        "img": "x",
+        "alt": "Seafood Feasts",
+        "title": "Seafood Feasts",
+        "description": "Enjoy fresh seafood at beachfront restaurants, with grilled fish, prawns, and crab on the menu."
+      },
+      {
+        "img": "x",
+        "alt": "Tom Yum Soup",
+        "title": "Tom Yum Soup",
+        "description": "Savor the bold flavors of Tom Yum, a spicy and sour Thai soup with shrimp or chicken."
+      },
+      {
+        "img": "x",
+        "alt": "Coconut Delights",
+        "title": "Coconut Delights",
+        "description": "Treat yourself to coconut-based desserts, such as coconut ice cream and coconut pancakes."
+      },
+      {
+        "img": "x",
+        "alt": "Mango Shakes",
+        "title": "Mango Shakes",
+        "description": "Stay refreshed with delicious mango shakes and fruit smoothies available at local eateries."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "Beachfront Resorts",
+        "title": "Beachfront Resorts",
+        "description": "Choose from luxurious beachfront resorts with private beaches and world-class amenities."
+      },
+      {
+        "img": "x",
+        "alt": "Boutique Hotels",
+        "title": "Boutique Hotels",
+        "description": "Discover unique boutique hotels in Old Phuket Town, offering a blend of history and style."
+      },
+      {
+        "img": "x",
+        "alt": "Budget Accommodations",
+        "title": "Budget Accommodations",
+        "description": "Find budget-friendly guesthouses and hostels for cost-conscious travelers."
+      },
+      {
+        "img": "x",
+        "alt": "Villa Rentals",
+        "title": "Villa Rentals",
+        "description": "Experience the privacy of villa rentals with private pools and personalized services."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Phuket International Airport",
+        "title": "Phuket International Airport",
+        "description": "The main airport serving Phuket, providing both domestic and international flights."
+      },
+      {
+        "img": "x",
+        "alt": "Tuk-Tuks and Taxis",
+        "title": "Tuk-Tuks and Taxis",
+        "description": "Tuk-tuks and taxis are readily available for convenient local transportation on the island."
+      },
+      {
+        "img": "x",
+        "alt": "Renting Scooters",
+        "title": "Renting Scooters",
+        "description": "Rent scooters to explore the island independently, but remember to drive with caution."
+      },
+      {
+        "img": "x",
+        "alt": "Songthaews",
+        "title": "Songthaews",
+        "description": "Use songthaews (shared pickup trucks) for affordable transportation between beaches and towns."
+      },
+      {
+        "img": "x",
+        "alt": "Boat Tours",
+        "title": "Boat Tours",
+        "description": "Take boat tours to nearby islands and attractions, including the Phi Phi Islands and Phang Nga Bay."
+      }
+    ]
+  }
+}

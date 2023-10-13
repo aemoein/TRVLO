@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Hong Kong"
+    },
+    "about": {
+      "name": "Hong Kong",
+      "info_text": "Hong Kong is a bustling metropolis and Special Administrative Region of China, known for its stunning skyline, vibrant culture, and rich history. Situated on the southeast coast of China, Hong Kong is a dynamic city that seamlessly blends tradition and modernity. It's famous for its impressive skyscrapers, bustling street markets, delicious cuisine, and picturesque harbors. Visitors can explore a wide range of attractions, from traditional temples to high-end shopping districts.",
+      "facts_text": "<strong>Population:</strong> Over 7 million<br><strong>Region:</strong> Hong Kong SAR<br><strong>Time Zone:</strong> Hong Kong Time (UTC+08:00)<br><strong>Languages:</strong> Chinese (Cantonese) and English<br><strong>Currency:</strong> Hong Kong Dollar (HKD)",
+      "climate_text": "Hong Kong has a subtropical climate with distinct seasons. Summers are hot and humid, while winters are mild and dry. Typhoons can occasionally affect the region during the summer months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Victoria Peak",
+          "title": "Victoria Peak",
+          "description": "Victoria Peak offers panoramic views of Hong Kong's iconic skyline. Visitors can take the Peak Tram to the summit and enjoy the stunning vistas."
+        },
+        {
+          "img": "x",
+          "alt": "Star Ferry",
+          "title": "Star Ferry",
+          "description": "The Star Ferry is an iconic Hong Kong experience, offering scenic harbor cruises between Hong Kong Island and Kowloon."
+        },
+        {
+          "img": "x",
+          "alt": "Tian Tan Buddha",
+          "title": "Tian Tan Buddha",
+          "description": "The Tian Tan Buddha, located on Lantau Island, is one of the world's largest outdoor seated bronze Buddhas and is a significant religious site."
+        },
+        {
+          "img": "x",
+          "alt": "Hong Kong Disneyland",
+          "title": "Hong Kong Disneyland",
+          "description": "Families can enjoy a magical day at Hong Kong Disneyland, with attractions, parades, and the enchanting Sleeping Beauty Castle."
+        },
+        {
+          "img": "x",
+          "alt": "Temple Street Night Market",
+          "title": "Temple Street Night Market",
+          "description": "Temple Street Night Market is a bustling market in Kowloon, offering a wide variety of street food, souvenirs, and bargain shopping."
+        },
+        {
+          "img": "x",
+          "alt": "Wong Tai Sin Temple",
+          "title": "Wong Tai Sin Temple",
+          "description": "Wong Tai Sin Temple is a Taoist temple where visitors can experience traditional Chinese rituals, fortune telling, and cultural practices."
+        },
+        {
+          "img": "x",
+          "alt": "Ocean Park",
+          "title": "Ocean Park",
+          "description": "Ocean Park is an oceanarium and theme park that combines marine life, animal exhibits, and thrilling rides for a fun-filled day."
+        },
+        {
+          "img": "x",
+          "alt": "Avenue of Stars",
+          "title": "Avenue of Stars",
+          "description": "The Avenue of Stars along the Tsim Sha Tsui waterfront honors Hong Kong's film industry and offers fantastic views of the harbor and cityscape."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Dim Sum",
+          "title": "Dim Sum",
+          "description": "Dim Sum is a popular style of Cantonese cuisine, featuring bite-sized dishes such as dumplings, buns, and rolls, often served with tea."
+        },
+        {
+          "img": "x",
+          "alt": "Char Siu",
+          "title": "Char Siu",
+          "description": "Char Siu is a delicious barbecue pork dish, known for its sweet and savory flavor, often served with rice or in buns."
+        },
+        {
+          "img": "x",
+          "alt": "Wonton Noodles",
+          "title": "Wonton Noodles",
+          "description": "Wonton noodles are a classic Hong Kong comfort food, featuring plump wontons and egg noodles in a savory broth."
+        },
+        {
+          "img": "x",
+          "alt": "Roast Goose",
+          "title": "Roast Goose",
+          "description": "Roast goose is a flavorful and tender dish, often served with a crispy skin and accompanied by a delicious sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Egg Tarts",
+          "title": "Egg Tarts",
+          "description": "Egg tarts are a beloved dessert in Hong Kong, featuring flaky pastry and a creamy, sweet custard filling."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Peninsula Hong Kong",
+          "title": "The Peninsula Hong Kong",
+          "description": "The Peninsula Hong Kong is a legendary luxury hotel with a history dating back to 1928, offering opulent accommodations and top-notch service."
+        },
+        {
+          "img": "x",
+          "alt": "Ritz-Carlton Hong Kong",
+          "title": "Ritz-Carlton Hong Kong",
+          "description": "The Ritz-Carlton is a five-star hotel located in the International Commerce Centre, featuring breathtaking views, luxurious rooms, and exquisite dining."
+        },
+        {
+          "img": "x",
+          "alt": "Island Shangri-La Hong Kong",
+          "title": "Island Shangri-La Hong Kong",
+          "description": "The Island Shangri-La offers elegance and comfort in the heart of Hong Kong, with stunning views, a Horizon Club, and fine dining."
+        },
+        {
+          "img": "x",
+          "alt": "Mandarin Oriental Hong Kong",
+          "title": "Mandarin Oriental Hong Kong",
+          "description": "The Mandarin Oriental is a five-star hotel with a central location, luxurious rooms, and a range of dining options, including Michelin-starred restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Hong Kong",
+          "title": "Four Seasons Hotel Hong Kong",
+          "description": "The Four Seasons Hotel offers world-class luxury, stunning harbor views, and impeccable service in the heart of the city."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Hong Kong MTR",
+          "title": "Hong Kong MTR",
+          "description": "The Hong Kong MTR (Mass Transit Railway) is a convenient and efficient subway system connecting various parts of the city, including Hong Kong Island and Kowloon."
+        },
+        {
+          "img": "x",
+          "alt": "Trams",
+          "title": "Trams",
+          "description": "The iconic trams in Hong Kong are a charming way to explore the city's streets and offer scenic views of daily life."
+        },
+        {
+          "img": "x",
+          "alt": "Star Ferry",
+          "title": "Star Ferry",
+          "description": "The Star Ferry provides a picturesque way to travel between Hong Kong Island and Kowloon, offering views of the skyline and harbor."
+        },
+        {
+          "img": "x",
+          "alt": "Hong Kong International Airport",
+          "title": "Hong Kong International Airport",
+          "description": "Hong Kong International Airport (HKG) is a major international airport that connects Hong Kong with destinations around the world."
+        }
+      ]
+    }
+  }  

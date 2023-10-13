@@ -5,9 +5,9 @@
   },
   "about": {
     "name": "Vienna",
-    "info_text": "Vienna, the capital of Austria, is a city steeped in history, culture, and classical music. Known for its grand architecture, museums, and charming coffeehouses, Vienna offers a unique blend of old-world charm and modernity. Visitors can explore historic palaces, enjoy classical concerts, and savor traditional Viennese pastries. Vienna is also a center for international organizations, making it a city of global importance and influence.",
-    "facts_text": "<strong>Population:</strong> Approximately 1.9 million<br><strong>Country:</strong> Austria<br><strong>Time Zone:</strong> Central European Time (CET, UTC+1)<br><strong>Language:</strong> German<br><strong>Currency:</strong> Euro (EUR)",
-    "climate_text": "Vienna, the capital of Austria, has a temperate continental climate. Summers in Vienna are warm, with temperatures typically ranging from 20°C to 25°C (68°F to 77°F), while winters can be cold, with temperatures between -2°C and 2°C (28°F to 36°F). Vienna experiences moderate rainfall throughout the year, with occasional snowfall during the winter months."
+    "info_text": "Vienna, the capital of Austria, is a city with a rich history and a vibrant cultural scene. Known for its imperial palaces, classical music heritage, and elegant coffeehouses, Vienna offers a unique blend of tradition and modernity. Visitors can explore historic landmarks, such as the Schönbrunn Palace and St. Stephen's Cathedral, while also enjoying the contemporary arts and culinary experiences. With its world-class museums, music festivals, and charming streets, Vienna is a city that celebrates both its past and present.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.9 million<br><strong>State:</strong> Vienna<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> German<br><strong>Currency:</strong> Euro (EUR)",
+    "climate_text": "Vienna experiences a temperate continental climate with warm summers and cold winters. Summers are ideal for outdoor activities, while the city's Christmas markets are a highlight during the winter season."
   },
   "attractions": {
     "attractions_card": [
@@ -15,25 +15,49 @@
         "img": "x",
         "alt": "Schönbrunn Palace",
         "title": "Schönbrunn Palace",
-        "description": "Visit the magnificent Schönbrunn Palace, a UNESCO World Heritage site and former imperial summer residence."
-      },
-      {
-        "img": "x",
-        "alt": "Belvedere Palace",
-        "title": "Belvedere Palace",
-        "description": "Explore the Belvedere Palace complex, housing an impressive collection of Austrian art and stunning gardens."
+        "description": "Schönbrunn Palace is a UNESCO World Heritage site and a former imperial summer residence. Visitors can explore the stunning palace, extensive gardens, and the Gloriette with panoramic views."
       },
       {
         "img": "x",
         "alt": "St. Stephen's Cathedral",
         "title": "St. Stephen's Cathedral",
-        "description": "Admire the Gothic architecture of St. Stephen's Cathedral, a symbol of Vienna, and climb its tower for panoramic views."
+        "description": "St. Stephen's Cathedral, or Stephansdom, is an iconic Gothic cathedral at the heart of Vienna. It is famous for its intricate architecture and stunning views from the South Tower."
+      },
+      {
+        "img": "x",
+        "alt": "Belvedere Palace",
+        "title": "Belvedere Palace",
+        "description": "The Belvedere Palace complex houses a remarkable art collection, including Gustav Klimt's 'The Kiss.' The palace's Baroque architecture and beautiful gardens make it a cultural gem."
       },
       {
         "img": "x",
         "alt": "Vienna State Opera",
         "title": "Vienna State Opera",
-        "description": "Attend a performance at the world-famous Vienna State Opera, known for its exceptional productions."
+        "description": "The Vienna State Opera is renowned for its opera and ballet performances. The opulent building is a masterpiece of Neo-Renaissance architecture."
+      },
+      {
+        "img": "x",
+        "alt": "Hofburg Palace",
+        "title": "Hofburg Palace",
+        "description": "The Hofburg Palace is a historic palace complex that once served as the imperial palace. Today, it houses museums, the Spanish Riding School, and the presidential residence."
+      },
+      {
+        "img": "x",
+        "alt": "Prater Park",
+        "title": "Prater Park",
+        "description": "The Prater Park is a vast recreational area with an iconic Ferris wheel, known as the Wiener Riesenrad. It's a great place for leisurely strolls and amusement park fun."
+      },
+      {
+        "img": "x",
+        "alt": "MuseumsQuartier",
+        "title": "MuseumsQuartier",
+        "description": "MuseumsQuartier is a cultural complex with a range of museums, galleries, and cultural institutions. It's a hub for contemporary art and creative expression."
+      },
+      {
+        "img": "x",
+        "alt": "Vienna City Hall",
+        "title": "Vienna City Hall",
+        "description": "Vienna City Hall, or Rathaus, is a stunning Gothic Revival building. It hosts events and is famous for the Rathausplatz Christmas Market in winter."
       }
     ]
   },
@@ -41,21 +65,33 @@
     "food_card": [
       {
         "img": "x",
-        "alt": "Sachertorte",
-        "title": "Sachertorte",
-        "description": "Indulge in Sachertorte, a decadent chocolate cake with a layer of apricot jam and chocolate glaze."
+        "alt": "Wiener Schnitzel",
+        "title": "Wiener Schnitzel",
+        "description": "Wiener Schnitzel is a classic Austrian dish, consisting of breaded and fried veal or pork cutlets. It's often served with lemon and potato salad."
       },
       {
         "img": "x",
-        "alt": "Wiener Schnitzel",
-        "title": "Wiener Schnitzel",
-        "description": "Try Wiener Schnitzel, a traditional Austrian dish featuring breaded and fried veal or pork cutlets."
+        "alt": "Sachertorte",
+        "title": "Sachertorte",
+        "description": "Sachertorte is a famous Austrian dessert, featuring a rich chocolate cake with a layer of apricot jam and a glossy chocolate glaze. It's a delightful treat."
       },
       {
         "img": "x",
         "alt": "Apfelstrudel",
         "title": "Apfelstrudel",
-        "description": "Enjoy Apfelstrudel, a famous Austrian pastry filled with spiced apples and raisins, often served with cream or vanilla sauce."
+        "description": "Apfelstrudel, or apple strudel, is a traditional Austrian pastry filled with spiced apples, raisins, and cinnamon. It's often served with vanilla sauce or ice cream."
+      },
+      {
+        "img": "x",
+        "alt": "Kaiserschmarrn",
+        "title": "Kaiserschmarrn",
+        "description": "Kaiserschmarrn is a sweet pancake dessert that's shredded and caramelized, typically served with powdered sugar and fruit compote."
+      },
+      {
+        "img": "x",
+        "alt": "Coffeehouse Culture",
+        "title": "Coffeehouse Culture",
+        "description": "Vienna's coffeehouse culture is legendary. Enjoy a cup of coffee and a slice of cake in one of the city's historic coffeehouses, known for their relaxed atmosphere and extensive coffee menu."
       }
     ]
   },
@@ -63,21 +99,33 @@
     "hotels_card": [
       {
         "img": "x",
-        "alt": "Hotel Sacher Vienna",
-        "title": "Hotel Sacher Vienna",
-        "description": "Experience luxury at Hotel Sacher Vienna, a historic hotel known for its Sachertorte and elegant accommodations."
+        "alt": "Hotel Sacher",
+        "title": "Hotel Sacher",
+        "description": "Hotel Sacher is a luxurious and historic hotel known for its elegant rooms, traditional Viennese coffeehouse, and the world-famous Sachertorte."
       },
       {
         "img": "x",
         "alt": "The Ritz-Carlton, Vienna",
         "title": "The Ritz-Carlton, Vienna",
-        "description": "Stay at The Ritz-Carlton, Vienna, a 5-star hotel located in a former palace with a rooftop bar and spa."
+        "description": "The Ritz-Carlton offers a lavish stay in a beautifully restored palatial building in the city center, with impeccable service and gourmet dining."
       },
       {
         "img": "x",
-        "alt": "Motel One Wien-Staatsoper",
-        "title": "Motel One Wien-Staatsoper",
-        "description": "Enjoy a comfortable stay at Motel One Wien-Staatsoper, a modern and affordable hotel near the State Opera."
+        "alt": "Hotel Imperial, a Luxury Collection Hotel",
+        "title": "Hotel Imperial, a Luxury Collection Hotel",
+        "description": "Hotel Imperial is a historic luxury hotel known for its opulent decor, exceptional dining, and a prime location near the Vienna State Opera."
+      },
+      {
+        "img": "x",
+        "alt": "Park Hyatt Vienna",
+        "title": "Park Hyatt Vienna",
+        "description": "Park Hyatt Vienna offers a blend of modern luxury in a historic setting, housed in a former bank building. It's a short walk from St. Stephen's Cathedral."
+      },
+      {
+        "img": "x",
+        "alt": "The Guesthouse Vienna",
+        "title": "The Guesthouse Vienna",
+        "description": "The Guesthouse is a boutique hotel with a contemporary design, located near St. Stephen's Cathedral, offering stylish accommodations and personalized service."
       }
     ]
   },
@@ -85,15 +133,27 @@
     "transport_card": [
       {
         "img": "x",
-        "alt": "Vienna International Airport",
-        "title": "Vienna International Airport",
-        "description": "Arrive in Vienna via Vienna International Airport, the city's primary international gateway."
+        "alt": "Vienna U-Bahn",
+        "title": "Vienna U-Bahn",
+        "description": "The Vienna U-Bahn is the city's efficient subway system, providing easy access to various parts of the city, including popular tourist destinations."
       },
       {
         "img": "x",
-        "alt": "Vienna Public Transport",
-        "title": "Vienna Public Transport",
-        "description": "Use Vienna's efficient public transport system, including trams, buses, and the Vienna U-Bahn (subway)."
+        "alt": "Trams and Buses",
+        "title": "Trams and Buses",
+        "description": "Vienna's tram and bus network complements the U-Bahn, making it convenient to explore the city. Trams are a great way to see the sights."
+      },
+      {
+        "img": "x",
+        "alt": "Vienna International Airport",
+        "title": "Vienna International Airport",
+        "description": "Vienna International Airport (VIE) is the main international gateway to the city, providing connections to destinations around the world."
+      },
+      {
+        "img": "x",
+        "alt": "Bicycles",
+        "title": "Bicycles",
+        "description": "Vienna is a bicycle-friendly city with numerous cycling paths and bike-sharing services, allowing you to explore at your own pace."
       }
     ]
   }

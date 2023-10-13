@@ -5,35 +5,58 @@
   },
   "about": {
     "name": "Sibiu",
-    "info_text": "Sibiu, located in the heart of Transylvania, Romania, is a city known for its rich history, stunning architecture, and vibrant cultural scene. With its well-preserved medieval old town, Sibiu offers visitors a journey back in time, surrounded by cobblestone streets, colorful buildings, and historic landmarks. The city is famous for its annual theater festival, Sibiu International Theatre Festival, and its charming squares and museums. Sibiu is a destination that blends history and modernity, making it an attractive place for travelers interested in culture, art, and history.",
-    "facts_text": "<strong>Population:</strong> Approximately 150,000<br><strong>Country:</strong> Romania<br><strong>Time Zone:</strong> Eastern European Time (EET, UTC+2)<br><strong>Language:</strong> Romanian, German, English<br><strong>Currency:</strong> Romanian Leu (RON)",
-    "climate_text": "Sibiu, a city in Romania, has a continental climate with four distinct seasons. Summers in Sibiu are warm, with temperatures ranging from 20°C to 25°C (68°F to 77°F), while winters can be cold, with temperatures between -5°C and 2°C (23°F to 36°F). Sibiu experiences moderate rainfall year-round, with occasional snowfall during the winter months."
+    "info_text": "Sibiu is a picturesque city located in Transylvania, Romania. Known for its well-preserved medieval architecture, Sibiu offers a unique blend of history, culture, and natural beauty. The city's historic center is a UNESCO World Heritage Site, characterized by cobbled streets, colorful buildings, and charming squares. Visitors can explore medieval fortifications, visit museums, and enjoy the vibrant arts scene. Sibiu is also famous for its festivals, including the Sibiu International Theatre Festival, making it a cultural hub in the region.",
+    "facts_text": "<strong>Population:</strong> Approximately 147,245<br><strong>Country:</strong> Romania<br><strong>Official Language:</strong> Romanian<br><strong>Currency:</strong> Romanian Leu (RON)<br><strong>Time Zone:</strong> Eastern European Time (EET, UTC+02:00)<br><strong>Climate:</strong> Continental climate with warm summers and cold winters."
   },
   "attractions": {
     "attractions_card": [
       {
         "img": "x",
-        "alt": "Brukenthal National Museum",
-        "title": "Brukenthal National Museum",
-        "description": "Explore the art and history collections of the Brukenthal National Museum, Romania's oldest museum."
+        "alt": "Sibiu Historic Center",
+        "title": "Sibiu Historic Center",
+        "description": "Wander through the enchanting historic center of Sibiu, where you'll find medieval buildings, charming squares, and cozy cafes."
       },
       {
         "img": "x",
-        "alt": "Piata Mare (Big Square)",
-        "title": "Piata Mare (Big Square)",
-        "description": "Stroll through Piata Mare, the largest square in Sibiu, surrounded by colorful baroque buildings and historical landmarks."
+        "alt": "Brukenthal National Museum",
+        "title": "Brukenthal National Museum",
+        "description": "Explore the impressive Brukenthal National Museum, Romania's oldest museum, housing a diverse collection of art and artifacts."
       },
       {
         "img": "x",
         "alt": "Council Tower",
         "title": "Council Tower",
-        "description": "Climb the Council Tower for panoramic views of Sibiu and its iconic rooftops."
+        "description": "Climb the Council Tower for panoramic views of Sibiu and the surrounding Transylvanian landscape."
       },
       {
         "img": "x",
-        "alt": "ASTRA National Museum Complex",
-        "title": "ASTRA National Museum Complex",
-        "description": "Visit the ASTRA National Museum Complex, an open-air museum showcasing Romania's rural architecture and traditions."
+        "alt": "Bridge of Lies",
+        "title": "Bridge of Lies",
+        "description": "Discover the mysterious Bridge of Lies, known for its legends and tales of lovers and liars."
+      },
+      {
+        "img": "x",
+        "alt": "ASTRA Museum of Traditional Folk Civilization",
+        "title": "ASTRA Museum",
+        "description": "Visit the ASTRA Museum to explore open-air exhibits showcasing Romania's traditional folk culture and heritage."
+      },
+      {
+        "img": "x",
+        "alt": "Păltiniș Mountain Resort",
+        "title": "Păltiniș Mountain Resort",
+        "description": "Head to Păltiniș, a nearby mountain resort, for outdoor activities, hiking, and winter sports."
+      },
+      {
+        "img": "x",
+        "alt": "Sibiu Lutheran Cathedral",
+        "title": "Lutheran Cathedral",
+        "description": "Admire the Sibiu Lutheran Cathedral, a stunning Gothic church with an iconic spire."
+      },
+      {
+        "img": "x",
+        "alt": "Sub Arini Park",
+        "title": "Sub Arini Park",
+        "description": "Relax in Sub Arini Park, a green oasis in the heart of Sibiu, ideal for picnics and leisurely walks."
       }
     ]
   },
@@ -43,19 +66,31 @@
         "img": "x",
         "alt": "Mămăligă",
         "title": "Mămăligă",
-        "description": "Taste Mămăligă, a traditional Romanian dish of polenta, often served with cheese, sour cream, and bacon."
+        "description": "Indulge in mămăligă, a traditional Romanian dish of cornmeal porridge, often served with cheese and sour cream."
       },
       {
         "img": "x",
-        "alt": "Sibiu Salami",
-        "title": "Sibiu Salami",
-        "description": "Try Sibiu Salami, a delicious Romanian sausage known for its unique flavor and quality."
+        "alt": "Sarmale",
+        "title": "Sarmale",
+        "description": "Try sarmale, delicious cabbage rolls stuffed with a mixture of pork, beef, and rice, typically served during special occasions."
       },
       {
         "img": "x",
-        "alt": "Ciorbă",
-        "title": "Ciorbă",
-        "description": "Enjoy Ciorbă, a sour soup popular in Romania, available in various flavors and with or without meat."
+        "alt": "Mititei",
+        "title": "Mititei",
+        "description": "Savor mititei, small grilled sausages made from a blend of meats and spices, often enjoyed with mustard and fresh bread."
+      },
+      {
+        "img": "x",
+        "alt": "Papanași",
+        "title": "Papanași",
+        "description": "Treat yourself to papanași, a delightful Romanian dessert consisting of fried dough, jam, and sour cream."
+      },
+      {
+        "img": "x",
+        "alt": "Local Bakeries",
+        "title": "Local Bakeries",
+        "description": "Visit local bakeries and enjoy fresh bread, pastries, and sweet treats as you explore Sibiu."
       }
     ]
   },
@@ -63,21 +98,27 @@
     "hotels_card": [
       {
         "img": "x",
-        "alt": "Hilton Sibiu",
-        "title": "Hilton Sibiu",
-        "description": "Stay at the Hilton Sibiu, a luxurious hotel offering comfort and great amenities."
+        "alt": "Historic Hotels",
+        "title": "Historic Hotels",
+        "description": "Stay in historic hotels with old-world charm and modern amenities, offering a glimpse into Sibiu's past."
       },
       {
         "img": "x",
-        "alt": "Continental Forum Sibiu",
-        "title": "Continental Forum Sibiu",
-        "description": "Experience a comfortable stay at the Continental Forum Sibiu, conveniently located in the city center."
+        "alt": "Boutique Hotels",
+        "title": "Boutique Hotels",
+        "description": "Discover boutique hotels in Sibiu, known for their unique character and personalized service."
       },
       {
         "img": "x",
-        "alt": "Hotel Levoslav House",
-        "title": "Hotel Levoslav House",
-        "description": "Relax at the Hotel Levoslav House, a charming boutique hotel with a historic ambiance."
+        "alt": "Guesthouses",
+        "title": "Guesthouses",
+        "description": "Experience cozy guesthouses in the city, where you can enjoy a warm and welcoming atmosphere."
+      },
+      {
+        "img": "x",
+        "alt": "Modern Accommodations",
+        "title": "Modern Accommodations",
+        "description": "Choose modern accommodations in Sibiu, offering contemporary comfort and style for travelers."
       }
     ]
   },
@@ -87,13 +128,25 @@
         "img": "x",
         "alt": "Sibiu International Airport",
         "title": "Sibiu International Airport",
-        "description": "Fly into Sibiu International Airport for easy access to the city and surrounding regions."
+        "description": "Access Sibiu via the Sibiu International Airport, which provides domestic and limited international flight options."
       },
       {
         "img": "x",
         "alt": "Public Transportation",
         "title": "Public Transportation",
-        "description": "Use Sibiu's public transportation system to get around the city conveniently."
+        "description": "Utilize public transportation options, including buses, for convenient travel within Sibiu."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis",
+        "title": "Taxis",
+        "description": "Taxis are readily available in Sibiu, offering a convenient way to get around the city."
+      },
+      {
+        "img": "x",
+        "alt": "Walking and Bicycles",
+        "title": "Walking and Bicycles",
+        "description": "Explore Sibiu on foot or by bicycle, taking in the city's beauty at a leisurely pace."
       }
     ]
   }

@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Macau"
+    },
+    "about": {
+      "name": "Macau",
+      "info_text": "Macau, also known as the 'Las Vegas of Asia,' is a vibrant and culturally rich Special Administrative Region of China located on the southern coast of the Pearl River Delta. This unique destination is renowned for its blend of Chinese and Portuguese heritage, reflected in its architecture, cuisine, and traditions. Macau is famous for its world-class casinos, historic sites, and lively street markets, making it a captivating place for both culture enthusiasts and those seeking entertainment.",
+      "facts_text": "<strong>Population:</strong> Approximately 682,800<br><strong>Region:</strong> Macau Special Administrative Region (SAR)<br><strong>Official Languages:</strong> Chinese (Cantonese) and Portuguese<br><strong>Currency:</strong> Macanese Pataca (MOP)",
+      "climate_text": "Macau has a subtropical climate, with hot and humid summers and mild, dry winters. Typhoon season typically occurs from May to September."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Ruins of St. Paul's",
+          "title": "Ruins of St. Paul's",
+          "description": "The Ruins of St. Paul's are the remains of a 17th-century Portuguese church in the heart of Macau and one of its most iconic landmarks."
+        },
+        {
+          "img": "x",
+          "alt": "Senado Square",
+          "title": "Senado Square",
+          "description": "Senado Square is a historic public square with Portuguese-style colorful buildings, creating a charming atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Macau Tower",
+          "title": "Macau Tower",
+          "description": "The Macau Tower offers breathtaking views of the city and thrilling activities such as bungee jumping and a skywalk."
+        },
+        {
+          "img": "x",
+          "alt": "A-Ma Temple",
+          "title": "A-Ma Temple",
+          "description": "A-Ma Temple is one of the oldest Taoist temples in Macau, dedicated to the goddess of seafarers and fishermen."
+        },
+        {
+          "img": "x",
+          "alt": "The Venetian Macao",
+          "title": "The Venetian Macao",
+          "description": "The Venetian Macao is a world-renowned resort and casino, featuring Venetian-style architecture, gondola rides, and luxury shopping."
+        },
+        {
+          "img": "x",
+          "alt": "Macau Fisherman's Wharf",
+          "title": "Macau Fisherman's Wharf",
+          "description": "Macau Fisherman's Wharf is an entertainment complex with various themed attractions, including Roman amphitheaters and shopping."
+        },
+        {
+          "img": "x",
+          "alt": "Guia Fortress and Lighthouse",
+          "title": "Guia Fortress and Lighthouse",
+          "description": "Guia Fortress and Lighthouse offer historical significance and panoramic views of Macau from Guia Hill."
+        },
+        {
+          "img": "x",
+          "alt": "Coloane Village",
+          "title": "Coloane Village",
+          "description": "Coloane Village is a tranquil and picturesque part of Macau, known for its relaxed atmosphere and delicious Portuguese egg tarts."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Portuguese Egg Tarts",
+          "title": "Portuguese Egg Tarts",
+          "description": "Portuguese egg tarts are a signature Macanese pastry, with a flaky crust and creamy custard filling, best enjoyed fresh from the bakery."
+        },
+        {
+          "img": "x",
+          "alt": "Dim Sum",
+          "title": "Dim Sum",
+          "description": "Dim Sum is a popular choice in Macau, with various teahouses and restaurants serving delicious bite-sized Cantonese dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Macanese Cuisine",
+          "title": "Macanese Cuisine",
+          "description": "Macanese cuisine combines Chinese and Portuguese flavors, with dishes like African chicken, bacalhau, and minchi."
+        },
+        {
+          "img": "x",
+          "alt": "Seafood",
+          "title": "Seafood",
+          "description": "Macau is known for its fresh seafood, with many restaurants offering delectable dishes like garlic crab and salt and pepper prawns."
+        },
+        {
+          "img": "x",
+          "alt": "Street Food",
+          "title": "Street Food",
+          "description": "Macau's street markets offer a variety of street food delights, from fish balls to pork chop buns."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Grand Lisboa",
+          "title": "Grand Lisboa",
+          "description": "Grand Lisboa is an iconic hotel and casino with a distinctive lotus-shaped tower, offering luxurious accommodations and fine dining."
+        },
+        {
+          "img": "x",
+          "alt": "Wynn Palace",
+          "title": "Wynn Palace",
+          "description": "Wynn Palace is a lavish resort with a palatial design, featuring opulent rooms, a stunning fountain show, and gourmet dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Mandarin Oriental, Macau",
+          "title": "Mandarin Oriental, Macau",
+          "description": "Mandarin Oriental, Macau offers a blend of elegance and modernity, with panoramic views and exceptional service."
+        },
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Macau",
+          "title": "The Ritz-Carlton, Macau",
+          "description": "The Ritz-Carlton, Macau is a luxury hotel offering elegant accommodations, a tranquil spa, and top-notch dining experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Okura Macau",
+          "title": "Hotel Okura Macau",
+          "description": "Hotel Okura Macau provides a blend of Japanese hospitality and Macanese charm, featuring comfortable rooms and exceptional cuisine."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Macau Light Rapid Transit (LRT)",
+          "title": "Macau Light Rapid Transit (LRT)",
+          "description": "The Macau LRT is a convenient way to explore the city, connecting major attractions and neighborhoods."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Macau has an extensive public bus system that covers various routes throughout the region."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Macau and offer a convenient mode of transportation around the city."
+        },
+        {
+          "img": "x",
+          "alt": "Ferries",
+          "title": "Ferries",
+          "description": "Ferries connect Macau to Hong Kong and other nearby destinations, making it easy to explore the region by water."
+        }
+      ]
+    }
+  }  

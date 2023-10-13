@@ -1,100 +1,166 @@
 {
-    "hero": {
-      "img": "x",
-      "title": "Prague"
-    },
-    "about": {
-      "name": "Prague",
-      "info_text": "Prague, the capital of the Czech Republic, is a city of stunning architecture, rich history, and vibrant culture. Known as the 'City of a Hundred Spires,' Prague's historic Old Town, iconic Charles Bridge, and majestic Prague Castle make it a favorite destination for travelers. Visitors can explore its cobblestone streets, Gothic and Baroque buildings, and experience the charm of this Bohemian city. With a thriving arts scene, world-class cuisine, and a strong coffee culture, Prague is a destination that seamlessly blends the old and the new.",
-      "facts_text": "<strong>Population:</strong> Approximately 1.3 million<br><strong>Country:</strong> Czech Republic<br><strong>Time Zone:</strong> Central European Time (UTC+01:00)<br><strong>Language:</strong> Czech<br><strong>Currency:</strong> Czech Koruna (CZK)",
-      "climate_text": "Prague, the capital of the Czech Republic, features a temperate continental climate with four distinct seasons. Summers are warm, with temperatures typically ranging from 20°C to 25°C (68°F to 77°F), while winters can be cold, with temperatures between -2°C and 2°C (28°F to 36°F). Prague experiences a fair amount of precipitation year-round, with snowfall common in the winter months."
-    },
-    "attractions": {
-      "attractions_card": [
-        {
-          "img": "x",
-          "alt": "Prague Castle",
-          "title": "Prague Castle",
-          "description": "Visit the largest ancient castle in the world, featuring the stunning St. Vitus Cathedral and the historic Royal Palace."
-        },
-        {
-          "img": "x",
-          "alt": "Charles Bridge",
-          "title": "Charles Bridge",
-          "description": "Stroll across the iconic Charles Bridge, adorned with statues, and enjoy panoramic views of Prague's Old Town and Prague Castle."
-        },
-        {
-          "img": "x",
-          "alt": "Old Town Square",
-          "title": "Old Town Square",
-          "description": "Experience the heart of Prague in the Old Town Square. Admire the Astronomical Clock and the Gothic Church of Our Lady before Týn."
-        },
-        {
-          "img": "x",
-          "alt": "Astronomical Clock",
-          "title": "Astronomical Clock",
-          "description": "Don't miss the famous Astronomical Clock in the Old Town Hall, known for its hourly show with figurines and astronomical dials."
-        }
-      ]
-    },
-    "foods": {
-      "food_card": [
-        {
-          "img": "x",
-          "alt": "Trdelník",
-          "title": "Trdelník",
-          "description": "Indulge in trdelník, a traditional Czech sweet pastry, often filled with ice cream or other delicious toppings."
-        },
-        {
-          "img": "x",
-          "alt": "Goulash",
-          "title": "Goulash",
-          "description": "Savor a hearty bowl of Czech goulash, a stew made with tender meat and a rich paprika sauce, often served with dumplings."
-        },
-        {
-          "img": "x",
-          "alt": "Pilsner Beer",
-          "title": "Pilsner Beer",
-          "description": "Enjoy a pint of Pilsner beer, as the Czech Republic is famous for its beer culture. Explore local pubs and breweries."
-        }
-      ]
-    },
-    "hotels": {
-      "hotels_card": [
-        {
-          "img": "x",
-          "alt": "Aria Hotel Prague",
-          "title": "Aria Hotel Prague",
-          "description": "Stay at the Aria Hotel Prague, a luxurious and music-themed boutique hotel near Prague Castle."
-        },
-        {
-          "img": "x",
-          "alt": "BoHo Hotel",
-          "title": "BoHo Hotel",
-          "description": "Experience modern comfort at the BoHo Hotel, conveniently located in the heart of Prague's Old Town."
-        },
-        {
-          "img": "x",
-          "alt": "Mandarin Oriental, Prague",
-          "title": "Mandarin Oriental, Prague",
-          "description": "Enjoy a luxurious stay at the Mandarin Oriental, Prague, housed in a former 14th-century monastery."
-        }
-      ]
-    },
-    "transport": {
-      "transport_card": [
-        {
-          "img": "x",
-          "alt": "Prague Metro",
-          "title": "Prague Metro",
-          "description": "The Prague Metro provides efficient transportation around the city. It's a convenient way to reach various attractions."
-        },
-        {
-          "img": "x",
-          "alt": "Trams and Buses",
-          "title": "Trams and Buses",
-          "description": "Explore Prague using its extensive tram and bus network, which connects various parts of the city."
-        }
-      ]
-    }
-  }  
+  "hero": {
+    "img": "x",
+    "title": "Prague"
+  },
+  "about": {
+    "name": "Prague",
+    "info_text": "Prague, often referred to as the 'City of a Hundred Spires,' is the capital of the Czech Republic and a city known for its stunning architecture, rich history, and vibrant culture. Visitors can explore the historic Old Town Square, admire the iconic Charles Bridge, and wander through Prague Castle. The city is also famous for its delicious Czech cuisine and world-renowned beer. Prague offers a magical experience with its cobblestone streets, Gothic cathedrals, and charming atmosphere.",
+    "facts_text": "<strong>Population:</strong> Approximately 1.3 million<br><strong>Country:</strong> Czech Republic<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Language:</strong> Czech<br><strong>Currency:</strong> Czech Koruna (CZK)",
+    "climate_text": "Prague experiences a temperate climate with four distinct seasons. Summers are warm, with average temperatures between 17°C (63°F) and 24°C (75°F). Winters can be cold, with temperatures ranging from -2°C (28°F) to 2°C (36°F)."
+  },
+  "attractions": {
+    "attractions_card": [
+      {
+        "img": "x",
+        "alt": "Prague Castle",
+        "title": "Prague Castle",
+        "description": "Prague Castle is one of the largest castle complexes in the world, featuring historic buildings, courtyards, and the beautiful St. Vitus Cathedral."
+      },
+      {
+        "img": "x",
+        "alt": "Charles Bridge",
+        "title": "Charles Bridge",
+        "description": "The Charles Bridge is an iconic stone bridge that crosses the Vltava River, adorned with statues, and offering panoramic views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Old Town Square",
+        "title": "Old Town Square",
+        "description": "Old Town Square is a historic center featuring the astronomical clock, colorful facades, and vibrant street performances."
+      },
+      {
+        "img": "x",
+        "alt": "Astronomical Clock",
+        "title": "Astronomical Clock",
+        "description": "The Prague Astronomical Clock is a medieval marvel that chimes every hour and features an animated show of the 12 apostles."
+      },
+      {
+        "img": "x",
+        "alt": "Vysehrad Castle",
+        "title": "Vysehrad Castle",
+        "description": "Vysehrad Castle is a historic fortress with stunning views of the city, a beautiful cemetery, and the Church of St. Peter and Paul."
+      },
+      {
+        "img": "x",
+        "alt": "Petrin Hill and Tower",
+        "title": "Petrin Hill and Tower",
+        "description": "Petrin Hill offers a peaceful escape with gardens and the Petrin Tower, which resembles the Eiffel Tower and offers panoramic views."
+      },
+      {
+        "img": "x",
+        "alt": "Dancing House",
+        "title": "Dancing House",
+        "description": "The Dancing House is a modern architectural gem, known for its unique design and artistic flair."
+      },
+      {
+        "img": "x",
+        "alt": "Mala Strana (Lesser Town)",
+        "title": "Mala Strana (Lesser Town)",
+        "description": "Mala Strana is a picturesque district with colorful Baroque buildings, charming streets, and the famous Wallenstein Garden."
+      }
+    ]
+  },
+  "foods": {
+    "food_card": [
+      {
+        "img": "x",
+        "alt": "Trdelnik",
+        "title": "Trdelnik",
+        "description": "Try Trdelnik, a sweet pastry made from rolled dough, grilled over an open flame, and topped with sugar and nuts."
+      },
+      {
+        "img": "x",
+        "alt": "Goulash",
+        "title": "Goulash",
+        "description": "Goulash is a hearty Czech stew made with tender chunks of meat and served with bread or dumplings."
+      },
+      {
+        "img": "x",
+        "alt": "Czech Beer",
+        "title": "Czech Beer",
+        "description": "Czech Republic is famous for its beer. Enjoy a glass of Pilsner or other local brews in a traditional pub."
+      },
+      {
+        "img": "x",
+        "alt": "Svickova",
+        "title": "Svickova",
+        "description": "Svickova is a traditional Czech dish featuring marinated beef, creamy sauce, and bread dumplings."
+      },
+      {
+        "img": "x",
+        "alt": "Kolache",
+        "title": "Kolache",
+        "description": "Kolache is a sweet pastry filled with fruit, cheese, or poppy seeds, often enjoyed for breakfast or dessert."
+      }
+    ]
+  },
+  "hotels": {
+    "hotels_card": [
+      {
+        "img": "x",
+        "alt": "The Grand Mark Prague",
+        "title": "The Grand Mark Prague",
+        "description": "The Grand Mark Prague is a luxurious hotel offering elegant rooms, a spa, and a central location."
+      },
+      {
+        "img": "x",
+        "alt": "Hotel U Prince",
+        "title": "Hotel U Prince",
+        "description": "Hotel U Prince is a boutique hotel located in the heart of Old Town Square, with charming rooms and a rooftop terrace."
+      },
+      {
+        "img": "x",
+        "alt": "Aria Hotel Prague",
+        "title": "Aria Hotel Prague",
+        "description": "Aria Hotel Prague is a music-themed hotel with unique rooms, a rooftop garden, and stunning views of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Budget Accommodations",
+        "title": "Budget Accommodations",
+        "description": "Prague offers a range of budget-friendly accommodations, including hostels and guesthouses."
+      },
+      {
+        "img": "x",
+        "alt": "Vacation Rentals",
+        "title": "Vacation Rentals",
+        "description": "Consider vacation rentals or apartments for a more home-like stay in Prague's historic neighborhoods."
+      }
+    ]
+  },
+  "transport": {
+    "transport_card": [
+      {
+        "img": "x",
+        "alt": "Vaclav Havel Airport Prague",
+        "title": "Vaclav Havel Airport Prague",
+        "description": "Vaclav Havel Airport Prague (PRG) is the main international airport serving the city and offers a wide range of flights."
+      },
+      {
+        "img": "x",
+        "alt": "Trams and Metro",
+        "title": "Trams and Metro",
+        "description": "Prague's tram and metro system provides convenient and affordable transportation throughout the city."
+      },
+      {
+        "img": "x",
+        "alt": "Charles Bridge",
+        "title": "Charles Bridge",
+        "description": "Walk across the historic Charles Bridge, which is a picturesque way to explore the city center on foot."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis",
+        "title": "Taxis",
+        "description": "Taxis are readily available in Prague and can be a convenient way to reach your destination."
+      },
+      {
+        "img": "x",
+        "alt": "Walking",
+        "title": "Walking",
+        "description": "Walking is a fantastic way to experience the charm of Prague's historic streets and landmarks."
+      }
+    ]
+  }
+}
