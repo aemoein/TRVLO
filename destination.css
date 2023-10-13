@@ -1,0 +1,389 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Import the San Francisco font from Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap);
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+/* Apply the San Francisco font to your desired elements */
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'sans-serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap) format('truetype');
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.container-hero {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  align-items: top;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  background: transparent;
+  color: transparent;
+  padding: 0 px;
+}
+
+.logo a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+nav {
+  float: right;
+  margin-top: 18px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+nav a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #f58220;
+}
+
+.hero {
+  height: 800px;
+  background-image: url("https://wallpapercave.com/dwp2x/wp3528296.jpg");
+  background-size: cover;
+  font-family: 'Trebuchet MS', sans-serif;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero h1 {
+  font-size: 90px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 24px;
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-bottom: 40px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #0077c2;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #005388;
+}
+
+/* Conde Nast Style */
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+}
+
+.container-des {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+  align-items: top;
+}
+
+header {
+  position: absolute;
+  top: 28px;
+  left: 250px;
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%; /* Set the height of the logo to match the height of the header */
+  padding: 10px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #ffffff;
+  margin-left: 16px;
+}
+
+.featured-destinations h2 {
+  margin-left: 60px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+}
+
+.destinations-title {
+  font-size: 45px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.destination-list {
+  padding: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.destination {
+  width: 100%;
+  min-width: 50%;
+  max-width: 50%;
+  margin-bottom: 40px;
+  max-height: 100%;
+  padding: 10px;
+}
+
+.destination img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.destination-info {
+  padding: 20px;
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: #fff;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h3 {
+  font-size: 30px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.destination p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.destination a {
+  display: block;
+  background-color: #0077c2;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.destination a:hover {
+  background-color: #005388;
+}
+
+/* Image Slide */
+.image-menu {
+  display: flex;
+  align-items: center;
+}
+
+.arrow {
+  font-size: 4em;
+  cursor: pointer;
+  color: #e5670b;
+}
+
+.left-arrow {
+  margin-right: 0.2em;
+  margin-left: 0.2em;
+}
+
+.right-arrow {
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+}
+
+.image-container {
+  overflow-x: scroll;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  flex-grow: 1;
+  padding: 0 1em;
+}
+
+.subtitle1 {
+  padding: 20px;
+  background-color: #0077c2;
+  color: #ffffff;
+}
+
+.subtitle1 h2 {
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-left: 40px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+}
+
+.subtitle2 {
+  display: flex;
+  padding: 20px;
+  background-color: #0077c2;
+  color: #ffffff;
+}
+
+.subtitle2 h2 {
+  margin-left: 40px;
+  font-size: 48px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  letter-spacing: 0px;
+  width: 600px;
+}
+
+.subtitle2 div {
+  margin-left: 50px;
+  margin-top: 10px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: right;
+  justify-content: right;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+}
+
+.subtitle3 {
+  padding: 10px;
+  background-color: #333;
+}
+
+.subtitle3 h2 {
+  margin-left: 40px;
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+
+.subtitle3 h3 {
+  margin-left: 40px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #0077c2;
+}
+
+.subtitle3 h4 {
+  margin-left: 40px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  font-weight: 2500;
+  box-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #009DC4;
+}
+
+.search-container {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 12px 20px;
+  margin-right: 10px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #005388;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005388;
+}
