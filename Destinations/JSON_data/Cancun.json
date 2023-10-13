@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Cancun"
+    },
+    "about": {
+      "name": "Cancun",
+      "info_text": "Cancun, a world-renowned destination located on the eastern coast of the Yucatan Peninsula in Mexico, is famous for its beautiful beaches, turquoise waters, and vibrant nightlife. It offers a mix of natural beauty, ancient Mayan history, and modern luxury. Visitors can enjoy the stunning beaches of the Hotel Zone, explore archaeological wonders like Chichen Itza, and experience the lively entertainment and cuisine of the city.",
+      "facts_text": "<strong>Population:</strong> Approximately 628,306<br><strong>State:</strong> Quintana Roo<br><strong>Time Zone:</strong> Eastern Standard Time (UTC-05:00)<br><strong>Language:</strong> Spanish<br><strong>Currency:</strong> Mexican Peso (MXN)",
+      "climate_text": "Cancun has a tropical climate with warm temperatures year-round. The dry season, from November to April, is the most popular time for tourists, while the wet season, from May to October, brings occasional rain and higher humidity."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Cancun Beaches",
+          "title": "Cancun Beaches",
+          "description": "Cancun's beautiful beaches are famous for their white sand and crystal-clear waters. The Hotel Zone is lined with stunning beachfront resorts."
+        },
+        {
+          "img": "x",
+          "alt": "Chichen Itza",
+          "title": "Chichen Itza",
+          "description": "Chichen Itza is an ancient Mayan archaeological site known for the iconic El Castillo pyramid, which is a UNESCO World Heritage Site."
+        },
+        {
+          "img": "x",
+          "alt": "Xcaret Park",
+          "title": "Xcaret Park",
+          "description": "Xcaret is a natural eco-park where visitors can swim in underground rivers, explore caves, and learn about Mexican culture and wildlife."
+        },
+        {
+          "img": "x",
+          "alt": "Isla Mujeres",
+          "title": "Isla Mujeres",
+          "description": "Isla Mujeres is a beautiful island near Cancun, known for its pristine beaches, snorkeling opportunities, and vibrant town center."
+        },
+        {
+          "img": "x",
+          "alt": "Tulum",
+          "title": "Tulum",
+          "description": "Tulum is another historic Mayan site located on the coast, offering ancient ruins with stunning ocean views."
+        },
+        {
+          "img": "x",
+          "alt": "Coco Bongo",
+          "title": "Coco Bongo",
+          "description": "Coco Bongo is a famous nightclub and entertainment venue known for its lively shows, music, and dance performances."
+        },
+        {
+          "img": "x",
+          "alt": "Isla Holbox",
+          "title": "Isla Holbox",
+          "description": "Isla Holbox is a tranquil island getaway where you can relax on the beach, swim with whale sharks, and enjoy the peaceful atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Cenotes",
+          "title": "Cenotes",
+          "description": "The Yucatan Peninsula is dotted with cenotes, natural sinkholes filled with clear water, perfect for swimming and snorkeling."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Tacos",
+          "title": "Tacos",
+          "description": "Tacos are a Mexican staple, and in Cancun, you can savor a variety of delicious tacos, from street vendors to upscale restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Ceviche",
+          "title": "Ceviche",
+          "description": "Ceviche, made with fresh seafood and lime juice, is a refreshing and popular dish in Cancun."
+        },
+        {
+          "img": "x",
+          "alt": "Tamales",
+          "title": "Tamales",
+          "description": "Tamales, a traditional Mexican dish made of masa (dough) filled with meats, cheeses, and other ingredients, are a local favorite."
+        },
+        {
+          "img": "x",
+          "alt": "Aguas Frescas",
+          "title": "Aguas Frescas",
+          "description": "Aguas frescas are refreshing fruit drinks made with water, fruit, and sugar, offering a sweet and cooling beverage."
+        },
+        {
+          "img": "x",
+          "alt": "Mole",
+          "title": "Mole",
+          "description": "Mole is a rich and flavorful sauce made from various ingredients, often served with chicken or turkey."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton Cancun",
+          "title": "The Ritz-Carlton Cancun",
+          "description": "The Ritz-Carlton in Cancun is a luxury beachfront resort offering elegant accommodations and exceptional service."
+        },
+        {
+          "img": "x",
+          "alt": "Hyatt Ziva Cancun",
+          "title": "Hyatt Ziva Cancun",
+          "description": "Hyatt Ziva is an all-inclusive resort with stunning ocean views, multiple dining options, and entertainment."
+        },
+        {
+          "img": "x",
+          "alt": "Secrets The Vine Cancun",
+          "title": "Secrets The Vine Cancun",
+          "description": "Secrets The Vine is an adults-only resort known for its modern design, gourmet dining, and relaxing spa."
+        },
+        {
+          "img": "x",
+          "alt": "Iberostar Selection Cancun",
+          "title": "Iberostar Selection Cancun",
+          "description": "Iberostar Selection is a family-friendly resort with multiple pools, a golf course, and various activities."
+        },
+        {
+          "img": "x",
+          "alt": "Grand Fiesta Americana Coral Beach Cancun",
+          "title": "Grand Fiesta Americana Coral Beach Cancun",
+          "description": "The Grand Fiesta Americana offers luxurious accommodations and an expansive beachfront location."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Cancun International Airport",
+          "title": "Cancun International Airport",
+          "description": "Cancun International Airport (CUN) is the main gateway to the city, serving both domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Cancun Buses",
+          "title": "Cancun Buses",
+          "description": "Cancun has a public bus system that is an affordable and convenient way to get around the city and the Hotel Zone."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Cancun and are a convenient mode of transportation for getting around the area."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available at the airport and throughout Cancun for those who want to explore the region at their own pace."
+        }
+      ]
+    }
+  }  

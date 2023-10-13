@@ -1,0 +1,148 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Jeddah"
+    },
+    "about": {
+      "name": "Jeddah",
+      "info_text": "Jeddah is a vibrant and diverse city located on the Red Sea coast of Saudi Arabia. It is the largest city in the Makkah Province and serves as a significant economic and cultural hub. Known for its historic old town, modern skyscrapers, and beautiful coastline, Jeddah offers a mix of tradition and progress. Visitors can explore its rich cultural heritage, indulge in shopping and dining experiences, and enjoy the stunning seaside views.",
+      "facts_text": "<strong>Population:</strong> Approximately 3.5 million<br><strong>Province:</strong> Makkah<br><strong>Time Zone:</strong> Arabian Standard Time (UTC+03:00)<br><strong>Language:</strong> Arabic<br><strong>Currency:</strong> Saudi Riyal (SAR)",
+      "climate_text": "Jeddah has a desert climate with hot and arid conditions year-round. Winters are mild, and summers can be extremely hot. The city's proximity to the Red Sea moderates its temperatures and provides opportunities for water-based activities."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Al-Balad (Historic Jeddah)",
+          "title": "Al-Balad (Historic Jeddah)",
+          "description": "Al-Balad is the historic district of Jeddah, known for its traditional coral stone buildings, narrow alleyways, and historic souks. It offers a glimpse into the city's past."
+        },
+        {
+          "img": "x",
+          "alt": "King Fahd Fountain",
+          "title": "King Fahd Fountain",
+          "description": "The King Fahd Fountain is one of the world's tallest fountains, reaching impressive heights on the Jeddah Corniche and providing a captivating evening display."
+        },
+        {
+          "img": "x",
+          "alt": "Corniche",
+          "title": "Corniche",
+          "description": "The Jeddah Corniche is a picturesque seaside promenade with beautiful views of the Red Sea, parks, sculptures, and recreational areas for families and visitors."
+        },
+        {
+          "img": "x",
+          "alt": "Red Sea Mall",
+          "title": "Red Sea Mall",
+          "description": "Red Sea Mall is a modern shopping and entertainment complex, offering a wide range of retail stores, dining options, and family-friendly attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Atallah Happy Land Park",
+          "title": "Atallah Happy Land Park",
+          "description": "Atallah Happy Land Park is a popular amusement park in Jeddah, featuring thrilling rides, entertainment, and activities for all ages."
+        },
+        {
+          "img": "x",
+          "alt": "Al-Jalad Museum of Archaeology and Ethnography",
+          "title": "Al-Jalad Museum of Archaeology and Ethnography",
+          "description": "This museum showcases artifacts and exhibits related to Saudi Arabia's history, culture, and archaeology, providing valuable insights into the region's heritage."
+        },
+        {
+          "img": "x",
+          "alt": "Floating Mosque (Masjid Al Rahma)",
+          "title": "Floating Mosque (Masjid Al Rahma)",
+          "description": "The Floating Mosque is a unique architectural marvel located on the Red Sea, accessible by a causeway. It is a serene place of worship and a stunning sight."
+        },
+        {
+          "img": "x",
+          "alt": "Jeddah Waterfront",
+          "title": "Jeddah Waterfront",
+          "description": "The Jeddah Waterfront is a recently developed area along the Red Sea, offering modern amenities, parks, and a range of leisure and recreational activities."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Mandi",
+          "title": "Mandi",
+          "description": "Mandi is a traditional Saudi Arabian dish consisting of fragrant rice and tender meat, often flavored with a blend of aromatic spices and herbs."
+        },
+        {
+          "img": "x",
+          "alt": "Kabsa",
+          "title": "Kabsa",
+          "description": "Kabsa is another beloved Saudi dish, featuring seasoned rice with a mix of meats and garnished with nuts, raisins, and a special blend of spices."
+        },
+        {
+          "img": "x",
+          "alt": "Shawarma",
+          "title": "Shawarma",
+          "description": "Shawarma is a popular street food in Jeddah, consisting of thinly sliced marinated meat wrapped in flatbread and served with various condiments."
+        },
+        {
+          "img": "x",
+          "alt": "Arabic Coffee (Gahwa) and Dates",
+          "title": "Arabic Coffee (Gahwa) and Dates",
+          "description": "Arabic coffee, known as Gahwa, is a traditional beverage often served with dates as a sign of hospitality in Saudi culture."
+        },
+        {
+          "img": "x",
+          "alt": "Jareesh",
+          "title": "Jareesh",
+          "description": "Jareesh is a Saudi dish made from crushed and fermented wheat, typically cooked with meat and served as a hearty dish."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Jeddah Hilton Hotel",
+          "title": "Jeddah Hilton Hotel",
+          "description": "Jeddah Hilton Hotel offers luxurious accommodations with stunning views, a range of dining options, and world-class amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Mövenpick Hotel City Star Jeddah",
+          "title": "Mövenpick Hotel City Star Jeddah",
+          "description": "Mövenpick Hotel City Star is a modern and elegant hotel in the heart of Jeddah, featuring comfortable rooms and exceptional dining."
+        },
+        {
+          "img": "x",
+          "alt": "Rosewood Jeddah",
+          "title": "Rosewood Jeddah",
+          "description": "Rosewood Jeddah offers a blend of contemporary design and luxury, with a prime location and impeccable service."
+        },
+        {
+          "img": "x",
+          "alt": "InterContinental Jeddah",
+          "title": "InterContinental Jeddah",
+          "description": "InterContinental Jeddah is a well-known hotel offering spacious rooms, dining options, and easy access to the city's attractions."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "King Abdulaziz International Airport",
+          "title": "King Abdulaziz International Airport",
+          "description": "King Abdulaziz International Airport (JED) is the primary international gateway to Jeddah, providing both domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Jeddah Metro",
+          "title": "Jeddah Metro",
+          "description": "Jeddah is developing a new metro system that will provide efficient transportation throughout the city."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis and Ride-Sharing",
+          "title": "Taxis and Ride-Sharing",
+          "description": "Taxis and ride-sharing services are readily available for getting around Jeddah, providing convenient and accessible transportation."
+        }
+      ]
+    }
+  }  

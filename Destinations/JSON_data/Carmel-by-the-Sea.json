@@ -1,0 +1,167 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Carmel-by-the-Sea"
+    },
+    "about": {
+      "name": "Carmel-by-the-Sea",
+      "info_text": "Carmel-by-the-Sea, often simply referred to as Carmel, is a picturesque coastal town located in Monterey County, California. Known for its natural beauty, artistic community, and European-style charm, Carmel is a popular destination for travelers seeking a serene and idyllic escape. The town's quaint streets, white sandy beaches, and scenic landscapes make it a favorite among artists and those looking for a tranquil getaway.",
+      "facts_text": "<strong>Location:</strong> Monterey County, California, USA<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> US Dollar (USD)",
+      "climate_text": "Carmel enjoys a mild coastal climate with cool, wet winters and warm, dry summers. The average temperature ranges from 50°F (10°C) in winter to 65°F (18°C) in summer, making it a pleasant year-round destination."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Carmel Beach",
+          "title": "Carmel Beach",
+          "description": "Carmel Beach is a pristine and dog-friendly white sand beach, perfect for a leisurely stroll, sunbathing, or watching a beautiful sunset."
+        },
+        {
+          "img": "x",
+          "alt": "17-Mile Drive",
+          "title": "17-Mile Drive",
+          "description": "The 17-Mile Drive is a scenic road that passes through famous golf courses, coastal viewpoints, and the iconic Lone Cypress tree."
+        },
+        {
+          "img": "x",
+          "alt": "Carmel Mission Basilica",
+          "title": "Carmel Mission Basilica",
+          "description": "The Carmel Mission Basilica, also known as Mission San Carlos Borromeo del Río Carmelo, is a historic and beautiful Spanish mission."
+        },
+        {
+          "img": "x",
+          "alt": "Point Lobos State Natural Reserve",
+          "title": "Point Lobos State Natural Reserve",
+          "description": "Point Lobos is a protected coastal area with hiking trails, diverse wildlife, and stunning ocean views, ideal for nature lovers and hikers."
+        },
+        {
+          "img": "x",
+          "alt": "Art Galleries",
+          "title": "Art Galleries",
+          "description": "Carmel is home to numerous art galleries featuring the works of local and international artists, making it an artistic hub."
+        },
+        {
+          "img": "x",
+          "alt": "Fairy Tale Cottages",
+          "title": "Fairy Tale Cottages",
+          "description": "Carmel is famous for its whimsical and fairytale-like cottages with unique architecture and charming gardens."
+        },
+        {
+          "img": "x",
+          "alt": "Carmel Plaza",
+          "title": "Carmel Plaza",
+          "description": "Carmel Plaza is a shopping center with upscale boutiques, restaurants, and specialty stores."
+        },
+        {
+          "img": "x",
+          "alt": "Scenic Drives",
+          "title": "Scenic Drives",
+          "description": "Exploring the scenic drives along the coast and through the neighboring communities offers breathtaking coastal vistas."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Seafood",
+          "title": "Seafood",
+          "description": "Carmel offers a variety of seafood options, including fresh catches like abalone, oysters, and clam chowder."
+        },
+        {
+          "img": "x",
+          "alt": "Farm-to-Table Dining",
+          "title": "Farm-to-Table Dining",
+          "description": "Experience the farm-to-table movement with fresh, locally sourced ingredients at many of Carmel's restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Wine Tasting",
+          "title": "Wine Tasting",
+          "description": "Carmel Valley, just a short drive away, is known for its wineries, offering wine tasting tours and vineyard visits."
+        },
+        {
+          "img": "x",
+          "alt": "Artisanal Chocolates",
+          "title": "Artisanal Chocolates",
+          "description": "Indulge in artisanal chocolates and sweet treats at local chocolatiers and confectioneries."
+        },
+        {
+          "img": "x",
+          "alt": "Alfresco Dining",
+          "title": "Alfresco Dining",
+          "description": "Enjoy dining on outdoor patios with ocean views, creating a memorable culinary experience."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Cypress Inn",
+          "title": "Cypress Inn",
+          "description": "Cypress Inn is a pet-friendly boutique hotel with Mediterranean-style architecture, co-owned by actress Doris Day."
+        },
+        {
+          "img": "x",
+          "alt": "La Playa Carmel",
+          "title": "La Playa Carmel",
+          "description": "La Playa Carmel is a historic hotel offering elegant accommodations and lush gardens, just steps from the beach."
+        },
+        {
+          "img": "x",
+          "alt": "Tally Ho Inn",
+          "title": "Tally Ho Inn",
+          "description": "Tally Ho Inn is a charming inn with cozy rooms and English country-style ambiance, located in a tranquil forest setting."
+        },
+        {
+          "img": "x",
+          "alt": "Carmel Mission Inn",
+          "title": "Carmel Mission Inn",
+          "description": "Carmel Mission Inn provides comfortable accommodations, an outdoor heated pool, and easy access to nearby attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Vacation Rentals",
+          "title": "Vacation Rentals",
+          "description": "Carmel offers vacation rentals and cottages for those seeking a more homey and private stay."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Monterey Regional Airport",
+          "title": "Monterey Regional Airport",
+          "description": "Monterey Regional Airport (MRY) is the nearest airport, located approximately 7 miles away from Carmel."
+        },
+        {
+          "img": "x",
+          "alt": "Highway 1",
+          "title": "Highway 1",
+          "description": "Highway 1 offers a scenic route along the California coast, providing access to Carmel and its neighboring towns."
+        },
+        {
+          "img": "x",
+          "alt": "Carmel Trolley",
+          "title": "Carmel Trolley",
+          "description": "The Carmel Trolley is a charming way to explore the town, with stops at major attractions and points of interest."
+        },
+        {
+          "img": "x",
+          "alt": "Biking",
+          "title": "Biking",
+          "description": "Carmel is a bike-friendly town, and renting a bicycle is a great way to explore the area and its scenic byways."
+        },
+        {
+          "img": "x",
+          "alt": "Walking",
+          "title": "Walking",
+          "description": "Carmel's small size and pedestrian-friendly streets make walking a convenient way to explore the town."
+        }
+      ]
+    }
+  }
+  

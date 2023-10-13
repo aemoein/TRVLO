@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Beijing"
+    },
+    "about": {
+      "name": "Beijing",
+      "info_text": "Beijing, the capital of China, is a city steeped in history and culture. It is known for its ancient landmarks, including the Great Wall of China, the Forbidden City, and the Temple of Heaven. Beijing is a bustling metropolis where tradition meets modernity. Visitors can explore historic sites, sample delicious Peking duck, and experience the city's vibrant arts and culture scene. With its rich heritage and dynamic energy, Beijing offers a unique blend of the old and the new.",
+      "facts_text": "<strong>Population:</strong> Approximately 21 million<br><strong>Province:</strong> Beijing<br><strong>Time Zone:</strong> China Standard Time (UTC+8:00)<br><strong>Language:</strong> Mandarin Chinese<br><strong>Currency:</strong> Renminbi (CNY)",
+      "climate_text": "Beijing experiences a continental climate with distinct seasons. Winters can be cold and dry, while summers are hot and humid. Spring and autumn are popular times to visit when the weather is more pleasant."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Great Wall of China",
+          "title": "Great Wall of China",
+          "description": "The Great Wall of China is one of the most iconic landmarks in the world, offering breathtaking views and a glimpse into China's ancient history."
+        },
+        {
+          "img": "x",
+          "alt": "Forbidden City",
+          "title": "Forbidden City",
+          "description": "The Forbidden City, also known as the Imperial Palace, is a massive complex of palaces and buildings that served as the imperial palace for Chinese emperors for nearly 500 years."
+        },
+        {
+          "img": "x",
+          "alt": "Temple of Heaven",
+          "title": "Temple of Heaven",
+          "description": "The Temple of Heaven is a stunning example of imperial Chinese architecture and a UNESCO World Heritage site where emperors once performed rituals to ensure a good harvest."
+        },
+        {
+          "img": "x",
+          "alt": "Summer Palace",
+          "title": "Summer Palace",
+          "description": "The Summer Palace is a beautiful royal retreat featuring a vast lake, gardens, and pavilions, making it a serene escape from the city's hustle and bustle."
+        },
+        {
+          "img": "x",
+          "alt": "Tiananmen Square",
+          "title": "Tiananmen Square",
+          "description": "Tiananmen Square is one of the world's largest public squares and a historic site where major events in Chinese history have unfolded."
+        },
+        {
+          "img": "x",
+          "alt": "Houhai Lake",
+          "title": "Houhai Lake",
+          "description": "Houhai Lake is a popular area for leisure and entertainment, known for its charming lakeside bars, restaurants, and traditional hutongs."
+        },
+        {
+          "img": "x",
+          "alt": "798 Art District",
+          "title": "798 Art District",
+          "description": "The 798 Art District is an avant-garde art zone filled with galleries, studios, and creative spaces showcasing contemporary Chinese art."
+        },
+        {
+          "img": "x",
+          "alt": "Beihai Park",
+          "title": "Beihai Park",
+          "description": "Beihai Park is a historic imperial garden with a tranquil lake, ancient temples, and lush landscapes, perfect for leisurely strolls."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Peking Duck",
+          "title": "Peking Duck",
+          "description": "Peking duck is a famous Beijing specialty, known for its crispy skin and succulent meat, often served with thin pancakes, hoisin sauce, and sliced scallions."
+        },
+        {
+          "img": "x",
+          "alt": "Jiaozi (Dumplings)",
+          "title": "Jiaozi (Dumplings)",
+          "description": "Jiaozi are Chinese dumplings filled with various ingredients and often enjoyed during traditional celebrations like Chinese New Year."
+        },
+        {
+          "img": "x",
+          "alt": "Hot Pot",
+          "title": "Hot Pot",
+          "description": "Hot pot is a popular communal dining experience in Beijing, where you cook a variety of ingredients in a simmering pot of flavored broth."
+        },
+        {
+          "img": "x",
+          "alt": "Zhajiangmian",
+          "title": "Zhajiangmian",
+          "description": "Zhajiangmian is a classic Beijing noodle dish featuring thick wheat noodles topped with a savory soybean paste sauce, vegetables, and minced meat."
+        },
+        {
+          "img": "x",
+          "alt": "Lamb Skewers",
+          "title": "Lamb Skewers",
+          "description": "Lamb skewers, seasoned and grilled to perfection, are a popular street food in Beijing, enjoyed with various spices and seasonings."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Beijing",
+          "title": "The Ritz-Carlton, Beijing",
+          "description": "The Ritz-Carlton in Beijing offers luxury accommodations, fine dining, and a central location in the heart of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Waldorf Astoria Beijing",
+          "title": "Waldorf Astoria Beijing",
+          "description": "The Waldorf Astoria in Beijing combines timeless elegance with modern comfort, making it an ideal choice for a sophisticated stay."
+        },
+        {
+          "img": "x",
+          "alt": "Park Plaza Wangfujing",
+          "title": "Park Plaza Wangfujing",
+          "description": "Park Plaza Wangfujing is conveniently located near shopping and historic attractions, providing comfortable rooms and excellent amenities."
+        },
+        {
+          "img": "x",
+          "alt": "The Opposite House",
+          "title": "The Opposite House",
+          "description": "The Opposite House is a boutique hotel with contemporary design, artistic flair, and a sense of tranquility in the heart of Beijing."
+        },
+        {
+          "img": "x",
+          "alt": "Grand Hyatt Beijing",
+          "title": "Grand Hyatt Beijing",
+          "description": "Grand Hyatt Beijing offers luxury accommodations, multiple dining options, and a central location near Wangfujing shopping street."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Beijing Subway",
+          "title": "Beijing Subway",
+          "description": "The Beijing Subway is an extensive and efficient metro system that covers the city, making it easy to navigate and reach various attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Public buses in Beijing provide another convenient way to travel around the city, with a comprehensive network of routes."
+        },
+        {
+          "img": "x",
+          "alt": "Beijing Capital International Airport",
+          "title": "Beijing Capital International Airport",
+          "description": "Beijing Capital International Airport (PEK) is one of the busiest airports in the world, serving both domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Beijing and are a convenient mode of transportation for getting around the city."
+        }
+      ]
+    }
+  }  

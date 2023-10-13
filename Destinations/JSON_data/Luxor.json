@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Luxor"
+    },
+    "about": {
+      "name": "Luxor",
+      "info_text": "Luxor, often referred to as the world's greatest open-air museum, is a city located in the Nile Valley of Egypt. It is renowned for its rich historical and archaeological significance, with a legacy that dates back thousands of years. Luxor is home to a plethora of ancient temples, monuments, and tombs, making it a prime destination for history enthusiasts and travelers seeking to immerse themselves in Egypt's fascinating past.",
+      "facts_text": "<strong>Population:</strong> Approximately 506,588<br><strong>Governorate:</strong> Luxor Governorate<br><strong>Time Zone:</strong> Eastern European Time (UTC+02:00)<br><strong>Language:</strong> Arabic<br><strong>Currency:</strong> Egyptian Pound (EGP)",
+      "climate_text": "Luxor experiences a desert climate, characterized by scorching summers and mild winters. It is a year-round destination, but the cooler months from November to March are particularly pleasant for outdoor exploration."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Karnak Temple",
+          "title": "Karnak Temple",
+          "description": "Karnak Temple is a vast complex of ancient temples and chapels dedicated to various Egyptian deities. It is one of the largest religious buildings ever constructed and a remarkable testament to Egypt's architectural prowess."
+        },
+        {
+          "img": "x",
+          "alt": "Luxor Temple",
+          "title": "Luxor Temple",
+          "description": "Luxor Temple is an enchanting temple complex located in the heart of Luxor. It features beautifully preserved statues, obelisks, and towering columns."
+        },
+        {
+          "img": "x",
+          "alt": "Valley of the Kings",
+          "title": "Valley of the Kings",
+          "description": "The Valley of the Kings is an ancient burial site where many pharaohs of the New Kingdom era were entombed, including the famous Tutankhamun."
+        },
+        {
+          "img": "x",
+          "alt": "Valley of the Queens",
+          "title": "Valley of the Queens",
+          "description": "The Valley of the Queens is the burial place of queens, princesses, and other royal family members, featuring beautifully decorated tombs."
+        },
+        {
+          "img": "x",
+          "alt": "Hatshepsut's Temple",
+          "title": "Hatshepsut's Temple",
+          "description": "Hatshepsut's Temple is a stunning mortuary temple dedicated to the female pharaoh Hatshepsut, set against the cliffs of Deir el-Bahri."
+        },
+        {
+          "img": "x",
+          "alt": "Colossi of Memnon",
+          "title": "Colossi of Memnon",
+          "description": "The Colossi of Memnon are two massive stone statues of Pharaoh Amenhotep III, standing as guardians of his temple."
+        },
+        {
+          "img": "x",
+          "alt": "Medinet Habu",
+          "title": "Medinet Habu",
+          "description": "Medinet Habu is an archaeological site featuring a temple, palace, and a series of reliefs, providing insights into ancient Egyptian history."
+        },
+        {
+          "img": "x",
+          "alt": "Luxor Museum",
+          "title": "Luxor Museum",
+          "description": "The Luxor Museum houses a fascinating collection of artifacts, statues, and mummies from Luxor's ancient history."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Koshari",
+          "title": "Koshari",
+          "description": "Koshari is a popular Egyptian dish made of lentils, rice, macaroni, and spicy tomato sauce, garnished with fried onions."
+        },
+        {
+          "img": "x",
+          "alt": "Ful Medames",
+          "title": "Ful Medames",
+          "description": "Ful Medames is a hearty breakfast dish made from fava beans, typically served with olive oil, lemon juice, and spices."
+        },
+        {
+          "img": "x",
+          "alt": "Shawarma",
+          "title": "Shawarma",
+          "description": "Shawarma is a flavorful street food consisting of thinly sliced, seasoned meat typically served in pita bread with various toppings and sauces."
+        },
+        {
+          "img": "x",
+          "alt": "Baklava",
+          "title": "Baklava",
+          "description": "Baklava is a sweet and rich pastry made of layers of phyllo dough, nuts, and honey, offering a delightful dessert experience."
+        },
+        {
+          "img": "x",
+          "alt": "Molokhia",
+          "title": "Molokhia",
+          "description": "Molokhia is a traditional Egyptian soup made from jute leaves, often served with rice or bread and seasoned with garlic and coriander."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Sofitel Winter Palace Luxor",
+          "title": "Sofitel Winter Palace Luxor",
+          "description": "The Sofitel Winter Palace Luxor is an elegant and historic hotel offering luxurious accommodations in a Nile-front setting."
+        },
+        {
+          "img": "x",
+          "alt": "Hilton Luxor Resort & Spa",
+          "title": "Hilton Luxor Resort & Spa",
+          "description": "The Hilton Luxor Resort & Spa is a riverside resort with modern amenities, offering picturesque views of the Nile River."
+        },
+        {
+          "img": "x",
+          "alt": "Steigenberger Nile Palace Luxor",
+          "title": "Steigenberger Nile Palace Luxor",
+          "description": "Steigenberger Nile Palace Luxor is a comfortable hotel located along the Nile, featuring excellent dining options and a relaxing atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Sonesta St. George Hotel Luxor",
+          "title": "Sonesta St. George Hotel Luxor",
+          "description": "The Sonesta St. George Hotel Luxor offers a stylish and convenient stay with stunning river views and top-notch facilities."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Luxor International Airport",
+          "title": "Luxor International Airport",
+          "description": "Luxor International Airport (LXR) is the main gateway for travelers arriving in Luxor, serving domestic and limited international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Public Transportation",
+          "title": "Public Transportation",
+          "description": "Public buses and microbuses are common means of transportation within Luxor, providing an affordable way to explore the city."
+        },
+        {
+          "img": "x",
+          "alt": "Taxi Services",
+          "title": "Taxi Services",
+          "description": "Taxis are readily available for getting around Luxor and are a convenient option for reaching various historical sites."
+        },
+        {
+          "img": "x",
+          "alt": "Felucca Rides",
+          "title": "Felucca Rides",
+          "description": "Feluccas, traditional wooden sailboats, offer relaxing rides on the Nile River, providing scenic views of the city and its surroundings."
+        }
+      ]
+    }
+  }  

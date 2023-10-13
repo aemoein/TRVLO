@@ -1,0 +1,161 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Doha"
+    },
+    "about": {
+      "name": "Doha",
+      "info_text": "Doha is the vibrant capital of Qatar, located on the northeastern coast of the Arabian Peninsula. This modern city is known for its stunning skyline, luxurious shopping, and a rich blend of tradition and innovation. Visitors can explore a wide range of cultural attractions, savor delicious cuisine, and experience the warmth of Qatari hospitality in a city that offers a fascinating mix of old and new.",
+      "facts_text": "<strong>Population:</strong> Approximately 1.7 million (in the metropolitan area)<br><strong>Country:</strong> Qatar<br><strong>Time Zone:</strong> Arabian Standard Time (AST, UTC+03:00)<br><strong>Official Language:</strong> Arabic<br><strong>Currency:</strong> Qatari Riyal (QAR)",
+      "climate_text": "Doha experiences a desert climate with hot, dry summers and mild winters. Summers can be scorching with temperatures often exceeding 40°C (104°F), while winters are pleasantly mild with temperatures around 15°C to 25°C (59°F to 77°F)."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "The Pearl-Qatar",
+          "title": "The Pearl-Qatar",
+          "description": "The Pearl-Qatar is an artificial island renowned for its luxury living, marinas, shopping, and picturesque Mediterranean-style architecture."
+        },
+        {
+          "img": "x",
+          "alt": "Souq Waqif",
+          "title": "Souq Waqif",
+          "description": "Souq Waqif is a traditional Qatari market with bustling alleyways, cafes, restaurants, and shops selling a variety of goods."
+        },
+        {
+          "img": "x",
+          "alt": "Museum of Islamic Art",
+          "title": "Museum of Islamic Art",
+          "description": "The Museum of Islamic Art houses an exceptional collection of Islamic art spanning over 1,400 years of history."
+        },
+        {
+          "img": "x",
+          "alt": "Katara Cultural Village",
+          "title": "Katara Cultural Village",
+          "description": "Katara Cultural Village is a hub for arts, culture, and heritage, featuring theaters, galleries, and diverse events."
+        },
+        {
+          "img": "x",
+          "alt": "Aspire Zone",
+          "title": "Aspire Zone",
+          "description": "Aspire Zone is a sports complex with world-class facilities, including the Khalifa International Stadium and Aspire Park."
+        },
+        {
+          "img": "x",
+          "alt": "Doha Corniche",
+          "title": "Doha Corniche",
+          "description": "Doha Corniche is a picturesque waterfront promenade with stunning views, perfect for a leisurely stroll or bike ride."
+        },
+        {
+          "img": "x",
+          "alt": "Qatar National Library",
+          "title": "Qatar National Library",
+          "description": "The Qatar National Library is a modern architectural marvel, a hub of knowledge, and a cultural center for the community."
+        },
+        {
+          "img": "x",
+          "alt": "Mathaf: Arab Museum of Modern Art",
+          "title": "Mathaf: Arab Museum of Modern Art",
+          "description": "Mathaf is the leading institution for contemporary art from the Arab world, with a diverse collection of modern art."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Machboos",
+          "title": "Machboos",
+          "description": "Machboos is a traditional Qatari dish made with rice, meat (often lamb or chicken), and a blend of aromatic spices."
+        },
+        {
+          "img": "x",
+          "alt": "Al Harees",
+          "title": "Al Harees",
+          "description": "Al Harees is a Ramadan specialty made with wheat and meat, slow-cooked to a porridge-like consistency."
+        },
+        {
+          "img": "x",
+          "alt": "Balaleet",
+          "title": "Balaleet",
+          "description": "Balaleet is a sweet and savory Qatari dish consisting of vermicelli noodles, saffron, and fried eggs."
+        },
+        {
+          "img": "x",
+          "alt": "Umm Ali",
+          "title": "Umm Ali",
+          "description": "Umm Ali is a delectable dessert made with puff pastry, nuts, and cream, often referred to as the 'Egyptian bread pudding.'"
+        },
+        {
+          "img": "x",
+          "alt": "Shawarma",
+          "title": "Shawarma",
+          "description": "Shawarma is a popular street food featuring marinated meat (often chicken or beef) wrapped in flatbread with various toppings and sauces."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The St. Regis Doha",
+          "title": "The St. Regis Doha",
+          "description": "The St. Regis Doha offers luxurious accommodations, exquisite dining, and a private beach along the Arabian Gulf."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Doha",
+          "title": "Four Seasons Hotel Doha",
+          "description": "The Four Seasons Hotel Doha boasts seaside elegance, exceptional service, and a range of dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Mondrian Doha",
+          "title": "Mondrian Doha",
+          "description": "Mondrian Doha combines artistic design, luxury, and entertainment, featuring captivating interiors and trendy venues."
+        },
+        {
+          "img": "x",
+          "alt": "Sheraton Grand Doha Resort & Convention Hotel",
+          "title": "Sheraton Grand Doha Resort & Convention Hotel",
+          "description": "Sheraton Grand Doha offers a beachfront retreat with multiple restaurants, pools, and meeting facilities."
+        },
+        {
+          "img": "x",
+          "alt": "Budget Accommodations",
+          "title": "Budget Accommodations",
+          "description": "Doha provides a range of budget-friendly hotels and guesthouses, catering to travelers with various budgets."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Hamad International Airport",
+          "title": "Hamad International Airport",
+          "description": "Hamad International Airport (DOH) is Qatar's primary international airport, known for its modern facilities and services."
+        },
+        {
+          "img": "x",
+          "alt": "Doha Metro",
+          "title": "Doha Metro",
+          "description": "The Doha Metro is a rapid transit system that connects various parts of the city, making it easy to navigate Doha."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Doha's public bus system is an affordable way to get around the city and reach different destinations."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Doha and provide a convenient mode of transportation within the city."
+        }
+      ]
+    }
+  }
+  

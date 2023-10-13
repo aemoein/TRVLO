@@ -1,100 +1,159 @@
-<!DOCTYPE html>
 {
   "hero": {
-    "img": "X",
+    "img": "x",
     "title": "Dubai"
   },
   "about": {
     "name": "Dubai",
-    "info_text": "Dubai is a city in the United Arab Emirates (UAE) known for its luxurious and modern lifestyle, as well as its unique blend of traditional and contemporary cultures. Located on the southeast coast of the Persian Gulf, Dubai is one of the world's most popular tourist destinations, offering a wide range of attractions and activities for visitors of all ages.",
-    "facts_text": "<strong>Population:</strong> 3.4 million<br><strong>Country:</strong> United Arab Emirates<br><strong>Time Zone:</strong> Gulf Standard Time (UTC+04:00)<br><strong>Language:</strong> Arabic, English<br><strong>Currency:</strong> UAE dirham (AED)",
-    "climate_text": "Dubai has a hot desert climate with very little rainfall throughout the year. Summers are extremely hot and humid, with temperatures often reaching above 40°C (104°F), while winters are mild with temperatures ranging from 14°C (57°F) to 23°C (73°F). Visitors should take care to protect themselves from the sun and heat during their stay in Dubai."
+    "info_text": "Dubai is a dazzling city located in the United Arab Emirates known for its remarkable modern architecture, luxury shopping, and vibrant culture. Nestled on the shores of the Persian Gulf, Dubai is a global hub for business and leisure. The city boasts iconic skyscrapers like the Burj Khalifa, luxurious shopping malls, and a diverse culinary scene. Visitors can explore the traditional markets or 'souks' to experience the rich heritage of Dubai while enjoying the opulent lifestyle the city offers.",
+    "facts_text": "<strong>Population:</strong> Approximately 3.4 million<br><strong>Emirate:</strong> Dubai<br><strong>Time Zone:</strong> Gulf Standard Time (UTC+04:00)<br><strong>Language:</strong> Arabic, English<br><strong>Currency:</strong> UAE Dirham (AED)",
+    "climate_text": "Dubai has a desert climate with extremely hot and sunny summers and milder winters. Rainfall is rare, and the city is known for its year-round sunshine, making it a popular destination for sun-seekers."
   },
   "attractions": {
     "attractions_card": [
       {
-        "img": "X",
+        "img": "x",
         "alt": "Burj Khalifa",
         "title": "Burj Khalifa",
-        "description": "The tallest building in the world, Burj Khalifa offers breathtaking views of Dubai from its observation decks. Visitors can also enjoy dining and shopping in the tower."
+        "description": "The Burj Khalifa is the tallest building in the world, offering breathtaking views of the city from its observation decks and providing a glimpse into Dubai's architectural prowess."
       },
       {
-        "img": "X",
-        "alt": "Dubai Fountain",
-        "title": "Dubai Fountain",
-        "description": "This iconic fountain show is set on the Burj Khalifa Lake and features a stunning display of water, music, and lights. The show is free to watch and takes place several times a day."
-      },
-      {
-        "img": "X",
-        "alt": "Dubai Mall",
-        "title": "Dubai Mall",
-        "description": "One of the largest shopping malls in the world, Dubai Mall offers a wide range of retail, dining, and entertainment options. Visitors can also check out the indoor aquarium and ice rink."
-      },
-      {
-        "img": "X",
+        "img": "x",
         "alt": "Palm Jumeirah",
         "title": "Palm Jumeirah",
-        "description": "This man-made island in the shape of a palm tree offers luxurious hotels, villas, and apartments. Visitors can also enjoy beach activities, water sports, and fine dining."
+        "description": "Palm Jumeirah is an artificial island in the shape of a palm tree, known for its luxury resorts, beautiful beaches, and stunning oceanfront villas."
+      },
+      {
+        "img": "x",
+        "alt": "Dubai Mall",
+        "title": "Dubai Mall",
+        "description": "Dubai Mall is one of the largest shopping malls globally, featuring a vast array of retail outlets, entertainment options, and attractions, including the Dubai Aquarium and Underwater Zoo."
+      },
+      {
+        "img": "x",
+        "alt": "Burj Al Arab",
+        "title": "Burj Al Arab",
+        "description": "The Burj Al Arab is a seven-star luxury hotel known for its distinctive sail-shaped design, world-class amenities, and panoramic views of the Arabian Gulf."
+      },
+      {
+        "img": "x",
+        "alt": "Dubai Marina",
+        "title": "Dubai Marina",
+        "description": "Dubai Marina is a waterfront district known for its stunning skyscrapers, yachts, and a bustling dining and entertainment scene."
+      },
+      {
+        "img": "x",
+        "alt": "Ski Dubai",
+        "title": "Ski Dubai",
+        "description": "Ski Dubai is an indoor ski resort located within the Mall of the Emirates, offering skiing, snowboarding, and snow play in a desert city."
+      },
+      {
+        "img": "x",
+        "alt": "Gold Souk",
+        "title": "Gold Souk",
+        "description": "The Gold Souk in Deira is a renowned market for gold and jewelry, with a dazzling array of designs and craftsmanship."
+      },
+      {
+        "img": "x",
+        "alt": "Dubai Fountain",
+        "title": "Dubai Fountain",
+        "description": "The Dubai Fountain is a captivating water and light show located at the base of the Burj Khalifa, set on the artificial lake at the foot of the tower."
       }
     ]
   },
   "foods": {
     "food_card": [
       {
-        "img": "X",
+        "img": "x",
         "alt": "Shawarma",
         "title": "Shawarma",
-        "description": "Shawarma is a popular Middle Eastern street food that's available all over Dubai. Some of the best places to try shawarma in Dubai are Al Mallah, Operation: Falafel, and Zaatar w Zeit."
+        "description": "Shawarma is a popular street food in Dubai, featuring seasoned and slow-roasted meat wrapped in flatbread and garnished with a variety of condiments."
       },
       {
-        "img": "X",
-        "alt": "Machboos",
-        "title": "Machboos",
-        "description": "Machboos is a traditional Emirati rice dish that's typically made with chicken or lamb. Some of the best places to try machboos in Dubai are Al Fanar Restaurant & Cafe, Seven Sands, and Aseelah."
+        "img": "x",
+        "alt": "Falafel",
+        "title": "Falafel",
+        "description": "Dubai offers delectable falafel, a deep-fried ball or patty made from ground chickpeas or fava beans, often served in a pita or as a snack."
       },
       {
-        "img": "X",
-        "alt": "Karak Tea",
-        "title": "Karak Tea",
-        "description": "Karak tea is a sweet and milky tea that's popular in the Middle East. Some of the best places to enjoy karak tea in Dubai are Tea Junction, Filli Cafe, and Al Ustad Special Kabab."
+        "img": "x",
+        "alt": "Hummus",
+        "title": "Hummus",
+        "description": "Hummus is a beloved Middle Eastern dip made from mashed chickpeas, tahini, lemon juice, and garlic, often served with pita bread or as an accompaniment to various dishes."
+      },
+      {
+        "img": "x",
+        "alt": "Al Harees",
+        "title": "Al Harees",
+        "description": "Al Harees is a traditional Emirati dish made from wheat and meat, slow-cooked until it reaches a unique porridge-like consistency."
+      },
+      {
+        "img": "x",
+        "alt": "Biryani",
+        "title": "Biryani",
+        "description": "Biryani, a fragrant and flavorful rice dish with various spices and meat, is a popular choice in Dubai's diverse culinary scene."
       }
     ]
   },
   "hotels": {
     "hotels_card": [
       {
-        "img": "X",
-        "alt": "Burj Al Arab",
-        "title": "Burj Al Arab",
-        "description": "The Burj Al Arab is a luxurious hotel located on a man-made island off the coast of Dubai. It offers stunning views of the Arabian Gulf and features an opulent interior with a gold-plated atrium, a spa, and several dining options."
+        "img": "x",
+        "alt": "Burj Al Arab Jumeirah",
+        "title": "Burj Al Arab Jumeirah",
+        "description": "Burj Al Arab Jumeirah is a world-renowned luxury hotel with opulent suites, impeccable service, and exceptional dining experiences."
       },
       {
-        "img": "X",
-        "alt": "Atlantis, The Palm",
-        "title": "Atlantis, The Palm",
-        "description": "Atlantis, The Palm is a massive resort that's situated on the Palm Jumeirah, a man-made island shaped like a palm tree. It features a water park, aquarium, spa, and multiple restaurants."
+        "img": "x",
+        "alt": "Atlantis The Palm",
+        "title": "Atlantis The Palm",
+        "description": "Atlantis The Palm is a majestic resort on the Palm Jumeirah island, featuring an underwater aquarium, thrilling water park, and a range of marine adventures."
       },
       {
-        "img": "X",
-        "alt": "Rove Downtown Dubai",
-        "title": "Rove Downtown Dubai",
-        "description": "Rove Downtown Dubai is a modern and affordable hotel located in the heart of the city. It offers stylish rooms with free Wi-Fi, a 24-hour gym, and a rooftop pool."
+        "img": "x",
+        "alt": "JW Marriott Marquis Hotel Dubai",
+        "title": "JW Marriott Marquis Hotel Dubai",
+        "description": "The JW Marriott Marquis Hotel offers sophisticated accommodations, diverse dining options, and stunning city views from its prime location."
+      },
+      {
+        "img": "x",
+        "alt": "Raffles Dubai",
+        "title": "Raffles Dubai",
+        "description": "Raffles Dubai is an elegant and luxurious hotel with spacious rooms, a botanical garden, and exceptional service in the heart of the city."
+      },
+      {
+        "img": "x",
+        "alt": "Armani Hotel Dubai",
+        "title": "Armani Hotel Dubai",
+        "description": "The Armani Hotel in the Burj Khalifa offers chic and contemporary design, along with access to designer shops and fine dining."
       }
     ]
   },
   "transport": {
     "transport_card": [
       {
-        "img": "X",
+        "img": "x",
         "alt": "Dubai Metro",
         "title": "Dubai Metro",
-        "description": "The Dubai Metro is a rapid transit system that serves the city of Dubai. It's fully automated and offers air-conditioned trains with free Wi-Fi. Tickets can be purchased at stations or through the mobile app."
+        "description": "The Dubai Metro is a modern and efficient metro system that connects various parts of the city, providing convenient transportation for residents and tourists."
       },
       {
-        "img": "X",
-        "alt": "Dubai Bus",
-        "title": "Dubai Bus",
-        "description": "Dubai Bus is a convenient way to explore Dubai without getting lost."
+        "img": "x",
+        "alt": "Dubai Tram",
+        "title": "Dubai Tram",
+        "description": "The Dubai Tram is a light rail system that serves the Dubai Marina and JBR areas, connecting commuters to the Dubai Metro."
+      },
+      {
+        "img": "x",
+        "alt": "Taxis and Ride-Sharing",
+        "title": "Taxis and Ride-Sharing",
+        "description": "Taxis and ride-sharing services like Uber and Careem are readily available in Dubai and are a popular mode of transportation within the city."
+      },
+      {
+        "img": "x",
+        "alt": "Dubai International Airport",
+        "title": "Dubai International Airport",
+        "description": "Dubai International Airport (DXB) is one of the busiest airports in the world, serving as a major international gateway to Dubai and the UAE."
       }
     ]
   }

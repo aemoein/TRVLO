@@ -5,9 +5,9 @@
   },
   "about": {
     "name": "Stockholm",
-    "info_text": "Stockholm, the capital of Sweden, is a city spread across 14 islands and known for its stunning architecture, rich history, and beautiful waterways. Visitors can explore the historic Gamla Stan (Old Town), marvel at the Royal Palace, and enjoy cultural attractions like the Vasa Museum and ABBA The Museum. Stockholm offers a mix of modern design, historic charm, and a thriving culinary scene that includes Swedish delicacies and international cuisine.",
-    "facts_text": "<strong>Population:</strong> Approximately 975,000<br><strong>Country:</strong> Sweden<br><strong>Time Zone:</strong> Central European Time (CET, UTC+01:00)<br><strong>Language:</strong> Swedish, English<br><strong>Currency:</strong> Swedish Krona (SEK)",
-    "climate_text": "Stockholm has a temperate oceanic climate with cool winters and mild summers. Average temperatures range from -3°C (26°F) in winter to 22°C (72°F) in summer."
+    "info_text": "Stockholm, the capital of Sweden, is a beautiful and historic city spread across 14 islands in the stunning Stockholm Archipelago. Known for its clean and picturesque streets, rich history, and vibrant culture, Stockholm offers a wide range of experiences. The city is a perfect blend of old-world charm and modern innovation, with well-preserved historic sites, modern architecture, and a thriving arts and design scene.",
+    "facts_text": "<strong>Population:</strong> Approximately 975,000<br><strong>Province:</strong> Stockholm County<br><strong>Time Zone:</strong> Central European Time (UTC+1:00)<br><strong>Language:</strong> Swedish<br><strong>Currency:</strong> Swedish Krona (SEK)",
+    "climate_text": "Stockholm has a temperate maritime climate with warm summers and cold winters. The best time to visit is during the summer months when the city comes alive with outdoor events and festivals."
   },
   "attractions": {
     "attractions_card": [
@@ -15,49 +15,49 @@
         "img": "x",
         "alt": "Gamla Stan (Old Town)",
         "title": "Gamla Stan (Old Town)",
-        "description": "Gamla Stan is the historic heart of Stockholm, known for its narrow cobblestone streets, colorful buildings, and historic sites like the Royal Palace."
+        "description": "Gamla Stan is Stockholm's charming old town, known for its cobblestone streets, colorful buildings, and historic landmarks, including the Royal Palace and Storkyrkan Cathedral."
       },
       {
         "img": "x",
         "alt": "Vasa Museum",
         "title": "Vasa Museum",
-        "description": "The Vasa Museum is home to the Vasa warship, a perfectly preserved 17th-century ship that sank on its maiden voyage."
-      },
-      {
-        "img": "x",
-        "alt": "ABBA The Museum",
-        "title": "ABBA The Museum",
-        "description": "ABBA The Museum is a tribute to the iconic Swedish pop group, allowing visitors to explore their music history and even sing along."
+        "description": "The Vasa Museum is home to the remarkably well-preserved Vasa warship, a 17th-century vessel that sank on its maiden voyage and was salvaged centuries later."
       },
       {
         "img": "x",
         "alt": "Skansen Open-Air Museum",
         "title": "Skansen Open-Air Museum",
-        "description": "Skansen is an open-air museum showcasing Swedish history, culture, and wildlife. It's a great place to learn about Sweden's heritage."
+        "description": "Skansen is an open-air museum and zoo that showcases traditional Swedish culture, featuring historic buildings, folk performances, and a variety of Nordic animals."
       },
       {
         "img": "x",
-        "alt": "Djurgarden Island",
-        "title": "Djurgarden Island",
-        "description": "Djurgarden is an island featuring numerous attractions, including Gröna Lund amusement park and the Rosendals Garden."
+        "alt": "ABBA The Museum",
+        "title": "ABBA The Museum",
+        "description": "ABBA The Museum is a tribute to the legendary Swedish pop group ABBA, where visitors can explore the band's history, music, and memorabilia."
       },
       {
         "img": "x",
-        "alt": "Royal Palace",
-        "title": "Royal Palace",
-        "description": "The Royal Palace (Kungliga Slottet) is the official residence of the Swedish monarch and a beautiful architectural landmark."
+        "alt": "Djurgården Island",
+        "title": "Djurgården Island",
+        "description": "Djurgården is a green island oasis in the heart of Stockholm, home to numerous attractions, parks, and scenic waterfront areas."
       },
       {
         "img": "x",
-        "alt": "Fotografiska (Photography Museum)",
-        "title": "Fotografiska (Photography Museum)",
-        "description": "Fotografiska is a contemporary photography museum featuring a diverse range of photographic art."
+        "alt": "Nordic Museum",
+        "title": "Nordic Museum",
+        "description": "The Nordic Museum showcases the cultural history of Sweden, featuring exhibits on Swedish traditions, fashion, and design."
       },
       {
         "img": "x",
-        "alt": "Drottningholm Palace",
-        "title": "Drottningholm Palace",
-        "description": "Drottningholm Palace is a UNESCO World Heritage Site with a stunning palace, beautiful gardens, and a royal theater."
+        "alt": "Stockholm City Hall",
+        "title": "Stockholm City Hall",
+        "description": "Stockholm City Hall is a historic and iconic building famous for hosting the Nobel Prize banquet. Visitors can take guided tours to explore its grand interiors."
+      },
+      {
+        "img": "x",
+        "alt": "Gröna Lund Amusement Park",
+        "title": "Gröna Lund Amusement Park",
+        "description": "Gröna Lund is an amusement park on Djurgården Island, offering thrilling rides, live concerts, and family-friendly entertainment."
       }
     ]
   },
@@ -67,31 +67,31 @@
         "img": "x",
         "alt": "Swedish Meatballs",
         "title": "Swedish Meatballs",
-        "description": "Swedish meatballs are a classic dish made of seasoned ground meat, often served with lingonberry sauce and potatoes."
+        "description": "Swedish meatballs are a classic Swedish dish, often served with lingonberry sauce, creamy gravy, and mashed potatoes."
       },
       {
         "img": "x",
         "alt": "Herring",
         "title": "Herring",
-        "description": "Herring is a traditional Swedish delicacy, available in various pickled and flavored forms."
+        "description": "Herring is a staple of Swedish cuisine, with various pickled herring dishes served with bread or potatoes."
       },
       {
         "img": "x",
-        "alt": "Smorgastarta (Swedish Sandwich Cake)",
-        "title": "Smorgastarta (Swedish Sandwich Cake)",
-        "description": "Smorgastarta is a unique Swedish dish that resembles a savory sandwich cake, often served on special occasions."
+        "alt": "Smörgåsbord",
+        "title": "Smörgåsbord",
+        "description": "The Swedish smörgåsbord is a buffet-style meal featuring a variety of dishes, including cold and hot options, salads, and traditional delicacies."
       },
       {
         "img": "x",
         "alt": "Crayfish Party",
         "title": "Crayfish Party",
-        "description": "Crayfish parties are a traditional Swedish summer event where crayfish is enjoyed along with other dishes and schnapps."
+        "description": "Crayfish parties are a summer tradition in Sweden, with people gathering to enjoy freshly boiled crayfish, dill, and snaps (aquavit)."
       },
       {
         "img": "x",
-        "alt": "Prinsesstarta (Princess Cake)",
-        "title": "Prinsesstarta (Princess Cake)",
-        "description": "Prinsesstarta is a delightful Swedish dessert cake made of layers of sponge cake, cream, and a green marzipan cover."
+        "alt": "Princess Cake",
+        "title": "Princess Cake",
+        "description": "Princess cake is a popular Swedish dessert consisting of layers of sponge cake, raspberry jam, vanilla custard, and green marzipan."
       }
     ]
   },
@@ -99,33 +99,33 @@
     "hotels_card": [
       {
         "img": "x",
-        "alt": "Grand Hotel Stockholm",
-        "title": "Grand Hotel Stockholm",
-        "description": "The Grand Hotel Stockholm is a luxurious and historic hotel located on the waterfront, offering elegant rooms and fine dining."
+        "alt": "Grand Hôtel Stockholm",
+        "title": "Grand Hôtel Stockholm",
+        "description": "The Grand Hôtel Stockholm is a luxurious and iconic hotel overlooking the Royal Palace and Gamla Stan, offering elegant accommodations and fine dining."
       },
       {
         "img": "x",
         "alt": "Nobis Hotel",
         "title": "Nobis Hotel",
-        "description": "Nobis Hotel is a stylish and contemporary hotel in the city center, featuring modern design and comfortable accommodations."
+        "description": "Nobis Hotel is a contemporary boutique hotel in Norrmalm, known for its modern design, stylish rooms, and central location."
+      },
+      {
+        "img": "x",
+        "alt": "At Six",
+        "title": "At Six",
+        "description": "At Six is a chic and art-focused hotel in the city center, featuring unique art installations, a rooftop bar, and comfortable rooms."
+      },
+      {
+        "img": "x",
+        "alt": "Sheraton Stockholm Hotel",
+        "title": "Sheraton Stockholm Hotel",
+        "description": "The Sheraton Stockholm Hotel offers comfortable accommodations with stunning views of Lake Mälaren, making it an excellent choice for travelers."
       },
       {
         "img": "x",
         "alt": "Hotel Skeppsholmen",
         "title": "Hotel Skeppsholmen",
-        "description": "Hotel Skeppsholmen is a peaceful and eco-friendly hotel on an island, providing a tranquil urban escape."
-      },
-      {
-        "img": "x",
-        "alt": "Budget Accommodations",
-        "title": "Budget Accommodations",
-        "description": "Stockholm offers budget-friendly accommodations, including hostels and guesthouses, for cost-conscious travelers."
-      },
-      {
-        "img": "x",
-        "alt": "Vacation Rentals",
-        "title": "Vacation Rentals",
-        "description": "Consider vacation rentals or apartments for a more independent and home-like stay in Stockholm."
+        "description": "Hotel Skeppsholmen is a peaceful and historic hotel on its own island, providing a serene escape from the city's hustle and bustle."
       }
     ]
   },
@@ -133,33 +133,27 @@
     "transport_card": [
       {
         "img": "x",
+        "alt": "Stockholm Public Transportation",
+        "title": "Stockholm Public Transportation",
+        "description": "Stockholm's public transportation system includes buses, trams, the metro, and ferries, offering convenient options for getting around the city."
+      },
+      {
+        "img": "x",
         "alt": "Arlanda Airport",
         "title": "Arlanda Airport",
-        "description": "Arlanda Airport (ARN) is the primary international gateway to Stockholm, located about 40 kilometers north of the city center."
+        "description": "Arlanda Airport (ARN) is the largest international airport serving Stockholm, providing connections to domestic and international destinations."
       },
       {
         "img": "x",
-        "alt": "Stockholm Public Transport",
-        "title": "Stockholm Public Transport",
-        "description": "Stockholm offers an efficient public transport system, including buses, trams, and the Tunnelbana (metro) to navigate the city."
+        "alt": "Stockholm Central Station",
+        "title": "Stockholm Central Station",
+        "description": "Stockholm Central Station is the main railway station in the city, offering train services to other parts of Sweden and neighboring countries."
       },
       {
         "img": "x",
-        "alt": "Ferries and Water Taxis",
-        "title": "Ferries and Water Taxis",
-        "description": "Explore the city's archipelago and waterways with ferries and water taxis that connect various islands and districts."
-      },
-      {
-        "img": "x",
-        "alt": "Walking and Biking",
-        "title": "Walking and Biking",
-        "description": "Walking and biking are excellent ways to explore Stockholm, especially in the pedestrian-friendly city center."
-      },
-      {
-        "img": "x",
-        "alt": "Taxis and Ride-Sharing",
-        "title": "Taxis and Ride-Sharing",
-        "description": "Taxis and ride-sharing services like Uber are readily available for convenient point-to-point transportation."
+        "alt": "Biking in Stockholm",
+        "title": "Biking in Stockholm",
+        "description": "Stockholm is a bike-friendly city with dedicated bike lanes and bike-sharing programs, making it easy to explore on two wheels."
       }
     ]
   }

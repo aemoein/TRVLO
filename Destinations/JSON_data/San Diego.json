@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "San Diego"
+    },
+    "about": {
+      "name": "San Diego",
+      "info_text": "San Diego is a beautiful coastal city located in Southern California, known for its pleasant climate, stunning beaches, and a wide range of attractions. With a diverse cultural scene, vibrant neighborhoods, and a strong focus on outdoor activities, San Diego offers something for everyone. Visitors can explore historic sites, enjoy world-class dining, and experience the laid-back Southern California lifestyle that makes the city unique.",
+      "facts_text": "<strong>Population:</strong> Approximately 1.4 million<br><strong>State:</strong> California<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Language:</strong> English, Spanish<br><strong>Currency:</strong> US Dollar (USD)",
+      "climate_text": "San Diego has a Mediterranean climate with mild, wet winters and warm, dry summers. The city is known for its sunny days and pleasant temperatures, making it a year-round destination for outdoor enthusiasts."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Balboa Park",
+          "title": "Balboa Park",
+          "description": "Balboa Park is a sprawling urban park that houses museums, gardens, and the famous San Diego Zoo. It's a cultural hub and a green oasis in the heart of the city."
+        },
+        {
+          "img": "x",
+          "alt": "La Jolla Cove",
+          "title": "La Jolla Cove",
+          "description": "La Jolla Cove is a picturesque beach known for its crystal-clear waters, tide pools, and the opportunity to see sea lions and seals up close."
+        },
+        {
+          "img": "x",
+          "alt": "USS Midway Museum",
+          "title": "USS Midway Museum",
+          "description": "The USS Midway Museum is located on a decommissioned aircraft carrier and offers a fascinating look at naval aviation history."
+        },
+        {
+          "img": "x",
+          "alt": "Seaport Village",
+          "title": "Seaport Village",
+          "description": "Seaport Village is a waterfront shopping and dining complex with a scenic boardwalk and a variety of boutiques and restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Old Town San Diego State Historic Park",
+          "title": "Old Town San Diego State Historic Park",
+          "description": "Old Town San Diego is the birthplace of California and is home to historic buildings, shops, and restaurants that offer a glimpse into the city's past."
+        },
+        {
+          "img": "x",
+          "alt": "San Diego Natural History Museum",
+          "title": "San Diego Natural History Museum",
+          "description": "The San Diego Natural History Museum, located in Balboa Park, features exhibits on the region's flora, fauna, and geological history."
+        },
+        {
+          "img": "x",
+          "alt": "Torrey Pines State Natural Reserve",
+          "title": "Torrey Pines State Natural Reserve",
+          "description": "Torrey Pines State Natural Reserve is a coastal wilderness area with hiking trails and unique, rare Torrey pine trees."
+        },
+        {
+          "img": "x",
+          "alt": "Gaslamp Quarter",
+          "title": "Gaslamp Quarter",
+          "description": "The Gaslamp Quarter is San Diego's historic district, known for its nightlife, restaurants, and Victorian-era architecture."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Fish Tacos",
+          "title": "Fish Tacos",
+          "description": "San Diego is famous for its fish tacos, which can be found at various seafood shacks and restaurants throughout the city."
+        },
+        {
+          "img": "x",
+          "alt": "California Burritos",
+          "title": "California Burritos",
+          "description": "California burritos are a local specialty, typically filled with carne asada, french fries, cheese, and salsa."
+        },
+        {
+          "img": "x",
+          "alt": "Craft Beer",
+          "title": "Craft Beer",
+          "description": "San Diego is known for its thriving craft beer scene, with numerous breweries and taprooms offering a wide range of beer styles."
+        },
+        {
+          "img": "x",
+          "alt": "Avocado Dishes",
+          "title": "Avocado Dishes",
+          "description": "California avocados are a staple in San Diego cuisine, and you can enjoy dishes like avocado toast and guacamole."
+        },
+        {
+          "img": "x",
+          "alt": "Mexican Cuisine",
+          "title": "Mexican Cuisine",
+          "description": "San Diego's proximity to Mexico influences its food scene, with many restaurants offering authentic Mexican dishes."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel del Coronado",
+          "title": "Hotel del Coronado",
+          "description": "The Hotel del Coronado is a historic beachfront resort known for its Victorian architecture and luxurious accommodations."
+        },
+        {
+          "img": "x",
+          "alt": "The Lodge at Torrey Pines",
+          "title": "The Lodge at Torrey Pines",
+          "description": "The Lodge at Torrey Pines is a luxury hotel offering a scenic golf course, spa, and comfortable, craftsman-style rooms."
+        },
+        {
+          "img": "x",
+          "alt": "Pendry San Diego",
+          "title": "Pendry San Diego",
+          "description": "Pendry San Diego is a trendy boutique hotel located in the Gaslamp Quarter, featuring stylish rooms and several dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Grand Hyatt San Diego",
+          "title": "Manchester Grand Hyatt San Diego",
+          "description": "The Manchester Grand Hyatt offers stunning bayfront views and numerous amenities, including rooftop pools and restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Kimpton Hotel Palomar San Diego",
+          "title": "Kimpton Hotel Palomar San Diego",
+          "description": "The Kimpton Hotel Palomar is a chic, boutique hotel with modern design and a rooftop pool in downtown San Diego."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "San Diego Trolley",
+          "title": "San Diego Trolley",
+          "description": "The San Diego Trolley is a light rail system that connects various parts of the city, including downtown and the U.S.-Mexico border."
+        },
+        {
+          "img": "x",
+          "alt": "Bus Services",
+          "title": "Bus Services",
+          "description": "The Metropolitan Transit System (MTS) operates bus services throughout San Diego, providing access to different neighborhoods."
+        },
+        {
+          "img": "x",
+          "alt": "San Diego International Airport",
+          "title": "San Diego International Airport",
+          "description": "San Diego International Airport (SAN) is the city's main airport, serving domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Ride-Sharing Services",
+          "title": "Ride-Sharing Services",
+          "description": "Ride-sharing services like Uber and Lyft are readily available in San Diego for convenient transportation."
+        }
+      ]
+    }
+  }  

@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Edinburgh"
+    },
+    "about": {
+      "name": "Edinburgh",
+      "info_text": "Edinburgh is the capital city of Scotland, known for its rich history, stunning architecture, and vibrant arts scene. It is a city of contrasts, where medieval and modern elements coexist harmoniously. From the historic and imposing Edinburgh Castle that dominates the skyline to the lively and artistic streets of the Old Town and New Town, Edinburgh offers a unique blend of culture, natural beauty, and tradition. The city is famous for its annual festivals, including the Edinburgh Festival Fringe, which is the world's largest arts festival.",
+      "facts_text": "<strong>Population:</strong> Approximately 540,000<br><strong>Country:</strong> Scotland, United Kingdom<br><strong>Time Zone:</strong> Greenwich Mean Time (GMT)<br><strong>Language:</strong> English, Scots, and Scottish Gaelic<br><strong>Currency:</strong> British Pound (GBP)",
+      "climate_text": "Edinburgh experiences a maritime climate with mild summers and cool winters. Rainfall is spread throughout the year, so it's advisable to carry an umbrella or raincoat when exploring the city."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Edinburgh Castle",
+          "title": "Edinburgh Castle",
+          "description": "Edinburgh Castle is a historic fortress perched on Castle Rock and offers panoramic views of the city. It's one of Scotland's most iconic landmarks."
+        },
+        {
+          "img": "x",
+          "alt": "Royal Mile",
+          "title": "Royal Mile",
+          "description": "The Royal Mile is the main street of the Old Town, lined with charming shops, restaurants, and historic sites, including the Palace of Holyroodhouse and St. Giles' Cathedral."
+        },
+        {
+          "img": "x",
+          "alt": "Arthur's Seat",
+          "title": "Arthur's Seat",
+          "description": "Arthur's Seat is an ancient extinct volcano located in Holyrood Park, providing excellent hiking opportunities and breathtaking views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "The Scotch Whisky Experience",
+          "title": "The Scotch Whisky Experience",
+          "description": "Discover the art of whisky-making in Scotland at The Scotch Whisky Experience and enjoy guided tours and tastings of this iconic beverage."
+        },
+        {
+          "img": "x",
+          "alt": "National Museum of Scotland",
+          "title": "National Museum of Scotland",
+          "description": "The National Museum houses an extensive collection of artifacts, including science, technology, fashion, and Scotland's history."
+        },
+        {
+          "img": "x",
+          "alt": "Calton Hill",
+          "title": "Calton Hill",
+          "description": "Calton Hill offers a unique perspective of the city's skyline and features various neoclassical monuments, including the National Monument and the Nelson Monument."
+        },
+        {
+          "img": "x",
+          "alt": "Edinburgh Festival Fringe",
+          "title": "Edinburgh Festival Fringe",
+          "description": "The Edinburgh Festival Fringe is the world's largest arts festival, featuring thousands of performances, from comedy to theater, throughout the city every August."
+        },
+        {
+          "img": "x",
+          "alt": "Holyrood Palace",
+          "title": "Holyrood Palace",
+          "description": "The Palace of Holyroodhouse is the official residence of the British monarch in Scotland and offers guided tours of its historic chambers."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Haggis",
+          "title": "Haggis",
+          "description": "Haggis is a traditional Scottish dish made from minced sheep's heart, liver, and lungs, mixed with oats and spices, typically served with neeps and tatties (turnips and mashed potatoes)."
+        },
+        {
+          "img": "x",
+          "alt": "Scottish Salmon",
+          "title": "Scottish Salmon",
+          "description": "Enjoy delicious Scottish salmon, often prepared with a variety of seasonings and accompaniments, offering a taste of Scotland's pristine waters."
+        },
+        {
+          "img": "x",
+          "alt": "Cullen Skink",
+          "title": "Cullen Skink",
+          "description": "Cullen skink is a hearty Scottish soup made with smoked haddock, potatoes, onions, and cream, creating a comforting and flavorful dish."
+        },
+        {
+          "img": "x",
+          "alt": "Scotch Pie",
+          "title": "Scotch Pie",
+          "description": "Scotch pies are savory pastries filled with minced meat, often served hot and enjoyed as a snack or light meal in Scotland."
+        },
+        {
+          "img": "x",
+          "alt": "Shortbread",
+          "title": "Shortbread",
+          "description": "Indulge in traditional Scottish shortbread cookies, known for their buttery, crumbly texture and sweet flavor."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Balmoral",
+          "title": "The Balmoral",
+          "description": "The Balmoral is a luxurious and iconic hotel located in the heart of the city, offering elegant accommodations and world-class service."
+        },
+        {
+          "img": "x",
+          "alt": "The Witchery by the Castle",
+          "title": "The Witchery by the Castle",
+          "description": "The Witchery is a unique and opulent hotel near the Royal Mile, known for its romantic and Gothic-inspired rooms and gourmet dining."
+        },
+        {
+          "img": "x",
+          "alt": "Radisson Collection Hotel, Royal Mile Edinburgh",
+          "title": "Radisson Collection Hotel, Royal Mile Edinburgh",
+          "description": "This stylish hotel is located on the historic Royal Mile, offering modern comfort and easy access to many of the city's attractions."
+        },
+        {
+          "img": "x",
+          "alt": "The Scotsman Hotel",
+          "title": "The Scotsman Hotel",
+          "description": "The Scotsman Hotel is a boutique hotel with a rich history, combining traditional charm with modern amenities, and it's just a short walk from the train station."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Edinburgh Trams",
+          "title": "Edinburgh Trams",
+          "description": "The Edinburgh Trams provide a convenient and eco-friendly way to travel within the city, connecting the airport, city center, and other key locations."
+        },
+        {
+          "img": "x",
+          "alt": "Lothian Buses",
+          "title": "Lothian Buses",
+          "description": "Lothian Buses offer an extensive bus network serving Edinburgh and its suburbs, making it easy to explore the city and its surroundings."
+        },
+        {
+          "img": "x",
+          "alt": "Edinburgh Waverley Railway Station",
+          "title": "Edinburgh Waverley Railway Station",
+          "description": "Edinburgh Waverley is the city's main railway station, providing excellent rail connections to other cities in the UK, including Glasgow and London."
+        },
+        {
+          "img": "x",
+          "alt": "Edinburgh Airport",
+          "title": "Edinburgh Airport",
+          "description": "Edinburgh Airport (EDI) is the primary international gateway to the city, serving a range of domestic and international destinations."
+        }
+      ]
+    }
+  }  

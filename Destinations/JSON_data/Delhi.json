@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Delhi"
+    },
+    "about": {
+      "name": "Delhi",
+      "info_text": "Delhi, the capital of India, is a historic and dynamic city that blends a rich cultural heritage with modernity. With a history dating back centuries, Delhi is home to numerous monuments, bustling markets, diverse neighborhoods, and a vibrant street food scene. Visitors can explore ancient landmarks like the Red Fort and Qutub Minar, experience the spirituality of Lotus Temple, and savor the flavors of Indian cuisine. Delhi offers a unique blend of tradition and progress, making it a captivating destination for travelers.",
+      "facts_text": "<strong>Population:</strong> Approximately 21.75 million<br><strong>State:</strong> Delhi<br><strong>Time Zone:</strong> Indian Standard Time (UTC+05:30)<br><strong>Language:</strong> Hindi, English, and multiple regional languages<br><strong>Currency:</strong> Indian Rupee (INR)",
+      "climate_text": "Delhi experiences a diverse climate with hot summers, cool winters, and a monsoon season. Winters are the best time to visit, with comfortable temperatures for sightseeing."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Red Fort",
+          "title": "Red Fort",
+          "description": "The Red Fort, a UNESCO World Heritage Site, is a historic fort made of red sandstone and known for its stunning architecture and significance in India's history."
+        },
+        {
+          "img": "x",
+          "alt": "India Gate",
+          "title": "India Gate",
+          "description": "India Gate is a war memorial and iconic landmark in Delhi, commemorating soldiers who lost their lives in World War I. It's a popular spot for picnics and evening strolls."
+        },
+        {
+          "img": "x",
+          "alt": "Qutub Minar",
+          "title": "Qutub Minar",
+          "description": "The Qutub Minar is a towering minaret and UNESCO World Heritage Site, known for its intricate Islamic architecture and historical significance."
+        },
+        {
+          "img": "x",
+          "alt": "Lotus Temple",
+          "title": "Lotus Temple",
+          "description": "The Lotus Temple is a Bahá'í House of Worship with a distinctive lotus flower-shaped design. It's a place of worship and meditation open to all religions."
+        },
+        {
+          "img": "x",
+          "alt": "Humayun's Tomb",
+          "title": "Humayun's Tomb",
+          "description": "Humayun's Tomb is another UNESCO World Heritage Site, featuring a beautiful garden and Mughal architecture. It's often compared to the Taj Mahal."
+        },
+        {
+          "img": "x",
+          "alt": "Akshardham Temple",
+          "title": "Akshardham Temple",
+          "description": "Akshardham Temple is a sprawling Hindu temple complex known for its stunning architecture, exhibitions, and cultural performances."
+        },
+        {
+          "img": "x",
+          "alt": "Chandni Chowk",
+          "title": "Chandni Chowk",
+          "description": "Chandni Chowk is a historic market street in Old Delhi, offering a bustling shopping experience and a variety of street food stalls."
+        },
+        {
+          "img": "x",
+          "alt": "Jama Masjid",
+          "title": "Jama Masjid",
+          "description": "Jama Masjid is one of the largest mosques in India, featuring impressive Mughal architecture and a panoramic view from its minarets."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Biryani",
+          "title": "Biryani",
+          "description": "Biryani is a popular Indian rice dish, often prepared with aromatic spices, saffron, and a choice of chicken, lamb, or vegetables."
+        },
+        {
+          "img": "x",
+          "alt": "Chole Bhature",
+          "title": "Chole Bhature",
+          "description": "Chole Bhature is a North Indian dish featuring spicy chickpea curry (chole) and deep-fried bread (bhature), often served with pickles."
+        },
+        {
+          "img": "x",
+          "alt": "Paratha",
+          "title": "Paratha",
+          "description": "Paratha is a flatbread stuffed with various fillings like potato, paneer, or cauliflower, and is typically served with yogurt and pickles."
+        },
+        {
+          "img": "x",
+          "alt": "Pani Puri",
+          "title": "Pani Puri",
+          "description": "Pani Puri is a popular street food consisting of hollow, crispy shells filled with spicy tamarind water, potatoes, and chickpeas."
+        },
+        {
+          "img": "x",
+          "alt": "Butter Chicken",
+          "title": "Butter Chicken",
+          "description": "Butter Chicken is a creamy and flavorful chicken dish in a tomato-based sauce, often enjoyed with naan or rice."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Leela Palace New Delhi",
+          "title": "The Leela Palace New Delhi",
+          "description": "The Leela Palace is a luxury hotel known for its opulent rooms, fine dining, and a royal ambiance."
+        },
+        {
+          "img": "x",
+          "alt": "The Imperial New Delhi",
+          "title": "The Imperial New Delhi",
+          "description": "The Imperial is a historic and elegant hotel with a colonial-era charm, offering a comfortable and luxurious stay."
+        },
+        {
+          "img": "x",
+          "alt": "Taj Palace, New Delhi",
+          "title": "Taj Palace, New Delhi",
+          "description": "The Taj Palace is a renowned hotel providing top-notch service, modern amenities, and beautiful garden views."
+        },
+        {
+          "img": "x",
+          "alt": "The Claridges, New Delhi",
+          "title": "The Claridges, New Delhi",
+          "description": "The Claridges is a boutique hotel with a blend of old-world charm and contemporary comforts, offering a unique stay experience."
+        },
+        {
+          "img": "x",
+          "alt": "The Oberoi, New Delhi",
+          "title": "The Oberoi, New Delhi",
+          "description": "The Oberoi is a luxury hotel with well-appointed rooms and excellent dining options, perfect for a luxurious retreat."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Delhi Metro",
+          "title": "Delhi Metro",
+          "description": "The Delhi Metro is a modern and efficient way to navigate the city, with multiple lines connecting various parts of Delhi."
+        },
+        {
+          "img": "x",
+          "alt": "Auto Rickshaws",
+          "title": "Auto Rickshaws",
+          "description": "Auto rickshaws are a common mode of transportation for short distances within Delhi and are a part of the city's unique charm."
+        },
+        {
+          "img": "x",
+          "alt": "Delhi Buses",
+          "title": "Delhi Buses",
+          "description": "Public buses run by Delhi Transport Corporation (DTC) provide an affordable means of travel throughout the city."
+        },
+        {
+          "img": "x",
+          "alt": "Indira Gandhi International Airport",
+          "title": "Indira Gandhi International Airport",
+          "description": "Indira Gandhi International Airport (DEL) is the major international airport serving Delhi and is well-connected to both domestic and international destinations."
+        }
+      ]
+    }
+  }  

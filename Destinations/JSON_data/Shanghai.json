@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Shanghai"
+    },
+    "about": {
+      "name": "Shanghai",
+      "info_text": "Shanghai, often referred to as the 'Pearl of the Orient,' is a dynamic and cosmopolitan metropolis located in eastern China. It is the country's largest city and a global financial hub. Shanghai is known for its impressive skyline, rich history, and a unique blend of Eastern and Western cultures. With a vibrant arts scene, bustling shopping districts, and a wide range of culinary delights, Shanghai offers an exciting and diverse experience for residents and visitors alike.",
+      "facts_text": "<strong>Population:</strong> Approximately 26 million<br><strong>Province:</strong> Shanghai<br><strong>Time Zone:</strong> China Standard Time (UTC+08:00)<br><strong>Language:</strong> Mandarin Chinese<br><strong>Currency:</strong> Chinese Yuan (CNY)",
+      "climate_text": "Shanghai experiences a humid subtropical climate with four distinct seasons. Summers are hot and humid, while winters are chilly. Spring and autumn are pleasant and popular times to visit the city."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "The Bund",
+          "title": "The Bund",
+          "description": "The Bund is a historic waterfront promenade along the Huangpu River, offering iconic views of Shanghai's skyline and a collection of 52 unique buildings representing various architectural styles."
+        },
+        {
+          "img": "x",
+          "alt": "Shanghai Tower",
+          "title": "Shanghai Tower",
+          "description": "The Shanghai Tower is one of the world's tallest skyscrapers and offers an observatory with breathtaking views of the city. It's an architectural marvel."
+        },
+        {
+          "img": "x",
+          "alt": "Yu Garden",
+          "title": "Yu Garden",
+          "description": "Yu Garden is a classical Chinese garden with beautiful pavilions, rockeries, and ponds. It's a peaceful escape from the bustling city."
+        },
+        {
+          "img": "x",
+          "alt": "Jing'an Temple",
+          "title": "Jing'an Temple",
+          "description": "Jing'an Temple is a historic Buddhist temple in the heart of the city, known for its tranquil atmosphere and golden Buddha statue."
+        },
+        {
+          "img": "x",
+          "alt": "Shanghai Disneyland",
+          "title": "Shanghai Disneyland",
+          "description": "Shanghai Disneyland is a magical theme park with a distinct Chinese flair, featuring classic Disney attractions and entertainment."
+        },
+        {
+          "img": "x",
+          "alt": "Oriental Pearl Tower",
+          "title": "Oriental Pearl Tower",
+          "description": "The Oriental Pearl Tower is an iconic TV tower with a distinctive design, housing an observation deck and a museum."
+        },
+        {
+          "img": "x",
+          "alt": "Tianzifang",
+          "title": "Tianzifang",
+          "description": "Tianzifang is a labyrinth of narrow lanes filled with boutique shops, cafes, and art studios, making it a popular spot for shopping and exploration."
+        },
+        {
+          "img": "x",
+          "alt": "Shanghai World Financial Center",
+          "title": "Shanghai World Financial Center",
+          "description": "The Shanghai World Financial Center is a skyscraper with an observation deck known for its dramatic views and the world's highest observatory bridge."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Xiaolongbao",
+          "title": "Xiaolongbao",
+          "description": "Xiaolongbao are delicate, steamed soup dumplings filled with flavorful pork or other ingredients, often served with vinegar and ginger."
+        },
+        {
+          "img": "x",
+          "alt": "Shengjianbao",
+          "title": "Shengjianbao",
+          "description": "Shengjianbao are pan-fried buns filled with savory pork and a juicy interior, making them a popular Shanghai street food."
+        },
+        {
+          "img": "x",
+          "alt": "Hairy Crab",
+          "title": "Hairy Crab",
+          "description": "Hairy crab is a seasonal delicacy in Shanghai, known for its unique taste and flavor. It's typically enjoyed during the autumn months."
+        },
+        {
+          "img": "x",
+          "alt": "Scallion Oil Noodles",
+          "title": "Scallion Oil Noodles",
+          "description": "Scallion oil noodles are a simple yet flavorful dish made with spring onion oil, soy sauce, and wheat noodles, creating a delightful combination."
+        },
+        {
+          "img": "x",
+          "alt": "Stir-Fried Mianbao Xia",
+          "title": "Stir-Fried Mianbao Xia",
+          "description": "Stir-fried mianbao xia is a popular Shanghai dish featuring stir-fried rice cakes with vegetables and a choice of protein."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton Shanghai, Pudong",
+          "title": "The Ritz-Carlton Shanghai, Pudong",
+          "description": "The Ritz-Carlton in Pudong offers luxurious accommodations with stunning views of the city and the Huangpu River."
+        },
+        {
+          "img": "x",
+          "alt": "W Shanghai - The Bund",
+          "title": "W Shanghai - The Bund",
+          "description": "W Shanghai is a trendy and modern hotel along the Bund, known for its chic design, rooftop bar, and scenic river views."
+        },
+        {
+          "img": "x",
+          "alt": "Fairmont Peace Hotel",
+          "title": "Fairmont Peace Hotel",
+          "description": "The Fairmont Peace Hotel is a historic and elegant hotel on the Bund, offering a timeless atmosphere and excellent service."
+        },
+        {
+          "img": "x",
+          "alt": "JW Marriott Hotel Shanghai at Tomorrow Square",
+          "title": "JW Marriott Hotel Shanghai at Tomorrow Square",
+          "description": "The JW Marriott at Tomorrow Square is a luxury hotel with spacious rooms and a central location in the city."
+        },
+        {
+          "img": "x",
+          "alt": "Hyatt Regency Shanghai, Global Harbor",
+          "title": "Hyatt Regency Shanghai, Global Harbor",
+          "description": "Hyatt Regency in Global Harbor is a modern hotel offering comfortable accommodations and convenient access to shopping and dining."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Shanghai Metro",
+          "title": "Shanghai Metro",
+          "description": "The Shanghai Metro is a comprehensive subway system that makes it easy to travel around the city and reach major attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Maglev Train",
+          "title": "Maglev Train",
+          "description": "The Shanghai Maglev Train is one of the world's fastest commercial trains, connecting Pudong Airport to the city center in just minutes."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Shanghai and are a convenient way to explore the city. They can be hailed on the street or booked through ride-sharing apps."
+        },
+        {
+          "img": "x",
+          "alt": "Shanghai Pudong International Airport",
+          "title": "Shanghai Pudong International Airport",
+          "description": "Pudong International Airport (PVG) is one of the main airports serving Shanghai, offering a wide range of domestic and international flights."
+        }
+      ]
+    }
+  }  

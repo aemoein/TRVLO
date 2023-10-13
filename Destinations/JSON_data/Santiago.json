@@ -1,0 +1,161 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Santiago"
+    },
+    "about": {
+      "name": "Santiago",
+      "info_text": "Santiago, the capital of Chile, is a dynamic and modern city nestled in a valley surrounded by the Andes Mountains. Known for its rich cultural heritage and stunning natural landscapes, Santiago offers a diverse range of experiences for visitors. From exploring historic neighborhoods to enjoying the vibrant arts scene, and savoring delicious Chilean cuisine, there's something for everyone in Santiago.",
+      "facts_text": "<strong>Population:</strong> Approximately 6.7 million<br><strong>Region:</strong> Santiago Metropolitan Region<br><strong>Time Zone:</strong> Chile Standard Time (CLT, UTC-3)<br><strong>Language:</strong> Spanish<br><strong>Currency:</strong> Chilean Peso (CLP)",
+      "climate_text": "Santiago has a Mediterranean climate with hot, dry summers and cool, wet winters. The city enjoys plenty of sunshine, making it a great destination for outdoor activities."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "La Moneda Palace",
+          "title": "La Moneda Palace",
+          "description": "La Moneda Palace is the seat of the Chilean government and a historic landmark. Visitors can take guided tours and explore the beautiful surrounding gardens."
+        },
+        {
+          "img": "x",
+          "alt": "Santa Lucía Hill",
+          "title": "Santa Lucía Hill",
+          "description": "Santa Lucía Hill is a small hill in the city center with walking trails, gardens, and panoramic views of Santiago. It's a great place for a leisurely hike."
+        },
+        {
+          "img": "x",
+          "alt": "Pablo Neruda's House",
+          "title": "Pablo Neruda's House",
+          "description": "The former residence of Nobel laureate Pablo Neruda, known as La Chascona, is now a museum dedicated to the poet's life and work."
+        },
+        {
+          "img": "x",
+          "alt": "San Cristóbal Hill",
+          "title": "San Cristóbal Hill",
+          "description": "San Cristóbal Hill is one of the city's largest green spaces and offers stunning views, a funicular railway, and the iconic Virgin Mary statue."
+        },
+        {
+          "img": "x",
+          "alt": "Museum of Pre-Columbian Art",
+          "title": "Museum of Pre-Columbian Art",
+          "description": "This museum houses a vast collection of pre-Columbian artifacts, showcasing the art and culture of indigenous peoples from the Americas."
+        },
+        {
+          "img": "x",
+          "alt": "Central Market",
+          "title": "Central Market",
+          "description": "The Central Market is a bustling place to enjoy Chilean seafood and local cuisine. It's a great spot to savor fresh fish and seafood dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Santiago Metropolitan Cathedral",
+          "title": "Santiago Metropolitan Cathedral",
+          "description": "The Santiago Metropolitan Cathedral is a grand neo-Renaissance church with beautiful architecture and historical significance."
+        },
+        {
+          "img": "x",
+          "alt": "Bellavista Neighborhood",
+          "title": "Bellavista Neighborhood",
+          "description": "Bellavista is a bohemian neighborhood known for its vibrant nightlife, street art, and numerous restaurants and bars."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Empanadas",
+          "title": "Empanadas",
+          "description": "Empanadas are a popular Chilean snack, typically filled with ingredients like beef, cheese, or seafood, and baked to perfection."
+        },
+        {
+          "img": "x",
+          "alt": "Asado",
+          "title": "Asado",
+          "description": "Asado is the Chilean barbecue, featuring various cuts of meat, sausages, and vegetables grilled to smoky perfection."
+        },
+        {
+          "img": "x",
+          "alt": "Cazuela",
+          "title": "Cazuela",
+          "description": "Cazuela is a traditional Chilean soup made with meat, vegetables, and sometimes corn, offering a comforting and hearty meal."
+        },
+        {
+          "img": "x",
+          "alt": "Pastel de Choclo",
+          "title": "Pastel de Choclo",
+          "description": "Pastel de Choclo is a sweet and savory Chilean pie made with ground corn, meat, olives, and hard-boiled eggs."
+        },
+        {
+          "img": "x",
+          "alt": "Pisco Sour",
+          "title": "Pisco Sour",
+          "description": "Pisco Sour is a popular Chilean cocktail made with pisco (a grape brandy), lemon juice, sugar, and bitters, creating a tangy and refreshing drink."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton Santiago",
+          "title": "The Ritz-Carlton Santiago",
+          "description": "The Ritz-Carlton Santiago is a luxury hotel offering elegant rooms, a spa, and fine dining options, located in the El Golf district."
+        },
+        {
+          "img": "x",
+          "alt": "W Santiago",
+          "title": "W Santiago",
+          "description": "W Santiago is a stylish hotel in the Las Condes neighborhood, known for its modern design, rooftop bar, and lively atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Singular Santiago",
+          "title": "Hotel Singular Santiago",
+          "description": "Hotel Singular Santiago offers a boutique experience in the historic Lastarria neighborhood, with unique rooms and a cozy ambiance."
+        },
+        {
+          "img": "x",
+          "alt": "Hyatt Centric Las Condes Santiago",
+          "title": "Hyatt Centric Las Condes Santiago",
+          "description": "Hyatt Centric offers contemporary accommodations in the Las Condes district, with a rooftop pool and bar to enjoy the city views."
+        },
+        {
+          "img": "x",
+          "alt": "Cumbres Lastarria Hotel",
+          "title": "Cumbres Lastarria Hotel",
+          "description": "Cumbres Lastarria is a charming boutique hotel in the Lastarria neighborhood, known for its personalized service and comfortable rooms."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Santiago Metro",
+          "title": "Santiago Metro",
+          "description": "The Santiago Metro is a convenient way to navigate the city, with several lines connecting key areas, including the city center and suburbs."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Public buses are a common mode of transportation in Santiago, providing access to various neighborhoods and attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Santiago and can be hailed on the street or booked through ride-sharing apps."
+        },
+        {
+          "img": "x",
+          "alt": "Comodoro Arturo Merino Benítez International Airport",
+          "title": "Comodoro Arturo Merino Benítez International Airport",
+          "description": "Santiago's main international airport, also known as Santiago Airport, connects the city with domestic and international destinations."
+        }
+      ]
+    }
+  }
+  

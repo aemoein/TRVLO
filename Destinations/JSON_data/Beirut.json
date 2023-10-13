@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Beirut"
+    },
+    "about": {
+      "name": "Beirut",
+      "info_text": "Beirut, the capital city of Lebanon, is a fascinating and historic metropolis known for its rich culture, diverse heritage, and vibrant atmosphere. Situated on the Mediterranean coast, Beirut offers a unique blend of ancient traditions and modern influences. The city is famous for its lively nightlife, delicious cuisine, and a plethora of historical sites. Whether you're strolling through the ancient streets of the Old Town or enjoying the bustling waterfront, Beirut has something to captivate every visitor.",
+      "facts_text": "<strong>Population:</strong> Approximately 2.4 million<br><strong>Country:</strong> Lebanon<br><strong>Time Zone:</strong> Eastern European Time (UTC+02:00)<br><strong>Language:</strong> Arabic, French, English<br><strong>Currency:</strong> Lebanese Pound (LBP)",
+      "climate_text": "Beirut enjoys a Mediterranean climate with hot, dry summers and mild, rainy winters. The city is known for its beautiful coastal views and pleasant weather, making it a fantastic year-round destination."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Pigeon Rocks (Raouche Rocks)",
+          "title": "Pigeon Rocks (Raouche Rocks)",
+          "description": "The Pigeon Rocks are natural sea stacks that rise from the Mediterranean near the Raouche district, offering stunning views and a popular sunset spot."
+        },
+        {
+          "img": "x",
+          "alt": "Beirut Souks",
+          "title": "Beirut Souks",
+          "description": "The Beirut Souks are a bustling shopping district with a variety of shops, boutiques, and restaurants, making it a hub of activity in the city."
+        },
+        {
+          "img": "x",
+          "alt": "National Museum of Beirut",
+          "title": "National Museum of Beirut",
+          "description": "The National Museum houses a remarkable collection of archaeological artifacts, showcasing Lebanon's rich history and heritage."
+        },
+        {
+          "img": "x",
+          "alt": "Beirut Corniche",
+          "title": "Beirut Corniche",
+          "description": "The Corniche is a picturesque seaside promenade that stretches along the coastline, providing beautiful views and a pleasant place to walk and relax."
+        },
+        {
+          "img": "x",
+          "alt": "Jeita Grotto",
+          "title": "Jeita Grotto",
+          "description": "The Jeita Grotto is a natural wonder, featuring a series of stunning limestone caves with crystal-clear underground lakes."
+        },
+        {
+          "img": "x",
+          "alt": "Downtown Beirut",
+          "title": "Downtown Beirut",
+          "description": "Downtown Beirut is a modern district filled with shops, cafes, and cultural sites, where you can explore the city's contemporary side."
+        },
+        {
+          "img": "x",
+          "alt": "Mohammad Al-Amin Mosque",
+          "title": "Mohammad Al-Amin Mosque",
+          "description": "This grand mosque is a significant religious and architectural landmark in Beirut, known for its beautiful blue domes and stunning interior."
+        },
+        {
+          "img": "x",
+          "alt": "Byblos (Jbeil)",
+          "title": "Byblos (Jbeil)",
+          "description": "A short drive from Beirut, Byblos is an ancient city with historical ruins, charming streets, and a picturesque harbor."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Falafel",
+          "title": "Falafel",
+          "description": "Falafel is a popular Lebanese street food made from ground chickpeas or fava beans, deep-fried to perfection and often served in pita bread."
+        },
+        {
+          "img": "x",
+          "alt": "Shawarma",
+          "title": "Shawarma",
+          "description": "Shawarma is a beloved Middle Eastern dish consisting of thinly sliced marinated meat, often served in a flatbread with various condiments."
+        },
+        {
+          "img": "x",
+          "alt": "Tabbouleh",
+          "title": "Tabbouleh",
+          "description": "Tabbouleh is a refreshing salad made with bulgur wheat, finely chopped parsley, mint, tomatoes, and a tangy lemon dressing."
+        },
+        {
+          "img": "x",
+          "alt": "Kibbeh",
+          "title": "Kibbeh",
+          "description": "Kibbeh is a traditional Lebanese dish made from ground meat, bulgur, and spices, often shaped into patties or balls and either fried or baked."
+        },
+        {
+          "img": "x",
+          "alt": "Baklava",
+          "title": "Baklava",
+          "description": "Baklava is a delectable dessert made of layers of filo pastry, chopped nuts, and sweet syrup or honey, creating a rich and sweet treat."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Le Gray Beirut",
+          "title": "Le Gray Beirut",
+          "description": "Le Gray is a luxury boutique hotel located in the heart of Beirut's downtown district, offering contemporary design and top-notch amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Phoenicia Hotel Beirut",
+          "title": "Phoenicia Hotel Beirut",
+          "description": "The Phoenicia Hotel is an iconic luxury hotel with a rich history, overlooking the Mediterranean and providing elegant accommodations and superb dining."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Beirut",
+          "title": "Four Seasons Hotel Beirut",
+          "description": "The Four Seasons Hotel is a waterfront luxury hotel with stunning views, exceptional service, and an array of dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Gefinor Rotana Beirut",
+          "title": "Gefinor Rotana Beirut",
+          "description": "Gefinor Rotana is a modern hotel offering comfortable rooms, a rooftop pool, and easy access to the city's attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Radisson Blu Martinez Hotel, Beirut",
+          "title": "Radisson Blu Martinez Hotel, Beirut",
+          "description": "The Radisson Blu Martinez Hotel is a contemporary hotel with a central location, providing comfortable accommodations and a rooftop pool."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Beirut Rafic Hariri International Airport",
+          "title": "Beirut Rafic Hariri International Airport",
+          "description": "The Beirut Airport is the primary international gateway to Lebanon, serving both domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Public Transportation",
+          "title": "Public Transportation",
+          "description": "Beirut offers a range of public transportation options, including buses and shared taxis, making it easy to get around the city."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available in Beirut for those who prefer to explore the city and its surroundings at their own pace."
+        },
+        {
+          "img": "x",
+          "alt": "Walking and Biking",
+          "title": "Walking and Biking",
+          "description": "Exploring Beirut by walking or biking is a great way to experience the city's vibrant streets and neighborhoods."
+        }
+      ]
+    }
+  }  

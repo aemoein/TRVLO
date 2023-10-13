@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Mexico City"
+    },
+    "about": {
+      "name": "Mexico City",
+      "info_text": "Mexico City, often referred to as CDMX, is the capital and largest city of Mexico. It is a dynamic and culturally rich metropolis known for its historic architecture, vibrant street life, and a culinary scene that's recognized worldwide. With a history dating back to the Aztec civilization, the city is a blend of tradition and modernity. Visitors can explore ancient ruins, colonial-era buildings, and contemporary art galleries while enjoying delicious Mexican cuisine and diverse neighborhoods.",
+      "facts_text": "<strong>Population:</strong> Approximately 21.9 million (metropolitan area)<br><strong>State:</strong> Mexico City<br><strong>Time Zone:</strong> Central Time Zone (UTC-06:00)<br><strong>Language:</strong> Spanish<br><strong>Currency:</strong> Mexican Peso (MXN)",
+      "climate_text": "Mexico City enjoys a temperate highland climate with mild, dry winters and pleasant summers. The city's elevation of 2,240 meters (7,350 feet) above sea level ensures a relatively consistent climate year-round."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Zócalo",
+          "title": "Zócalo",
+          "description": "The Zócalo is the historic main square of Mexico City and is surrounded by impressive historic buildings, including the Metropolitan Cathedral and the National Palace."
+        },
+        {
+          "img": "x",
+          "alt": "Teotihuacán",
+          "title": "Teotihuacán",
+          "description": "Teotihuacán is an ancient Mesoamerican city known for its monumental pyramids, the Pyramid of the Sun and the Pyramid of the Moon, and is a UNESCO World Heritage site."
+        },
+        {
+          "img": "x",
+          "alt": "Frida Kahlo Museum",
+          "title": "Frida Kahlo Museum",
+          "description": "The Frida Kahlo Museum, also known as the Blue House (Casa Azul), is the former home of the iconic Mexican artist and is now a museum displaying her art and personal belongings."
+        },
+        {
+          "img": "x",
+          "alt": "Chapultepec Park",
+          "title": "Chapultepec Park",
+          "description": "Chapultepec Park is one of the largest city parks in the world, featuring museums, a zoo, a castle, and beautiful green spaces for leisure and relaxation."
+        },
+        {
+          "img": "x",
+          "alt": "Xochimilco",
+          "title": "Xochimilco",
+          "description": "Xochimilco is known for its colorful canals and traditional trajineras (flat-bottomed boats). Visitors can enjoy a leisurely ride through the canals and experience local culture."
+        },
+        {
+          "img": "x",
+          "alt": "National Museum of Anthropology",
+          "title": "National Museum of Anthropology",
+          "description": "The National Museum of Anthropology is one of the most important museums in Mexico, showcasing a vast collection of pre-Columbian art and artifacts."
+        },
+        {
+          "img": "x",
+          "alt": "Palacio de Bellas Artes",
+          "title": "Palacio de Bellas Artes",
+          "description": "Palacio de Bellas Artes is a stunning cultural center with a distinctive Art Nouveau and Art Deco architectural style, hosting art exhibitions and performances."
+        },
+        {
+          "img": "x",
+          "alt": "Coyoacán",
+          "title": "Coyoacán",
+          "description": "Coyoacán is a historic neighborhood with a bohemian atmosphere, known for its cobblestone streets, markets, and the Casa Azul (Frida Kahlo Museum)."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Tacos",
+          "title": "Tacos",
+          "description": "Tacos are a beloved Mexican street food, with various fillings such as carne asada, al pastor, and carnitas, served in soft tortillas with fresh toppings."
+        },
+        {
+          "img": "x",
+          "alt": "Mole Poblano",
+          "title": "Mole Poblano",
+          "description": "Mole Poblano is a rich and flavorful sauce made from chocolate and chili peppers, often served over chicken or turkey."
+        },
+        {
+          "img": "x",
+          "alt": "Chiles en Nogada",
+          "title": "Chiles en Nogada",
+          "description": "Chiles en Nogada is a traditional Mexican dish featuring poblano peppers stuffed with a mix of meats and fruits, topped with walnut cream sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Tamales",
+          "title": "Tamales",
+          "description": "Tamales are a staple of Mexican cuisine, made from masa (corn dough) filled with various ingredients and wrapped in corn husks before steaming."
+        },
+        {
+          "img": "x",
+          "alt": "Mexican Street Corn (Elote)",
+          "title": "Mexican Street Corn (Elote)",
+          "description": "Elote is grilled corn on the cob smothered in mayonnaise, cheese, chili powder, and lime juice, creating a flavorful and savory treat."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Mexico City",
+          "title": "Four Seasons Hotel Mexico City",
+          "description": "The Four Seasons Hotel in Mexico City offers luxurious accommodations, fine dining, and a central location in the upscale Polanco district."
+        },
+        {
+          "img": "x",
+          "alt": "St. Regis Mexico City",
+          "title": "St. Regis Mexico City",
+          "description": "The St. Regis Mexico City is a sophisticated hotel with panoramic city views, elegant rooms, and exceptional service."
+        },
+        {
+          "img": "x",
+          "alt": "Condesa DF",
+          "title": "Condesa DF",
+          "description": "Condesa DF is a boutique hotel in the trendy Condesa neighborhood, featuring stylish rooms and a rooftop terrace with great views."
+        },
+        {
+          "img": "x",
+          "alt": "Gran Hotel Ciudad de Mexico",
+          "title": "Gran Hotel Ciudad de Mexico",
+          "description": "The Gran Hotel Ciudad de Mexico is a historic hotel overlooking the Zócalo, offering classic elegance and impressive interior architecture."
+        },
+        {
+          "img": "x",
+          "alt": "W Mexico City",
+          "title": "W Mexico City",
+          "description": "W Mexico City is a contemporary and trendy hotel in the upscale Polanco district, known for its vibrant design and nightlife."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Mexico City Metro",
+          "title": "Mexico City Metro",
+          "description": "The Mexico City Metro is one of the largest and busiest metro systems in the world, providing an affordable and efficient way to get around the city."
+        },
+        {
+          "img": "x",
+          "alt": "Ecobici (Bike Share)",
+          "title": "Ecobici (Bike Share)",
+          "description": "Ecobici is Mexico City's bike-sharing program, allowing visitors to rent bicycles for eco-friendly transportation within the city."
+        },
+        {
+          "img": "x",
+          "alt": "Rideshare Services",
+          "title": "Rideshare Services",
+          "description": "Rideshare services like Uber and Didi are widely available in Mexico City, offering convenient and safe transportation options."
+        },
+        {
+          "img": "x",
+          "alt": "Benito Juárez International Airport",
+          "title": "Benito Juárez International Airport",
+          "description": "Benito Juárez International Airport (MEX) is the primary airport serving Mexico City, connecting the city to domestic and international destinations."
+        }
+      ]
+    }
+  }  

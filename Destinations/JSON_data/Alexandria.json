@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Alexandria"
+    },
+    "about": {
+      "name": "Alexandria",
+      "info_text": "Alexandria, known as 'The Pearl of the Mediterranean,' is a historic and vibrant city located on the northern coast of Egypt. It boasts a rich blend of ancient history, Mediterranean beauty, and modern charm. With its stunning coastal views, archaeological wonders, and a lively cultural scene, Alexandria is a captivating destination. Visitors can explore its ancient ruins, enjoy the beautiful beaches, and savor the city's unique blend of Egyptian and Mediterranean cuisine.",
+      "facts_text": "<strong>Population:</strong> Approximately 5.2 million<br><strong>Governorate:</strong> Alexandria<br><strong>Time Zone:</strong> Eastern European Time (UTC+02:00)<br><strong>Language:</strong> Arabic<br><strong>Currency:</strong> Egyptian Pound (EGP)",
+      "climate_text": "Alexandria has a Mediterranean climate with hot, dry summers and mild, wet winters. The city enjoys a pleasant sea breeze, making it an attractive destination year-round."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Qaitbay Citadel",
+          "title": "Qaitbay Citadel",
+          "description": "The Qaitbay Citadel is a historic fortress located on the Mediterranean coast. It offers panoramic views of the sea and houses a maritime museum, providing insight into Alexandria's maritime history."
+        },
+        {
+          "img": "x",
+          "alt": "Bibliotheca Alexandrina",
+          "title": "Bibliotheca Alexandrina",
+          "description": "The Bibliotheca Alexandrina is a modern library and cultural center that pays homage to the ancient Library of Alexandria. It hosts a vast collection of books, exhibitions, and cultural events."
+        },
+        {
+          "img": "x",
+          "alt": "Montaza Palace",
+          "title": "Montaza Palace",
+          "description": "Montaza Palace is a royal palace complex surrounded by lush gardens. It offers a glimpse into the history of Egypt's monarchy and is a picturesque spot for a leisurely stroll."
+        },
+        {
+          "img": "x",
+          "alt": "Pompey's Pillar",
+          "title": "Pompey's Pillar",
+          "description": "Pompey's Pillar is a monolithic column rising from the ruins of the ancient Serapeum temple. It's a significant historical landmark in Alexandria."
+        },
+        {
+          "img": "x",
+          "alt": "Stanley Bridge",
+          "title": "Stanley Bridge",
+          "description": "The Stanley Bridge is a picturesque bridge connecting the city to the Montaza district. It offers scenic views and is a popular spot for a relaxing walk."
+        },
+        {
+          "img": "x",
+          "alt": "Alexandria Corniche",
+          "title": "Alexandria Corniche",
+          "description": "The Alexandria Corniche is a scenic promenade along the Mediterranean coast, where visitors can enjoy sea views, dine at waterfront restaurants, and soak in the city's atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Catacombs of Kom El Shoqafa",
+          "title": "Catacombs of Kom El Shoqafa",
+          "description": "The Catacombs of Kom El Shoqafa are an underground burial site dating back to the Roman period. They feature a fascinating mix of Egyptian, Greek, and Roman art and architecture."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Koshary",
+          "title": "Koshary",
+          "description": "Koshary is a traditional Egyptian dish made with pasta, rice, lentils, and a flavorful tomato sauce, topped with fried onions and chickpeas."
+        },
+        {
+          "img": "x",
+          "alt": "Seafood Platter",
+          "title": "Seafood Platter",
+          "description": "Given its coastal location, Alexandria is renowned for its fresh seafood. Visitors can savor a delightful seafood platter featuring grilled or fried fish, shrimp, and more."
+        },
+        {
+          "img": "x",
+          "alt": "Ful Medames",
+          "title": "Ful Medames",
+          "description": "Ful Medames is a classic Egyptian breakfast dish made from slow-cooked fava beans, typically seasoned with olive oil, garlic, and spices."
+        },
+        {
+          "img": "x",
+          "alt": "Egyptian Shawarma",
+          "title": "Egyptian Shawarma",
+          "description": "Egyptian shawarma features marinated and roasted meat, often served in flatbread with tahini sauce, vegetables, and pickles."
+        },
+        {
+          "img": "x",
+          "alt": "Baklava",
+          "title": "Baklava",
+          "description": "Baklava is a sweet and flaky pastry made of layers of filo dough, nuts, and honey or syrup, creating a delightful dessert."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Alexandria",
+          "title": "Four Seasons Hotel Alexandria",
+          "description": "The Four Seasons Hotel offers luxury and elegance with views of the Mediterranean, a private beach, and exceptional amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Helnan Palestine Hotel",
+          "title": "Helnan Palestine Hotel",
+          "description": "The Helnan Palestine Hotel is a historic and grand hotel overlooking the Montaza Royal Gardens and the Mediterranean Sea."
+        },
+        {
+          "img": "x",
+          "alt": "Hilton Alexandria Corniche",
+          "title": "Hilton Alexandria Corniche",
+          "description": "The Hilton on the Corniche offers modern comfort and stunning sea views, making it a great choice for travelers."
+        },
+        {
+          "img": "x",
+          "alt": "Steigenberger Cecil Hotel",
+          "title": "Steigenberger Cecil Hotel",
+          "description": "The Steigenberger Cecil is a historic hotel with a prime location, combining old-world charm with modern amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Tolip Hotel Alexandria",
+          "title": "Tolip Hotel Alexandria",
+          "description": "Tolip Hotel provides a contemporary and comfortable stay, close to popular attractions and the Mediterranean coast."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Alexandria Tram",
+          "title": "Alexandria Tram",
+          "description": "The Alexandria Tram is a convenient way to explore the city, with routes connecting various districts and landmarks."
+        },
+        {
+          "img": "x",
+          "alt": "Alexandria Bus Services",
+          "title": "Alexandria Bus Services",
+          "description": "Public buses are available for transportation within the city, offering an affordable way to get around."
+        },
+        {
+          "img": "x",
+          "alt": "Alexandria Port",
+          "title": "Alexandria Port",
+          "description": "The Port of Alexandria is a major seaport and a gateway for maritime transportation to and from the city."
+        },
+        {
+          "img": "x",
+          "alt": "Borg El Arab International Airport",
+          "title": "Borg El Arab International Airport",
+          "description": "Borg El Arab International Airport (HBE) is the primary airport serving Alexandria, connecting it to domestic and international destinations."
+        }
+      ]
+    }
+  }  

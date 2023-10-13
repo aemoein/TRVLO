@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Sharm El-Sheikh"
+    },
+    "about": {
+      "name": "Sharm El-Sheikh",
+      "info_text": "Sharm El-Sheikh is a stunning coastal resort town located on the southern tip of the Sinai Peninsula in Egypt. It is renowned for its crystal-clear waters, vibrant coral reefs, and abundant marine life, making it a paradise for divers and snorkelers. This Red Sea destination also offers a range of water sports, luxury resorts, and a lively nightlife scene. Sharm El-Sheikh is a gateway to exploring the natural wonders of the Sinai Peninsula, including the majestic Mount Sinai and the historic St. Catherine's Monastery.",
+      "facts_text": "<strong>Population:</strong> Approximately 42,000<br><strong>Governorate:</strong> South Sinai<br><strong>Language:</strong> Arabic, English is widely spoken<br><strong>Currency:</strong> Egyptian Pound (EGP)",
+      "climate_text": "Sharm El-Sheikh enjoys a desert climate with hot summers and mild winters. The Red Sea provides warm and calm waters, ideal for year-round diving and water activities."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Ras Mohammed National Park",
+          "title": "Ras Mohammed National Park",
+          "description": "Ras Mohammed is a protected marine park famous for its vibrant coral reefs and diverse marine species. It's a top spot for snorkeling and diving."
+        },
+        {
+          "img": "x",
+          "alt": "Naama Bay",
+          "title": "Naama Bay",
+          "description": "Naama Bay is the heart of Sharm El-Sheikh's nightlife and shopping scene, with a variety of restaurants, bars, and shops."
+        },
+        {
+          "img": "x",
+          "alt": "Tiran Island",
+          "title": "Tiran Island",
+          "description": "Tiran Island offers excellent diving opportunities, with coral gardens and shipwrecks, and is accessible by boat trips from Sharm El-Sheikh."
+        },
+        {
+          "img": "x",
+          "alt": "Old Market (Souk)",
+          "title": "Old Market (Souk)",
+          "description": "The Old Market is a bustling traditional market where you can shop for souvenirs, spices, clothing, and local handicrafts."
+        },
+        {
+          "img": "x",
+          "alt": "Mount Sinai",
+          "title": "Mount Sinai",
+          "description": "Mount Sinai, also known as Jebel Musa, is a sacred mountain with a historic significance. It's a popular trekking destination to watch the sunrise."
+        },
+        {
+          "img": "x",
+          "alt": "St. Catherine's Monastery",
+          "title": "St. Catherine's Monastery",
+          "description": "St. Catherine's Monastery is one of the world's oldest continuously operating Christian monasteries and a UNESCO World Heritage Site."
+        },
+        {
+          "img": "x",
+          "alt": "Dolphina Park",
+          "title": "Dolphina Park",
+          "description": "Dolphina Park offers the opportunity to swim with dolphins and enjoy live dolphin shows and other marine life interactions."
+        },
+        {
+          "img": "x",
+          "alt": "Nabq Protected Area",
+          "title": "Nabq Protected Area",
+          "description": "The Nabq Protected Area is a natural reserve known for its mangroves, birdwatching, and unique desert flora and fauna."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Kebabs",
+          "title": "Kebabs",
+          "description": "Enjoy delicious kebabs, including shish kebabs and kofta, at local restaurants and street food stalls."
+        },
+        {
+          "img": "x",
+          "alt": "Egyptian Mezze",
+          "title": "Egyptian Mezze",
+          "description": "Indulge in an array of Egyptian mezze dishes, such as falafel, hummus, and stuffed grape leaves."
+        },
+        {
+          "img": "x",
+          "alt": "Seafood",
+          "title": "Seafood",
+          "description": "Being a coastal town, Sharm El-Sheikh offers a wide variety of fresh seafood dishes, from grilled fish to shrimp specialties."
+        },
+        {
+          "img": "x",
+          "alt": "Koshari",
+          "title": "Koshari",
+          "description": "Try Koshari, a traditional Egyptian dish made with rice, lentils, pasta, and topped with spicy tomato sauce and crispy fried onions."
+        },
+        {
+          "img": "x",
+          "alt": "Fresh Fruit Juices",
+          "title": "Fresh Fruit Juices",
+          "description": "Quench your thirst with fresh fruit juices, including mango, guava, and pomegranate, available at local juice stands."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Four Seasons Resort Sharm El Sheikh",
+          "title": "Four Seasons Resort Sharm El Sheikh",
+          "description": "The Four Seasons Resort offers luxurious accommodations, private beaches, and stunning Red Sea views."
+        },
+        {
+          "img": "x",
+          "alt": "Rixos Premium Seagate",
+          "title": "Rixos Premium Seagate",
+          "description": "Rixos Premium Seagate is an all-inclusive resort with multiple pools, water slides, and a private beach area."
+        },
+        {
+          "img": "x",
+          "alt": "Jaz Mirabel Beach",
+          "title": "Jaz Mirabel Beach",
+          "description": "Jaz Mirabel Beach is a family-friendly resort with numerous restaurants, water sports, and entertainment options."
+        },
+        {
+          "img": "x",
+          "alt": "Reef Oasis Blue Bay Resort",
+          "title": "Reef Oasis Blue Bay Resort",
+          "description": "Reef Oasis Blue Bay Resort offers an array of amenities, including a water park and an on-site dive center."
+        },
+        {
+          "img": "x",
+          "alt": "Concorde El Salam Hotel Sharm El Sheikh",
+          "title": "Concorde El Salam Hotel Sharm El Sheikh",
+          "description": "The Concorde El Salam Hotel features a private beach, lush gardens, and multiple dining options."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Sharm El-Sheikh International Airport",
+          "title": "Sharm El-Sheikh International Airport",
+          "description": "Sharm El-Sheikh International Airport (SSH) is the primary gateway to the city, serving domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are readily available in Sharm El-Sheikh and can be used for local transportation and airport transfers."
+        },
+        {
+          "img": "x",
+          "alt": "Shuttle Services",
+          "title": "Shuttle Services",
+          "description": "Many hotels offer shuttle services to and from the airport, making it convenient for travelers."
+        },
+        {
+          "img": "x",
+          "alt": "Public Buses",
+          "title": "Public Buses",
+          "description": "Public buses provide an economical way to get around the city and visit nearby attractions."
+        }
+      ]
+    }
+  }  

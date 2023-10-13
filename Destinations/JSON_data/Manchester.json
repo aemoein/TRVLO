@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Manchester"
+    },
+    "about": {
+      "name": "Manchester",
+      "info_text": "Manchester is a dynamic and diverse city located in the northwest of England. It is known for its rich industrial heritage, world-class music scene, and thriving cultural and sporting life. The city offers a blend of history and innovation, with impressive architecture, museums, and galleries alongside modern developments. With a warm and friendly atmosphere, Manchester welcomes visitors with open arms and provides a unique and vibrant urban experience.",
+      "facts_text": "<strong>Population:</strong> Approximately 547,627<br><strong>County:</strong> Greater Manchester<br><strong>Time Zone:</strong> Greenwich Mean Time (UTC+00:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> British Pound (GBP)",
+      "climate_text": "Manchester has a temperate maritime climate with cool summers and mild winters. Rainfall is evenly distributed throughout the year, so it's a good idea to be prepared for occasional showers."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Old Trafford",
+          "title": "Old Trafford",
+          "description": "Old Trafford is the legendary stadium of Manchester United Football Club and a must-visit for football enthusiasts. Take a stadium tour and explore the club's rich history."
+        },
+        {
+          "img": "x",
+          "alt": "The John Rylands Library",
+          "title": "The John Rylands Library",
+          "description": "The John Rylands Library is a stunning neo-Gothic library that houses an extensive collection of rare books, manuscripts, and archives. It's a paradise for book lovers."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Town Hall",
+          "title": "Manchester Town Hall",
+          "description": "Manchester Town Hall is an architectural masterpiece, showcasing Victorian Gothic design. Visitors can admire its impressive clock tower and stunning interiors."
+        },
+        {
+          "img": "x",
+          "alt": "The Lowry",
+          "title": "The Lowry",
+          "description": "The Lowry is an arts and entertainment complex that hosts theaters, galleries, and a range of performances, from drama to ballet."
+        },
+        {
+          "img": "x",
+          "alt": "Science and Industry Museum",
+          "title": "Science and Industry Museum",
+          "description": "This museum celebrates Manchester's industrial heritage and technological innovations. It's an engaging and educational experience for all ages."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Art Gallery",
+          "title": "Manchester Art Gallery",
+          "description": "The Manchester Art Gallery features a diverse collection of art, from pre-Raphaelite masterpieces to contemporary works."
+        },
+        {
+          "img": "x",
+          "alt": "Chinatown",
+          "title": "Chinatown",
+          "description": "Manchester's Chinatown is a bustling hub of restaurants, shops, and cultural events. It's a great place to savor Chinese cuisine and experience traditional festivals."
+        },
+        {
+          "img": "x",
+          "alt": "Castlefield Urban Heritage Park",
+          "title": "Castlefield Urban Heritage Park",
+          "description": "Castlefield is a historic area with canals, Roman ruins, and well-preserved industrial architecture, offering a glimpse into Manchester's past."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Full English Breakfast",
+          "title": "Full English Breakfast",
+          "description": "A hearty breakfast that includes eggs, bacon, sausage, black pudding, beans, tomatoes, and toast. It's a traditional British morning meal."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Tart",
+          "title": "Manchester Tart",
+          "description": "A classic dessert featuring a shortcrust pastry base, raspberry jam, custard, and a topping of desiccated coconut. It's a local favorite."
+        },
+        {
+          "img": "x",
+          "alt": "Bury Black Pudding",
+          "title": "Bury Black Pudding",
+          "description": "Black pudding is a type of blood sausage, and the Bury variety is a celebrated regional delicacy. It's often served with breakfast."
+        },
+        {
+          "img": "x",
+          "alt": "Lancashire Hotpot",
+          "title": "Lancashire Hotpot",
+          "description": "A comforting dish made with lamb or beef, potatoes, onions, and a savory gravy. It's slow-cooked to perfection."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Egg",
+          "title": "Manchester Egg",
+          "description": "A unique twist on the Scotch egg, the Manchester Egg features a pickled egg wrapped in sausage meat and breadcrumbs."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Midland Hotel",
+          "title": "The Midland Hotel",
+          "description": "The Midland is a historic and elegant hotel in the heart of Manchester, known for its luxury accommodations and exquisite dining."
+        },
+        {
+          "img": "x",
+          "alt": "Radisson Blu Edwardian Manchester",
+          "title": "Radisson Blu Edwardian Manchester",
+          "description": "This stylish hotel offers contemporary rooms and a prime location near major attractions and shopping areas."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Gotham",
+          "title": "Hotel Gotham",
+          "description": "Hotel Gotham is a boutique hotel with a distinctive Art Deco design, providing a unique and upscale experience in the city."
+        },
+        {
+          "img": "x",
+          "alt": "King Street Townhouse",
+          "title": "King Street Townhouse",
+          "description": "A charming boutique hotel with a rooftop terrace, offering panoramic views of Manchester's skyline and excellent hospitality."
+        },
+        {
+          "img": "x",
+          "alt": "INNSiDE by Meliá Manchester",
+          "title": "INNSiDE by Meliá Manchester",
+          "description": "A modern and trendy hotel with stylish rooms and a welcoming atmosphere, perfect for business and leisure travelers."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Manchester Metrolink",
+          "title": "Manchester Metrolink",
+          "description": "The Metrolink is Manchester's tram system, offering efficient public transportation throughout the city and to surrounding areas."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Piccadilly Station",
+          "title": "Manchester Piccadilly Station",
+          "description": "Manchester Piccadilly is the main railway station in the city, connecting Manchester to other major cities in the UK."
+        },
+        {
+          "img": "x",
+          "alt": "Manchester Airport",
+          "title": "Manchester Airport",
+          "description": "Manchester Airport is the largest international airport in the region, providing air travel options to various destinations worldwide."
+        },
+        {
+          "img": "x",
+          "alt": "Bus Services",
+          "title": "Bus Services",
+          "description": "Manchester has an extensive bus network, making it easy to navigate the city and its suburbs by bus."
+        }
+      ]
+    }
+  }  

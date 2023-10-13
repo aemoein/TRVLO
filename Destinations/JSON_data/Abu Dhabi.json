@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Abu Dhabi"
+    },
+    "about": {
+      "name": "Abu Dhabi",
+      "info_text": "Abu Dhabi, the capital of the United Arab Emirates, is a modern and culturally rich city located on the Arabian Gulf. It is known for its impressive skyline, stunning architecture, and a blend of tradition and innovation. With its vast deserts, pristine beaches, and a vibrant cultural scene, Abu Dhabi offers a diverse array of experiences for residents and visitors. The city is also home to world-class museums, luxurious hotels, and a thriving food scene.",
+      "facts_text": "<strong>Population:</strong> Approximately 1.6 million<br><strong>Emirate:</strong> Abu Dhabi<br><strong>Time Zone:</strong> Gulf Standard Time (UTC+04:00)<br><strong>Language:</strong> Arabic, English<br><strong>Currency:</strong> United Arab Emirates Dirham (AED)",
+      "climate_text": "Abu Dhabi has a desert climate with hot and dry summers and mild winters. It experiences minimal rainfall and plenty of sunshine throughout the year, making it an ideal destination for sun-seekers."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Sheikh Zayed Grand Mosque",
+          "title": "Sheikh Zayed Grand Mosque",
+          "description": "The Sheikh Zayed Grand Mosque is one of the world's largest and most magnificent mosques, known for its stunning architecture and intricate design."
+        },
+        {
+          "img": "x",
+          "alt": "Louvre Abu Dhabi",
+          "title": "Louvre Abu Dhabi",
+          "description": "Louvre Abu Dhabi is a renowned art and civilization museum, featuring a diverse collection of art and artifacts from around the world."
+        },
+        {
+          "img": "x",
+          "alt": "Emirates Palace",
+          "title": "Emirates Palace",
+          "description": "Emirates Palace is a luxurious hotel and a cultural landmark, known for its opulent design and beautiful beachfront location."
+        },
+        {
+          "img": "x",
+          "alt": "Ferrari World Abu Dhabi",
+          "title": "Ferrari World Abu Dhabi",
+          "description": "Ferrari World is an indoor amusement park that houses the world's fastest roller coaster and various Ferrari-themed attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Qasr Al Watan",
+          "title": "Qasr Al Watan",
+          "description": "Qasr Al Watan is the Presidential Palace, known for its stunning architecture and the opportunity to explore its grand halls and gardens."
+        },
+        {
+          "img": "x",
+          "alt": "Corniche Beach",
+          "title": "Corniche Beach",
+          "description": "The Corniche is a beautiful waterfront area with a well-maintained beach, parks, and a lovely promenade for leisurely walks."
+        },
+        {
+          "img": "x",
+          "alt": "Yas Island",
+          "title": "Yas Island",
+          "description": "Yas Island is an entertainment hub with attractions like Yas Waterworld, Yas Marina Circuit, and Yas Mall for shopping and fun."
+        },
+        {
+          "img": "x",
+          "alt": "Heritage Village",
+          "title": "Heritage Village",
+          "description": "The Heritage Village is a cultural attraction that offers insights into the history and traditions of the United Arab Emirates."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Shawarma",
+          "title": "Shawarma",
+          "description": "Shawarma is a popular Middle Eastern street food made with roasted meat, typically served in pita bread with vegetables and tahini sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Biryani",
+          "title": "Biryani",
+          "description": "Biryani is a flavorful and aromatic rice dish cooked with spices, herbs, and your choice of meat or vegetables."
+        },
+        {
+          "img": "x",
+          "alt": "Hummus",
+          "title": "Hummus",
+          "description": "Hummus is a creamy dip made from chickpeas, tahini, olive oil, and various seasonings, often served with pita bread."
+        },
+        {
+          "img": "x",
+          "alt": "Falafel",
+          "title": "Falafel",
+          "description": "Falafel is a popular vegetarian dish made from deep-fried balls or patties of ground chickpeas or fava beans, often served in pita bread."
+        },
+        {
+          "img": "x",
+          "alt": "Mandi",
+          "title": "Mandi",
+          "description": "Mandi is a traditional Arabic rice and meat dish cooked with a blend of spices, often served with grilled chicken or lamb."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The St. Regis Abu Dhabi",
+          "title": "The St. Regis Abu Dhabi",
+          "description": "The St. Regis offers luxurious accommodations, stunning views of the Arabian Gulf, and a signature butler service."
+        },
+        {
+          "img": "x",
+          "alt": "Emirates Palace",
+          "title": "Emirates Palace",
+          "description": "Emirates Palace is not just a hotel but an iconic landmark, providing opulent rooms, private beaches, and top-tier dining."
+        },
+        {
+          "img": "x",
+          "alt": "Yas Hotel Abu Dhabi",
+          "title": "Yas Hotel Abu Dhabi",
+          "description": "Yas Hotel is a contemporary and unique hotel located on Yas Island, offering marina views and access to attractions like Yas Waterworld and Ferrari World."
+        },
+        {
+          "img": "x",
+          "alt": "Shangri-La Hotel, Qaryat Al Beri, Abu Dhabi",
+          "title": "Shangri-La Hotel, Qaryat Al Beri, Abu Dhabi",
+          "description": "Shangri-La is a luxury resort located along the Grand Canal, featuring traditional Arabian architecture and world-class facilities."
+        },
+        {
+          "img": "x",
+          "alt": "Khalidiya Palace Rayhaan by Rotana",
+          "title": "Khalidiya Palace Rayhaan by Rotana",
+          "description": "Khalidiya Palace offers a beachfront setting, well-appointed rooms, and a range of dining options to suit various tastes."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Abu Dhabi Metro",
+          "title": "Abu Dhabi Metro",
+          "description": "The upcoming Abu Dhabi Metro is set to provide a convenient and modern public transportation system within the city."
+        },
+        {
+          "img": "x",
+          "alt": "Taxis",
+          "title": "Taxis",
+          "description": "Taxis are a common mode of transportation in Abu Dhabi, with a fleet of air-conditioned vehicles readily available."
+        },
+        {
+          "img": "x",
+          "alt": "Abu Dhabi International Airport",
+          "title": "Abu Dhabi International Airport",
+          "description": "Abu Dhabi International Airport (AUH) is the primary airport serving the city and offers a range of international and domestic flights."
+        }
+      ]
+    }
+  }  

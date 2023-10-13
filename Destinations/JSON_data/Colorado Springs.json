@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Colorado Springs"
+    },
+    "about": {
+      "name": "Colorado Springs",
+      "info_text": "Colorado Springs is a vibrant city located in the state of Colorado, known for its stunning natural beauty and outdoor recreational opportunities. Nestled at the base of Pikes Peak and the Rocky Mountains, the city offers a wide range of activities, from hiking and rock climbing to cultural attractions and a thriving downtown scene. With its combination of natural wonders and urban amenities, Colorado Springs is a destination that caters to adventurers, nature lovers, and art enthusiasts alike.",
+      "facts_text": "<strong>Population:</strong> Approximately 472,688<br><strong>State:</strong> Colorado<br><strong>Time Zone:</strong> Mountain Time Zone (UTC-07:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Colorado Springs has a high-altitude, semi-arid climate with four distinct seasons. Summers are warm and dry, while winters bring snowfall and cold temperatures, making it a popular destination for outdoor winter sports."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Garden of the Gods",
+          "title": "Garden of the Gods",
+          "description": "Garden of the Gods is a mesmerizing public park with unique red rock formations, offering hiking, rock climbing, and breathtaking views of the surrounding landscape."
+        },
+        {
+          "img": "x",
+          "alt": "Pikes Peak",
+          "title": "Pikes Peak",
+          "description": "Pikes Peak, often referred to as America's Mountain, is one of Colorado's 14ers. Visitors can drive or hike to the summit for panoramic views at 14,115 feet (4,302 meters) above sea level."
+        },
+        {
+          "img": "x",
+          "alt": "Cheyenne Mountain Zoo",
+          "title": "Cheyenne Mountain Zoo",
+          "description": "The Cheyenne Mountain Zoo is America's only mountain zoo, home to a wide variety of animals and offering an interactive and educational experience for visitors of all ages."
+        },
+        {
+          "img": "x",
+          "alt": "United States Air Force Academy",
+          "title": "United States Air Force Academy",
+          "description": "The U.S. Air Force Academy is a prestigious institution set against the backdrop of the Rocky Mountains, featuring a chapel, visitor center, and opportunities to learn about military history and service."
+        },
+        {
+          "img": "x",
+          "alt": "Olympic Training Center",
+          "title": "Olympic Training Center",
+          "description": "The United States Olympic & Paralympic Training Center in Colorado Springs is a hub for athletes preparing for international competitions. Guided tours provide insights into the world of Olympic training."
+        },
+        {
+          "img": "x",
+          "alt": "Colorado Springs Fine Arts Center",
+          "title": "Colorado Springs Fine Arts Center",
+          "description": "The Colorado Springs Fine Arts Center is a cultural gem, featuring a museum, theater, and art galleries that showcase a diverse collection of visual and performing arts."
+        },
+        {
+          "img": "x",
+          "alt": "Manitou Springs",
+          "title": "Manitou Springs",
+          "description": "Manitou Springs is a charming nearby town known for its mineral springs, unique shops, and vibrant arts community."
+        },
+        {
+          "img": "x",
+          "alt": "Seven Falls",
+          "title": "Seven Falls",
+          "description": "Seven Falls is a series of cascading waterfalls surrounded by lush canyon walls, accessible by a short hike or a scenic elevator ride."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Green Chile",
+          "title": "Green Chile",
+          "description": "Green chile is a spicy regional specialty, often served as a topping for burritos, enchiladas, and other Southwestern dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Rocky Mountain Oysters",
+          "title": "Rocky Mountain Oysters",
+          "description": "Rocky Mountain oysters, despite the name, are not seafood but rather deep-fried bull testicles, considered a delicacy by some."
+        },
+        {
+          "img": "x",
+          "alt": "Bison Burger",
+          "title": "Bison Burger",
+          "description": "Bison burgers are a lean and flavorful alternative to traditional beef burgers, often found in Colorado Springs restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Colorado Craft Beer",
+          "title": "Colorado Craft Beer",
+          "description": "Colorado is renowned for its craft beer scene, with numerous local breweries offering a wide selection of beers to enjoy."
+        },
+        {
+          "img": "x",
+          "alt": "Green Chili Cheese Fries",
+          "title": "Green Chili Cheese Fries",
+          "description": "Green chili cheese fries are a popular and indulgent dish, featuring crispy fries smothered in green chile and melted cheese."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Broadmoor",
+          "title": "The Broadmoor",
+          "description": "The Broadmoor is a luxurious resort with a rich history, offering elegant accommodations, golf courses, and a range of outdoor activities."
+        },
+        {
+          "img": "x",
+          "alt": "Garden of the Gods Resort and Club",
+          "title": "Garden of the Gods Resort and Club",
+          "description": "The Garden of the Gods Resort and Club offers stunning views of the red rock formations and top-notch amenities, including a spa and fine dining."
+        },
+        {
+          "img": "x",
+          "alt": "The Antlers, A Wyndham Hotel",
+          "title": "The Antlers, A Wyndham Hotel",
+          "description": "The Antlers is a historic downtown hotel known for its central location, comfortable rooms, and proximity to attractions."
+        },
+        {
+          "img": "x",
+          "alt": "The Mining Exchange, a Wyndham Grand Hotel & Spa",
+          "title": "The Mining Exchange, a Wyndham Grand Hotel & Spa",
+          "description": "This boutique hotel offers a blend of modern comfort and historical charm, with a spa, dining options, and easy access to downtown."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Elegante Conference & Event Center",
+          "title": "Hotel Elegante Conference & Event Center",
+          "description": "Hotel Elegante is a versatile venue with comfortable rooms, event facilities, and dining options, suitable for both leisure and business travelers."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Colorado Springs Airport",
+          "title": "Colorado Springs Airport",
+          "description": "Colorado Springs Airport (COS) provides domestic and limited international flight options, conveniently located near the city."
+        },
+        {
+          "img": "x",
+          "alt": "Mountain Metropolitan Transit",
+          "title": "Mountain Metropolitan Transit",
+          "description": "The local bus system, Mountain Metropolitan Transit, offers public transportation services in and around Colorado Springs."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available at the airport and throughout the city, providing flexibility for exploring Colorado Springs and its surroundings."
+        },
+        {
+          "img": "x",
+          "alt": "Uber and Lyft",
+          "title": "Uber and Lyft",
+          "description": "Ride-sharing services like Uber and Lyft operate in Colorado Springs, offering convenient transportation options for travelers."
+        }
+      ]
+    }
+  }  

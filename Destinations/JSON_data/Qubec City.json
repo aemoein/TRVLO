@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Quebec City"
+    },
+    "about": {
+      "name": "Quebec City",
+      "info_text": "Quebec City, often referred to as the 'Europe of North America,' is a charming and historic city in the Canadian province of Quebec. It is known for its well-preserved old town, stunning architecture, and a rich cultural heritage. Quebec City is a UNESCO World Heritage site and offers a unique blend of Old World charm and modern Canadian culture. Visitors can explore its cobblestone streets, enjoy the vibrant arts scene, and savor delicious French-inspired cuisine.",
+      "facts_text": "<strong>Population:</strong> Approximately 531,000<br><strong>Province:</strong> Quebec<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> French, English<br><strong>Currency:</strong> Canadian dollar (CAD)",
+      "climate_text": "Quebec City experiences four distinct seasons, with cold winters and warm summers. It's known for its picturesque snow-covered landscapes in the winter and colorful foliage in the fall, making it a year-round destination."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Old Quebec",
+          "title": "Old Quebec",
+          "description": "Old Quebec is the heart of the city and a UNESCO World Heritage site, with historic buildings, narrow streets, and iconic landmarks like the Château Frontenac."
+        },
+        {
+          "img": "x",
+          "alt": "Château Frontenac",
+          "title": "Château Frontenac",
+          "description": "The Fairmont Le Château Frontenac is a historic and grand hotel that dominates the Quebec City skyline and offers stunning views of the St. Lawrence River."
+        },
+        {
+          "img": "x",
+          "alt": "Plains of Abraham",
+          "title": "Plains of Abraham",
+          "description": "The Plains of Abraham is a historic battlefield park where the famous Battle of Quebec took place. It's now a peaceful urban park with walking trails and cultural events."
+        },
+        {
+          "img": "x",
+          "alt": "Montmorency Falls",
+          "title": "Montmorency Falls",
+          "description": "Montmorency Falls is a breathtaking waterfall that's even taller than Niagara Falls. Visitors can take a cable car to the top or walk across the suspension bridge."
+        },
+        {
+          "img": "x",
+          "alt": "Citadelle of Quebec",
+          "title": "Citadelle of Quebec",
+          "description": "The Citadelle is an active military installation and historic site. It's home to the Royal 22nd Regiment and offers guided tours of its fortifications."
+        },
+        {
+          "img": "x",
+          "alt": "Parliament Building",
+          "title": "Parliament Building",
+          "description": "The Parliament Building is an impressive architectural gem and the seat of the National Assembly of Quebec. Guided tours provide insights into the province's government."
+        },
+        {
+          "img": "x",
+          "alt": "Museum of Civilization",
+          "title": "Museum of Civilization",
+          "description": "The Museum of Civilization showcases Quebec's history and culture through interactive exhibits, art, and artifacts. It's an enlightening experience for visitors of all ages."
+        },
+        {
+          "img": "x",
+          "alt": "Old Port of Quebec",
+          "title": "Old Port of Quebec",
+          "description": "The Old Port is a picturesque area along the St. Lawrence River, with restaurants, shops, and recreational activities. It's a popular spot for both locals and tourists."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Poutine",
+          "title": "Poutine",
+          "description": "Poutine is a Canadian delicacy, and Quebec City is a great place to enjoy it. It consists of French fries, cheese curds, and gravy, creating a delicious and satisfying dish."
+        },
+        {
+          "img": "x",
+          "alt": "Tourtière",
+          "title": "Tourtière",
+          "description": "Tourtière is a traditional French-Canadian meat pie, often enjoyed during the holiday season. It's a savory dish filled with spiced meat and encased in flaky pastry."
+        },
+        {
+          "img": "x",
+          "alt": "Maple Syrup",
+          "title": "Maple Syrup",
+          "description": "Quebec is known for its high-quality maple syrup. Visitors can taste this sweet treat on pancakes, waffles, and even in maple taffy served on snow."
+        },
+        {
+          "img": "x",
+          "alt": "Cider and Ice Cider",
+          "title": "Cider and Ice Cider",
+          "description": "Quebec produces excellent apple ciders and ice ciders. Enjoy a glass of cider at local orchards or savor the unique flavors of ice cider."
+        },
+        {
+          "img": "x",
+          "alt": "Cretons",
+          "title": "Cretons",
+          "description": "Cretons is a traditional Quebecois spread made from ground pork, onions, and spices. It's typically served on toast or crackers as a snack or breakfast."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Fairmont Le Château Frontenac",
+          "title": "Fairmont Le Château Frontenac",
+          "description": "The Fairmont Le Château Frontenac is an iconic and luxurious hotel located in the heart of Old Quebec, offering opulent rooms and impeccable service."
+        },
+        {
+          "img": "x",
+          "alt": "Hôtel Le Germain Quebec",
+          "title": "Hôtel Le Germain Quebec",
+          "description": "Hôtel Le Germain is a contemporary and stylish boutique hotel in Old Quebec, known for its elegant design and welcoming atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Auberge Saint-Antoine",
+          "title": "Auberge Saint-Antoine",
+          "description": "Auberge Saint-Antoine is a charming and historic hotel in Old Quebec, featuring comfortable accommodations and a focus on Quebec's heritage."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel 71",
+          "title": "Hotel 71",
+          "description": "Hotel 71 is a boutique hotel with a modern design and a prime location along the St. Lawrence River, providing picturesque views."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Manoir Victoria",
+          "title": "Hotel Manoir Victoria",
+          "description": "Hotel Manoir Victoria is a well-established hotel in Old Quebec, offering comfortable rooms and easy access to the city's attractions."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Quebec City Public Transit",
+          "title": "Quebec City Public Transit",
+          "description": "Quebec City has a public transit system that includes buses and ferries, providing convenient transportation within the city and its surroundings."
+        },
+        {
+          "img": "x",
+          "alt": "Quebec City Jean Lesage International Airport",
+          "title": "Quebec City Jean Lesage International Airport",
+          "description": "The Jean Lesage International Airport (YQB) serves Quebec City and offers domestic and international flights, connecting the city to various destinations."
+        },
+        {
+          "img": "x",
+          "alt": "Walking and Biking",
+          "title": "Walking and Biking",
+          "description": "Exploring Quebec City's historic district on foot is a popular choice due to its compact size. Biking is also a great way to see the city's sights."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental services are available for those who want to explore the greater Quebec City region and its scenic surroundings at their own pace."
+        }
+      ]
+    }
+  }  

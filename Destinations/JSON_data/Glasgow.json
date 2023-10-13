@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Glasgow"
+    },
+    "about": {
+      "name": "Glasgow",
+      "info_text": "Glasgow, the largest city in Scotland, is a dynamic and culturally rich destination known for its vibrant arts scene, historic architecture, and friendly locals. Located on the River Clyde, the city boasts a blend of the traditional and the modern, making it a diverse and exciting place to explore. Glasgow offers a wide range of attractions, from world-class museums and galleries to live music venues, and it's a gateway to the beautiful Scottish Highlands.",
+      "facts_text": "<strong>Population:</strong> Approximately 600,000<br><strong>Council Area:</strong> Glasgow City<br><strong>Time Zone:</strong> Greenwich Mean Time (GMT), UTC+0<br><strong>Language:</strong> English, Scots Gaelic<br><strong>Currency:</strong> British Pound (GBP)",
+      "climate_text": "Glasgow experiences a temperate maritime climate with mild summers and cool winters. Rainfall is common throughout the year, so it's a good idea to carry an umbrella when exploring the city."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Kelvingrove Art Gallery and Museum",
+          "title": "Kelvingrove Art Gallery and Museum",
+          "description": "Kelvingrove is one of Scotland's most popular attractions, featuring a diverse collection of art, artifacts, and natural history exhibits. The stunning architecture and free admission make it a must-visit."
+        },
+        {
+          "img": "x",
+          "alt": "Glasgow Cathedral",
+          "title": "Glasgow Cathedral",
+          "description": "Glasgow Cathedral, also known as St. Mungo's Cathedral, is a historic and architecturally significant medieval cathedral. It's a testament to Glasgow's rich history."
+        },
+        {
+          "img": "x",
+          "alt": "The Riverside Museum",
+          "title": "The Riverside Museum",
+          "description": "The Riverside Museum is a fascinating transport museum located on the banks of the River Clyde. It houses an extensive collection of vehicles and interactive displays."
+        },
+        {
+          "img": "x",
+          "alt": "The SSE Hydro",
+          "title": "The SSE Hydro",
+          "description": "The SSE Hydro is a modern entertainment arena that hosts a wide range of concerts, sporting events, and shows. It's a hub for live entertainment in the city."
+        },
+        {
+          "img": "x",
+          "alt": "Glasgow Science Centre",
+          "title": "Glasgow Science Centre",
+          "description": "The Glasgow Science Centre is an interactive science museum with hands-on exhibits, a planetarium, and an IMAX cinema, making it a great destination for all ages."
+        },
+        {
+          "img": "x",
+          "alt": "The Necropolis",
+          "title": "The Necropolis",
+          "description": "The Necropolis is a Victorian cemetery located on a hill overlooking the city. It's known for its intricate gravestones and provides panoramic views of Glasgow."
+        },
+        {
+          "img": "x",
+          "alt": "Glasgow Green",
+          "title": "Glasgow Green",
+          "description": "Glasgow Green is a large public park in the heart of the city, offering open green spaces, historical monuments, and a place for relaxation and recreation."
+        },
+        {
+          "img": "x",
+          "alt": "The Lighthouse",
+          "title": "The Lighthouse",
+          "description": "The Lighthouse is Scotland's Centre for Design and Architecture, providing exhibitions and insights into design, art, and architecture."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Haggis",
+          "title": "Haggis",
+          "description": "Haggis is a traditional Scottish dish made from minced sheep's heart, liver, and lungs, mixed with oatmeal and spices. It's often served with neeps and tatties (turnips and potatoes) and accompanied by a dram of Scotch whisky."
+        },
+        {
+          "img": "x",
+          "alt": "Scotch Whisky",
+          "title": "Scotch Whisky",
+          "description": "Scotland is famous for its Scotch whisky, and Glasgow has a variety of whisky bars and distillery tours where you can savor the finest Scotch whiskies."
+        },
+        {
+          "img": "x",
+          "alt": "Scottish Salmon",
+          "title": "Scottish Salmon",
+          "description": "Scottish salmon is renowned for its high quality and taste. You can enjoy delicious salmon dishes in Glasgow's restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Square Sausage (Lorne Sausage)",
+          "title": "Square Sausage (Lorne Sausage)",
+          "description": "Square sausage, also known as Lorne sausage, is a traditional Scottish breakfast item, often served in a morning roll or with a full Scottish breakfast."
+        },
+        {
+          "img": "x",
+          "alt": "Cranachan",
+          "title": "Cranachan",
+          "description": "Cranachan is a classic Scottish dessert made with layers of whipped cream, raspberries, honey, and toasted oats."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Grand Central Hotel",
+          "title": "Grand Central Hotel",
+          "description": "The Grand Central Hotel is a historic and luxurious hotel in the city center, offering elegant accommodations and dining options."
+        },
+        {
+          "img": "x",
+          "alt": "Radisson RED Glasgow",
+          "title": "Radisson RED Glasgow",
+          "description": "Radisson RED offers a modern and stylish stay with vibrant decor, comfortable rooms, and a social atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "Blythswood Square Hotel",
+          "title": "Blythswood Square Hotel",
+          "description": "Blythswood Square Hotel is a five-star luxury hotel, known for its spa, elegant rooms, and fine dining experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Malmaison Glasgow",
+          "title": "Malmaison Glasgow",
+          "description": "Malmaison Glasgow provides boutique-style rooms and a chic atmosphere, perfect for a unique and comfortable stay."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Glasgow Subway",
+          "title": "Glasgow Subway",
+          "description": "The Glasgow Subway is an efficient way to travel within the city, with a circular route that connects major areas of Glasgow."
+        },
+        {
+          "img": "x",
+          "alt": "City Buses",
+          "title": "City Buses",
+          "description": "Glasgow's extensive bus network provides convenient transportation throughout the city and its suburbs."
+        },
+        {
+          "img": "x",
+          "alt": "Scottish Central Station",
+          "title": "Scottish Central Station",
+          "description": "Glasgow Central Station is the main railway station in the city, offering connections to various destinations in Scotland and beyond."
+        },
+        {
+          "img": "x",
+          "alt": "Glasgow Airport",
+          "title": "Glasgow Airport",
+          "description": "Glasgow Airport (GLA) serves as the primary international gateway to the city, offering domestic and international flights."
+        }
+      ]
+    }
+  }  

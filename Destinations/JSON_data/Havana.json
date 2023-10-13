@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Havana"
+    },
+    "about": {
+      "name": "Havana",
+      "info_text": "Havana, the capital city of Cuba, is a place where history, culture, and vibrant life converge. Known for its stunning architecture, classic cars, and lively music and dance scenes, Havana offers a unique blend of old-world charm and modern vitality. Visitors can explore the city's historic streets, relax on beautiful beaches, and immerse themselves in the rich Cuban culture. Whether you're strolling along the Malecón, sipping on a mojito, or enjoying a traditional Cuban cigar, Havana has a unique experience for every traveler.",
+      "facts_text": "<strong>Population:</strong> Approximately 2.1 million<br><strong>Province:</strong> La Habana<br><strong>Time Zone:</strong> Cuba Standard Time (UTC-05:00)<br><strong>Language:</strong> Spanish<br><strong>Currency:</strong> Cuban Peso (CUP) and Cuban Convertible Peso (CUC)",
+      "climate_text": "Havana has a tropical climate with distinct wet and dry seasons. The city enjoys warm and humid weather, with temperatures ranging from 20°C (68°F) in winter to 32°C (90°F) in summer, making it a year-round destination."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Old Havana (Habana Vieja)",
+          "title": "Old Havana (Habana Vieja)",
+          "description": "Old Havana is a UNESCO World Heritage site, featuring narrow cobblestone streets, colorful colonial buildings, and historic plazas. It's a must-visit for a glimpse into Havana's past."
+        },
+        {
+          "img": "x",
+          "alt": "El Malecón",
+          "title": "El Malecón",
+          "description": "El Malecón is a picturesque seaside promenade where locals and visitors gather to enjoy the ocean views, lively atmosphere, and beautiful sunsets."
+        },
+        {
+          "img": "x",
+          "alt": "Museo Nacional de Bellas Artes",
+          "title": "Museo Nacional de Bellas Artes",
+          "description": "The National Museum of Fine Arts houses an impressive collection of Cuban art, including paintings, sculptures, and decorative arts from the colonial era to contemporary works."
+        },
+        {
+          "img": "x",
+          "alt": "Fortaleza de San Carlos de la Cabaña",
+          "title": "Fortaleza de San Carlos de la Cabaña",
+          "description": "This historic fortress, overlooking Havana Bay, is known for its nightly cannon ceremony and offers panoramic views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "José Martí Memorial",
+          "title": "José Martí Memorial",
+          "description": "The José Martí Memorial is a prominent landmark honoring the Cuban national hero, José Martí. It includes a 358-foot tower with an observation deck providing sweeping views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Tropicana Club",
+          "title": "Tropicana Club",
+          "description": "The Tropicana Club is famous for its dazzling cabaret shows, lively music, and open-air atmosphere, making it a great place to experience Cuban nightlife."
+        },
+        {
+          "img": "x",
+          "alt": "Revolution Square (Plaza de la Revolución)",
+          "title": "Revolution Square (Plaza de la Revolución)",
+          "description": "Revolution Square is an iconic gathering place known for its towering José Martí Memorial and historical significance in Cuban history."
+        },
+        {
+          "img": "x",
+          "alt": "Coppelia Ice Cream Parlor",
+          "title": "Coppelia Ice Cream Parlor",
+          "description": "Coppelia is a legendary ice cream parlor in Havana, famous for its delicious ice cream and its role in Cuban culture and society."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Ropa Vieja",
+          "title": "Ropa Vieja",
+          "description": "Ropa Vieja is a classic Cuban dish made with shredded beef, simmered in a rich tomato-based sauce, and served with rice and black beans."
+        },
+        {
+          "img": "x",
+          "alt": "Moros y Cristianos",
+          "title": "Moros y Cristianos",
+          "description": "Moros y Cristianos is a popular Cuban dish consisting of black beans and white rice cooked together, often seasoned with spices and herbs."
+        },
+        {
+          "img": "x",
+          "alt": "Vaca Frita",
+          "title": "Vaca Frita",
+          "description": "Vaca Frita is a delicious Cuban dish made with marinated and pan-fried beef, often served with onions, lime, and plantains."
+        },
+        {
+          "img": "x",
+          "alt": "Cuban Sandwich",
+          "title": "Cuban Sandwich",
+          "description": "The Cuban sandwich is a famous Cuban street food, typically made with roast pork, ham, Swiss cheese, pickles, and mustard on Cuban bread."
+        },
+        {
+          "img": "x",
+          "alt": "Mojito",
+          "title": "Mojito",
+          "description": "The Mojito is a classic Cuban cocktail made with white rum, lime juice, mint leaves, sugar, and soda water, creating a refreshing and tangy drink."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Hotel Nacional de Cuba",
+          "title": "Hotel Nacional de Cuba",
+          "description": "The Hotel Nacional de Cuba is a historic hotel known for its grandeur and oceanfront location, with a rich history of hosting celebrities and dignitaries."
+        },
+        {
+          "img": "x",
+          "alt": "Saratoga Hotel",
+          "title": "Saratoga Hotel",
+          "description": "The Saratoga Hotel is a luxury boutique hotel in the heart of Old Havana, offering elegant rooms, a rooftop pool, and beautiful city views."
+        },
+        {
+          "img": "x",
+          "alt": "Iberostar Parque Central",
+          "title": "Iberostar Parque Central",
+          "description": "Iberostar Parque Central is a modern hotel with a central location, featuring comfortable rooms and easy access to Havana's attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Meliá Cohiba",
+          "title": "Meliá Cohiba",
+          "description": "Meliá Cohiba is a contemporary hotel with stunning views of the Malecón and the sea, offering a range of amenities for a comfortable stay."
+        },
+        {
+          "img": "x",
+          "alt": "Gran Hotel Manzana Kempinski La Habana",
+          "title": "Gran Hotel Manzana Kempinski La Habana",
+          "description": "The Gran Hotel Manzana Kempinski is a luxury hotel housed in a historic building, providing opulent accommodations and dining experiences."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "José Martí International Airport",
+          "title": "José Martí International Airport",
+          "description": "José Martí International Airport (HAV) is the main gateway to Cuba, offering domestic and international flights for travelers."
+        },
+        {
+          "img": "x",
+          "alt": "Havana Metro",
+          "title": "Havana Metro",
+          "description": "Havana has a limited metro system that connects some parts of the city, providing an efficient way to travel underground."
+        },
+        {
+          "img": "x",
+          "alt": "Classic American Cars",
+          "title": "Classic American Cars",
+          "description": "Classic American cars from the mid-20th century are a common sight in Havana, serving as taxis and an iconic part of the city's transportation."
+        },
+        {
+          "img": "x",
+          "alt": "Bicitaxis",
+          "title": "Bicitaxis",
+          "description": "Bicitaxis are bicycle-powered rickshaws that offer a unique and eco-friendly way to explore Havana's streets and neighborhoods."
+        }
+      ]
+    }
+  }  
