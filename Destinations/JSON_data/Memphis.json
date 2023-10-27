@@ -1,0 +1,166 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Memphis"
+    },
+    "about": {
+      "name": "Memphis",
+      "info_text": "Memphis, located in the southwestern part of Tennessee, is a city with a rich musical heritage and a vibrant cultural scene. It is famous for being the home of blues, soul, and rock 'n' roll music. Visitors can explore iconic attractions like Graceland, the former home of Elvis Presley, and enjoy live music on Beale Street. Memphis is also known for its delicious barbecue cuisine and the Mississippi River, which adds to the city's charm.",
+      "facts_text": "<strong>Population:</strong> Approximately 651,073<br><strong>State:</strong> Tennessee<br><strong>Time Zone:</strong> Central Time Zone (UTC-06:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Memphis has a humid subtropical climate with hot, muggy summers and mild winters. The city experiences all four seasons, with occasional snowfall in winter."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Graceland",
+          "title": "Graceland",
+          "description": "Graceland, the former home of Elvis Presley, is a must-visit for fans of the King of Rock 'n' Roll. Explore the mansion, Elvis' cars, and his memorabilia."
+        },
+        {
+          "img": "x",
+          "alt": "Beale Street",
+          "title": "Beale Street",
+          "description": "Beale Street is a historic street known for its live music venues, restaurants, and vibrant nightlife. It's a hub for blues and jazz music."
+        },
+        {
+          "img": "x",
+          "alt": "Sun Studio",
+          "title": "Sun Studio",
+          "description": "Sun Studio is often called the 'Birthplace of Rock 'n' Roll' and is famous for recording Elvis Presley, Johnny Cash, and other music legends."
+        },
+        {
+          "img": "x",
+          "alt": "Stax Museum of American Soul Music",
+          "title": "Stax Museum of American Soul Music",
+          "description": "The Stax Museum celebrates soul music and the artists who recorded hits at Stax Records, featuring exhibits and memorabilia."
+        },
+        {
+          "img": "x",
+          "alt": "National Civil Rights Museum",
+          "title": "National Civil Rights Museum",
+          "description": "The National Civil Rights Museum is located at the Lorraine Motel, where Dr. Martin Luther King Jr. was assassinated. It offers insights into the civil rights movement."
+        },
+        {
+          "img": "x",
+          "alt": "Memphis Zoo",
+          "title": "Memphis Zoo",
+          "description": "The Memphis Zoo is home to a variety of animals and offers an enjoyable experience for visitors of all ages."
+        },
+        {
+          "img": "x",
+          "alt": "Mud Island River Park",
+          "title": "Mud Island River Park",
+          "description": "Mud Island River Park features a Riverwalk model, pedal boats, and concerts at the amphitheater along the Mississippi River."
+        },
+        {
+          "img": "x",
+          "alt": "Shelby Farms Park",
+          "title": "Shelby Farms Park",
+          "description": "Shelby Farms Park is one of the largest urban parks in the United States, offering hiking, biking, and outdoor activities."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Barbecue",
+          "title": "Barbecue",
+          "description": "Memphis is renowned for its barbecue, with specialties like pulled pork, ribs, and dry rubs. Visit local barbecue joints for an authentic taste."
+        },
+        {
+          "img": "x",
+          "alt": "Soul Food",
+          "title": "Soul Food",
+          "description": "Explore soul food restaurants in Memphis to savor dishes like fried chicken, collard greens, and cornbread."
+        },
+        {
+          "img": "x",
+          "alt": "Hot Tamales",
+          "title": "Hot Tamales",
+          "description": "Hot tamales are a unique local specialty. These spicy, meat-filled treats are a popular snack in Memphis."
+        },
+        {
+          "img": "x",
+          "alt": "Grits and Catfish",
+          "title": "Grits and Catfish",
+          "description": "Indulge in classic Southern comfort food with dishes like grits and catfish, often served in Memphis restaurants."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Peabody Memphis",
+          "title": "The Peabody Memphis",
+          "description": "The Peabody is a historic and luxurious hotel known for the daily March of the Ducks in its lobby and elegant accommodations."
+        },
+        {
+          "img": "x",
+          "alt": "Graceland Guest House",
+          "title": "Graceland Guest House",
+          "description": "Stay near Graceland at the Guest House, offering themed rooms, dining options, and easy access to Elvis Presley's former residence."
+        },
+        {
+          "img": "x",
+          "alt": "The Guest House at Graceland",
+          "title": "The Guest House at Graceland",
+          "description": "Another option near Graceland, The Guest House offers comfortable rooms and a lively atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "The Westin Memphis Beale Street",
+          "title": "The Westin Memphis Beale Street",
+          "description": "This stylish hotel is located on Beale Street, offering easy access to live music and entertainment."
+        },
+        {
+          "img": "x",
+          "alt": "The River Inn of Harbor Town",
+          "title": "The River Inn of Harbor Town",
+          "description": "The River Inn is a boutique hotel with river views, providing a tranquil escape in the city."
+        },
+        {
+          "img": "x",
+          "alt": "Holiday Inn Memphis - Downtown Beale St.",
+          "title": "Holiday Inn Memphis - Downtown Beale St.",
+          "description": "This Holiday Inn is conveniently located near Beale Street and offers modern comforts."
+        },
+        {
+          "img": "x",
+          "alt": "DoubleTree by Hilton Hotel Memphis",
+          "title": "DoubleTree by Hilton Hotel Memphis",
+          "description": "The DoubleTree offers comfortable accommodations and easy access to Memphis attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Sheraton Memphis Downtown Hotel",
+          "title": "Sheraton Memphis Downtown Hotel",
+          "description": "The Sheraton is a modern hotel in the heart of downtown Memphis, providing a convenient stay."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Memphis International Airport",
+          "title": "Memphis International Airport",
+          "description": "Memphis International Airport (MEM) is the primary airport serving the city, offering domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "MATA Trolley",
+          "title": "MATA Trolley",
+          "description": "The Memphis Area Transit Authority (MATA) offers a trolley system for public transportation within the city."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available at the airport and throughout the city, providing flexibility for exploring Memphis and its surroundings."
+        }
+      ]
+    }
+  }  

@@ -9,9 +9,6 @@
 
 /* Import the San Francisco font from Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=San+Francisco&display=swap);
-
-/* Apply the San Francisco font to your desired elements */
-
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
@@ -149,7 +146,7 @@ header {
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%; /* Set the height of the logo to match the height of the header */
+  height: 50px; 
   padding: 10px;
   font-family: 'Trebuchet MS', sans-serif;
   font-size: 50px;
@@ -181,18 +178,6 @@ header {
     overflow: hidden;
     box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
 }
-
-/*
-.card {
-    margin-right: 25px;
-    transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
-    background-color: #fff;
-    width: 33.3%;
-    position: relative;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
-}*/
 
 .card--2 .card__img, .card--2 .card__img--hover {
     background-image: url('https://images.pexels.com/photos/307008/pexels-photo-307008.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
@@ -438,5 +423,3 @@ header {
     border: none;
     border-bottom: 2px solid #ccc;
 }
-
-

@@ -1,0 +1,184 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Phoenix"
+    },
+    "about": {
+      "name": "Phoenix",
+      "info_text": "Phoenix, the capital of Arizona, is a vibrant city known for its sunny weather, stunning desert landscapes, and a wide range of outdoor and cultural attractions. With a rich Southwestern heritage, Phoenix offers a blend of modern urban living and natural beauty. Visitors can explore the Sonoran Desert, hike in the nearby mountain ranges, and enjoy a thriving arts and culinary scene. Whether you're interested in outdoor adventures or cultural experiences, Phoenix has something for everyone.",
+      "facts_text": "<strong>Population:</strong> Approximately 1.7 million<br><strong>State:</strong> Arizona<br><strong>Time Zone:</strong> Mountain Standard Time (UTC-07:00)<br><strong>Languages:</strong> English, Spanish<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Phoenix has a hot desert climate with extremely hot summers and mild winters. The city is known for its abundant sunshine and low humidity, making it a popular destination for outdoor activities."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Desert Botanical Garden",
+          "title": "Desert Botanical Garden",
+          "description": "The Desert Botanical Garden features a stunning collection of desert plants from around the world, set against the beautiful backdrop of the Sonoran Desert."
+        },
+        {
+          "img": "x",
+          "alt": "Camelback Mountain",
+          "title": "Camelback Mountain",
+          "description": "Camelback Mountain offers challenging hiking trails with panoramic views of the Phoenix skyline and the surrounding desert landscape."
+        },
+        {
+          "img": "x",
+          "alt": "Heard Museum",
+          "title": "Heard Museum",
+          "description": "The Heard Museum is dedicated to Native American art and culture, showcasing an extensive collection of art, jewelry, and historical artifacts."
+        },
+        {
+          "img": "x",
+          "alt": "Papago Park",
+          "title": "Papago Park",
+          "description": "Papago Park is a recreational area with hiking trails, gardens, and the famous Hole-in-the-Rock formation, offering great views of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Taliesin West",
+          "title": "Taliesin West",
+          "description": "Taliesin West is the winter home and architectural school of Frank Lloyd Wright, showcasing his innovative designs and the desert's influence on his work."
+        },
+        {
+          "img": "x",
+          "alt": "Chase Field",
+          "title": "Chase Field",
+          "description": "Chase Field is home to the Arizona Diamondbacks and is a popular venue for baseball games and other events in downtown Phoenix."
+        },
+        {
+          "img": "x",
+          "alt": "Phoenix Art Museum",
+          "title": "Phoenix Art Museum",
+          "description": "The Phoenix Art Museum features a diverse collection of art, including American, Asian, European, and Latin American works, as well as contemporary pieces."
+        },
+        {
+          "img": "x",
+          "alt": "South Mountain Park",
+          "title": "South Mountain Park",
+          "description": "South Mountain Park is one of the largest city parks in the United States, offering hiking and biking trails with breathtaking desert views."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Southwestern Cuisine",
+          "title": "Southwestern Cuisine",
+          "description": "Phoenix is known for its Southwestern flavors, with dishes like chili, tamales, and Mexican-inspired cuisine that reflect the region's culinary heritage."
+        },
+        {
+          "img": "x",
+          "alt": "Sonoran Hot Dogs",
+          "title": "Sonoran Hot Dogs",
+          "description": "Sonoran hot dogs are a local specialty, featuring bacon-wrapped hot dogs topped with a variety of condiments and flavors."
+        },
+        {
+          "img": "x",
+          "alt": "Mexican Food",
+          "title": "Mexican Food",
+          "description": "You can savor authentic Mexican cuisine in Phoenix, from street tacos and enchiladas to traditional mole dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Farm-to-Table Dining",
+          "title": "Farm-to-Table Dining",
+          "description": "Phoenix has a growing farm-to-table dining scene, with restaurants sourcing fresh, locally grown ingredients for their menus."
+        },
+        {
+          "img": "x",
+          "alt": "Food Trucks",
+          "title": "Food Trucks",
+          "description": "Food trucks in Phoenix offer a wide range of international and innovative culinary experiences, often found at local events and festivals."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Phoenician",
+          "title": "The Phoenician",
+          "description": "The Phoenician is a luxury resort offering top-notch accommodations, golf courses, and spa facilities in a beautiful desert setting."
+        },
+        {
+          "img": "x",
+          "alt": "JW Marriott Phoenix Desert Ridge Resort & Spa",
+          "title": "JW Marriott Phoenix Desert Ridge Resort & Spa",
+          "description": "This expansive resort features golf courses, a lazy river, and a spa, making it a perfect destination for relaxation and recreation."
+        },
+        {
+          "img": "x",
+          "alt": "Arizona Biltmore, A Waldorf Astoria Resort",
+          "title": "Arizona Biltmore, A Waldorf Astoria Resort",
+          "description": "The Arizona Biltmore is a historic luxury resort known for its elegant architecture, fine dining, and beautiful gardens."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Valley Ho",
+          "title": "Hotel Valley Ho",
+          "description": "Hotel Valley Ho is a chic and retro-style hotel, offering a unique and comfortable experience in the heart of Scottsdale."
+        },
+        {
+          "img": "x",
+          "alt": "Hyatt Regency Phoenix",
+          "title": "Hyatt Regency Phoenix",
+          "description": "The Hyatt Regency Phoenix is a downtown hotel that provides modern accommodations and is conveniently located near city attractions."
+        },
+        {
+          "img": "x",
+          "alt": "Kimpton Hotel Palomar Phoenix",
+          "title": "Kimpton Hotel Palomar Phoenix",
+          "description": "This boutique hotel in downtown Phoenix offers stylish rooms and a rooftop pool with great views of the city skyline."
+        },
+        {
+          "img": "x",
+          "alt": "The Clarendon Hotel and Spa",
+          "title": "The Clarendon Hotel and Spa",
+          "description": "The Clarendon Hotel and Spa is a trendy and art-focused hotel known for its rooftop bar and pool area."
+        },
+        {
+          "img": "x",
+          "alt": "The Camby, Autograph Collection",
+          "title": "The Camby, Autograph Collection",
+          "description": "This boutique hotel features unique and stylish design elements, with a focus on providing a memorable stay."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Valley Metro Light Rail",
+          "title": "Valley Metro Light Rail",
+          "description": "The Valley Metro Light Rail system offers convenient public transportation through Phoenix, connecting major points in the city."
+        },
+        {
+          "img": "x",
+          "alt": "Phoenix Sky Harbor International Airport",
+          "title": "Phoenix Sky Harbor International Airport",
+          "description": "Phoenix Sky Harbor is the primary airport serving the region, with domestic and international flights, making it easy to reach Phoenix."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available at the airport and throughout the city for those who want to explore Phoenix at their own pace."
+        },
+        {
+          "img": "x",
+          "alt": "Biking",
+          "title": "Biking",
+          "description": "Phoenix offers biking trails and paths for those who prefer to explore the city on two wheels, with bike rental options available."
+        },
+        {
+          "img": "x",
+          "alt": "Walking",
+          "title": "Walking",
+          "description": "Exploring downtown Phoenix on foot is a great way to discover local attractions, restaurants, and cultural sites."
+        }
+      ]
+    }
+  }  

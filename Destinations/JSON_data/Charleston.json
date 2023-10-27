@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Charleston"
+    },
+    "about": {
+      "name": "Charleston",
+      "info_text": "Charleston is a historic and charming city located on the southeastern coast of South Carolina, United States. Known for its well-preserved architecture, cobblestone streets, and antebellum charm, Charleston offers a rich blend of history, culture, and southern hospitality. Visitors can explore historic plantations, beautiful gardens, and enjoy the city's diverse culinary scene. Whether you're strolling along the waterfront, touring historic homes, or indulging in Lowcountry cuisine, Charleston has something for everyone.",
+      "facts_text": "<strong>Population:</strong> Approximately 140,000<br><strong>State:</strong> South Carolina<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> US Dollar (USD)",
+      "climate_text": "Charleston has a humid subtropical climate with mild winters and hot, humid summers. It's a great year-round destination, with a high tourism season during the spring and fall."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Historic Charleston City Market",
+          "title": "Historic Charleston City Market",
+          "description": "The Historic Charleston City Market is a historic market complex with vendors selling a variety of handmade goods, art, and local crafts."
+        },
+        {
+          "img": "x",
+          "alt": "Rainbow Row",
+          "title": "Rainbow Row",
+          "description": "Rainbow Row is a series of colorful historic houses along East Bay Street, known for its iconic pastel-colored architecture."
+        },
+        {
+          "img": "x",
+          "alt": "Boone Hall Plantation",
+          "title": "Boone Hall Plantation",
+          "description": "Boone Hall Plantation is one of America's oldest working plantations, offering tours of the mansion, gardens, and historic slave cabins."
+        },
+        {
+          "img": "x",
+          "alt": "The Battery and White Point Garden",
+          "title": "The Battery and White Point Garden",
+          "description": "The Battery and White Point Garden are historic waterfront parks with beautiful views of Fort Sumter and historic Civil War-era cannons."
+        },
+        {
+          "img": "x",
+          "alt": "Magnolia Plantation and Gardens",
+          "title": "Magnolia Plantation and Gardens",
+          "description": "Magnolia Plantation and Gardens is a picturesque plantation with stunning gardens, camellia collection, and a nature tram tour."
+        },
+        {
+          "img": "x",
+          "alt": "Fort Sumter National Monument",
+          "title": "Fort Sumter National Monument",
+          "description": "Fort Sumter is a historic fort in Charleston Harbor, known for being the site of the first shots fired in the American Civil War."
+        },
+        {
+          "img": "x",
+          "alt": "Pineapple Fountain",
+          "title": "Pineapple Fountain",
+          "description": "The Pineapple Fountain is a popular landmark in Waterfront Park, offering a refreshing respite with its fountain and waterfront views."
+        },
+        {
+          "img": "x",
+          "alt": "Charleston Tea Garden",
+          "title": "Charleston Tea Garden",
+          "description": "Charleston Tea Garden is America's only tea plantation, where visitors can learn about tea production and enjoy scenic views."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Shrimp and Grits",
+          "title": "Shrimp and Grits",
+          "description": "Shrimp and Grits is a classic Lowcountry dish made with creamy grits, seasoned shrimp, and often served with a flavorful sauce."
+        },
+        {
+          "img": "x",
+          "alt": "She-Crab Soup",
+          "title": "She-Crab Soup",
+          "description": "She-Crab Soup is a creamy soup made with blue crab meat and crab roe, a regional specialty in Charleston."
+        },
+        {
+          "img": "x",
+          "alt": "Gumbo",
+          "title": "Gumbo",
+          "description": "Gumbo, while traditionally associated with Louisiana, is also a popular dish in Charleston, featuring a flavorful mix of ingredients like okra and seafood."
+        },
+        {
+          "img": "x",
+          "alt": "Charleston Red Rice",
+          "title": "Charleston Red Rice",
+          "description": "Charleston Red Rice is a local dish made with rice, tomatoes, and a variety of spices and ingredients, often served with sausage or shrimp."
+        },
+        {
+          "img": "x",
+          "alt": "Biscuits and Gravy",
+          "title": "Biscuits and Gravy",
+          "description": "Biscuits and Gravy is a hearty southern breakfast dish featuring soft biscuits smothered in creamy sausage gravy."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "Belmond Charleston Place",
+          "title": "Belmond Charleston Place",
+          "description": "Belmond Charleston Place is a luxurious hotel located in the heart of the historic district, offering elegant rooms and a rooftop pool."
+        },
+        {
+          "img": "x",
+          "alt": "The Dewberry Charleston",
+          "title": "The Dewberry Charleston",
+          "description": "The Dewberry is a chic boutique hotel with a mid-century modern design, located in a historic federal building."
+        },
+        {
+          "img": "x",
+          "alt": "The Vendue",
+          "title": "The Vendue",
+          "description": "The Vendue is a charming art-focused boutique hotel in the historic district, known for its rotating art exhibitions."
+        },
+        {
+          "img": "x",
+          "alt": "Wentworth Mansion",
+          "title": "Wentworth Mansion",
+          "description": "Wentworth Mansion is a historic hotel in a restored mansion, offering opulent accommodations and gourmet dining."
+        },
+        {
+          "img": "x",
+          "alt": "The Restoration",
+          "title": "The Restoration",
+          "description": "The Restoration is a stylish boutique hotel with apartment-style accommodations, rooftop views, and a spa."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Charleston Area Regional Transportation Authority (CARTA)",
+          "title": "Charleston Area Regional Transportation Authority (CARTA)",
+          "description": "CARTA provides public bus transportation in Charleston and the surrounding areas, offering a convenient way to get around the city."
+        },
+        {
+          "img": "x",
+          "alt": "Ride-Sharing Services",
+          "title": "Ride-Sharing Services",
+          "description": "Ride-sharing services like Uber and Lyft are readily available in Charleston, providing an easy way to navigate the city."
+        },
+        {
+          "img": "x",
+          "alt": "Charleston International Airport",
+          "title": "Charleston International Airport",
+          "description": "Charleston International Airport (CHS) is the main airport serving the city, providing both domestic and limited international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Historic Downtown Walking Tours",
+          "title": "Historic Downtown Walking Tours",
+          "description": "Exploring historic Charleston on foot is a popular option, with guided walking tours available to learn about the city's history."
+        }
+      ]
+    }
+  }  

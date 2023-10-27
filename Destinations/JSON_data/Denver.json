@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Denver"
+    },
+    "about": {
+      "name": "Denver",
+      "info_text": "Denver, also known as the Mile-High City, is the capital of Colorado and a vibrant metropolis located in the western United States. The city is renowned for its stunning mountain views, outdoor recreational opportunities, and a thriving cultural scene. Nestled in the Rocky Mountains, Denver offers a mix of urban sophistication and natural beauty, making it a sought-after destination for both residents and visitors. With a rich history, diverse neighborhoods, and a strong focus on sustainability, Denver has something to offer everyone.",
+      "facts_text": "<strong>Population:</strong> Approximately 728,000<br><strong>State:</strong> Colorado<br><strong>Time Zone:</strong> Mountain Time Zone (UTC-07:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Denver has a semi-arid climate, characterized by sunny days, low humidity, and relatively mild temperatures. The city experiences four distinct seasons, making it an ideal destination for outdoor activities year-round."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Red Rocks Amphitheatre",
+          "title": "Red Rocks Amphitheatre",
+          "description": "Red Rocks Amphitheatre is a world-famous outdoor concert venue located in the foothills of the Rocky Mountains. It is known for its stunning natural acoustics and breathtaking surroundings."
+        },
+        {
+          "img": "x",
+          "alt": "Denver Art Museum",
+          "title": "Denver Art Museum",
+          "description": "The Denver Art Museum is a renowned cultural institution featuring an extensive collection of art, from American Indian to contemporary, and impressive architecture."
+        },
+        {
+          "img": "x",
+          "alt": "Denver Botanic Gardens",
+          "title": "Denver Botanic Gardens",
+          "description": "The Denver Botanic Gardens is a lush oasis in the city, showcasing a wide variety of plants and themed gardens, as well as hosting art exhibitions."
+        },
+        {
+          "img": "x",
+          "alt": "Union Station",
+          "title": "Union Station",
+          "description": "Denver Union Station is a historic transportation hub turned vibrant gathering place. It features restaurants, bars, and boutiques, making it a great place to explore."
+        },
+        {
+          "img": "x",
+          "alt": "Denver Zoo",
+          "title": "Denver Zoo",
+          "description": "The Denver Zoo is a family-friendly attraction with a diverse collection of animals and immersive exhibits, providing an educational and entertaining experience."
+        },
+        {
+          "img": "x",
+          "alt": "Mile High Stadium",
+          "title": "Mile High Stadium",
+          "description": "Mile High Stadium, now known as Empower Field at Mile High, is the home of the Denver Broncos and a venue for sports enthusiasts to catch an NFL game."
+        },
+        {
+          "img": "x",
+          "alt": "Cherry Creek Shopping District",
+          "title": "Cherry Creek Shopping District",
+          "description": "The Cherry Creek Shopping District is a premier retail and dining destination in Denver, offering upscale boutiques, galleries, and restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Denver Museum of Nature & Science",
+          "title": "Denver Museum of Nature & Science",
+          "description": "The Denver Museum of Nature & Science is an educational institution featuring fascinating exhibits on natural history, space, and anthropology."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Green Chile",
+          "title": "Green Chile",
+          "description": "Green chile is a regional specialty in Denver, often served over burritos, burgers, or as a topping for various dishes. It's a flavorful and spicy treat."
+        },
+        {
+          "img": "x",
+          "alt": "Rocky Mountain Oysters",
+          "title": "Rocky Mountain Oysters",
+          "description": "Rocky Mountain oysters are a unique delicacy in Denver, consisting of deep-fried bull testicles. They are a curious culinary experience for the adventurous."
+        },
+        {
+          "img": "x",
+          "alt": "Craft Beer",
+          "title": "Craft Beer",
+          "description": "Denver is known for its craft beer scene, with numerous local breweries producing a wide range of innovative and tasty beers for enthusiasts to enjoy."
+        },
+        {
+          "img": "x",
+          "alt": "Bison Steak",
+          "title": "Bison Steak",
+          "description": "Bison steak is a lean and flavorful option for meat lovers. It's a popular choice in Denver due to the state's bison farming tradition."
+        },
+        {
+          "img": "x",
+          "alt": "Palisade Peaches",
+          "title": "Palisade Peaches",
+          "description": "Palisade peaches are a sweet and juicy fruit grown in Colorado. They are highly regarded for their delicious flavor and are often used in desserts."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Brown Palace Hotel",
+          "title": "The Brown Palace Hotel",
+          "description": "The Brown Palace is a historic and elegant hotel in the heart of Denver, known for its timeless charm, afternoon tea, and luxurious accommodations."
+        },
+        {
+          "img": "x",
+          "alt": "The ART, a Hotel",
+          "title": "The ART, a Hotel",
+          "description": "The ART is a modern boutique hotel featuring contemporary art installations and a sophisticated ambiance in Denver's Golden Triangle neighborhood."
+        },
+        {
+          "img": "x",
+          "alt": "The Maven Hotel",
+          "title": "The Maven Hotel",
+          "description": "The Maven is a trendy hotel located in Denver's Dairy Block, offering stylish rooms, a lively social scene, and proximity to various attractions."
+        },
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Denver",
+          "title": "The Ritz-Carlton, Denver",
+          "description": "The Ritz-Carlton in Denver provides a luxurious experience with elegant accommodations, a spa, and a prime downtown location."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "RTD Light Rail",
+          "title": "RTD Light Rail",
+          "description": "The Regional Transportation District (RTD) Light Rail system offers convenient public transportation throughout the Denver metro area."
+        },
+        {
+          "img": "x",
+          "alt": "Denver B-cycle",
+          "title": "Denver B-cycle",
+          "description": "Denver B-cycle is a bike-sharing program, allowing residents and visitors to explore the city on two wheels through bike rentals at various stations."
+        },
+        {
+          "img": "x",
+          "alt": "Denver International Airport",
+          "title": "Denver International Airport",
+          "description": "Denver International Airport (DEN) is the primary airport serving the region, offering domestic and international flights and convenient ground transportation options."
+        },
+        {
+          "img": "x",
+          "alt": "Rental Cars",
+          "title": "Rental Cars",
+          "description": "Denver has various rental car agencies, making it easy for travelers to access their own vehicles for exploring the city and its surroundings."
+        }
+      ]
+    }
+  }  

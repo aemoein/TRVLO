@@ -1,6 +1,6 @@
 {
   "hero": {
-    "img": "x",
+    "img": "https://lacounty.gov/wp-content/uploads/2022/03/shutterstock_1418018357-scaled.jpg",
     "title": "Los Angeles"
   },
   "about": {
@@ -12,49 +12,49 @@
   "attractions": {
     "attractions_card": [
       {
-        "img": "x",
+        "img": "https://media.istockphoto.com/id/458723155/photo/hollywood-walk-of-fame.jpg?s=612x612&w=0&k=20&c=5mOqTX9hQmSVy8oAe4eaNHnBtZKT33WIbwlo9IK1bbU=",
         "alt": "Hollywood Walk of Fame",
         "title": "Hollywood Walk of Fame",
         "description": "The Hollywood Walk of Fame features over 2,600 brass stars embedded in the sidewalks, honoring notable figures in the entertainment industry."
       },
       {
-        "img": "x",
+        "img": "https://griffithobservatory.org/wp-content/uploads/2021/03/cameron-venti-c5GkEd-j5vI-unsplash_noCautionTape-1600x1186.jpg",
         "alt": "Griffith Observatory",
         "title": "Griffith Observatory",
         "description": "The Griffith Observatory offers breathtaking views of the city, a range of space-related exhibits, and the iconic Zeiss telescope for stargazing."
       },
       {
-        "img": "x",
+        "img": "https://www.exp1.com/blog/wp-content/uploads/sites/7/2020/08/Santa-Monica-Pier-e1597077705511-1024x635.jpg",
         "alt": "Santa Monica Pier",
         "title": "Santa Monica Pier",
         "description": "Santa Monica Pier is a historic landmark with an amusement park, Pacific Park, and an iconic Ferris wheel, as well as beautiful ocean views."
       },
       {
-        "img": "x",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerial_Getty_Museum.jpg/1200px-Aerial_Getty_Museum.jpg",
         "alt": "Getty Center",
         "title": "Getty Center",
         "description": "The Getty Center is an art museum featuring an impressive collection of European paintings, sculptures, and beautiful gardens."
       },
       {
-        "img": "x",
+        "img": "https://www.travelandleisure.com/thmb/_xIGXDKbv4GEBb36cl3xzbma6EQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-entrance-universal-studios-hollywood-UNIHWOOD0522-0146bbcbdc3b4b28be357a6d53dfd68e.jpg",
         "alt": "Universal Studios Hollywood",
         "title": "Universal Studios Hollywood",
         "description": "Universal Studios Hollywood is a film studio and theme park offering attractions and experiences based on popular movies and TV shows."
       },
       {
-        "img": "x",
+        "img": "https://drupal8-prod.visitcalifornia.com/sites/drupal8-prod.visitcalifornia.com/files/VC_California101_VeniceBeach_Stock_RF_638340372_1280x640.jpg",
         "alt": "Venice Beach",
         "title": "Venice Beach",
         "description": "Venice Beach is a vibrant and eclectic neighborhood known for its bohemian spirit, street performers, and the famous Venice Beach Boardwalk."
       },
       {
-        "img": "x",
+        "img": "https://drupal8-prod.visitcalifornia.com/sites/drupal8-prod.visitcalifornia.com/files/styles/fluid_1200/public/2022-05/VC_LACMA_gty-589971642-RF_1280x640.jpg?itok=KGQYMe1h",
         "alt": "Los Angeles County Museum of Art",
         "title": "Los Angeles County Museum of Art",
         "description": "The Los Angeles County Museum of Art (LACMA) is the largest art museum in the western United States, featuring an extensive collection of art from around the world."
       },
       {
-        "img": "x",
+        "img": "https://blog.ticketmaster.com/wp-content/uploads/dodger-stadium.jpg",
         "alt": "Dodger Stadium",
         "title": "Dodger Stadium",
         "description": "Dodger Stadium is home to the Los Angeles Dodgers baseball team and offers an iconic sports experience in the city."
@@ -64,31 +64,31 @@
   "foods": {
     "food_card": [
       {
-        "img": "x",
+        "img": "https://media.timeout.com/images/102365439/image.jpg",
         "alt": "Taco Trucks",
         "title": "Taco Trucks",
         "description": "Los Angeles is famous for its taco trucks, offering a wide variety of delicious tacos, including carne asada, al pastor, and more."
       },
       {
-        "img": "x",
+        "img": "https://i.guim.co.uk/img/media/beaceca2e2ae40147ed440070de5666925c1e2ec/0_177_3100_1860/master/3100.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c135e3bdf4ead315b99fc2281d28d914",
         "alt": "In-N-Out Burger",
         "title": "In-N-Out Burger",
         "description": "In-N-Out Burger is a beloved fast-food chain known for its fresh burgers, hand-cut fries, and milkshakes."
       },
       {
-        "img": "x",
+        "img": "https://hips.hearstapps.com/vidthumb/images/korean-bbq-chicken-skewers-644164f0b56bc.jpg?crop=1xw:1xh;center,top&resize=1200:*",
         "alt": "Korean BBQ",
         "title": "Korean BBQ",
         "description": "Korean BBQ restaurants in Los Angeles offer a fun and interactive dining experience, with grilled meats and a variety of side dishes."
       },
       {
-        "img": "x",
+        "img": "https://images.squarespace-cdn.com/content/v1/5b6b3d0745776edc24bd7b91/1663170944474-GSUMUI6LXRN85SB5FV3T/image000000.JPG",
         "alt": "Food Trucks",
         "title": "Food Trucks",
         "description": "The city's food truck scene is diverse, serving gourmet dishes from all over the world, from gourmet burgers to fusion cuisine."
       },
       {
-        "img": "x",
+        "img": "https://cdn.tasteatlas.com/Images/Dishes/fde953e5aa504e8c83a84691582b0399.jpg?m=facebook",
         "alt": "Sushi",
         "title": "Sushi",
         "description": "Los Angeles offers a wide selection of sushi restaurants, with fresh seafood and creative sushi rolls."
@@ -98,25 +98,25 @@
   "hotels": {
     "hotels_card": [
       {
-        "img": "x",
+        "img": "https://www.hospitalitynet.org/picture/xxl_153031092.jpg?t=1270787210",
         "alt": "The Ritz-Carlton, Los Angeles",
         "title": "The Ritz-Carlton, Los Angeles",
         "description": "The Ritz-Carlton offers luxury accommodations in the heart of downtown Los Angeles, with stunning views and upscale amenities."
       },
       {
-        "img": "x",
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/60987553.jpg?k=88fc3992687c1084cb8ac649ce7b3510d58d75d7ca80380d6c44ce0641dee410&o=&hp=1",
         "alt": "Beverly Wilshire, a Four Seasons Hotel",
         "title": "Beverly Wilshire, a Four Seasons Hotel",
         "description": "The Beverly Wilshire is an iconic luxury hotel in Beverly Hills, offering elegant rooms and top-notch dining at CUT by Wolfgang Puck."
       },
       {
-        "img": "x",
+        "img": "https://assets.langhamhotels.com/is/image/langhamhotelsstage/tllax_hsg_exterior_v2:Medium?wid=675&hei=380",
         "alt": "The Langham Huntington, Pasadena",
         "title": "The Langham Huntington, Pasadena",
         "description": "The Langham Huntington is a historic hotel located in Pasadena, offering a serene atmosphere, lush gardens, and upscale dining."
       },
       {
-        "img": "x",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5f/d2/1b/front-drive.jpg?w=700&h=-1&s=1",
         "alt": "The Fairmont Miramar Hotel & Bungalows",
         "title": "The Fairmont Miramar Hotel & Bungalows",
         "description": "The Fairmont Miramar is a beachfront resort in Santa Monica, providing luxurious rooms, ocean views, and the iconic Bungalow restaurant."
@@ -126,31 +126,31 @@
   "transport": {
     "transport_card": [
       {
-        "img": "x",
+        "img": "https://www.railjournal.com/wp-content/uploads/2019/03/LA-airport-people-mover-3.jpg",
         "alt": "Los Angeles International Airport",
         "title": "Los Angeles International Airport",
         "description": "Los Angeles International Airport (LAX) is one of the busiest airports in the world, serving as a major gateway to the city."
       },
       {
-        "img": "x",
+        "img": "https://ca-times.brightspotcdn.com/dims4/default/60dbeb7/2147483647/strip/true/crop/4660x3169+0+0/resize/1200x816!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2F56%2F1f6802c2491cb104c066be0ee1e0%2F1175086-metro-tests-the-new-crenshaw-lax-line19-mam.jpg",
         "alt": "Metro Rail",
         "title": "Metro Rail",
         "description": "Los Angeles has an expanding Metro Rail system with several lines, providing convenient access to key areas of the city."
       },
       {
-        "img": "x",
+        "img": "https://scpr.brightspotcdn.com/dims4/default/9217ec7/2147483647/strip/true/crop/1693x889+38+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Ff4%2F59%2Fe55b444846acb5577efa12742c16%2Fla-metro-bus-2.jpg",
         "alt": "Metro Bus",
         "title": "Metro Bus",
         "description": "Metro Bus services complement the Metro Rail, offering extensive public transportation coverage throughout Los Angeles."
       },
       {
-        "img": "x",
+        "img": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0rcRPk_0oibBbz800",
         "alt": "Taxis and Ridesharing",
         "title": "Taxis and Ridesharing",
         "description": "Taxis, Uber, and Lyft are readily available for convenient transportation within the city and its surrounding areas."
       },
       {
-        "img": "x",
+        "img": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_13/2798361/190325-rental-cars-cs-229p.jpg",
         "alt": "Car Rentals",
         "title": "Car Rentals",
         "description": "Car rental agencies are accessible in Los Angeles, providing flexibility for exploring the city and nearby attractions."

@@ -1,0 +1,154 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Savannah"
+    },
+    "about": {
+      "name": "Savannah",
+      "info_text": "Savannah is a charming and historic city located in the state of Georgia, USA. Known for its cobblestone streets, historic architecture, and lush parks, Savannah exudes Southern hospitality and is a popular destination for those seeking a taste of the Old South. The city is famous for its oak-lined streets, antebellum mansions, and its vibrant arts and culture scene. Visitors can explore the historic district, enjoy riverfront views, and indulge in Southern cuisine and hospitality.",
+      "facts_text": "<strong>Population:</strong> Approximately 147,000<br><strong>State:</strong> Georgia<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> US Dollar (USD)",
+      "climate_text": "Savannah has a humid subtropical climate, characterized by hot, humid summers and mild winters. It's a great destination for year-round travel, with pleasant weather and occasional coastal breezes."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Forsyth Park",
+          "title": "Forsyth Park",
+          "description": "Forsyth Park is a 30-acre urban park located in the historic district of Savannah. It features walking paths, gardens, fountains, and is home to the iconic Forsyth Fountain."
+        },
+        {
+          "img": "x",
+          "alt": "River Street",
+          "title": "River Street",
+          "description": "River Street is a historic street along the Savannah River, lined with shops, restaurants, and galleries. It offers stunning views of the river and is a popular spot for strolling."
+        },
+        {
+          "img": "x",
+          "alt": "Historic District",
+          "title": "Historic District",
+          "description": "Savannah's Historic District is known for its well-preserved 18th and 19th-century architecture. It's a beautiful area to explore on foot, with numerous squares, historic homes, and museums."
+        },
+        {
+          "img": "x",
+          "alt": "Bonaventure Cemetery",
+          "title": "Bonaventure Cemetery",
+          "description": "The Bonaventure Cemetery is famous for its hauntingly beautiful sculptures, historic graves, and Spanish moss-draped oak trees. It's a must-visit for history and photography enthusiasts."
+        },
+        {
+          "img": "x",
+          "alt": "Telfair Museums",
+          "title": "Telfair Museums",
+          "description": "The Telfair Museums consist of three separate museums, including the Telfair Academy, the Owens-Thomas House, and the Jepson Center. They showcase art, history, and culture."
+        },
+        {
+          "img": "x",
+          "alt": "Wormsloe Historic Site",
+          "title": "Wormsloe Historic Site",
+          "description": "The Wormsloe Historic Site is home to a breathtaking oak-lined avenue and the ruins of a colonial estate, providing a glimpse into Savannah's past."
+        },
+        {
+          "img": "x",
+          "alt": "Savannah Historic Squares",
+          "title": "Savannah Historic Squares",
+          "description": "Savannah boasts 22 historic squares, each with its unique charm and history. They are perfect for picnics, relaxation, and taking in the city's ambiance."
+        },
+        {
+          "img": "x",
+          "alt": "Savannah Riverboat Cruises",
+          "title": "Savannah Riverboat Cruises",
+          "description": "Riverboat cruises on the Savannah River offer scenic tours with live entertainment, dining, and historic narrations."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Shrimp and Grits",
+          "title": "Shrimp and Grits",
+          "description": "Shrimp and Grits is a classic Southern dish featuring shrimp served over creamy, buttery grits, often with a flavorful sauce."
+        },
+        {
+          "img": "x",
+          "alt": "Lowcountry Boil",
+          "title": "Lowcountry Boil",
+          "description": "Lowcountry Boil, also known as a shrimp boil, is a one-pot dish that includes shrimp, corn, potatoes, and sausage, seasoned with Old Bay seasoning."
+        },
+        {
+          "img": "x",
+          "alt": "Fried Chicken",
+          "title": "Fried Chicken",
+          "description": "Savannah is known for its delicious fried chicken, often served with biscuits, collard greens, and other Southern sides."
+        },
+        {
+          "img": "x",
+          "alt": "Pecan Pie",
+          "title": "Pecan Pie",
+          "description": "Pecan Pie is a classic Southern dessert made with pecans, sugar, and butter, served in a flaky pie crust."
+        },
+        {
+          "img": "x",
+          "alt": "Sweet Tea",
+          "title": "Sweet Tea",
+          "description": "Sweet tea is a beloved Southern beverage, a refreshing iced tea that's sweetened to perfection."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Grey",
+          "title": "The Grey",
+          "description": "The Grey is a critically acclaimed restaurant and boutique hotel located in a restored Greyhound bus terminal, known for its innovative Southern cuisine."
+        },
+        {
+          "img": "x",
+          "alt": "The Mansion on Forsyth Park",
+          "title": "The Mansion on Forsyth Park",
+          "description": "The Mansion on Forsyth Park is an elegant hotel featuring luxurious rooms and an on-site art gallery, all within walking distance of Forsyth Park."
+        },
+        {
+          "img": "x",
+          "alt": "Andaz Savannah",
+          "title": "Andaz Savannah",
+          "description": "Andaz Savannah offers modern accommodations in the Historic District, with a rooftop bar and easy access to the city's attractions."
+        },
+        {
+          "img": "x",
+          "alt": "The Marshall House",
+          "title": "The Marshall House",
+          "description": "The Marshall House is a historic hotel known for its unique character and ghostly tales, offering a taste of Savannah's past."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Savannah/Hilton Head International Airport",
+          "title": "Savannah/Hilton Head International Airport",
+          "description": "Savannah/Hilton Head International Airport (SAV) provides domestic and international air travel access to Savannah and the surrounding region."
+        },
+        {
+          "img": "x",
+          "alt": "Trolley Tours",
+          "title": "Trolley Tours",
+          "description": "Trolley tours are a popular way to explore Savannah, offering guided tours of the city's historic district and notable landmarks."
+        },
+        {
+          "img": "x",
+          "alt": "Bicycle Rentals",
+          "title": "Bicycle Rentals",
+          "description": "Bicycle rentals are available for those who want to explore the city at their own pace, with bike-friendly paths and streets in Savannah."
+        },
+        {
+          "img": "x",
+          "alt": "Walkability",
+          "title": "Walkability",
+          "description": "Savannah's historic district is highly walkable, making it easy for visitors to explore the city on foot and enjoy its historic charm."
+        }
+      ]
+    }
+  }  

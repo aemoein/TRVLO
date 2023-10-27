@@ -1,0 +1,160 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Portland, Oregon"
+    },
+    "about": {
+      "name": "Portland",
+      "info_text": "Portland, often referred to as the 'City of Roses,' is a diverse and eco-conscious city located in the Pacific Northwest of the United States. Known for its beautiful landscapes, vibrant arts scene, and unique culture, Portland offers a wide range of experiences for residents and visitors. The city is famous for its lush green spaces, craft beer, coffee shops, and a strong commitment to sustainability and eco-friendliness. Whether you're exploring the outdoors, enjoying local cuisine, or immersing yourself in the city's arts and music, Portland has something for everyone.",
+      "facts_text": "<strong>Population:</strong> Approximately 653,000<br><strong>State:</strong> Oregon<br><strong>Time Zone:</strong> Pacific Time Zone (UTC-08:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Portland experiences a mild, oceanic climate with distinct seasons. Summers are typically warm and dry, while winters are cool and rainy. The city's green surroundings remain lush throughout the year."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Powell's City of Books",
+          "title": "Powell's City of Books",
+          "description": "Powell's City of Books is a renowned independent bookstore and one of the world's largest new and used bookstores, with a vast collection of books across multiple floors."
+        },
+        {
+          "img": "x",
+          "alt": "Washington Park",
+          "title": "Washington Park",
+          "description": "Washington Park is a sprawling urban park that includes the International Rose Test Garden, the Oregon Zoo, and the Portland Japanese Garden, offering a blend of natural beauty and cultural experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Pioneer Courthouse Square",
+          "title": "Pioneer Courthouse Square",
+          "description": "Pioneer Courthouse Square, often called 'Portland's Living Room,' is a central gathering place for events, concerts, and cultural celebrations in the heart of the city."
+        },
+        {
+          "img": "x",
+          "alt": "Portland Art Museum",
+          "title": "Portland Art Museum",
+          "description": "The Portland Art Museum features an extensive collection of art, including American, European, and Native American works, making it a hub for artistic and cultural exploration."
+        },
+        {
+          "img": "x",
+          "alt": "Portland Saturday Market",
+          "title": "Portland Saturday Market",
+          "description": "The Portland Saturday Market is an outdoor arts and crafts market showcasing a wide array of handmade products, local art, and international cuisine."
+        },
+        {
+          "img": "x",
+          "alt": "Lan Su Chinese Garden",
+          "title": "Lan Su Chinese Garden",
+          "description": "Lan Su Chinese Garden is a tranquil oasis in the heart of the city, designed in the style of a classical Chinese garden, with peaceful ponds, pavilions, and cultural events."
+        },
+        {
+          "img": "x",
+          "alt": "Forest Park",
+          "title": "Forest Park",
+          "description": "Forest Park is one of the largest urban forests in the United States, offering miles of hiking and biking trails, a diverse range of wildlife, and scenic views."
+        },
+        {
+          "img": "x",
+          "alt": "Oregon Museum of Science and Industry (OMSI)",
+          "title": "Oregon Museum of Science and Industry (OMSI)",
+          "description": "OMSI is a hands-on science museum with interactive exhibits, a planetarium, and an OMNIMAX theater, making it a great educational destination for all ages."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Food Trucks",
+          "title": "Food Trucks",
+          "description": "Portland is famous for its diverse and creative food truck scene, offering a wide variety of international cuisines and gourmet dishes."
+        },
+        {
+          "img": "x",
+          "alt": "Voodoo Doughnut",
+          "title": "Voodoo Doughnut",
+          "description": "Voodoo Doughnut is an iconic doughnut shop known for its unique and creative doughnut flavors, including the famous Voodoo Doll doughnut."
+        },
+        {
+          "img": "x",
+          "alt": "Farm-to-Table Dining",
+          "title": "Farm-to-Table Dining",
+          "description": "Portland's farm-to-table restaurants emphasize locally sourced and seasonal ingredients, providing fresh and sustainable dining experiences."
+        },
+        {
+          "img": "x",
+          "alt": "Craft Beer",
+          "title": "Craft Beer",
+          "description": "Portland is often called 'Beervana' due to its thriving craft beer scene, with numerous breweries and pubs offering a wide selection of local and regional beers."
+        },
+        {
+          "img": "x",
+          "alt": "Coffee Culture",
+          "title": "Coffee Culture",
+          "description": "Portland is known for its vibrant coffee culture, with a plethora of coffee shops and roasteries serving high-quality brews."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Nines, a Luxury Collection Hotel",
+          "title": "The Nines, a Luxury Collection Hotel",
+          "description": "The Nines is a luxury hotel located in the heart of downtown Portland, known for its stylish rooms and top-notch amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Heathman Hotel",
+          "title": "Heathman Hotel",
+          "description": "The Heathman Hotel is a historic and elegant hotel in downtown Portland, offering classic charm and modern comforts."
+        },
+        {
+          "img": "x",
+          "alt": "The Benson, a Coast Hotel",
+          "title": "The Benson, a Coast Hotel",
+          "description": "The Benson is a timeless and sophisticated hotel with a rich history, providing impeccable service and a central location."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Monaco Portland",
+          "title": "Hotel Monaco Portland",
+          "description": "Hotel Monaco is a boutique hotel known for its quirky design, vibrant colors, and playful atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "The Jupiter Hotel",
+          "title": "The Jupiter Hotel",
+          "description": "The Jupiter Hotel offers a unique and artsy experience, with retro-style rooms and a lively urban vibe."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "TriMet (Public Transit)",
+          "title": "TriMet (Public Transit)",
+          "description": "TriMet operates the public transit system in Portland, including buses, MAX light rail, and streetcars, providing convenient transportation throughout the city."
+        },
+        {
+          "img": "x",
+          "alt": "Biking",
+          "title": "Biking",
+          "description": "Portland is known for its bike-friendly infrastructure, with numerous bike lanes and bike-sharing programs for eco-friendly transportation."
+        },
+        {
+          "img": "x",
+          "alt": "Portland International Airport (PDX)",
+          "title": "Portland International Airport (PDX)",
+          "description": "Portland International Airport is the primary airport serving the city, offering domestic and international flights with a focus on sustainability."
+        },
+        {
+          "img": "x",
+          "alt": "Rental Cars",
+          "title": "Rental Cars",
+          "description": "Rental car services are available at the airport and throughout the city for those who prefer the flexibility of driving."
+        }
+      ]
+    }
+  }  

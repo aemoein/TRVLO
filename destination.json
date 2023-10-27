@@ -1,277 +1,237 @@
 {
     "card": [    
         {
-            "name": "United States",
-            "category": "North America",
-            "image": "https://www.pixelstalk.net/wp-content/uploads/2016/07/1280x800-Desktop-Wallpapers.jpg",
-            "link": "Destinations/United States/UnitedStates.html"
-        },
-        
-        {
             "name": "Los Angeles",
             "category": "United States",
-            "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg",
-            "link": "Destinations/United States/LosAngeles.html"
+            "image": "https://images.wallpaperscraft.com/image/single/city_palm_trees_sunset_147335_1280x800.jpg"
         },
         
         {
             "name": "Paris",
             "category": "France",
-            "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg",
-            "link": "Destinations/city.html"
+            "image": "https://images.hdqwalls.com/download/eiffel-tower-paris-city-autumn-4k-5k-n4-1280x800.jpg"
         },
         
         {
             "name": "New York",
             "category": "United States",
-            "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg",
-            "link": "Destinations/United States/NewYork.html"
+            "image": "https://images.hdqwalls.com/download/new-york-city-wide-8k-2z-1280x800.jpg"
         },
         
         {
             "name": "Tokyo",
             "category": "Japan",
-            "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg",
-            "link": "Destinations/Japan/Tokyo.html"
+            "image": "https://images.wallpaperscraft.com/image/single/tokyo_night_city_tower_121568_1280x800.jpg"
+        },
+
+        {
+            "name": "Las Vegas",
+            "category": "Nevada",
+            "image": "https://a.cdn-hotels.com/gdcs/production51/d365/c09bbed3-c4cb-4751-b97d-8b47c8da656c.jpg"
         },
         
         {
             "name": "Amsterdam",
             "category": "Netherlands",
-            "image": "https://wallpaper.dog/large/10873881.jpg",
-            "link": "Destinations/Netherlands/Amsterdam.html"
+            "image": "https://wallpaper.dog/large/10873881.jpg"
         },
         
         {
             "name": "London",
             "category": "United Kingdom",
-            "image": "https://media.cntraveller.com/photos/63f37018ea053d878b345cb2/3:2/w_3870,h_2580,c_limit/London-GettyImages-585295947.jpeg",
-            "link": "Destinations/United Kingdom/London.html"
+            "image": "https://media.cntraveller.com/photos/63f37018ea053d878b345cb2/3:2/w_3870,h_2580,c_limit/London-GettyImages-585295947.jpeg"
         },
 
         {
             "name": "San Francisco",
             "category": "United States",
-            "image": "https://wallpapercave.com/wp/4CTXSAi.jpg",
-            "link": "Destinations/United States/SanFran.html"
+            "image": "https://wallpapercave.com/wp/4CTXSAi.jpg"
         },
           
         {
             "name": "Seattle",
             "category": "United States",
-            "image": "https://cdn.wallpapersafari.com/60/45/P26Ff8.jpg",
-            "link": "Destinations/United States/Seattle.html"
+            "image": "https://cdn.wallpapersafari.com/60/45/P26Ff8.jpg"
         },
 
         {
             "name": "Miami",
             "category": "United States",
-            "image": "https://wallpaper.dog/large/20548174.jpg",
-            "link": "Destinations/United States/Miami.html"
+            "image": "https://wallpaper.dog/large/20548174.jpg"
         },
 
         {
             "name": "Toronto",
             "category": "Canada",
-            "image": "https://wallpapercave.com/wp/wp2197451.jpg",
-            "link": "Destinations/Canada/Toronto.html"
+            "image": "https://wallpapercave.com/wp/wp2197451.jpg"
         },
 
         {
             "name": "Madrid",
             "category": "Spain",
-            "image": "https://c4.wallpaperflare.com/wallpaper/487/323/753/man-made-madrid-building-city-wallpaper-preview.jpg",
-            "link": "Destinations/Spain/Madrid.html"
+            "image": "https://c4.wallpaperflare.com/wallpaper/487/323/753/man-made-madrid-building-city-wallpaper-preview.jpg"
         },
 
         {
             "name": "Milan",
             "category": "Italy",
-            "image": "https://wallpaperaccess.com/full/2043362.jpg",
-            "link": "Destinations/Italy/Milan.html"
+            "image": "https://wallpaperaccess.com/full/2043362.jpg"
         },
 
         {
             "name": "Santorini",
             "category": "Greece",
-            "image": "https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg",
-            "link": "Destinations/Greece/Santorini.html"
+            "image": "https://s1.1zoom.me/b5050/712/Greece_Coast_Sea_Houses_501550_1920x1200.jpg"
         },
 
         {
             "name": "Barcelona",
             "category": "Spain",
-            "image": "https://wallpaperaccess.com/full/1127205.jpg",
-            "link": "Destinations/city.html"
+            "image": "https://wallpaperaccess.com/full/1127205.jpg"
         },
 
         {
             "name": "Carmel-by-the-Sea",
             "category": "United States",
-            "image": "https://www.tripsavvy.com/thmb/O_BzxNJr1xhZiZ71FdennjyKxaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8549534973_7c85e41215_o-56ba916c3df78c0b136b4b2c.jpg",
-            "link": "Destinations/United States/Carmel.html"
+            "image": "https://www.tripsavvy.com/thmb/O_BzxNJr1xhZiZ71FdennjyKxaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8549534973_7c85e41215_o-56ba916c3df78c0b136b4b2c.jpg"
         },
         
         {
             "name": "Dubai",
             "category": "UAE",
-            "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg",
-            "link": "Destinations/Asia/Dubai.html"
+            "image": "https://images.wallpaperscraft.com/image/single/dubai_building_sky_850_1920x1200.jpg"
         },
 
         {
             "name": "Cape Town",
             "category": "South Africa",
-            "image": "https://wallpapercave.com/wp/wp2007525.jpg",
-            "link": "Destinations/Africa/CapeTown.html"
+            "image": "https://wallpapercave.com/wp/wp2007525.jpg"
         },
 
         {
             "name": "Sydney",
             "category": "Australia",
-            "image": "https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg",
-            "link": "Destinations/Australia/Sydney.html"
+            "image": "https://i.pinimg.com/originals/14/ee/7d/14ee7dd466d2db13bd6a9b8b0a755f82.jpg"
         },
 
         {
             "name": "Rio de Janeiro",
             "category": "Brazil",
-            "image": "https://media.timeout.com/images/105482246/image.jpg",
-            "link": "Destinations/Rio.html"
+            "image": "https://media.timeout.com/images/105482246/image.jpg"
         },
 
         {
             "name": "Vancouver",
             "category": "Canada",
-            "image": "https://lp-cms-production.imgix.net/2021-04/GettyRF_1124659884.jpg",
-            "link": "Destinations/city.html"
+            "image": "https://lp-cms-production.imgix.net/2021-04/GettyRF_1124659884.jpg"
         },
 
         {
             "name": "Porto",
             "category": "Portugal",
-            "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1662473667.jpg",
-            "link": "Destinations/Porto.html"
+            "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1662473667.jpg"
         },
         
         {
             "name": "Rome",
             "category": "Italy",
-            "image": "https://wallpaperaccess.com/full/129471.jpg",
-            "link": "Destinations/Italy/Rome.html"
+            "image": "https://wallpaperaccess.com/full/129471.jpg"
         },
         
         {
             "name": "Florence",
             "category": "Italy",
-            "image": "https://s1.1zoom.me/b5050/451/Florence_Italy_Cathedral_Houses_Santa_Maria_del_604918_1920x1200.jpg",
-            "link": "Destinations/Italy/Florence.html"
+            "image": "https://s1.1zoom.me/b5050/451/Florence_Italy_Cathedral_Houses_Santa_Maria_del_604918_1920x1200.jpg"
         },
         
         {
             "name": "Copenhagen",
             "category": "Denmark",
-            "image": "https://images.wallpaperscraft.com/image/single/houses_buildings_city_211699_1280x800.jpg",
-            "link": "/Destinations/Europe/Copenhagen.html"
+            "image": "https://images.wallpaperscraft.com/image/single/houses_buildings_city_211699_1280x800.jpg"
         },
         
         {
             "name": "Istanbul",
             "category": "Turkey",
-            "image": "https://c4.wallpaperflare.com/wallpaper/691/715/742/1920x1200-px-islam-istanbul-mosque-mosques-sultan-ahmed-mosque-turkey-animals-bears-hd-art-wallpaper-preview.jpg",
-            "link": "/Destinations/Europe/Istanbul.html"
+            "image": "https://c4.wallpaperflare.com/wallpaper/691/715/742/1920x1200-px-islam-istanbul-mosque-mosques-sultan-ahmed-mosque-turkey-animals-bears-hd-art-wallpaper-preview.jpg"
         },
         
         {
             "name": "Prague",
             "category": "Czech Republic",
-            "image": "https://wallpaperaccess.com/full/245672.jpg",
-            "link": "/Destinations/Europe/prague.html"
+            "image": "https://wallpaperaccess.com/full/245672.jpg"
         },
 
         {
             "name": "Stockholm",
             "category": "Sweden",
-            "image": "https://images7.alphacoders.com/900/thumb-1920-900579.jpg",
-            "link": "/Destinations/Europe/Stockholm.html"
+            "image": "https://images7.alphacoders.com/900/thumb-1920-900579.jpg"
         },
         {
             "name": "Venice",
             "category": "Italy",
-            "image": "https://cdn.britannica.com/62/153462-050-3D4F41AF/Grand-Canal-Venice.jpg",
-            "link": "/Destinations/Italy/Venice.html"
+            "image": "https://cdn.britannica.com/62/153462-050-3D4F41AF/Grand-Canal-Venice.jpg"
         },
         {
             "name": "Lisbon",
             "category": "Portugal",
-            "image": "https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg",
-            "link": "/Destinations/Portugal/lisbon.html"
+            "image": "https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg"
         },
         {
             "name": "Athens",
             "category": "Greece",
-            "image": "https://cdn.wallpapersafari.com/20/57/vnawpO.jpg",
-            "link": "/Destinations/Greece/Athens.html"
+            "image": "https://cdn.wallpapersafari.com/20/57/vnawpO.jpg"
         },
         {
             "name": "Munich",
             "category": "Germany",
-            "image": "https://res.cloudinary.com/odysseytraveller/image/fetch/f_auto,q_auto,dpr_auto,r_4,w_765,h_535.5,c_limit/https://cdn.odysseytraveller.com/app/uploads/2020/02/Old-Town-Hall-at-Marienplatz-Square-Munich-Germany-GettyImages-1173484118.jpg",
-            "link": "/Destinations/city.html"
+            "image": "https://res.cloudinary.com/odysseytraveller/image/fetch/f_auto,q_auto,dpr_auto,r_4,w_765,h_535.5,c_limit/https://cdn.odysseytraveller.com/app/uploads/2020/02/Old-Town-Hall-at-Marienplatz-Square-Munich-Germany-GettyImages-1173484118.jpg"
         },
         {
             "name": "Seville",
             "category": "Spain",
-            "image": "https://images5.alphacoders.com/427/427231.jpg",
-            "link": "/Destinations/Spain/Sevielle.html"
+            "image": "https://images5.alphacoders.com/427/427231.jpg"
         },
         {
             "name": "Oslo",
             "category": "Norway",
-            "image": "https://s1.1zoom.me/b5050/98/Norway_Houses_Mountains_Oslo_Roof_From_above_564839_1920x1200.jpg",
-            "link": "/Destinations/Europe/Oslo.html"
+            "image": "https://s1.1zoom.me/b5050/98/Norway_Houses_Mountains_Oslo_Roof_From_above_564839_1920x1200.jpg"
         },
         
         {
             "name": "Dubrovnik",
             "category": "Croatia",
-            "image": "https://www.terra-balka.com/en/wp-content/uploads/adobestock-16639355-dubrovnik-1280x800.jpeg",
-            "link": "/Destinations/Europe/Dubrovnik.html"
+            "image": "https://www.terra-balka.com/en/wp-content/uploads/adobestock-16639355-dubrovnik-1280x800.jpeg"
         },
 
         {
             "name": "Zurich",
             "category": "Switzerland",
-            "image": "https://s1.1zoom.me/big7/475/Switzerland_Zurich_Houses_Evening_Rivers_Bridges_581997_1920x1200.jpg",
-            "link": "/Destinations/Switzerland/Zurich.html"
+            "image": "https://s1.1zoom.me/big7/475/Switzerland_Zurich_Houses_Evening_Rivers_Bridges_581997_1920x1200.jpg"
         },
 
         {
             "name": "Geneva",
             "category": "Switzerland",
-            "image": "https://wallpaperaccess.com/full/2036265.jpg",
-            "link": "/Destinations/Switzerland/Geneva.html"
+            "image": "https://wallpaperaccess.com/full/2036265.jpg"
         },
 
         {
             "name": "Annecy",
             "category": "France",
-            "image": "https://cdn.getyourguide.com/img/tour/5b10ffee7c68d.jpeg/146.jpg",
-            "link": "/Destinations/France/Annecy.html"
+            "image": "https://cdn.getyourguide.com/img/tour/5b10ffee7c68d.jpeg/146.jpg"
         },
 
         {
             "name": "Monaco",
             "category": "Monaco",
-            "image": "https://vistapointe.net/images/monaco-4.jpg",
-            "link": "/Destinations/Europe/Monaco.html"
+            "image": "https://vistapointe.net/images/monaco-4.jpg"
         },
 
         {
             "name": "Cannes",
             "category": "France",
-            "image": "https://wallpaperaccess.com/full/681290.jpg",
-            "link": "/Destinations/France/Cannes.html"
+            "image": "https://wallpaperaccess.com/full/681290.jpg"
         },
 
         {
@@ -283,351 +243,518 @@
 
         {   "name": "Bali",
             "category": "Indonesia",
-            "image": "https://wallpaperaccess.com/full/373638.jpg",    
-            "link": "Destinations/Asia/bali.html"  
+            "image": "https://wallpaperaccess.com/full/373638.jpg"
         },  
         
         {    
             "name": "Phuket",    
             "category": "Thailand",    
-            "image": "https://www.travelandleisure.com/thmb/RQ3JmT8V2y2fhwr7NY0cgUumcCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phuket-thailand-karst-formation-phuket0327-92bd3ce9266148dba74cba5e36c711e2.jpg",    
-            "link": "Destinations/Asia/Phuket.html"  
+            "image": "https://www.travelandleisure.com/thmb/RQ3JmT8V2y2fhwr7NY0cgUumcCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phuket-thailand-karst-formation-phuket0327-92bd3ce9266148dba74cba5e36c711e2.jpg"
         },
 
         {    
             "name": "Cairo",    
             "category": "Egypt",    
-            "image": "https://lp-cms-production.imgix.net/features/2018/12/cairo-nile-egypt-b0aaae77d4d9.jpg?auto=format&q=75&w=1920",    
-            "link": "Destinations/Africa/cairo.html"  
+            "image": "https://lp-cms-production.imgix.net/features/2018/12/cairo-nile-egypt-b0aaae77d4d9.jpg?auto=format&q=75&w=1920"
         },  
         
         {    
             "name": "Kyoto",    
             "category": "Japan",    
-            "image": "https://wallpaper.dog/large/967735.jpg",    
-            "link": "Destinations/Japan/kyoto.html"  
+            "image": "https://wallpaper.dog/large/967735.jpg"
         },  
         
         {    
             "name": "Montreal",    
             "category": "Canada",    
-            "image": "https://images8.alphacoders.com/510/thumb-1920-510444.jpg",    
-            "link": "Destinations/Canada/Montreal.html"  
+            "image": "https://images8.alphacoders.com/510/thumb-1920-510444.jpg"
         },  
-        
-        {    
-            "name": "Lisbon",    
-            "category": "Portugal",    
-            "image": "https://s1.1zoom.me/b5050/139/Houses_Portugal_Lisbon_476470_1920x1200.jpg",    
-            "link": "/Destinations/Portugal/lisbon.html"  
-        },
         
         {
             "name": "Vienna",
             "category": "Austria",
-            "image": "https://i.guim.co.uk/img/media/44907381ba02489d60c01ed449fbbef4f82c9bd4/0_579_8688_5213/master/8688.jpg?width=1200&quality=85&auto=format&fit=max&s=5d57831bfe1d69bb81a6057cbb2ce009",
-            "link": "/Destinations/Europe/Vienna.html"
+            "image": "https://i.guim.co.uk/img/media/44907381ba02489d60c01ed449fbbef4f82c9bd4/0_579_8688_5213/master/8688.jpg?width=1200&quality=85&auto=format&fit=max&s=5d57831bfe1d69bb81a6057cbb2ce009"
         },
 
         {
             "name": "Marrakech",
             "category": "Morocco",
-            "image": "https://abdesert.com/wp-content/uploads/2021/03/9f519e5ed23af4c209dc5a2dbb3440c7.jpg",
-            "link": "/Destinations/Africa/Marrakech.html"
+            "image": "https://abdesert.com/wp-content/uploads/2021/03/9f519e5ed23af4c209dc5a2dbb3440c7.jpg"
         },
 
         {
             "name": "Berlin",
             "category": "Germany",
-            "image": "https://images6.alphacoders.com/369/thumb-1920-369567.jpg",
-            "link": "/Destinations/city.html"
+            "image": "https://images6.alphacoders.com/369/thumb-1920-369567.jpg"
         },
 
         {
-            "name": "Machu Picchu",
-            "category": "Peru",
-            "image": "https://wallpaperaccess.com/full/1099442.jpg",
-            "link": "/Destinations/MachuPicchu.html"
-        },
-
-        {
-            "name": "Switzerland",
-            "category": "Switzerland",
-            "image": "https://s1.1zoom.me/b5050/719/Switzerland_Mountains_Lake_Brienzer_See_Alps_597630_1920x1200.jpg",
-            "link": "Destinations/Switzerland/switzerland.html"
-        },
-
-        {
-            "name": "Iceland",
-            "category": "Iceland",
-            "image": "https://wallpaperaccess.com/full/733979.jpg",
-            "link": "Destinations/Europe/iceland.html"
+            "name": "Reykjavík",
+            "category": "Reykjavík",
+            "image": "https://tourscanner.com/blog/wp-content/uploads/2021/07/things-to-do-in-Reykjavik.jpg"
         },
           
         {
             "name": "Namibia",
             "category": "Africa",
-            "image": "https://www.state.gov/wp-content/uploads/2018/11/Namibia-e1555939331801-2500x1406.jpg",
-            "link": "Destinations/Africa/Namibia.html"
-        },
-        
-        {
-            "name": "Norway",
-            "category": "Europe",
-            "image": "https://www.wallpaperup.com/uploads/wallpapers/2015/06/12/720351/ec0ab0ff31703ca1b30084f446741747.jpg",
-            "link": "Destinations/Europe/Norway.html"
-        },
-        
-        {
-            "name": "Lake Louise, Alberta",
-            "category": "Canada",
-            "image": "https://wallpaperaccess.com/full/1609678.jpg",
-            "link": "Destinations/Canada/lakeLouiseAL.html"
+            "image": "https://www.state.gov/wp-content/uploads/2018/11/Namibia-e1555939331801-2500x1406.jpg"
         },
 
         {
             "name": "Sibiu",
             "category": "Romania",
-            "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg",
-            "link": "Destinations/Europe/Sibiu.html"
-        },
-        
-        {
-            "name": "Fiordland",
-            "category": "New Zealand",
-            "image": "https://media.cntraveler.com/photos/5e8511e41185400008f5b3fe/master/w_2580%2Cc_limit/new-zealand-happiest-countries-GettyImages-452517269.jpg",
-            "link": "Destinations/Australia/FiordlandNZ.html"
-        },
-        
-        {
-            "name": "Australia",
-            "category": "Australia",
-            "image": "https://www.10wallpaper.com/wallpaper/1920x1200/1604/Sunset_time_rocks_western_australia-Nature_scenery_HD_Wallpaper_1920x1200.jpg",
-            "link": "Destinations/Australia/Australia.html"
-        },
-        
-        {
-            "name": "Scotland",
-            "category": "United Kingdom",
-            "image": "https://wallpapercave.com/wp/wp1815136.jpg",
-            "link": "Destinations/United Kingdom/Scotland.html"
+            "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg"
         },
 
         {
             "name": "Singapore",
             "category": "Singapore",
-            "image": "https://cdn1.matadornetwork.com/blogs/1/2019/06/The-Supertrees-At-Gardens-By-The-Bay-In-Singapore.jpg",
-            "link": "Destinations/Asia/Singapore.html"
+            "image": "https://cdn1.matadornetwork.com/blogs/1/2019/06/The-Supertrees-At-Gardens-By-The-Bay-In-Singapore.jpg"
         },
 
         {
             "name": "Doha",
             "category": "Qatar",
-            "image": "https://www.arabianbusiness.com/cloud/2021/09/15/QYhp5KVD-dohaqatar_1-4.jpg",
-            "link": "Destinations/Middle East/Doha.html"
+            "image": "https://www.arabianbusiness.com/cloud/2021/09/15/QYhp5KVD-dohaqatar_1-4.jpg"
         },
 
         {
             "name": "Seoul",
             "category": "South Korea",
-            "image": "https://cdn.wallpapersafari.com/21/23/cJKkwh.jpg",
-            "link": "Destinations/Asia/Seoul.html"
+            "image": "https://cdn.wallpapersafari.com/21/23/cJKkwh.jpg"
         },
 
         {
             "name": "Bangkok",
             "category": "Thailand",
-            "image": "https://images.wallpaperscraft.com/image/single/night_city_palace_city_lights_122501_1280x800.jpg",
-            "link": "Destinations/Asia/Bangkok.html"
+            "image": "https://images.wallpaperscraft.com/image/single/night_city_palace_city_lights_122501_1280x800.jpg"
         },
 
         {
             "name": "Hong Kong",
             "category": "Hong Kong",
-            "image": "https://images.hdqwalls.com/download/hong-kong-city-view-buildings-light-night-im-1280x800.jpg",
-            "link": "Destinations/Asia/Hong Kong.html"
+            "image": "https://images.hdqwalls.com/download/hong-kong-city-view-buildings-light-night-im-1280x800.jpg"
         },
 
         {
             "name": "Macau",
             "category": "Macau",
-            "image": "https://media.timeout.com/images/105242480/image.jpg",
-            "link": "Destinations/Asia/Macau.html"
+            "image": "https://media.timeout.com/images/105242480/image.jpg"
         },
 
         {
             "name": "Shanghai",
             "category": "China",
-            "image": "https://cms.finnair.com/resource/blob/674956/26d19039cd2f8e32bc5f605240398408/shanghai-main-data.jpg",
-            "link": "Destinations/Asia/Shanghai.html"
+            "image": "https://cms.finnair.com/resource/blob/674956/26d19039cd2f8e32bc5f605240398408/shanghai-main-data.jpg"
         },
 
         {
             "name": "Beijing",
             "category": "China",
-            "image": "https://cdn.britannica.com/03/198203-050-138BB1C3/entrance-Gate-of-Divine-Might-Beijing-Forbidden.jpg",
-            "link": "Destinations/Asia/Beijing.html"
+            "image": "https://cdn.britannica.com/03/198203-050-138BB1C3/entrance-Gate-of-Divine-Might-Beijing-Forbidden.jpg"
         },
 
         {
             "name": "Osaka",
             "category": "Japan",
-            "image": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2023/02/iStock-Eloi_Omella-osaka-tower.jpg",
-            "link": "Destinations/Asia/Osaka.html"
+            "image": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2023/02/iStock-Eloi_Omella-osaka-tower.jpg"
         },
 
         {
             "name": "Busan",
             "category": "South Korea",
-            "image": "https://www.tripsavvy.com/thmb/ZXU7C0Mjya5smqb4D3qFAyNSX5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gamcheon-culture-village--busan--south-korea-1149825040-2bc1e16a08c14ee9add5aae5f0e8e9b9.jpg",
-            "link": "Destinations/Asia/Busan.html"
+            "image": "https://www.tripsavvy.com/thmb/ZXU7C0Mjya5smqb4D3qFAyNSX5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gamcheon-culture-village--busan--south-korea-1149825040-2bc1e16a08c14ee9add5aae5f0e8e9b9.jpg"
         },
 
         {
             "name": "Shenzhen",
             "category": "China",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2022/11/25/cc2c234a-e237-42fd-8fe1-e8d71d3da714_c655b331.jpg?itok=r_b9gQ-z&v=1669347545",
-            "link": "Destinations/China/Shenzhen.html"
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2022/11/25/cc2c234a-e237-42fd-8fe1-e8d71d3da714_c655b331.jpg?itok=r_b9gQ-z&v=1669347545"
         },
             
         {
             "name": "Beirut",
             "category": "Lebanon",
-            "image": "https://static.euronews.com/articles/stories/07/03/78/74/1440x810_cmsv2_31e075c9-00c3-595c-a40a-fbbc0af8d492-7037874.jpg",
-            "link": "Destinations/Lebanon/Beirut.html"
+            "image": "https://static.euronews.com/articles/stories/07/03/78/74/1440x810_cmsv2_31e075c9-00c3-595c-a40a-fbbc0af8d492-7037874.jpg"
         },
             
         {
             "name": "Jeddah",
             "category": "Saudi Arabia",
-            "image": "https://www.ft.com/partnercontent/images/ministry-of-tourism/jeddah/hero.jpg",
-            "link": "Destinations/Saudi Arabia/Jeddah.html"
+            "image": "https://www.ft.com/partnercontent/images/ministry-of-tourism/jeddah/hero.jpg"
         },
             
         {
             "name": "Luxor",
             "category": "Egypt",
-            "image": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/49581/file-manager/luxor-travel-guide,-information-about-luxor,-egypt.jpg",
-            "link": "Destinations/Egypt/Luxor.html"
+            "image": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/49581/file-manager/luxor-travel-guide,-information-about-luxor,-egypt.jpg"
         },
             
         {
-            "name": "Sharm El Sheikh",
+            "name": "Sharm El-Sheikh",
             "category": "Egypt",
-            "image": "https://www.whereandwhen.net/site/images/illustration/charm-el-cheikh_715.jpg",
-            "link": "Destinations/Egypt/Sharm El Sheikh.html"
+            "image": "https://www.whereandwhen.net/site/images/illustration/charm-el-cheikh_715.jpg"
         },
             
         {
             "name": "Alexandria",
             "category": "Egypt",
-            "image": "https://egyptianstreets.com/wp-content/uploads/2022/05/montaza-palace.jpeg",
-            "link": "Destinations/Egypt/Alexandria.html"
+            "image": "https://egyptianstreets.com/wp-content/uploads/2022/05/montaza-palace.jpeg"
         },
             
         {
-            "name": "Chicago, IL",
+            "name": "Chicago",
             "category": "United States",
-            "image": "https://cdn.choosechicago.com/uploads/2022/06/wygyk-agnostic-A.Alexander_5cloudgateMay13-scaled.jpg",
-            "link": "Destinations/United States/Chicago.html"
+            "image": "https://cdn.choosechicago.com/uploads/2022/06/wygyk-agnostic-A.Alexander_5cloudgateMay13-scaled.jpg"
         },
             
         {
             "name": "Washington D.C.",
             "category": "United States",
-            "image": "https://www.rd.com/wp-content/uploads/2018/11/10-Best-and-Worst-Countries-for-Saving-Money-3.jpg",
-            "link": "Destinations/United States/Washington D.C..html"
+            "image": "https://www.rd.com/wp-content/uploads/2018/11/10-Best-and-Worst-Countries-for-Saving-Money-3.jpg"
         },
             
         {
             "name": "Quebec City",
             "category": "Canada",
-            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/23/2b/0f.jpg",
-            "link": "Destinations/Canada/Quebec City.html"
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/23/2b/0f.jpg"
         },
             
         {
             "name": "Boston",
             "category": "United States",
-            "image": "https://www.civitatis.com/blog/wp-content/uploads/2023/01/panoramica-boston-estados-unidos.jpg",
-            "link": "Destinations/United States/Boston.html"
+            "image": "https://www.civitatis.com/blog/wp-content/uploads/2023/01/panoramica-boston-estados-unidos.jpg"
         },
             
         {
             "name": "Cancun",
             "category": "Mexico",
-            "image": "https://bookaweb.s3.eu-central-1.amazonaws.com/media/29889/cancun.jpg",
-            "link": "Destinations/Mexico/Cancun.html"
+            "image": "https://bookaweb.s3.eu-central-1.amazonaws.com/media/29889/cancun.jpg"
         },
             
         {
             "name": "Delhi",
             "category": "India",
-            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/c5/e8/5c.jpg",
-            "link": "Destinations/India/Delhi.html"
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/c5/e8/5c.jpg"
         },
             
         {
             "name": "Abu Dhabi",
             "category": "United Arab Emirates",
-            "image": "https://content.r9cdn.net/rimg/dimg/a8/85/bbf8aa0b-city-9457-164d6a9147e.jpg?width=1366&height=768&xhint=2731&yhint=1539&crop=true",
-            "link": "Destinations/United Arab Emirates/Abu Dhabi.html"
+            "image": "https://content.r9cdn.net/rimg/dimg/a8/85/bbf8aa0b-city-9457-164d6a9147e.jpg?width=1366&height=768&xhint=2731&yhint=1539&crop=true"
         },
             
         {
             "name": "Santiago",
             "category": "Chile",
-            "image": "https://storage.googleapis.com/chile-travel-newsite-static-content/2021/08/santiago-portada-1.jpg",
-            "link": "Destinations/Chile/Santiago.html"
+            "image": "https://storage.googleapis.com/chile-travel-newsite-static-content/2021/08/santiago-portada-1.jpg"
         },
 
         {
             "name": "Mexico City",
             "category": "Mexico",
-            "image": "https://i.insider.com/6453ede1b4a8cd00187acb37?width=700",
-            "link": "Destinations/Mexico/Mexico_City.html"
+            "image": "https://i.insider.com/6453ede1b4a8cd00187acb37?width=700"
         },
             
         {
             "name": "Havana",
             "category": "Cuba",
-            "image": "https://content.r9cdn.net/rimg/dimg/a3/1d/05f2b4a1-city-11020-1700c4dba73.jpg?crop=true&width=1020&height=498",
-            "link": "Destinations/Cuba/Havana.html"
+            "image": "https://content.r9cdn.net/rimg/dimg/a3/1d/05f2b4a1-city-11020-1700c4dba73.jpg?crop=true&width=1020&height=498"
         },
             
         {
             "name": "Colorado Springs",
             "category": "United States",
-            "image": "https://a.cdn-hotels.com/gdcs/production95/d1063/680a4905-9d25-47c5-815b-30f14c279062.jpg",
-            "link": "Destinations/United States/Colorado_Springs.html"
+            "image": "https://a.cdn-hotels.com/gdcs/production95/d1063/680a4905-9d25-47c5-815b-30f14c279062.jpg"
         },
             
         {
             "name": "San Diego",
             "category": "United States",
-            "image": "https://a.cdn-hotels.com/gdcs/production72/d278/15f87a8d-c829-45bb-bec6-708a333de504.jpg",
-            "link": "Destinations/United States/San_Diego.html"
+            "image": "https://a.cdn-hotels.com/gdcs/production72/d278/15f87a8d-c829-45bb-bec6-708a333de504.jpg"
         },
             
         {
             "name": "Edinburgh",
             "category": "Scotland",
-            "image": "https://ewh.org.uk/wp-content/uploads/2023/05/The-Royal-Mile.png",
-            "link": "Destinations/Scotland/Edinburgh.html"
+            "image": "https://ewh.org.uk/wp-content/uploads/2023/05/The-Royal-Mile.png"
         },
             
         {
             "name": "Glasgow",
             "category": "Scotland",
-            "image": "https://media.timeout.com/images/105400989/750/422/image.jpg",
-            "link": "Destinations/Scotland/Glasgow.html"
+            "image": "https://media.timeout.com/images/105400989/750/422/image.jpg"
         },
             
         {
             "name": "Manchester",
             "category": "United Kingdom",
-            "image": "https://www.mmu.ac.uk/sites/default/files/2020-06/Castlefield.jpg",
-            "link": "Destinations/United Kingdom/Manchester.html"
+            "image": "https://www.mmu.ac.uk/sites/default/files/2020-06/Castlefield.jpg"
+        },
+        {
+            "name": "Charleston",
+            "category": "South Carolina",
+            "image": "x"
+        },
+        {
+            "name": "Dallas",
+            "category": "Texas",
+            "image": "x"
+        },
+        {
+            "name": "Portland, OR",
+            "category": "Oregon",
+            "image": "x"
+        },
+        {
+            "name": "Portland, ME",
+            "category": "Maine",
+            "image": "x"
+        },
+        {
+            "name": "Savannah",
+            "category": "Georgia",
+            "image": "x"
+        },
+        {
+            "name": "Denver",
+            "category": "Colorado",
+            "image": "x"
+        },
+        {
+            "name": "San Antonio",
+            "category": "Texas",
+            "image": "x"
+        },
+        {
+            "name": "Phoenix",
+            "category": "Arizona",
+            "image": "x"
+        },
+        {
+            "name": "Atlanta",
+            "category": "Georgia",
+            "image": "x"
+        },
+        {
+            "name": "Memphis",
+            "category": "Tennessee",
+            "image": "x"
+        },
+        {
+            "name": "Philadelphia",
+            "category": "Pennsylvania",
+            "image": "x"
+        },
+        {
+            "name": "Orlando",
+            "category": "Florida",
+            "image": "x"
+        },
+        {
+            "name": "Houston",
+            "category": "Texas",
+            "image": "x"
+        },
+        {
+            "name": "Louisville",
+            "category": "Kentucky",
+            "image": "x"
+        },
+        {
+            "name": "Charlotte",
+            "category": "North Carolina",
+            "image": "x"
+        },
+        {
+            "name": "Milwaukee",
+            "category": "Wisconsin",
+            "image": "x"
+        },
+        {
+            "name": "Omaha",
+            "category": "Nebraska",
+            "image": "x"
+        },
+        {
+            "name": "Indianapolis",
+            "category": "Indiana",
+            "image": "x"
+        },
+        {
+            "name": "Sacramento",
+            "category": "California",
+            "image": "x"
+        },
+        {
+            "name": "Cincinnati",
+            "category": "Ohio",
+            "image": "x"
+        },
+        {
+            "name": "Maui",
+            "category": "Hawaii",
+            "image": "x"
+        },
+        {
+            "name": "Aspen",
+            "category": "Colorado",
+            "image": "x"
+        },
+        {
+            "name": "Juneau",
+            "category": "Alaska",
+            "image": "x"
+        },
+        {
+            "name": "Fort Lauderdale",
+            "category": "Florida",
+            "image": "x"
+        },
+        {
+            "name": "Pensacola",
+            "category": "Florida",
+            "image": "x"
+        },
+        {
+            "name": "Santa Fe",
+            "category": "New Mexico",
+            "image": "x"
+        },
+        {
+            "name": "Williamsburg",
+            "category": "Virginia",
+            "image": "x"
+        },
+        {
+            "name": "Bend",
+            "category": "Oregon",
+            "image": "x"
+        },
+        {
+            "name": "Asheville",
+            "category": "North Carolina",
+            "image": "x"
+        },
+        {
+            "name": "El Paso",
+            "category": "Texas",
+            "image": "x"
+        },
+        {
+            "name": "Detroit",
+            "category": "Michigan",
+            "image": "x"
+        },
+        {
+            "name": "Baltimore",
+            "category": "Maryland",
+            "image": "x"
+        },
+        {
+            "name": "Albuquerque",
+            "category": "New Mexico",
+            "image": "x"
+        },
+        {
+            "name": "Tucson",
+            "category": "Arizona",
+            "image": "x"
+        },
+        {
+            "name": "Fresno",
+            "category": "California",
+            "image": "x"
+        },
+        {
+            "name": "Mesa",
+            "category": "Arizona",
+            "image": "x"
+        },
+        {
+            "name": "Kansas City",
+            "category": "Missouri",
+            "image": "x"
+        },
+        {
+            "name": "Oakland",
+            "category": "California",
+            "image": "x"
+        },
+        {
+            "name": "Cleveland",
+            "category": "Ohio",
+            "image": "x"
+        },
+        {
+            "name": "Riverside",
+            "category": "California",
+            "image": "x"
+        },
+        {
+            "name": "Pittsburgh",
+            "category": "Pennsylvania",
+            "image": "x"
+        },
+        {
+            "name": "Anchorage",
+            "category": "Alaska",
+            "image": "x"
+        },
+        {
+            "name": "Buffalo",
+            "category": "New York",
+            "image": "x"
+        },
+        {
+            "name": "Boise",
+            "category": "Idaho",
+            "image": "x"
+        },
+        {
+            "name": "Salt Lake City",
+            "category": "Utah",
+            "image": "x"
+        },
+        {
+            "name": "Providence",
+            "category": "Rhode Island",
+            "image": "x"
+        },
+        {
+            "name": "Chattanooga",
+            "category": "Tennessee",
+            "image": "x"
+        },
+        {
+            "name": "Santa Rosa",
+            "category": "California",
+            "image": "x"
+        },
+        {
+            "name": "Madison",
+            "category": "Wisconsin",
+            "image": "x"
+        },
+        {
+            "name": "Telluride",
+            "category": "Colorado",
+            "image": "x"
+        },
+        {
+            "name": "Newport",
+            "category": "Rhode Island",
+            "image": "x"
+        },
+        {
+            "name": "Sedona",
+            "category": "Arizona",
+            "image": "x"
+        },
+        {
+            "name": "Annapolis",
+            "category": "Maryland",
+            "image": "x"
         }
     ]
 }

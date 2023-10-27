@@ -1,0 +1,179 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Atlanta, Georgia"
+    },
+    "about": {
+      "name": "Atlanta",
+      "info_text": "Atlanta, the capital of Georgia, is a vibrant and diverse city known for its rich history, cultural attractions, and southern hospitality. The city played a significant role in the civil rights movement and is home to landmarks like the Martin Luther King Jr. National Historic Site. Visitors can explore a variety of neighborhoods, each with its own unique character, and enjoy a thriving arts scene, exceptional dining, and a range of outdoor activities.",
+      "facts_text": "<strong>Population:</strong> Approximately 498,044<br><strong>State:</strong> Georgia<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Languages:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Atlanta has a humid subtropical climate with hot summers and mild winters. The city experiences occasional snowfall in the winter months."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Martin Luther King Jr. National Historic Site",
+          "title": "Martin Luther King Jr. National Historic Site",
+          "description": "The historic site honors the life and legacy of Dr. Martin Luther King Jr. Visitors can explore his childhood home, the Ebenezer Baptist Church, and the King Center."
+        },
+        {
+          "img": "x",
+          "alt": "The Georgia Aquarium",
+          "title": "The Georgia Aquarium",
+          "description": "One of the largest aquariums in the world, the Georgia Aquarium features a diverse range of marine life and offers educational programs and interactive exhibits."
+        },
+        {
+          "img": "x",
+          "alt": "Piedmont Park",
+          "title": "Piedmont Park",
+          "description": "Piedmont Park is a sprawling urban park in the heart of Atlanta, providing a scenic escape with walking trails, sports facilities, and cultural events."
+        },
+        {
+          "img": "x",
+          "alt": "The World of Coca-Cola",
+          "title": "The World of Coca-Cola",
+          "description": "Explore the history of Coca-Cola at this interactive museum, featuring exhibits, a tasting room, and a chance to meet the Coca-Cola polar bear."
+        },
+        {
+          "img": "x",
+          "alt": "The Atlanta History Center",
+          "title": "The Atlanta History Center",
+          "description": "The Atlanta History Center offers a comprehensive look at the city's history, with museums, historic homes, gardens, and events."
+        },
+        {
+          "img": "x",
+          "alt": "The Fox Theatre",
+          "title": "The Fox Theatre",
+          "description": "The Fox Theatre is a historic venue known for its stunning architecture and hosts a variety of performances, from Broadway shows to concerts."
+        },
+        {
+          "img": "x",
+          "alt": "The High Museum of Art",
+          "title": "The High Museum of Art",
+          "description": "The High Museum of Art features an impressive collection of art, including European paintings, contemporary art, and special exhibitions."
+        },
+        {
+          "img": "x",
+          "alt": "The Atlanta Botanical Garden",
+          "title": "The Atlanta Botanical Garden",
+          "description": "The Atlanta Botanical Garden is a beautiful oasis with a variety of themed gardens, plant collections, and seasonal displays."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Southern Comfort Food",
+          "title": "Southern Comfort Food",
+          "description": "Indulge in classic southern dishes like fried chicken, biscuits, collard greens, and peach cobbler at local restaurants."
+        },
+        {
+          "img": "x",
+          "alt": "Barbecue",
+          "title": "Barbecue",
+          "description": "Atlanta is known for its barbecue, offering a range of styles, from tangy to smoky. Don't miss trying ribs, pulled pork, and brisket."
+        },
+        {
+          "img": "x",
+          "alt": "International Cuisine",
+          "title": "International Cuisine",
+          "description": "The city's diverse culinary scene includes international cuisines such as Mexican, Ethiopian, Vietnamese, and more."
+        },
+        {
+          "img": "x",
+          "alt": "Farm-to-Table Dining",
+          "title": "Farm-to-Table Dining",
+          "description": "Enjoy fresh and locally sourced ingredients at farm-to-table restaurants, showcasing the best of Georgia's produce."
+        },
+        {
+          "img": "x",
+          "alt": "Craft Beer and Cocktails",
+          "title": "Craft Beer and Cocktails",
+          "description": "Atlanta's craft breweries and cocktail bars offer a wide selection of locally brewed beers and creative mixed drinks."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Ritz-Carlton, Atlanta",
+          "title": "The Ritz-Carlton, Atlanta",
+          "description": "The Ritz-Carlton offers luxury accommodations with a central downtown location and top-notch amenities."
+        },
+        {
+          "img": "x",
+          "alt": "Four Seasons Hotel Atlanta",
+          "title": "Four Seasons Hotel Atlanta",
+          "description": "The Four Seasons Hotel in Midtown Atlanta provides elegance and comfort with spacious rooms and skyline views."
+        },
+        {
+          "img": "x",
+          "alt": "W Atlanta - Midtown",
+          "title": "W Atlanta - Midtown",
+          "description": "W Atlanta is a trendy hotel in the Midtown area, known for its modern design and vibrant atmosphere."
+        },
+        {
+          "img": "x",
+          "alt": "The Georgian Terrace Hotel",
+          "title": "The Georgian Terrace Hotel",
+          "description": "The Georgian Terrace is a historic hotel with a prime location near the Fox Theatre, offering classic charm and contemporary comforts."
+        },
+        {
+          "img": "x",
+          "alt": "The Westin Peachtree Plaza",
+          "title": "The Westin Peachtree Plaza",
+          "description": "The Westin Peachtree Plaza is a distinctive circular hotel with sweeping city views and a revolving rooftop restaurant."
+        },
+        {
+          "img": "x",
+          "alt": "Hotel Clermont",
+          "title": "Hotel Clermont",
+          "description": "Hotel Clermont is a boutique hotel in the Poncey-Highland neighborhood, blending historic character with modern amenities."
+        },
+        {
+          "img": "x",
+          "alt": "JW Marriott Atlanta Buckhead",
+          "title": "JW Marriott Atlanta Buckhead",
+          "description": "The JW Marriott in Buckhead offers luxurious accommodations, upscale dining, and a convenient location near shopping and dining."
+        },
+        {
+          "img": "x",
+          "alt": "The St. Regis Atlanta",
+          "title": "The St. Regis Atlanta",
+          "description": "The St. Regis is an opulent hotel in Buckhead, providing a refined experience with upscale dining and a beautiful pool."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "MARTA",
+          "title": "MARTA",
+          "description": "The Metropolitan Atlanta Rapid Transit Authority (MARTA) operates the city's subway and bus system, making it easy to get around."
+        },
+        {
+          "img": "x",
+          "alt": "Hartsfield-Jackson Atlanta International Airport",
+          "title": "Hartsfield-Jackson Atlanta International Airport",
+          "description": "Hartsfield-Jackson is one of the world's busiest airports, serving as a major transportation hub with domestic and international flights."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available for those who prefer to explore Atlanta and its surrounding areas by car."
+        },
+        {
+          "img": "x",
+          "alt": "Atlanta Streetcar",
+          "title": "Atlanta Streetcar",
+          "description": "The Atlanta Streetcar provides a convenient way to explore downtown Atlanta and its attractions."
+        }
+      ]
+    }
+  }
+  

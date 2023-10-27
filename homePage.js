@@ -9,7 +9,7 @@ window.onload=function(){
   const navbar = document.getElementById('navbar');
 
 window.onscroll = function() {
-    if (window.scrollY > 10) { // Adjust the value (10 in this case) to set when the navbar becomes translucent
+    if (window.scrollY > 830) { 
         navbar.classList.add('translucent');
     } else {
         navbar.classList.remove('translucent');

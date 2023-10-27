@@ -1,0 +1,142 @@
+{
+    "hero": {
+      "img": "x",
+      "title": "Portland, Maine"
+    },
+    "about": {
+      "name": "Portland, Maine",
+      "info_text": "Portland is a charming coastal city located in the New England region of the United States. It is known for its picturesque harbor, historic architecture, and a thriving culinary scene. The city offers a unique blend of maritime heritage, cultural attractions, and natural beauty, making it a popular destination for both residents and visitors. With its fresh seafood, vibrant arts community, and numerous outdoor activities, Portland has something to offer everyone.",
+      "facts_text": "<strong>Population:</strong> Approximately 66,000<br><strong>State:</strong> Maine<br><strong>Time Zone:</strong> Eastern Time Zone (UTC-05:00)<br><strong>Language:</strong> English<br><strong>Currency:</strong> United States Dollar (USD)",
+      "climate_text": "Portland experiences a humid continental climate with four distinct seasons. Winters are cold and snowy, while summers are mild and comfortable, making it an ideal destination for outdoor enthusiasts."
+    },
+    "attractions": {
+      "attractions_card": [
+        {
+          "img": "x",
+          "alt": "Old Port District",
+          "title": "Old Port District",
+          "description": "The Old Port District is a historic waterfront area known for its cobblestone streets, boutique shops, restaurants, and vibrant nightlife."
+        },
+        {
+          "img": "x",
+          "alt": "Portland Head Light",
+          "title": "Portland Head Light",
+          "description": "Portland Head Light is an iconic lighthouse situated in Cape Elizabeth, offering breathtaking coastal views and a museum inside the former keeper's house."
+        },
+        {
+          "img": "x",
+          "alt": "Casco Bay Islands",
+          "title": "Casco Bay Islands",
+          "description": "Casco Bay is dotted with picturesque islands, accessible by ferry, where you can explore nature, go hiking, or enjoy a peaceful getaway."
+        },
+        {
+          "img": "x",
+          "alt": "Victoria Mansion",
+          "title": "Victoria Mansion",
+          "description": "The Victoria Mansion, also known as the Morse-Libby House, is a historic mansion with stunning interiors and architecture, open for tours."
+        },
+        {
+          "img": "x",
+          "alt": "Eastern Promenade",
+          "title": "Eastern Promenade",
+          "description": "The Eastern Promenade is a scenic park offering panoramic views of Casco Bay, walking trails, and a great spot for picnics."
+        },
+        {
+          "img": "x",
+          "alt": "Portland Museum of Art",
+          "title": "Portland Museum of Art",
+          "description": "The Portland Museum of Art features a diverse collection of artwork, including pieces by renowned Maine artists and impressive exhibits."
+        },
+        {
+          "img": "x",
+          "alt": "Wadsworth-Longfellow House",
+          "title": "Wadsworth-Longfellow House",
+          "description": "The Wadsworth-Longfellow House is a historic home and museum that was once the childhood home of poet Henry Wadsworth Longfellow."
+        }
+      ]
+    },
+    "foods": {
+      "food_card": [
+        {
+          "img": "x",
+          "alt": "Lobster Roll",
+          "title": "Lobster Roll",
+          "description": "Portland is renowned for its delicious lobster rolls, a must-try local delicacy often served in a buttered, toasted bun."
+        },
+        {
+          "img": "x",
+          "alt": "Seafood Chowder",
+          "title": "Seafood Chowder",
+          "description": "Seafood chowder is a hearty and comforting dish made with a creamy broth and a variety of fresh seafood, perfect for cool evenings."
+        },
+        {
+          "img": "x",
+          "alt": "Blueberry Pie",
+          "title": "Blueberry Pie",
+          "description": "Maine is known for its wild blueberries, and a slice of homemade blueberry pie is a delightful dessert you can find in Portland."
+        },
+        {
+          "img": "x",
+          "alt": "Craft Beer",
+          "title": "Craft Beer",
+          "description": "Portland has a thriving craft beer scene, with numerous local breweries and pubs offering a wide range of unique and flavorful brews."
+        }
+      ]
+    },
+    "hotels": {
+      "hotels_card": [
+        {
+          "img": "x",
+          "alt": "The Press Hotel",
+          "title": "The Press Hotel",
+          "description": "The Press Hotel is a stylish boutique hotel located in the Old Port District, offering luxurious accommodations and a unique newspaper-themed design."
+        },
+        {
+          "img": "x",
+          "alt": "Inn by the Sea",
+          "title": "Inn by the Sea",
+          "description": "Inn by the Sea is a beachfront resort in Cape Elizabeth, providing a tranquil coastal escape with beautiful ocean views and eco-friendly practices."
+        },
+        {
+          "img": "x",
+          "alt": "The Westin Portland Harborview",
+          "title": "The Westin Portland Harborview",
+          "description": "The Westin Portland Harborview is a historic hotel in downtown Portland, offering comfortable rooms and a rooftop bar with panoramic city views."
+        },
+        {
+          "img": "x",
+          "alt": "Hyatt Place Portland-Old Port",
+          "title": "Hyatt Place Portland-Old Port",
+          "description": "Hyatt Place is a modern hotel in the Old Port District, providing spacious rooms and convenient access to the city's attractions."
+        }
+      ]
+    },
+    "transport": {
+      "transport_card": [
+        {
+          "img": "x",
+          "alt": "Portland International Jetport",
+          "title": "Portland International Jetport",
+          "description": "The Portland International Jetport (PWM) is the city's primary airport, serving domestic and limited international flights."
+        },
+        {
+          "img": "x",
+          "alt": "METRO Bus",
+          "title": "METRO Bus",
+          "description": "The METRO Bus system provides public transportation within Portland and the surrounding areas, with various routes and schedules."
+        },
+        {
+          "img": "x",
+          "alt": "Biking",
+          "title": "Biking",
+          "description": "Portland is a bike-friendly city with bike lanes and trails, making it a great way to explore the city and its scenic surroundings."
+        },
+        {
+          "img": "x",
+          "alt": "Car Rentals",
+          "title": "Car Rentals",
+          "description": "Car rental agencies are available in Portland for those who prefer to have their own transportation while visiting."
+        }
+      ]
+    }
+  }  
